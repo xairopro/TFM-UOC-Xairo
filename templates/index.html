@@ -1,0 +1,1202 @@
+<!DOCTYPE html>
+<html lang="es" class="h-full">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sub-Radar – Inteligencia de Subvenciones</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.7.4/socket.io.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/11.1.1/marked.min.js"></script>
+    <!-- FullCalendar.io v6 -->
+    <link href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.11/index.global.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.11/index.global.min.js"></script>
+    <!-- Chart.js v4 (Dashboard analytics) -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <script>
+    tailwind.config={darkMode:'class',theme:{extend:{colors:{
+        brand:{50:'#eff6ff',100:'#dbeafe',200:'#bfdbfe',300:'#93c5fd',400:'#60a5fa',500:'#3b82f6',600:'#2563eb',700:'#1d4ed8',800:'#1e40af',900:'#1e3a5a'},
+        surface:{0:'#0b0f19',1:'#111827',2:'#1f2937',3:'#374151',4:'#4b5563'}
+    }}}}
+    </script>
+    <style>
+        body{font-family:'Inter',system-ui,-apple-system,sans-serif}
+        .glass{background:rgba(17,24,39,.55);backdrop-filter:blur(16px);border:1px solid rgba(55,65,81,.45)}
+        .chat-scroll::-webkit-scrollbar{width:5px}.chat-scroll::-webkit-scrollbar-thumb{background:#374151;border-radius:4px}
+        @keyframes fadeUp{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+        .fade-up{animation:fadeUp .3s ease}
+        @keyframes pulse-dot{0%,80%,100%{transform:scale(.5);opacity:.4}40%{transform:scale(1);opacity:1}}
+        .typing-dot{animation:pulse-dot 1.4s ease-in-out infinite}
+        .typing-dot:nth-child(2){animation-delay:.15s}.typing-dot:nth-child(3){animation-delay:.3s}
+        .msg-bubble a{color:#60a5fa;text-decoration:underline}.msg-bubble a:hover{color:#93c5fd}
+        .msg-bubble h3{color:#60a5fa;font-size:.95rem;font-weight:700;margin:10px 0 4px}
+        .msg-bubble strong{color:#93c5fd}.msg-bubble em{color:#a78bfa}
+        .msg-bubble ul,.msg-bubble ol{padding-left:1.2em;margin:4px 0}.msg-bubble li{margin:2px 0}
+        .msg-bubble code{background:#1e293b;padding:1px 5px;border-radius:4px;font-size:.82rem}
+        .source-boe{background:#1e3a5f;color:#60a5fa}.source-dog{background:#1e3f2f;color:#4ade80}.source-bop{background:#3f2f1e;color:#fbbf24}
+        .view-nav button.active{color:#3b82f6;border-color:#3b82f6}
+        [data-view]{display:none}[data-view].active{display:flex}
+        /* FullCalendar dark-mode overrides */
+        #fc-container .fc{--fc-border-color:#374151;--fc-today-bg-color:rgba(59,130,246,.08);--fc-page-bg-color:#111827;--fc-neutral-bg-color:#1f2937;--fc-small-font-size:.8em}
+        #fc-container .fc-toolbar-title{color:#f9fafb;font-size:1rem;font-weight:700}
+        #fc-container .fc-button{background:#1f2937!important;border-color:#374151!important;color:#9ca3af!important;font-size:.8rem!important}
+        #fc-container .fc-button:hover{background:#374151!important;color:#f9fafb!important}
+        #fc-container .fc-col-header-cell-cushion,#fc-container .fc-daygrid-day-number{color:#6b7280;font-size:.8rem}
+        #fc-container .fc-daygrid-day.fc-day-today .fc-daygrid-day-number{color:#3b82f6;font-weight:700}
+        #fc-container .fc-event{border:none!important;padding:1px 4px;font-size:.7rem;cursor:pointer}
+        #fc-container .fc-event-boe{background:#1e3a5f!important;color:#60a5fa!important}
+        #fc-container .fc-event-dog{background:#1e3f2f!important;color:#4ade80!important}
+        #fc-container .fc-event-bop{background:#3f2f1e!important;color:#fbbf24!important}
+        /* Score bars */
+        .score-bar{height:6px;border-radius:3px;transition:width .5s ease}
+        .score-high{background:linear-gradient(90deg,#22c55e,#4ade80)}
+        .score-mid{background:linear-gradient(90deg,#f59e0b,#fbbf24)}
+        .score-low{background:linear-gradient(90deg,#ef4444,#f87171)}
+    </style>
+</head>
+<body class="h-full bg-surface-0 text-gray-100 flex flex-col overflow-hidden">
+
+<!-- ═══ TOPBAR ═══ -->
+<header class="h-13 bg-surface-1/80 backdrop-blur border-b border-surface-3/50 flex items-center justify-between px-5 shrink-0 z-50">
+    <div class="flex items-center gap-3">
+        <i class="fas fa-satellite-dish text-brand-400 text-lg"></i>
+        <span class="font-bold text-brand-400 text-lg tracking-tight">Sub-Radar</span>
+    </div>
+    <div class="flex items-center gap-4 text-sm">
+        <span class="text-gray-400 flex items-center gap-1.5">
+            <i class="fas fa-user-circle"></i> {{ user.username }}
+            {% if user.role == 'admin' %}<span class="text-xs bg-purple-500/20 text-purple-400 px-1.5 py-0.5 rounded">Admin</span>{% endif %}
+        </span>
+        <a href="/logout" class="text-gray-500 hover:text-gray-300 transition" title="Salir"><i class="fas fa-sign-out-alt"></i></a>
+    </div>
+</header>
+
+<!-- ═══ NAV ═══ -->
+<nav class="bg-surface-1 border-b border-surface-3/30 px-5 shrink-0">
+    <div class="flex items-center gap-1 view-nav overflow-x-auto">
+        <button onclick="switchView('dashboard')" data-nav="dashboard" class="px-4 py-2.5 text-sm font-medium text-gray-400 hover:text-white border-b-2 border-transparent transition active">
+            <i class="fas fa-chart-line mr-1.5"></i>Dashboard
+        </button>
+        <button onclick="switchView('chat')" data-nav="chat" class="px-4 py-2.5 text-sm font-medium text-gray-400 hover:text-white border-b-2 border-transparent transition">
+            <i class="fas fa-comments mr-1.5"></i>Chat IA
+        </button>
+        <button onclick="switchView('search')" data-nav="search" class="px-4 py-2.5 text-sm font-medium text-gray-400 hover:text-white border-b-2 border-transparent transition">
+            <i class="fas fa-search mr-1.5"></i>Buscador
+        </button>
+        <button onclick="switchView('calendar')" data-nav="calendar" class="px-4 py-2.5 text-sm font-medium text-gray-400 hover:text-white border-b-2 border-transparent transition">
+            <i class="fas fa-calendar-alt mr-1.5"></i>Calendario
+        </button>
+        <button onclick="switchView('favorites')" data-nav="favorites" class="px-4 py-2.5 text-sm font-medium text-gray-400 hover:text-white border-b-2 border-transparent transition">
+            <i class="fas fa-star mr-1.5"></i>Favoritos
+        </button>
+        <button onclick="switchView('recommender')" data-nav="recommender" class="px-4 py-2.5 text-sm font-medium text-gray-400 hover:text-white border-b-2 border-transparent transition">
+            <i class="fas fa-bullseye mr-1.5"></i>Recomendador
+        </button>
+        <button onclick="switchView('files')" data-nav="files" class="px-4 py-2.5 text-sm font-medium text-gray-400 hover:text-white border-b-2 border-transparent transition">
+            <i class="fas fa-folder-open mr-1.5"></i>Archivos
+        </button>
+        {% if user.role == 'admin' %}
+        <button onclick="switchView('admin')" data-nav="admin" class="px-4 py-2.5 text-sm font-medium text-gray-400 hover:text-white border-b-2 border-transparent transition">
+            <i class="fas fa-users-cog mr-1.5"></i>Admin
+        </button>
+        {% endif %}
+    </div>
+</nav>
+
+<!-- ═══ MAIN CONTENT ═══ -->
+<main class="flex-1 overflow-hidden relative">
+
+<!-- ── DASHBOARD ── -->
+<div data-view="dashboard" class="active flex-col h-full overflow-y-auto p-6">
+    <div class="max-w-6xl mx-auto w-full space-y-6">
+        <!-- Hero -->
+        <div class="text-center py-6">
+            <h1 class="text-3xl font-bold text-white mb-2">Bienvenido a Sub-Radar</h1>
+            <p class="text-gray-400 max-w-lg mx-auto mb-5">Tu sistema de inteligencia para subvenciones y ayudas publicas. Monitoriza BOE, DOG, BOP, BDNS y EU de forma automatica.</p>
+            <button onclick="fullInternetSearch()"
+                class="bg-gradient-to-r from-amber-500 via-rose-500 to-purple-600 hover:from-amber-600 hover:via-rose-600 hover:to-purple-700 text-white text-sm font-semibold rounded-xl px-6 py-3 transition shadow-lg shadow-rose-900/40 inline-flex items-center gap-2">
+                <i class="fas fa-globe-americas"></i> Búsqueda completa en Internet ahora
+                <span class="text-[10px] bg-white/20 rounded-full px-2 py-0.5 uppercase tracking-wider">puede tardar</span>
+            </button>
+            <p class="text-[11px] text-gray-500 mt-2">Actualiza todas las fuentes (BOE · DOG · BOP · BDNS · EU) buscando lo nuevo. La caché evita reanalizar lo ya procesado.</p>
+        </div>
+        <!-- Stats -->
+        <div id="dash-stats" class="grid grid-cols-2 md:grid-cols-4 gap-4">
+            <div class="glass rounded-xl p-5 text-center"><div class="text-2xl font-bold text-brand-400" id="stat-total">-</div><div class="text-xs text-gray-500 mt-1">Documentos</div></div>
+            <div class="glass rounded-xl p-5 text-center"><div class="text-2xl font-bold text-green-400" id="stat-analyzed">-</div><div class="text-xs text-gray-500 mt-1">Analizados</div></div>
+            <div class="glass rounded-xl p-5 text-center"><div class="text-2xl font-bold text-purple-400" id="stat-grants">-</div><div class="text-xs text-gray-500 mt-1">Subvenciones</div></div>
+            <div class="glass rounded-xl p-5 text-center"><div class="text-2xl font-bold text-amber-400" id="stat-pending">-</div><div class="text-xs text-gray-500 mt-1">Pendientes</div></div>
+        </div>
+        <!-- Quick actions -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            <button onclick="switchView('chat')" class="glass rounded-xl p-6 text-left hover:border-brand-500/50 transition group">
+                <div class="w-12 h-12 rounded-xl bg-brand-600/15 flex items-center justify-center text-brand-400 text-xl mb-4 group-hover:scale-110 transition"><i class="fas fa-robot"></i></div>
+                <h3 class="font-semibold text-white mb-1">Asistente IA</h3>
+                <p class="text-xs text-gray-500">Conversa con el agente para buscar subvenciones con citas a las fuentes originales</p>
+            </button>
+            <button onclick="switchView('search')" class="glass rounded-xl p-6 text-left hover:border-green-500/50 transition group">
+                <div class="w-12 h-12 rounded-xl bg-green-600/15 flex items-center justify-center text-green-400 text-xl mb-4 group-hover:scale-110 transition"><i class="fas fa-search"></i></div>
+                <h3 class="font-semibold text-white mb-1">Buscar subvenciones</h3>
+                <p class="text-xs text-gray-500">Configura perfil, fuentes y fechas para lanzar una busqueda completa</p>
+            </button>
+            <button onclick="switchView('calendar')" class="glass rounded-xl p-6 text-left hover:border-amber-500/50 transition group">
+                <div class="w-12 h-12 rounded-xl bg-amber-600/15 flex items-center justify-center text-amber-400 text-xl mb-4 group-hover:scale-110 transition"><i class="fas fa-calendar-check"></i></div>
+                <h3 class="font-semibold text-white mb-1">Plazos activos</h3>
+                <p class="text-xs text-gray-500">Consulta las fechas limite de las convocatorias abiertas</p>
+            </button>
+        </div>
+        <!-- Source stats -->
+        <div class="grid grid-cols-2 md:grid-cols-5 gap-3">
+            <div class="glass rounded-xl p-4 flex items-center gap-3">
+                <div class="w-10 h-10 rounded-lg bg-blue-600/15 flex items-center justify-center"><span class="text-xs font-bold text-blue-400">BOE</span></div>
+                <div><div class="text-lg font-bold text-white" id="stat-boe">-</div><div class="text-xs text-gray-500">documentos</div></div>
+            </div>
+            <div class="glass rounded-xl p-4 flex items-center gap-3">
+                <div class="w-10 h-10 rounded-lg bg-green-600/15 flex items-center justify-center"><span class="text-xs font-bold text-green-400">DOG</span></div>
+                <div><div class="text-lg font-bold text-white" id="stat-dog">-</div><div class="text-xs text-gray-500">documentos</div></div>
+            </div>
+            <div class="glass rounded-xl p-4 flex items-center gap-3">
+                <div class="w-10 h-10 rounded-lg bg-amber-600/15 flex items-center justify-center"><span class="text-xs font-bold text-amber-400">BOP</span></div>
+                <div><div class="text-lg font-bold text-white" id="stat-bop">-</div><div class="text-xs text-gray-500">documentos</div></div>
+            </div>
+            <div class="glass rounded-xl p-4 flex items-center gap-3">
+                <div class="w-10 h-10 rounded-lg bg-pink-600/15 flex items-center justify-center"><span class="text-[10px] font-bold text-pink-400">BDNS</span></div>
+                <div><div class="text-lg font-bold text-white" id="stat-bdns">-</div><div class="text-xs text-gray-500">convocatorias</div></div>
+            </div>
+            <div class="glass rounded-xl p-4 flex items-center gap-3">
+                <div class="w-10 h-10 rounded-lg bg-indigo-600/15 flex items-center justify-center"><span class="text-xs font-bold text-indigo-400">EU</span></div>
+                <div><div class="text-lg font-bold text-white" id="stat-eu">-</div><div class="text-xs text-gray-500">topics</div></div>
+            </div>
+        </div>
+
+        <!-- Charts (Analytics premium) -->
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
+            <div class="glass rounded-xl p-5">
+                <div class="flex items-center justify-between mb-3">
+                    <h3 class="text-sm font-semibold text-white"><i class="fas fa-coins mr-1.5 text-amber-400"></i>Volumen € por mes</h3>
+                    <span class="text-[10px] text-gray-500" id="chart-eur-total"></span>
+                </div>
+                <div class="relative h-56"><canvas id="chart-by-month"></canvas></div>
+            </div>
+            <div class="glass rounded-xl p-5">
+                <div class="flex items-center justify-between mb-3">
+                    <h3 class="text-sm font-semibold text-white"><i class="fas fa-layer-group mr-1.5 text-purple-400"></i>Por sector</h3>
+                </div>
+                <div class="relative h-56"><canvas id="chart-by-sector"></canvas></div>
+            </div>
+            <div class="glass rounded-xl p-5">
+                <div class="flex items-center justify-between mb-3">
+                    <h3 class="text-sm font-semibold text-white"><i class="fas fa-globe mr-1.5 text-brand-400"></i>Por origen</h3>
+                </div>
+                <div class="relative h-56"><canvas id="chart-by-source"></canvas></div>
+            </div>
+            <div class="glass rounded-xl p-5">
+                <div class="flex items-center justify-between mb-3">
+                    <h3 class="text-sm font-semibold text-white"><i class="fas fa-stopwatch mr-1.5 text-green-400"></i>Estado de plazos</h3>
+                </div>
+                <div class="relative h-56"><canvas id="chart-by-status"></canvas></div>
+            </div>
+        </div>
+
+        <!-- Manual download button -->
+        <div class="flex justify-center pt-2">
+            <button onclick="openManualDownloadModal()"
+                class="bg-gradient-to-r from-brand-600 to-purple-600 hover:from-brand-700 hover:to-purple-700 text-white text-sm font-semibold rounded-xl px-6 py-3 transition shadow-lg shadow-brand-900/40 flex items-center gap-2">
+                <i class="fas fa-cloud-download-alt"></i> Descarga manual de boletines
+            </button>
+        </div>
+    </div>
+</div>
+
+<!-- ── CHAT ── -->
+<div data-view="chat" class="flex-col h-full">
+    <div class="flex h-full">
+        <!-- Sidebar params -->
+        <aside class="w-80 min-w-[320px] bg-surface-1 border-r border-surface-3/30 flex-col overflow-y-auto p-4 space-y-4 hidden lg:flex">
+            <h3 class="text-xs font-semibold text-gray-500 uppercase tracking-wider">Perfil de busqueda</h3>
+            <div>
+                <label class="text-xs text-gray-400 mb-1 block">Tipo de entidad</label>
+                <select id="entity-type" class="w-full bg-surface-2 border border-surface-3 rounded-lg px-3 py-2 text-sm text-white focus:border-brand-500 focus:outline-none">
+                    {% for key, value in entity_types.items() %}
+                    <option value="{{ key }}" {% if key == 'asociacion_cultural' %}selected{% endif %}>{{ value }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div>
+                <label class="text-xs text-gray-400 mb-1 block">Tipo de proyecto</label>
+                <div class="grid grid-cols-2 gap-1 max-h-40 overflow-y-auto pr-1">
+                    {% for pt in project_types %}
+                    <label class="flex items-center gap-1.5 text-xs text-gray-300 hover:bg-surface-2 rounded px-1.5 py-1 cursor-pointer">
+                        <input type="checkbox" name="project_type" value="{{ pt }}" class="accent-brand-500 w-3.5 h-3.5"> {{ pt }}
+                    </label>
+                    {% endfor %}
+                </div>
+            </div>
+            <div>
+                <label class="text-xs text-gray-400 mb-1 block">Fuentes</label>
+                {% for key, value in sources.items() %}
+                <label class="flex items-center gap-2 text-xs text-gray-300 hover:bg-surface-2 rounded px-1.5 py-1 cursor-pointer">
+                    <input type="checkbox" name="source" value="{{ key }}" checked class="accent-brand-500 w-3.5 h-3.5">
+                    <strong>{{ key }}</strong> <span class="text-gray-500">{{ value }}</span>
+                </label>
+                {% endfor %}
+            </div>
+            <div>
+                <label class="text-xs text-gray-400 mb-1 block flex items-center justify-between">
+                    <span>Comunidad autónoma <span class="text-gray-500">(filtra resultados)</span></span>
+                    <button type="button" onclick="toggleAllCcaa('ccaa-chat', this)" class="text-[10px] text-brand-400 hover:text-brand-300">Todas</button>
+                </label>
+                <div id="ccaa-chat" class="grid grid-cols-2 gap-1 max-h-40 overflow-y-auto pr-1 bg-surface-2/40 rounded-lg p-1.5 border border-surface-3">
+                    {% for ccaa in ccaa_list %}
+                    <label class="flex items-center gap-1.5 text-[11px] text-gray-300 hover:bg-surface-2 rounded px-1.5 py-0.5 cursor-pointer">
+                        <input type="checkbox" name="ccaa" value="{{ ccaa }}" class="accent-brand-500 w-3 h-3"
+                            {% if ccaa in ['Galicia','Nacional','Unión Europea'] %}checked{% endif %}> {{ ccaa }}
+                    </label>
+                    {% endfor %}
+                </div>
+            </div>
+            <div class="grid grid-cols-2 gap-2">
+                <div>
+                    <label class="text-xs text-gray-400 mb-1 block">Desde</label>
+                    <input type="date" id="date-start" class="w-full bg-surface-2 border border-surface-3 rounded-lg px-2 py-1.5 text-xs text-white focus:border-brand-500 focus:outline-none">
+                </div>
+                <div>
+                    <label class="text-xs text-gray-400 mb-1 block">Hasta</label>
+                    <input type="date" id="date-end" class="w-full bg-surface-2 border border-surface-3 rounded-lg px-2 py-1.5 text-xs text-white focus:border-brand-500 focus:outline-none">
+                </div>
+            </div>
+            <button id="btn-quick-search" onclick="startSearch(false)" class="w-full py-2.5 bg-brand-600 hover:bg-brand-700 text-white text-sm font-semibold rounded-lg transition flex items-center justify-center gap-2">
+                <i class="fas fa-search"></i> Buscar subvenciones
+            </button>
+            <button id="btn-download-only" onclick="startSearch(true)" class="w-full py-2 bg-surface-2 hover:bg-surface-3 text-gray-300 text-sm rounded-lg border border-surface-3 transition flex items-center justify-center gap-2">
+                <i class="fas fa-download"></i> Solo descargar
+            </button>
+        </aside>
+        <!-- Chat area -->
+        <div class="flex-1 flex flex-col min-w-0">
+            <div class="px-4 py-2.5 bg-surface-1/50 border-b border-surface-3/30 flex items-center justify-between shrink-0">
+                <div class="flex items-center gap-2">
+                    <button class="lg:hidden text-gray-400 hover:text-white" onclick="document.querySelector('[data-view=chat] aside').classList.toggle('hidden')"><i class="fas fa-sliders-h"></i></button>
+                    <h2 class="text-sm font-semibold text-white"><i class="fas fa-robot mr-1.5 text-brand-400"></i>Asistente Sub-Radar</h2>
+                </div>
+                <div class="flex items-center gap-3">
+                    <button onclick="fullInternetSearch()" title="Actualizar todas las fuentes (puede tardar)"
+                        class="text-xs text-white bg-gradient-to-r from-amber-500 to-rose-500 hover:from-amber-600 hover:to-rose-600 px-3 py-1 rounded-full font-semibold transition flex items-center gap-1.5">
+                        <i class="fas fa-globe-americas"></i>Buscar todo ahora
+                    </button>
+                    <span class="text-xs text-purple-400 bg-purple-500/10 px-2 py-1 rounded-full"><i class="fas fa-brain mr-1"></i>Qwen2.5:14b Local</span>
+                    <button onclick="resetChat()" class="text-gray-500 hover:text-gray-300 text-xs" title="Reiniciar"><i class="fas fa-redo"></i></button>
+                </div>
+            </div>
+            <!-- Messages -->
+            <div id="chat-messages" class="flex-1 overflow-y-auto chat-scroll px-4 py-4 space-y-4">
+            </div>
+            <!-- Status bar -->
+            <div id="search-status" class="hidden px-4 py-2 bg-surface-2/80 border-t border-surface-3/30 flex items-center gap-3 text-xs text-gray-400 shrink-0">
+                <div class="w-4 h-4 border-2 border-surface-4 border-t-brand-500 rounded-full animate-spin"></div>
+                <span id="search-status-text">Procesando...</span>
+            </div>
+            <!-- Input -->
+            <div class="p-4 bg-surface-1 border-t border-surface-3/30 shrink-0">
+                <div class="flex gap-3 items-end max-w-4xl mx-auto">
+                    <textarea id="chat-input" rows="1" placeholder="Escribe tu mensaje... (Enter para enviar)"
+                        class="flex-1 bg-surface-2 border border-surface-3 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-500 focus:outline-none focus:border-brand-500 resize-none max-h-32 transition"></textarea>
+                    <button id="btn-send" onclick="sendMessage()" class="w-11 h-11 bg-brand-600 hover:bg-brand-700 text-white rounded-xl flex items-center justify-center transition shrink-0">
+                        <i class="fas fa-paper-plane text-sm"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- ── SEARCH (DB) ── -->
+<div data-view="search" class="flex-col h-full overflow-y-auto p-6">
+    <div class="max-w-5xl mx-auto w-full space-y-4">
+        <h2 class="text-xl font-bold text-white"><i class="fas fa-database mr-2 text-brand-400"></i>Buscador de subvenciones</h2>
+        <p class="text-sm text-gray-400">Busca por palabras clave en todas las subvenciones ya analizadas en la base de datos.</p>
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-3">
+            <input type="text" id="db-query" placeholder="Palabras clave..." class="md:col-span-2 bg-surface-2 border border-surface-3 rounded-lg px-4 py-2.5 text-sm text-white placeholder-gray-500 focus:border-brand-500 focus:outline-none">
+            <select id="db-source" class="bg-surface-2 border border-surface-3 rounded-lg px-3 py-2.5 text-sm text-white focus:border-brand-500 focus:outline-none">
+                <option value="">Todas las fuentes</option><option value="BOE">BOE</option><option value="DOG">DOG</option><option value="BOP">BOP</option><option value="BDNS">BDNS</option><option value="EU">EU</option>
+            </select>
+            <button onclick="doDbSearch()" class="bg-brand-600 hover:bg-brand-700 text-white text-sm font-semibold rounded-lg px-4 py-2.5 transition"><i class="fas fa-search mr-1.5"></i>Buscar</button>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-3">
+            <select id="db-tipo" class="bg-surface-2 border border-surface-3 rounded-lg px-3 py-2 text-sm text-white focus:border-brand-500 focus:outline-none">
+                <option value="">Todos los sectores</option>
+                {% for pt in project_types %}<option value="{{ pt }}">{{ pt }}</option>{% endfor %}
+            </select>
+            <input type="date" id="db-start" class="bg-surface-2 border border-surface-3 rounded-lg px-3 py-2 text-sm text-white focus:border-brand-500 focus:outline-none">
+            <input type="date" id="db-end" class="bg-surface-2 border border-surface-3 rounded-lg px-3 py-2 text-sm text-white focus:border-brand-500 focus:outline-none">
+        </div>
+        <div id="db-info" class="text-xs text-gray-500"></div>
+        <div id="db-results" class="space-y-3">
+            <p class="text-sm text-gray-500 italic">Los resultados apareceran aqui.</p>
+        </div>
+    </div>
+</div>
+
+<!-- ── CALENDAR (FullCalendar.io v6) ── -->
+<div data-view="calendar" class="flex-col h-full overflow-y-auto p-6">
+    <div class="max-w-5xl mx-auto w-full space-y-4">
+        <h2 class="text-xl font-bold text-white"><i class="fas fa-calendar-alt mr-2 text-amber-400"></i>Calendario de plazos</h2>
+        <div class="glass rounded-xl p-4">
+            <div id="fc-container"></div>
+        </div>
+        <h3 class="text-sm font-semibold text-gray-400 uppercase tracking-wider pt-2">Proximos plazos</h3>
+        <div id="cal-events" class="space-y-2">
+            <p class="text-sm text-gray-500 italic">Cargando...</p>
+        </div>
+    </div>
+</div>
+
+<!-- ── RECOMMENDER ── -->
+<div data-view="recommender" class="flex-col h-full overflow-y-auto p-6">
+    <div class="max-w-5xl mx-auto w-full space-y-5">
+        <div class="flex items-center justify-between">
+            <div>
+                <h2 class="text-xl font-bold text-white"><i class="fas fa-bullseye mr-2 text-purple-400"></i>Recomendador multi-perfil</h2>
+                <p class="text-sm text-gray-400 mt-0.5">Compara el ajuste de las subvenciones disponibles para multiples perfiles de entidad simultaneamente.</p>
+            </div>
+            <button onclick="loadRecommender()" class="text-sm bg-brand-600 hover:bg-brand-700 text-white px-4 py-2 rounded-lg transition flex items-center gap-2">
+                <i class="fas fa-sync"></i> Analizar
+            </button>
+        </div>
+        <!-- Profile selector -->
+        <div class="glass rounded-xl p-4 space-y-3">
+            <h3 class="text-xs font-semibold text-gray-500 uppercase tracking-wider">Perfiles a comparar</h3>
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-2" id="profile-checkboxes">
+                {% for key, value in entity_types.items() %}
+                <label class="flex items-center gap-2 text-xs text-gray-300 hover:bg-surface-2 rounded-lg px-2 py-2 cursor-pointer border border-surface-3 hover:border-brand-500/50 transition">
+                    <input type="checkbox" name="rec_profile" value="{{ key }}" class="accent-brand-500 w-3.5 h-3.5"
+                        {% if key in ['asociacion_cultural','pyme','investigador','club_deportivo'] %}checked{% endif %}>
+                    {{ value }}
+                </label>
+                {% endfor %}
+            </div>
+            <div class="grid grid-cols-2 gap-3 pt-1">
+                <input type="date" id="rec-start" class="bg-surface-2 border border-surface-3 rounded-lg px-3 py-2 text-sm text-white focus:border-brand-500 focus:outline-none">
+                <input type="date" id="rec-end" class="bg-surface-2 border border-surface-3 rounded-lg px-3 py-2 text-sm text-white focus:border-brand-500 focus:outline-none">
+            </div>
+            <div>
+                <label class="text-xs text-gray-500 uppercase tracking-wider font-semibold mb-2 flex items-center justify-between">
+                    <span><i class="fas fa-map-marker-alt mr-1.5"></i>Comunidad autónoma</span>
+                    <button type="button" onclick="toggleAllCcaa('ccaa-rec', this)" class="text-[10px] text-brand-400 hover:text-brand-300">Todas</button>
+                </label>
+                <div id="ccaa-rec" class="grid grid-cols-3 md:grid-cols-4 gap-1.5">
+                    {% for ccaa in ccaa_list %}
+                    <label class="flex items-center gap-1.5 text-[11px] text-gray-300 hover:bg-surface-2 rounded px-2 py-1 cursor-pointer border border-surface-3">
+                        <input type="checkbox" name="rec_ccaa" value="{{ ccaa }}" class="accent-brand-500 w-3 h-3"
+                            {% if ccaa in ['Galicia','Nacional','Unión Europea'] %}checked{% endif %}> {{ ccaa }}
+                    </label>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        <!-- Results -->
+        <div id="rec-loading" class="hidden text-center py-8 text-gray-500"><i class="fas fa-circle-notch fa-spin mr-2"></i>Calculando scores...</div>
+        <div id="rec-results" class="space-y-3"></div>
+    </div>
+</div>
+
+<!-- ── FILES ── -->
+<div data-view="files" class="flex-col h-full overflow-y-auto p-6">
+    <div class="max-w-5xl mx-auto w-full space-y-4">
+        <div class="flex items-center justify-between">
+            <h2 class="text-xl font-bold text-white"><i class="fas fa-folder-open mr-2 text-green-400"></i>Explorador de archivos</h2>
+            <button onclick="loadFiles()" class="text-xs bg-surface-2 hover:bg-surface-3 text-gray-400 px-3 py-1.5 rounded-lg border border-surface-3 transition"><i class="fas fa-sync mr-1"></i>Actualizar</button>
+        </div>
+        <div id="file-tree" class="space-y-3"></div>
+    </div>
+</div>
+
+<!-- ── FAVORITES ── -->
+<div data-view="favorites" class="flex-col h-full overflow-y-auto p-6">
+    <div class="max-w-5xl mx-auto w-full space-y-4">
+        <div class="flex items-center justify-between">
+            <h2 class="text-xl font-bold text-white"><i class="fas fa-star mr-2 text-yellow-400"></i>Mis favoritos</h2>
+            <button onclick="loadFavorites()" class="text-xs bg-surface-2 hover:bg-surface-3 text-gray-400 px-3 py-1.5 rounded-lg border border-surface-3 transition"><i class="fas fa-sync mr-1"></i>Actualizar</button>
+        </div>
+        <p class="text-sm text-gray-400">Convocatorias guardadas para seguimiento. Haz clic en una para ver el detalle completo.</p>
+        <div id="fav-list" class="space-y-3">
+            <p class="text-sm text-gray-500 italic">Cargando...</p>
+        </div>
+    </div>
+</div>
+
+<!-- ── ADMIN ── -->
+{% if user.role == 'admin' %}
+<div data-view="admin" class="flex-col h-full overflow-y-auto p-6">
+    <div class="max-w-3xl mx-auto w-full space-y-4">
+        <h2 class="text-xl font-bold text-white"><i class="fas fa-users-cog mr-2 text-purple-400"></i>Administracion de usuarios</h2>
+        <div id="admin-users" class="space-y-2"></div>
+    </div>
+</div>
+{% endif %}
+
+</main>
+
+<!-- ═══ MODAL DE DESCARGA MANUAL ═══ -->
+<div id="dl-modal" class="fixed inset-0 bg-black/70 backdrop-blur-sm flex items-center justify-center z-[110] hidden" onclick="if(event.target===this)closeDlModal()">
+    <div class="glass rounded-2xl w-[90%] max-w-2xl flex flex-col shadow-2xl">
+        <div class="flex items-center justify-between p-4 border-b border-surface-3/50">
+            <h3 class="font-semibold text-white text-sm"><i class="fas fa-cloud-download-alt mr-2 text-brand-400"></i>Descarga manual de boletines</h3>
+            <button onclick="closeDlModal()" class="text-gray-500 hover:text-white transition"><i class="fas fa-times"></i></button>
+        </div>
+        <div class="p-5 space-y-4">
+            <div id="dl-warning-full" class="hidden text-[12px] text-amber-200 bg-amber-500/10 border border-amber-500/30 rounded-lg p-3 flex items-start gap-2">
+                <i class="fas fa-exclamation-triangle text-amber-400 mt-0.5"></i>
+                <span><strong>Búsqueda completa en Internet:</strong> consultará todas las fuentes en el rango indicado. Puede tardar varios minutos. La caché evita reanalizar documentos ya procesados.</span>
+            </div>
+            <p class="text-xs text-gray-400">Selecciona fuentes y rango temporal. El sistema descargará y analizará deterministamente. La caché es estricta: documentos ya procesados no se reanalizan.</p>
+
+            <div>
+                <label class="text-xs text-gray-400 mb-1 block">Fuentes</label>
+                <div class="grid grid-cols-2 sm:grid-cols-5 gap-1">
+                    {% for key, value in sources.items() %}
+                    <label class="flex items-center gap-1.5 text-xs text-gray-300 hover:bg-surface-2 rounded px-2 py-1.5 cursor-pointer border border-surface-3">
+                        <input type="checkbox" name="dl_source" value="{{ key }}" checked class="accent-brand-500 w-3.5 h-3.5">
+                        <strong>{{ key }}</strong>
+                    </label>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <div class="grid grid-cols-2 gap-3">
+                <div>
+                    <label class="text-xs text-gray-400 mb-1 block">Desde</label>
+                    <input type="date" id="dl-start" class="w-full bg-surface-2 border border-surface-3 rounded-lg px-3 py-2 text-sm text-white focus:border-brand-500 focus:outline-none">
+                </div>
+                <div>
+                    <label class="text-xs text-gray-400 mb-1 block">Hasta</label>
+                    <input type="date" id="dl-end" class="w-full bg-surface-2 border border-surface-3 rounded-lg px-3 py-2 text-sm text-white focus:border-brand-500 focus:outline-none">
+                </div>
+            </div>
+
+            <label class="flex items-center gap-2 text-xs text-gray-300 cursor-pointer">
+                <input type="checkbox" id="dl-only" class="accent-brand-500 w-3.5 h-3.5">
+                Sólo descargar (no lanzar análisis con LLM)
+            </label>
+
+            <!-- Progress -->
+            <div id="dl-progress-wrap" class="hidden space-y-2">
+                <div class="flex items-center justify-between text-xs text-gray-400">
+                    <span id="dl-progress-phase">Iniciando…</span>
+                    <span id="dl-progress-pct">0%</span>
+                </div>
+                <div class="h-2 bg-surface-2 rounded-full overflow-hidden">
+                    <div id="dl-progress-bar" class="h-full bg-gradient-to-r from-brand-500 to-purple-500 transition-all duration-300" style="width:0%"></div>
+                </div>
+                <div id="dl-progress-text" class="text-[11px] text-gray-500 font-mono break-all"></div>
+            </div>
+
+            <div class="flex justify-end gap-2 pt-2">
+                <button onclick="closeDlModal()" class="px-4 py-2 text-sm text-gray-400 hover:text-white transition">Cancelar</button>
+                <button id="dl-start-btn" onclick="startManualDownload()" class="px-5 py-2 bg-brand-600 hover:bg-brand-700 text-white text-sm font-semibold rounded-lg transition flex items-center gap-2">
+                    <i class="fas fa-play"></i> Iniciar
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- ═══ MODAL ═══ -->
+<div id="modal" class="fixed inset-0 bg-black/60 backdrop-blur-sm flex items-center justify-center z-[100] hidden" onclick="if(event.target===this)closeModal()">
+    <div class="glass rounded-2xl w-[90%] max-w-3xl max-h-[85vh] flex flex-col shadow-2xl">
+        <div class="flex items-center justify-between p-4 border-b border-surface-3/50">
+            <h3 id="modal-title" class="font-semibold text-white text-sm truncate"></h3>
+            <button onclick="closeModal()" class="text-gray-500 hover:text-white transition"><i class="fas fa-times"></i></button>
+        </div>
+        <div id="modal-body" class="flex-1 overflow-auto p-5 text-sm text-gray-300"></div>
+    </div>
+</div>
+
+<script>
+/* ═══ CONFIG ═══ */
+const socket = io();
+let isSearching = false;
+let _fcCalendar = null;
+const MONTHS = ['Enero','Febrero','Marzo','Abril','Mayo','Junio','Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre'];
+
+marked.setOptions({breaks:true, gfm:true});
+
+/* ═══ VIEW SWITCHING ═══ */
+function switchView(name) {
+    document.querySelectorAll('[data-view]').forEach(v=>v.classList.remove('active'));
+    document.querySelectorAll('.view-nav button').forEach(b=>b.classList.remove('active'));
+    const view = document.querySelector(`[data-view="${name}"]`);
+    const btn = document.querySelector(`[data-nav="${name}"]`);
+    if(view) view.classList.add('active');
+    if(btn) btn.classList.add('active');
+    if(name==='dashboard') loadStats();
+    if(name==='calendar') loadCalendar();
+    if(name==='recommender') initRecommender();
+    if(name==='files') loadFiles();
+    if(name==='favorites') loadFavorites();
+    if(name==='admin') loadUsers();
+}
+
+/* ═══ STATS ═══ */
+function loadStats(){
+    fetch('/api/stats').then(r=>r.json()).then(d=>{
+        document.getElementById('stat-total').textContent=d.total||0;
+        document.getElementById('stat-analyzed').textContent=d.db_analyzed||0;
+        document.getElementById('stat-grants').textContent=d.db_grants||0;
+        document.getElementById('stat-pending').textContent=d.db_pending||0;
+        document.getElementById('stat-boe').textContent=d.BOE||0;
+        document.getElementById('stat-dog').textContent=d.DOG||0;
+        document.getElementById('stat-bop').textContent=d.BOP||0;
+        const bdnsEl=document.getElementById('stat-bdns'); if(bdnsEl)bdnsEl.textContent=d.BDNS||0;
+        const euEl=document.getElementById('stat-eu'); if(euEl)euEl.textContent=d.EU||0;
+        renderCharts();
+        loadFavoriteIds();
+    }).catch(()=>{});
+}
+loadStats();
+
+/* ═══ CHARTS (Chart.js) ═══ */
+let _charts={};
+function _destroyChart(key){ if(_charts[key]){ _charts[key].destroy(); delete _charts[key]; } }
+
+function renderCharts(){
+    if(typeof Chart==='undefined') return;
+    Chart.defaults.color='#9ca3af';
+    Chart.defaults.borderColor='rgba(75,85,99,0.25)';
+    Chart.defaults.font.family="Inter,system-ui,sans-serif";
+    fetch('/api/charts/overview').then(r=>r.json()).then(d=>{
+        const totalEur=d.total_eur||0;
+        const tEl=document.getElementById('chart-eur-total');
+        if(tEl) tEl.textContent = totalEur ? new Intl.NumberFormat('es-ES',{style:'currency',currency:'EUR',maximumFractionDigits:0}).format(totalEur)+' totales' : '';
+
+        // by_month (line + bar)
+        const cm=document.getElementById('chart-by-month');
+        if(cm){
+            _destroyChart('m');
+            _charts.m=new Chart(cm,{
+                type:'bar',
+                data:{labels:d.by_month.map(x=>x.month),datasets:[
+                    {type:'bar',label:'Importe €',data:d.by_month.map(x=>x.total_eur),backgroundColor:'rgba(245,158,11,0.4)',borderColor:'#f59e0b',borderWidth:1,yAxisID:'y'},
+                    {type:'line',label:'Nº subvenciones',data:d.by_month.map(x=>x.count),borderColor:'#3b82f6',backgroundColor:'rgba(59,130,246,0.15)',tension:0.3,yAxisID:'y1',fill:false},
+                ]},
+                options:{maintainAspectRatio:false,plugins:{legend:{labels:{boxWidth:10,font:{size:11}}}},scales:{
+                    y:{position:'left',ticks:{callback:v=>v>=1e6?(v/1e6).toFixed(1)+'M':v>=1e3?(v/1e3).toFixed(0)+'k':v}},
+                    y1:{position:'right',grid:{display:false},ticks:{precision:0}},
+                }}
+            });
+        }
+        // by_sector (donut top 8)
+        const cs=document.getElementById('chart-by-sector');
+        if(cs){
+            _destroyChart('s');
+            const top=d.by_sector.slice(0,8);
+            _charts.s=new Chart(cs,{
+                type:'doughnut',
+                data:{labels:top.map(x=>x.sector),datasets:[{data:top.map(x=>x.count),backgroundColor:['#3b82f6','#8b5cf6','#ec4899','#f59e0b','#10b981','#ef4444','#06b6d4','#84cc16'],borderColor:'#0b0f19',borderWidth:2}]},
+                options:{maintainAspectRatio:false,cutout:'60%',plugins:{legend:{position:'right',labels:{boxWidth:10,font:{size:10}}}}}
+            });
+        }
+        // by_source (bar)
+        const csrc=document.getElementById('chart-by-source');
+        if(csrc){
+            _destroyChart('src');
+            _charts.src=new Chart(csrc,{
+                type:'bar',
+                data:{labels:d.by_source.map(x=>x.source),datasets:[
+                    {label:'Nº',data:d.by_source.map(x=>x.count),backgroundColor:'#3b82f6',yAxisID:'y'},
+                    {label:'€',data:d.by_source.map(x=>x.total_eur),backgroundColor:'#a855f7',yAxisID:'y1'},
+                ]},
+                options:{maintainAspectRatio:false,plugins:{legend:{labels:{boxWidth:10,font:{size:11}}}},scales:{
+                    y:{position:'left',ticks:{precision:0}},
+                    y1:{position:'right',grid:{display:false},ticks:{callback:v=>v>=1e6?(v/1e6).toFixed(1)+'M':v>=1e3?(v/1e3).toFixed(0)+'k':v}},
+                }}
+            });
+        }
+        // by_status (pie)
+        const cst=document.getElementById('chart-by-status');
+        if(cst){
+            _destroyChart('st');
+            const s=d.by_status||{};
+            _charts.st=new Chart(cst,{
+                type:'pie',
+                data:{labels:['Vigentes','Vencidas','Sin fecha'],datasets:[{data:[s.vigente||0,s.vencida||0,s.sin_fecha||0],backgroundColor:['#10b981','#ef4444','#6b7280'],borderColor:'#0b0f19',borderWidth:2}]},
+                options:{maintainAspectRatio:false,plugins:{legend:{position:'right',labels:{boxWidth:10,font:{size:11}}}}}
+            });
+        }
+    }).catch(()=>{});
+}
+
+/* ═══ FAVORITES ═══ */
+let _favIds=new Set();
+function loadFavoriteIds(){
+    fetch('/api/favorites/ids').then(r=>r.json()).then(d=>{ _favIds=new Set(d.ids||[]); }).catch(()=>{});
+}
+function isFavorite(id){ return id && _favIds.has(id); }
+async function toggleFavorite(grantId, btnEl){
+    if(!grantId) return;
+    try{
+        const r=await fetch(`/api/favorites/${grantId}`,{method:'POST',headers:{'Content-Type':'application/json'},body:'{}'});
+        const d=await r.json();
+        if(d.action==='added'){ _favIds.add(grantId); }
+        else { _favIds.delete(grantId); }
+        if(btnEl){
+            const fav=isFavorite(grantId);
+            btnEl.innerHTML=`<i class="fas fa-star mr-1 ${fav?'text-yellow-400':'text-gray-500'}"></i>${fav?'En favoritos':'Añadir a favoritos'}`;
+        }
+    }catch(e){}
+}
+function loadFavorites(){
+    const c=document.getElementById('fav-list'); if(!c) return;
+    c.innerHTML='<p class="text-sm text-gray-500 italic">Cargando...</p>';
+    fetch('/api/favorites').then(r=>r.json()).then(d=>{
+        c.innerHTML='';
+        if(!d.favorites||!d.favorites.length){ c.innerHTML='<p class="text-sm text-gray-500 italic">Aún no tienes favoritos. Añade los que quieras seguir desde el detalle de cualquier subvención.</p>'; return; }
+        d.favorites.forEach((g,i)=>c.appendChild(makeGrantCard(g,i)));
+    }).catch(()=>{ c.innerHTML='<p class="text-sm text-red-400 italic">Error al cargar favoritos.</p>'; });
+}
+
+/* ═══ MANUAL DOWNLOAD MODAL ═══ */
+function openManualDownloadModal(){
+    const today=new Date(); const ago=new Date(today); ago.setDate(ago.getDate()-30);
+    const s=document.getElementById('dl-start'); const e=document.getElementById('dl-end');
+    if(s&&!s.value) s.value=ago.toISOString().split('T')[0];
+    if(e&&!e.value) e.value=today.toISOString().split('T')[0];
+    document.getElementById('dl-progress-wrap').classList.add('hidden');
+    document.getElementById('dl-progress-bar').style.width='0%';
+    document.getElementById('dl-progress-pct').textContent='0%';
+    document.getElementById('dl-progress-phase').textContent='Iniciando…';
+    document.getElementById('dl-progress-text').textContent='';
+    document.getElementById('dl-start-btn').disabled=false;
+    document.getElementById('dl-modal').classList.remove('hidden');
+}
+function closeDlModal(){ document.getElementById('dl-modal').classList.add('hidden'); const w=document.getElementById('dl-warning-full'); if(w) w.classList.add('hidden'); }
+
+/* Búsqueda completa en Internet: abre el modal con TODAS las fuentes marcadas
+   y los últimos 7 días por defecto, mostrando un aviso de duración. */
+function fullInternetSearch(){
+    openManualDownloadModal();
+    // Marca todas las fuentes
+    document.querySelectorAll('input[name="dl_source"]').forEach(c=>{ c.checked=true; });
+    // Rango por defecto: últimos 7 días (más rápido para una actualización incremental)
+    const today=new Date(); const ago=new Date(today); ago.setDate(ago.getDate()-7);
+    const s=document.getElementById('dl-start'); const e=document.getElementById('dl-end');
+    if(s) s.value=ago.toISOString().split('T')[0];
+    if(e) e.value=today.toISOString().split('T')[0];
+    // Asegura que NO va en modo solo-descarga
+    const only=document.getElementById('dl-only'); if(only) only.checked=false;
+    // Aviso visible
+    const w=document.getElementById('dl-warning-full'); if(w) w.classList.remove('hidden');
+}
+
+function startManualDownload(){
+    const sources=Array.from(document.querySelectorAll('input[name="dl_source"]:checked')).map(e=>e.value);
+    if(!sources.length){ alert('Selecciona al menos una fuente.'); return; }
+    const ds=document.getElementById('dl-start').value;
+    const de=document.getElementById('dl-end').value;
+    const onlyDl=document.getElementById('dl-only').checked;
+    document.getElementById('dl-progress-wrap').classList.remove('hidden');
+    document.getElementById('dl-start-btn').disabled=true;
+    socket.emit('manual_download',{sources:sources,date_start:ds,date_end:de,download_only:onlyDl});
+}
+
+socket.on('search_progress',(p)=>{
+    const wrap=document.getElementById('dl-progress-wrap'); if(!wrap||wrap.classList.contains('hidden')) return;
+    const bar=document.getElementById('dl-progress-bar');
+    const pct=document.getElementById('dl-progress-pct');
+    const phase=document.getElementById('dl-progress-phase');
+    const txt=document.getElementById('dl-progress-text');
+    const PHASES={start:'Iniciando',scrape:'Descargando boletines',extract:'Extrayendo texto',filter:'Filtrando (Capa 1)',triage:'Triage (Capa 2)',analyze:'Análisis profundo (Capa 3)',save:'Guardando',done:'Completado',error:'Error',busy:'Ocupado',working:'Procesando'};
+    const phaseLbl=PHASES[p.phase]||p.phase||'Procesando';
+    phase.textContent=phaseLbl;
+    if(typeof p.percent==='number'){
+        bar.style.width=Math.max(0,Math.min(100,p.percent))+'%';
+        pct.textContent=Math.round(p.percent)+'%';
+    } else if(p.phase==='start'){
+        bar.style.width='2%'; pct.textContent='—';
+    } else if(p.phase==='done'){
+        bar.style.width='100%'; pct.textContent='100%';
+    }
+    if(p.text) txt.textContent=p.text;
+});
+
+socket.on('search_complete',()=>{
+    const btn=document.getElementById('dl-start-btn'); if(btn) btn.disabled=false;
+    loadStats();
+});
+
+/* ═══ SOCKET ═══ */
+socket.on('connect',()=>{loadStats()});
+
+let _streamBuffer='';let _streamBubble=null;
+function _appendStreamToken(token){
+    if(!_streamBubble){
+        removeTyping();
+        const c=document.getElementById('chat-messages');
+        const wrap=document.createElement('div');
+        wrap.className='flex fade-up justify-start';wrap.dataset.streaming='1';
+        _streamBubble=document.createElement('div');
+        _streamBubble.className='msg-bubble max-w-[80%] rounded-2xl px-4 py-3 text-sm leading-relaxed bg-surface-2 text-gray-200 rounded-bl-md';
+        wrap.appendChild(_streamBubble);c.appendChild(wrap);c.scrollTop=c.scrollHeight;
+        _streamBuffer='';
+    }
+    _streamBuffer+=token;
+    // Render markdown progresivamente (capando frecuencia visual)
+    _streamBubble.innerHTML=marked.parse(_streamBuffer);
+    const c=document.getElementById('chat-messages');c.scrollTop=c.scrollHeight;
+}
+function _finalizeStream(finalText,type){
+    if(_streamBubble){
+        _streamBubble.innerHTML=marked.parse(finalText||_streamBuffer);
+        _streamBubble.querySelectorAll('a[onclick*="viewFile"]').forEach(a=>a.addEventListener('click',e=>e.preventDefault()));
+        _streamBubble.querySelectorAll('a:not([onclick])').forEach(a=>{a.target='_blank';a.rel='noopener noreferrer'});
+        _streamBubble.parentElement.removeAttribute('data-streaming');
+        _streamBubble=null;_streamBuffer='';
+    } else {
+        addMsg('agent',finalText,type);
+    }
+}
+
+socket.on('agent_token',(d)=>{_appendStreamToken(d.token||'')});
+socket.on('agent_message',(d)=>{
+    removeTyping();
+    if(d.final){_finalizeStream(d.text,d.type);return}
+    if(_streamBubble){_finalizeStream(_streamBuffer)}
+    addMsg('agent',d.text,d.type);
+});
+socket.on('agent_typing',(d)=>{d.typing?showTyping():removeTyping()});
+socket.on('search_status',(d)=>{
+    document.getElementById('search-status').classList.remove('hidden');
+    document.getElementById('search-status-text').textContent=d.text;
+    addStatus(d.text);
+});
+socket.on('search_results_data',(d)=>{loadStats()});
+socket.on('search_complete',()=>{
+    isSearching=false;
+    document.getElementById('search-status').classList.add('hidden');
+    document.querySelectorAll('#btn-quick-search,#btn-download-only,#btn-send').forEach(b=>b.disabled=false);
+    loadStats();
+});
+
+/* ═══ CHAT ═══ */
+function addMsg(role,text,type){
+    const c=document.getElementById('chat-messages');
+    const wrap=document.createElement('div');
+    wrap.className=`flex fade-up ${role==='user'?'justify-end':'justify-start'}`;
+    const bubble=document.createElement('div');
+    bubble.className=`msg-bubble max-w-[80%] rounded-2xl px-4 py-3 text-sm leading-relaxed ${role==='user'?'bg-brand-600 text-white rounded-br-md':'bg-surface-2 text-gray-200 rounded-bl-md'}`;
+    if(role==='agent'){
+        bubble.innerHTML=marked.parse(text);
+        bubble.querySelectorAll('a[onclick*="viewFile"]').forEach(a=>a.addEventListener('click',e=>e.preventDefault()));
+        bubble.querySelectorAll('a:not([onclick])').forEach(a=>{a.target='_blank';a.rel='noopener noreferrer'});
+    } else bubble.textContent=text;
+    wrap.appendChild(bubble);
+    c.appendChild(wrap);
+    c.scrollTop=c.scrollHeight;
+}
+function addStatus(text){
+    const c=document.getElementById('chat-messages');
+    const wrap=document.createElement('div');wrap.className='flex justify-start fade-up';
+    const bubble=document.createElement('div');
+    bubble.className='text-xs text-gray-500 bg-surface-2/50 border-l-2 border-amber-500/50 rounded-lg px-3 py-2 max-w-[80%]';
+    bubble.textContent=text;
+    wrap.appendChild(bubble);c.appendChild(wrap);c.scrollTop=c.scrollHeight;
+}
+function showTyping(){
+    removeTyping();
+    const c=document.getElementById('chat-messages');
+    const wrap=document.createElement('div');wrap.id='typing';wrap.className='flex justify-start';
+    wrap.innerHTML='<div class="flex items-center gap-1.5 px-4 py-3"><div class="w-2 h-2 bg-gray-500 rounded-full typing-dot"></div><div class="w-2 h-2 bg-gray-500 rounded-full typing-dot"></div><div class="w-2 h-2 bg-gray-500 rounded-full typing-dot"></div></div>';
+    c.appendChild(wrap);c.scrollTop=c.scrollHeight;
+}
+function removeTyping(){const el=document.getElementById('typing');if(el)el.remove()}
+
+function sendMessage(){
+    const input=document.getElementById('chat-input');
+    const msg=input.value.trim();
+    if(!msg||isSearching)return;
+    addMsg('user',msg);
+    socket.emit('user_message',{message:msg});
+    input.value='';input.style.height='auto';
+}
+document.getElementById('chat-input').addEventListener('keydown',e=>{if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();sendMessage()}});
+document.getElementById('chat-input').addEventListener('input',function(){this.style.height='auto';this.style.height=Math.min(this.scrollHeight,128)+'px'});
+
+function resetChat(){
+    if(!isSearching){
+        document.getElementById('chat-messages').innerHTML='';
+        socket.emit('reset_conversation');
+    }
+}
+
+/* ═══ QUICK SEARCH ═══ */
+function toggleAllCcaa(containerId, btn){
+    const c=document.getElementById(containerId); if(!c)return;
+    const boxes=c.querySelectorAll('input[type="checkbox"]');
+    const allOn=Array.from(boxes).every(b=>b.checked);
+    boxes.forEach(b=>b.checked=!allOn);
+    if(btn)btn.textContent=allOn?'Todas':'Ninguna';
+}
+function getParams(){
+    return {
+        sources: Array.from(document.querySelectorAll('input[name="source"]:checked')).map(e=>e.value),
+        projectTypes: Array.from(document.querySelectorAll('input[name="project_type"]:checked')).map(e=>e.value),
+        ccaa: Array.from(document.querySelectorAll('#ccaa-chat input[name="ccaa"]:checked')).map(e=>e.value),
+        entityType: document.getElementById('entity-type').value,
+        dateStart: document.getElementById('date-start').value,
+        dateEnd: document.getElementById('date-end').value,
+    };
+}
+function startSearch(downloadOnly){
+    if(isSearching)return;
+    const p=getParams();
+    if(!p.sources.length){addMsg('agent','Selecciona al menos una fuente (BOE, DOG, BOP).','info');return}
+    isSearching=true;
+    document.querySelectorAll('#btn-quick-search,#btn-download-only,#btn-send').forEach(b=>b.disabled=true);
+    socket.emit('quick_search',{sources:p.sources,entity_type:p.entityType,project_types:p.projectTypes,ccaa:p.ccaa,date_start:p.dateStart||undefined,date_end:p.dateEnd||undefined,download_only:downloadOnly});
+}
+
+/* ═══ DB SEARCH ═══ */
+function doDbSearch(){
+    const q=document.getElementById('db-query').value.trim();
+    const src=document.getElementById('db-source').value;
+    const tipo=document.getElementById('db-tipo').value;
+    const ds=document.getElementById('db-start').value;
+    const de=document.getElementById('db-end').value;
+    const params=new URLSearchParams();
+    if(q)params.append('q',q);if(src)params.append('source',src);if(tipo)params.append('tipo_proyecto',tipo);
+    if(ds)params.append('date_start',ds);if(de)params.append('date_end',de);params.append('limit','100');
+    const rc=document.getElementById('db-results');
+    rc.innerHTML='<p class="text-sm text-gray-500 italic">Buscando...</p>';
+    fetch(`/api/grants/search?${params}`).then(r=>r.json()).then(d=>{
+        document.getElementById('db-info').textContent=`${d.total} resultados encontrados`;
+        rc.innerHTML='';
+        if(!d.results||!d.results.length){rc.innerHTML='<p class="text-sm text-gray-500 italic">Sin resultados.</p>';return}
+        d.results.forEach((r,i)=>rc.appendChild(makeGrantCard(r,i)));
+    }).catch(()=>{rc.innerHTML='<p class="text-sm text-red-400 italic">Error en la busqueda.</p>'});
+}
+document.getElementById('db-query')?.addEventListener('keydown',e=>{if(e.key==='Enter')doDbSearch()});
+
+function makeGrantCard(g,i){
+    const div=document.createElement('div');
+    div.className='glass rounded-xl p-4 cursor-pointer hover:border-brand-500/30 transition';
+    const src=g.source||'';
+    const SRC_CLASS={BOE:'source-boe',DOG:'source-dog',BOP:'source-bop',BDNS:'bg-pink-900/40 text-pink-300',EU:'bg-indigo-900/40 text-indigo-300'};
+    const srcClass=SRC_CLASS[src]||'bg-surface-3 text-gray-300';
+    const deadline=g.fecha_limite||g.plazo||'';
+    const fav=isFavorite(g.id);
+    div.innerHTML=`
+        <div class="flex items-start justify-between gap-2">
+            <div class="font-semibold text-sm text-white mb-1 line-clamp-2 flex-1">${esc((g.titulo||'Sin titulo').slice(0,150))}</div>
+            ${g.id?`<i class="fas fa-star text-${fav?'yellow':'gray'}-${fav?'400':'600'} text-xs shrink-0" title="${fav?'Favorito':''}"></i>`:''}
+        </div>
+        <div class="text-xs text-gray-500 mb-2 line-clamp-2">${esc((g.resumen||g.fav_note||'').slice(0,200))}</div>
+        <div class="flex flex-wrap items-center gap-2 text-xs">
+            <span class="px-2 py-0.5 rounded font-bold ${srcClass}">${src}</span>
+            <span class="text-gray-500">${esc(g.organismo||'')}</span>
+            <span class="text-gray-500">${g.fecha_publicacion||''}</span>
+            ${deadline?`<span class="text-amber-400 font-semibold"><i class="fas fa-clock mr-0.5"></i>${deadline}</span>`:''}
+            ${g.match_score?`<span class="text-purple-400 font-semibold">Score: ${g.match_score}/100</span>`:''}
+        </div>`;
+    div.onclick=()=>showGrantModal(g);
+    return div;
+}
+
+function showGrantModal(g){
+    document.getElementById('modal-title').textContent=g.titulo||'Subvencion';
+    const fields=[
+        {icon:'fa-building',label:'Organismo',v:g.organismo},
+        {icon:'fa-tag',label:'Fuente',v:g.source,badge:true},
+        {icon:'fa-calendar',label:'Publicacion',v:g.fecha_publicacion},
+        {icon:'fa-clock',label:'Plazo / Limite',v:g.fecha_limite||g.plazo},
+        {icon:'fa-euro-sign',label:'Financiacion',v:g.financiacion},
+        {icon:'fa-users',label:'Destinatarios',v:g.destinatarios},
+        {icon:'fa-clipboard-check',label:'Requisitos',v:g.requisitos},
+        {icon:'fa-globe',label:'Ambito',v:g.ambito_geografico},
+        {icon:'fa-map-marker-alt',label:'Comunidad autónoma',v:g.comunidad_autonoma},
+        {icon:'fa-folder',label:'Tipo proyecto',v:g.tipo_proyecto},
+        {icon:'fa-file-alt',label:'Resumen',v:g.resumen},
+        {icon:'fa-gavel',label:'Bases reguladoras',v:g.bases_reguladoras},
+        {icon:'fa-paperclip',label:'Documentacion',v:g.documentacion},
+        {icon:'fa-phone',label:'Contacto',v:g.contacto},
+    ];
+    let html='<div class="space-y-3">';
+    fields.forEach(f=>{
+        if(!f.v)return;
+        const srcClass=f.v==='BOE'?'source-boe':f.v==='DOG'?'source-dog':f.v==='BOP'?'source-bop':'';
+        html+=`<div>
+            <div class="text-xs text-gray-500 font-semibold uppercase tracking-wider mb-0.5"><i class="fas ${f.icon} text-brand-400 w-4 mr-1"></i>${f.label}</div>
+            <div class="text-sm text-gray-200 pl-5 border-l-2 border-surface-3 py-1">${f.badge?`<span class="px-2 py-0.5 rounded font-bold text-xs ${srcClass}">${esc(f.v)}</span>`:esc(f.v)}</div>
+        </div>`;
+    });
+    html+='</div>';
+    document.getElementById('modal-body').innerHTML=html;
+    // Footer con acciones (favorito + ver doc + web)
+    const fp=g.filepath||''; const lk=g.link||g.url||'';
+    const gid=g.id||0;
+    const fav=isFavorite(gid);
+    const actions=document.createElement('div');
+    actions.className='flex flex-wrap gap-2 mt-5 pt-4 border-t border-surface-3/50';
+    if(gid){
+        const favBtn=document.createElement('button');
+        favBtn.className='text-xs bg-surface-2 hover:bg-surface-3 text-gray-300 px-3 py-2 rounded-lg border border-surface-3 transition';
+        favBtn.innerHTML=`<i class="fas fa-star mr-1 ${fav?'text-yellow-400':'text-gray-500'}"></i>${fav?'En favoritos':'Añadir a favoritos'}`;
+        favBtn.onclick=()=>toggleFavorite(gid,favBtn);
+        actions.appendChild(favBtn);
+    }
+    if(fp){
+        const fn=fp.split('/').pop();
+        const b=document.createElement('button');
+        b.className='text-xs bg-surface-2 hover:bg-surface-3 text-gray-300 px-3 py-2 rounded-lg border border-surface-3 transition';
+        b.innerHTML='<i class="fas fa-file-alt mr-1"></i>Ver documento';
+        b.onclick=()=>viewFile(fp,fn);
+        actions.appendChild(b);
+    }
+    if(lk){
+        const a=document.createElement('a');
+        a.href=lk; a.target='_blank'; a.rel='noopener noreferrer';
+        a.className='text-xs bg-surface-2 hover:bg-surface-3 text-gray-300 px-3 py-2 rounded-lg border border-surface-3 transition';
+        a.innerHTML='<i class="fas fa-external-link-alt mr-1"></i>Ver en web';
+        actions.appendChild(a);
+    }
+    document.getElementById('modal-body').appendChild(actions);
+    document.getElementById('modal').classList.remove('hidden');
+}
+
+function closeModal(){document.getElementById('modal').classList.add('hidden')}
+
+/* ═══ FILE VIEWER ═══ */
+function viewFile(path,name){
+    document.getElementById('modal-title').textContent=name;
+    const body=document.getElementById('modal-body');
+    body.innerHTML='<p class="text-gray-500 italic">Cargando...</p>';
+    document.getElementById('modal').classList.remove('hidden');
+    const enc=path.split('/').map(encodeURIComponent).join('/');
+    if(name.endsWith('.pdf')){
+        body.innerHTML=`<iframe src="/api/files/view/${enc}" class="w-full h-[70vh] border-0 rounded-lg bg-white"></iframe>`;
+        return;
+    }
+    fetch(`/api/files/view/${enc}`).then(r=>r.json()).then(d=>{
+        if(d.error){body.textContent=d.error}
+        else if(d.type==='.html'){
+            const iframe=document.createElement('iframe');
+            iframe.className='w-full h-[70vh] border-0 rounded-lg bg-white';
+            body.innerHTML='';body.appendChild(iframe);
+            iframe.contentDocument.open();iframe.contentDocument.write(d.content);iframe.contentDocument.close();
+        } else body.textContent=d.content;
+    }).catch(()=>body.textContent='Error al cargar.');
+}
+window.viewFile=viewFile;
+
+/* ═══ FILES LIST ═══ */
+function loadFiles(){
+    const tree=document.getElementById('file-tree');
+    if(!tree)return;
+    tree.innerHTML='<p class="text-sm text-gray-500 italic">Cargando...</p>';
+    fetch('/api/files').then(r=>r.json()).then(data=>{
+        tree.innerHTML='';
+        for(const[src,info]of Object.entries(data)){
+            const srcClass=src==='BOE'?'text-blue-400':src==='DOG'?'text-green-400':'text-amber-400';
+            const div=document.createElement('div');div.className='glass rounded-xl overflow-hidden';
+            const header=document.createElement('button');
+            header.className='w-full flex items-center gap-3 px-4 py-3 hover:bg-surface-2/50 transition text-left';
+            header.innerHTML=`<i class="fas fa-folder ${srcClass}"></i><span class="font-semibold text-white text-sm">${src}</span><span class="ml-auto text-xs text-gray-500 bg-surface-2 px-2 py-0.5 rounded-full">${info.count}</span>`;
+            const list=document.createElement('div');list.className='hidden';
+            info.files.slice(0,100).forEach(f=>{
+                const item=document.createElement('div');
+                item.className='flex items-center gap-2 px-4 py-1.5 hover:bg-surface-2/30 cursor-pointer text-xs text-gray-400 hover:text-white transition';
+                const icon=f.ext==='.pdf'?'fa-file-pdf text-red-400':f.ext==='.xml'?'fa-file-code text-blue-400':'fa-file-code text-green-400';
+                item.innerHTML=`<i class="fas ${icon} w-4"></i><span class="truncate flex-1">${f.name}</span><span class="text-gray-600">${fmtSize(f.size)}</span>`;
+                item.onclick=()=>viewFile(f.path,f.name);
+                list.appendChild(item);
+            });
+            if(info.count>100){const m=document.createElement('div');m.className='px-4 py-2 text-xs text-gray-600 italic';m.textContent=`... y ${info.count-100} mas`;list.appendChild(m)}
+            header.onclick=()=>{list.classList.toggle('hidden');header.querySelector('i').className=list.classList.contains('hidden')?`fas fa-folder ${srcClass}`:`fas fa-folder-open ${srcClass}`};
+            div.appendChild(header);div.appendChild(list);tree.appendChild(div);
+        }
+    }).catch(()=>tree.innerHTML='<p class="text-sm text-red-400 italic">Error al cargar.</p>');
+}
+
+/* ═══ CALENDAR (FullCalendar.io v6) ═══ */
+function loadCalendar(){
+    const container=document.getElementById('fc-container');
+    if(!container)return;
+    // Load 3 months of events
+    const today=new Date();
+    const start=new Date(today.getFullYear(),today.getMonth()-1,1).toISOString().split('T')[0];
+    const end=new Date(today.getFullYear(),today.getMonth()+4,0).toISOString().split('T')[0];
+    fetch(`/api/calendar?start=${start}&end=${end}`).then(r=>r.json()).then(evts=>{
+        const fcEvents=evts.map(ev=>({
+            id: ev.id||ev.doc_id,
+            title: (ev.titulo||'Subvención').slice(0,60),
+            start: ev.fecha_limite||ev.fecha_publicacion||start,
+            extendedProps: ev,
+            classNames: [`fc-event-${(ev.source||'boe').toLowerCase()}`],
+        })).filter(e=>e.start);
+
+        if(_fcCalendar){_fcCalendar.destroy();_fcCalendar=null}
+        _fcCalendar=new FullCalendar.Calendar(container,{
+            initialView:'dayGridMonth',
+            locale:'es',
+            height:'auto',
+            headerToolbar:{left:'prev,next today',center:'title',right:'dayGridMonth,listMonth'},
+            events: fcEvents,
+            eventClick(info){showGrantModal(info.event.extendedProps)},
+            eventMouseEnter(info){info.el.title=info.event.title},
+            noEventsText:'Sin plazos registrados',
+            buttonText:{today:'Hoy',month:'Mes',list:'Lista'},
+        });
+        _fcCalendar.render();
+        renderCalEvents(evts);
+    }).catch(()=>{});
+}
+
+function renderCalEvents(events){
+    const c=document.getElementById('cal-events');if(!c)return;c.innerHTML='';
+    if(!events||!events.length){c.innerHTML='<p class="text-sm text-gray-500 italic">Sin plazos registrados.</p>';return}
+    const today=new Date().toISOString().split('T')[0];
+    const sorted=[...events].sort((a,b)=>(a.fecha_limite||'').localeCompare(b.fecha_limite||''));
+    sorted.slice(0,20).forEach(ev=>{
+        const expired=ev.fecha_limite&&ev.fecha_limite<today;
+        const card=document.createElement('div');
+        card.className=`glass rounded-xl p-3 cursor-pointer hover:border-brand-500/30 transition ${expired?'opacity-50':''}`;
+        const src=ev.source||'';const srcClass=src==='BOE'?'source-boe':src==='DOG'?'source-dog':'source-bop';
+        card.innerHTML=`
+            <div class="font-semibold text-sm text-white mb-1 line-clamp-1">${esc((ev.titulo||'').slice(0,100))}</div>
+            <div class="flex items-center gap-2 text-xs">
+                <span class="px-2 py-0.5 rounded font-bold ${srcClass}">${src}</span>
+                <span class="${expired?'text-red-400 line-through':'text-amber-400'} font-semibold"><i class="fas fa-clock mr-0.5"></i>${ev.fecha_limite||'Sin fecha'}</span>
+                <span class="text-gray-500">${esc(ev.organismo||'')}</span>
+            </div>`;
+        card.onclick=()=>showGrantModal(ev);c.appendChild(card);
+    });
+}
+
+/* ═══ RECOMMENDER (multi-profile) ═══ */
+function initRecommender(){
+    const rs=document.getElementById('rec-start');const re=document.getElementById('rec-end');
+    if(!rs.value){const n=new Date();const a=new Date(n);a.setMonth(a.getMonth()-3);rs.value=a.toISOString().split('T')[0];re.value=n.toISOString().split('T')[0]}
+}
+
+async function loadRecommender(){
+    const profiles=Array.from(document.querySelectorAll('input[name="rec_profile"]:checked')).map(e=>e.value);
+    if(!profiles.length){alert('Selecciona al menos un perfil');return}
+    const ds=document.getElementById('rec-start').value;const de=document.getElementById('rec-end').value;
+    const ccaa=Array.from(document.querySelectorAll('#ccaa-rec input[name="rec_ccaa"]:checked')).map(e=>e.value);
+    const loading=document.getElementById('rec-loading');const results=document.getElementById('rec-results');
+    loading.classList.remove('hidden');results.innerHTML='';
+
+    try{
+        // Fetch grants for each profile in parallel
+        const fetches=profiles.map(p=>{
+            const params=new URLSearchParams({entity_type:p,limit:'50'});
+            if(ds)params.append('date_start',ds);if(de)params.append('date_end',de);
+            if(ccaa.length)params.append('ccaa',ccaa.join(','));
+            return fetch(`/api/grants/search?${params}`).then(r=>r.json()).then(d=>({profile:p,results:d.results||[]}));
+        });
+        const allData=await Promise.all(fetches);
+
+        // Build a unique grant set, keyed by id/titulo
+        const grantMap=new Map();
+        allData.forEach(({profile,results})=>{
+            results.forEach(g=>{
+                const key=g.id||g.titulo;
+                if(!grantMap.has(key)){grantMap.set(key,{grant:g,scores:{}})}
+                grantMap.get(key).scores[profile]=g.match_score||0;
+            });
+        });
+
+        // Sort by average score
+        const grants=Array.from(grantMap.values()).sort((a,b)=>{
+            const avgA=Object.values(a.scores).reduce((s,v)=>s+v,0)/profiles.length;
+            const avgB=Object.values(b.scores).reduce((s,v)=>s+v,0)/profiles.length;
+            return avgB-avgA;
+        });
+
+        loading.classList.add('hidden');
+        if(!grants.length){results.innerHTML='<p class="text-sm text-gray-500 italic">Sin subvenciones encontradas para los filtros seleccionados.</p>';return}
+
+        // Profile name mapping
+        const profileNames={};
+        document.querySelectorAll('input[name="rec_profile"]').forEach(el=>{
+            const lbl=el.closest('label');
+            profileNames[el.value]=lbl?lbl.textContent.trim():el.value;
+        });
+
+        grants.slice(0,30).forEach(({grant:g,scores})=>{
+            const card=document.createElement('div');
+            card.className='glass rounded-xl p-5 cursor-pointer hover:border-brand-500/30 transition';
+            const src=g.source||'';const srcClass=src==='BOE'?'source-boe':src==='DOG'?'source-dog':'source-bop';
+            const avgScore=profiles.length?Math.round(Object.values(scores).reduce((s,v)=>s+v,0)/profiles.length):0;
+
+            let scoresHtml='<div class="grid grid-cols-1 sm:grid-cols-2 gap-2 mt-3">';
+            profiles.forEach(p=>{
+                const sc=scores[p]||0;const pct=sc;const cls=sc>=70?'score-high':sc>=40?'score-mid':'score-low';
+                scoresHtml+=`<div>
+                    <div class="flex justify-between text-xs mb-1"><span class="text-gray-400 truncate">${esc(profileNames[p]||p)}</span><span class="font-semibold ${sc>=70?'text-green-400':sc>=40?'text-amber-400':'text-gray-500'}">${sc}/100</span></div>
+                    <div class="bg-surface-3 rounded-full overflow-hidden" style="height:6px"><div class="score-bar ${cls}" style="width:${pct}%"></div></div>
+                </div>`;
+            });
+            scoresHtml+='</div>';
+
+            card.innerHTML=`
+                <div class="flex items-start gap-3 mb-2">
+                    <div class="flex-1 min-w-0">
+                        <div class="font-semibold text-sm text-white mb-1 line-clamp-2">${esc((g.titulo||'Sin titulo').slice(0,150))}</div>
+                        <div class="text-xs text-gray-500 line-clamp-2">${esc((g.resumen||'').slice(0,200))}</div>
+                    </div>
+                    <div class="shrink-0 text-center">
+                        <div class="text-2xl font-bold ${avgScore>=70?'text-green-400':avgScore>=40?'text-amber-400':'text-gray-500'}">${avgScore}</div>
+                        <div class="text-xs text-gray-600">media</div>
+                    </div>
+                </div>
+                <div class="flex flex-wrap items-center gap-2 text-xs mb-2">
+                    <span class="px-2 py-0.5 rounded font-bold ${srcClass}">${src}</span>
+                    <span class="text-gray-500">${esc(g.organismo||'')}</span>
+                    <span class="text-gray-500">${g.fecha_publicacion||''}</span>
+                    ${g.fecha_limite?`<span class="text-amber-400 font-semibold"><i class="fas fa-clock mr-0.5"></i>${g.fecha_limite}</span>`:''}
+                    ${g.financiacion?`<span class="text-green-400"><i class="fas fa-euro-sign mr-0.5"></i>${esc(g.financiacion.slice(0,50))}</span>`:''}
+                </div>
+                ${scoresHtml}`;
+            card.onclick=()=>showGrantModal(g);
+            results.appendChild(card);
+        });
+    }catch(e){loading.classList.add('hidden');results.innerHTML='<p class="text-sm text-red-400 italic">Error al cargar el recomendador.</p>'}
+}
+
+/* ═══ ADMIN ═══ */
+function loadUsers(){
+    const c=document.getElementById('admin-users');if(!c)return;
+    c.innerHTML='<p class="text-sm text-gray-500 italic">Cargando...</p>';
+    fetch('/api/admin/users').then(r=>r.json()).then(users=>{
+        c.innerHTML='';
+        users.forEach(u=>{
+            const isAdmin=u.role==='admin';
+            const div=document.createElement('div');div.className='glass rounded-xl p-4 flex items-center justify-between';
+            div.innerHTML=`<div class="flex items-center gap-3">
+                <div class="w-9 h-9 rounded-lg ${isAdmin?'bg-purple-600/15 text-purple-400':'bg-surface-2 text-gray-400'} flex items-center justify-center"><i class="fas ${isAdmin?'fa-user-shield':'fa-user'}"></i></div>
+                <div><div class="text-sm font-semibold text-white">${esc(u.username)} ${isAdmin?'<span class="text-xs bg-purple-500/20 text-purple-400 px-1.5 py-0.5 rounded ml-1">Admin</span>':''}</div><div class="text-xs text-gray-500">ID: ${u.id} | ${u.created_at||''}</div></div>
+            </div>
+            ${!isAdmin?`<button onclick="deleteUser(${u.id},'${esc(u.username)}')" class="text-xs text-red-400 hover:text-red-300 bg-red-500/10 hover:bg-red-500/20 px-3 py-1.5 rounded-lg transition"><i class="fas fa-trash mr-1"></i>Eliminar</button>`:''}`;
+            c.appendChild(div);
+        });
+    }).catch(()=>c.innerHTML='<p class="text-sm text-red-400 italic">Error.</p>');
+}
+async function deleteUser(id,name){
+    if(!confirm(`Eliminar usuario ${name}?`))return;
+    await fetch(`/api/admin/users/${id}`,{method:'DELETE'});loadUsers();
+}
+
+/* ═══ UTILS ═══ */
+function esc(t){if(!t)return'';return t.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#039;')}
+function fmtSize(b){if(b<1024)return b+' B';if(b<1048576)return(b/1024).toFixed(1)+' KB';return(b/1048576).toFixed(1)+' MB'}
+
+/* ═══ INIT ═══ */
+(function(){
+    const today=new Date();const ago=new Date(today);ago.setMonth(ago.getMonth()-3);
+    const ds=document.getElementById('date-start'),de=document.getElementById('date-end');
+    if(de)de.value=today.toISOString().split('T')[0];
+    if(ds)ds.value=ago.toISOString().split('T')[0];
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="es" class="h-full">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sub-Radar – Iniciar sesion</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <script>
+    tailwind.config = {
+        darkMode: 'class',
+        theme: {
+            extend: {
+                colors: {
+                    brand: { 50:'#eff6ff',100:'#dbeafe',200:'#bfdbfe',300:'#93c5fd',400:'#60a5fa',500:'#3b82f6',600:'#2563eb',700:'#1d4ed8',800:'#1e40af',900:'#1e3a5a' },
+                    surface: { 0:'#0b0f19',1:'#111827',2:'#1f2937',3:'#374151',4:'#4b5563' }
+                }
+            }
+        }
+    }
+    </script>
+    <style>
+        body{font-family:'Inter',system-ui,-apple-system,sans-serif;}
+        .glass{background:rgba(17,24,39,.65);backdrop-filter:blur(16px);border:1px solid rgba(55,65,81,.5);}
+        @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+        .float-anim{animation:float 4s ease-in-out infinite}
+    </style>
+</head>
+<body class="h-full bg-surface-0 text-gray-100 flex items-center justify-center overflow-hidden relative">
+    <!-- Decorative blobs -->
+    <div class="absolute -top-40 -left-40 w-96 h-96 bg-brand-600/20 rounded-full blur-3xl"></div>
+    <div class="absolute -bottom-40 -right-40 w-96 h-96 bg-indigo-600/20 rounded-full blur-3xl"></div>
+
+    <div class="w-full max-w-md px-6 z-10">
+        <div class="glass rounded-2xl p-8 shadow-2xl">
+            <!-- Header -->
+            <div class="text-center mb-8">
+                <div class="inline-flex items-center justify-center w-16 h-16 rounded-2xl bg-brand-600/20 mb-4 float-anim">
+                    <i class="fas fa-satellite-dish text-brand-400 text-2xl"></i>
+                </div>
+                <h1 class="text-2xl font-bold text-white">Sub-Radar</h1>
+                <p class="text-gray-400 text-sm mt-1">Inteligencia de Subvenciones Publicas</p>
+            </div>
+
+            <!-- Login form -->
+            <div id="login-section">
+                <h2 class="text-lg font-semibold mb-5 text-gray-200">Iniciar sesion</h2>
+                {% if error %}
+                <div class="bg-red-500/15 border border-red-500/30 text-red-400 text-sm rounded-lg p-3 mb-4">{{ error }}</div>
+                {% endif %}
+                <div id="login-error" class="bg-red-500/15 border border-red-500/30 text-red-400 text-sm rounded-lg p-3 mb-4 hidden"></div>
+
+                <form id="login-form" onsubmit="return handleLogin(event)">
+                    <div class="mb-4">
+                        <label class="block text-sm text-gray-400 mb-1.5">Usuario</label>
+                        <div class="relative">
+                            <i class="fas fa-user absolute left-3 top-1/2 -translate-y-1/2 text-gray-500 text-sm"></i>
+                            <input type="text" id="login-user" required placeholder="Tu nombre de usuario" autocomplete="username"
+                                class="w-full pl-10 pr-4 py-2.5 bg-surface-2 border border-surface-3 rounded-lg text-sm text-white placeholder-gray-500 focus:outline-none focus:border-brand-500 focus:ring-1 focus:ring-brand-500 transition">
+                        </div>
+                    </div>
+                    <div class="mb-6">
+                        <label class="block text-sm text-gray-400 mb-1.5">Contrasena</label>
+                        <div class="relative">
+                            <i class="fas fa-lock absolute left-3 top-1/2 -translate-y-1/2 text-gray-500 text-sm"></i>
+                            <input type="password" id="login-pass" required placeholder="Tu contrasena" autocomplete="current-password"
+                                class="w-full pl-10 pr-4 py-2.5 bg-surface-2 border border-surface-3 rounded-lg text-sm text-white placeholder-gray-500 focus:outline-none focus:border-brand-500 focus:ring-1 focus:ring-brand-500 transition">
+                        </div>
+                    </div>
+                    <button type="submit" class="w-full py-2.5 bg-brand-600 hover:bg-brand-700 text-white font-semibold rounded-lg transition flex items-center justify-center gap-2">
+                        <i class="fas fa-sign-in-alt"></i> Entrar
+                    </button>
+                </form>
+                <p class="text-center text-sm text-gray-500 mt-5">
+                    No tienes cuenta? <a href="#" onclick="toggleForm('register')" class="text-brand-400 hover:underline">Registrarse</a>
+                </p>
+            </div>
+
+            <!-- Register form -->
+            <div id="register-section" class="hidden">
+                <h2 class="text-lg font-semibold mb-5 text-gray-200">Crear cuenta</h2>
+                <div id="register-error" class="bg-red-500/15 border border-red-500/30 text-red-400 text-sm rounded-lg p-3 mb-4 hidden"></div>
+                <form id="register-form" onsubmit="return handleRegister(event)">
+                    <div class="mb-4">
+                        <label class="block text-sm text-gray-400 mb-1.5">Usuario</label>
+                        <div class="relative">
+                            <i class="fas fa-user absolute left-3 top-1/2 -translate-y-1/2 text-gray-500 text-sm"></i>
+                            <input type="text" id="reg-user" required minlength="3" placeholder="Minimo 3 caracteres" autocomplete="username"
+                                class="w-full pl-10 pr-4 py-2.5 bg-surface-2 border border-surface-3 rounded-lg text-sm text-white placeholder-gray-500 focus:outline-none focus:border-brand-500 focus:ring-1 focus:ring-brand-500 transition">
+                        </div>
+                    </div>
+                    <div class="mb-6">
+                        <label class="block text-sm text-gray-400 mb-1.5">Contrasena</label>
+                        <div class="relative">
+                            <i class="fas fa-lock absolute left-3 top-1/2 -translate-y-1/2 text-gray-500 text-sm"></i>
+                            <input type="password" id="reg-pass" required minlength="4" placeholder="Minimo 4 caracteres" autocomplete="new-password"
+                                class="w-full pl-10 pr-4 py-2.5 bg-surface-2 border border-surface-3 rounded-lg text-sm text-white placeholder-gray-500 focus:outline-none focus:border-brand-500 focus:ring-1 focus:ring-brand-500 transition">
+                        </div>
+                    </div>
+                    <button type="submit" class="w-full py-2.5 bg-brand-600 hover:bg-brand-700 text-white font-semibold rounded-lg transition flex items-center justify-center gap-2">
+                        <i class="fas fa-user-plus"></i> Registrarse
+                    </button>
+                </form>
+                <p class="text-center text-sm text-gray-500 mt-5">
+                    Ya tienes cuenta? <a href="#" onclick="toggleForm('login')" class="text-brand-400 hover:underline">Iniciar sesion</a>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+    function toggleForm(target) {
+        document.getElementById('login-section').classList.toggle('hidden', target !== 'login');
+        document.getElementById('register-section').classList.toggle('hidden', target !== 'register');
+    }
+    async function handleLogin(e) {
+        e.preventDefault();
+        const err = document.getElementById('login-error');
+        err.classList.add('hidden');
+        try {
+            const r = await fetch('/login', {
+                method:'POST', headers:{'Content-Type':'application/json'},
+                body: JSON.stringify({username:document.getElementById('login-user').value.trim(), password:document.getElementById('login-pass').value})
+            });
+            const d = await r.json();
+            if (d.ok) window.location.href='/'; else { err.textContent=d.error||'Error'; err.classList.remove('hidden'); }
+        } catch(ex) { err.textContent='Error de conexion'; err.classList.remove('hidden'); }
+        return false;
+    }
+    async function handleRegister(e) {
+        e.preventDefault();
+        const err = document.getElementById('register-error');
+        err.classList.add('hidden');
+        try {
+            const r = await fetch('/register', {
+                method:'POST', headers:{'Content-Type':'application/json'},
+                body: JSON.stringify({username:document.getElementById('reg-user').value.trim(), password:document.getElementById('reg-pass').value})
+            });
+            const d = await r.json();
+            if (d.ok) window.location.href='/'; else { err.textContent=d.error||'Error'; err.classList.remove('hidden'); }
+        } catch(ex) { err.textContent='Error de conexion'; err.classList.remove('hidden'); }
+        return false;
+    }
+    </script>
+</body>
+</html>
