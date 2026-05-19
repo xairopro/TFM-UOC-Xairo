@@ -1,0 +1,123 @@
+{
+  "id": "BDNS-901778",
+  "id_interno": 1103339,
+  "numero_convocatoria": "901778",
+  "organismo": "AUTONOMICA — CATALUÑA — INSTITUT RAMON LLULL",
+  "sede_electronica": "https://www.llull.cat/catala/subvencions/obres_ilustrades_intro.cfm",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "2026-05-04",
+  "fecha_fin_solicitud": "2026-06-18",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "L0125. 2aC. Resolución por la que se abre la 2ª convocatoria 2026 para la concesión de subvenciones en régimen de concurrencia competitiva para la publicación en el extranjero de obras ilustradas",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "GRAN EMPRESA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+  "regiones": "XXXX - TODO EL MUNDO",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Resolución por la que se da publicidad al Acuerdo del Consejo de Dirección del Consorcio Instituto Ramon Llull de 16 de enero de 2025 por el que se modifican las bases existentes y se aprueban bases nuevas que deben regir la concesión de subvenciones del",
+  "url_bases_reguladoras": "https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=1004713",
+  "presupuesto": "50.000,00 €",
+  "presupuesto_total_num": 50000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "REG (UE) 2023/2831 de minimis, General",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901778",
+  "text": "CONVOCATORIA BDNS Nº 901778\nOrganismo: AUTONOMICA — CATALUÑA — INSTITUT RAMON LLULL\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud: 2026-05-04 → 2026-06-18 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 50.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: GRAN EMPRESA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de bibliotecas, archivos, museos y otras actividades culturales\nRegiones: XXXX - TODO EL MUNDO\nFinalidad: Cultura\nFondos: \nReglamento: REG (UE) 2023/2831 de minimis, General\nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nL0125. 2aC. Resolución por la que se abre la 2ª convocatoria 2026 para la concesión de subvenciones en régimen de concurrencia competitiva para la publicación en el extranjero de obras ilustradas\n\nBases reguladoras:\nResolución por la que se da publicidad al Acuerdo del Consejo de Dirección del Consorcio Instituto Ramon Llull de 16 de enero de 2025 por el que se modifican las bases existentes y se aprueban bases nuevas que deben regir la concesión de subvenciones del\nURL bases reguladoras: https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=1004713\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901778",
+  "_raw": {
+    "id": 1103339,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "CATALUÑA",
+      "nivel3": "INSTITUT RAMON LLULL"
+    },
+    "sedeElectronica": "https://www.llull.cat/catala/subvencions/obres_ilustrades_intro.cfm",
+    "codigoBDNS": "901778",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 50000,
+    "mrr": false,
+    "descripcion": "L0125. 2aC. Resolución por la que se abre la 2ª convocatoria 2026 para la concesión de subvenciones en régimen de concurrencia competitiva para la publicación en el extranjero de obras ilustradas",
+    "descripcionLeng": "L0125 2aC. Resolució per la qual s’obre la 2a convocatòria 2026 per a la concessió de subvencions en règim de concurrència competitiva per a la publicació a l’estranger d’obres il·lustrades",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "GRAN EMPRESA"
+      },
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+        "codigo": "91"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "XXXX - TODO EL MUNDO"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Resolución por la que se da publicidad al Acuerdo del Consejo de Dirección del Consorcio Instituto Ramon Llull de 16 de enero de 2025 por el que se modifican las bases existentes y se aprueban bases nuevas que deben regir la concesión de subvenciones del",
+    "urlBasesReguladoras": "https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=1004713",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-05-04",
+    "fechaFinSolicitud": "2026-06-18",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": {
+      "descripcion": "REG (UE) 2023/2831 de minimis, General",
+      "orden": null
+    },
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446066,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "03-L0125 U10 Resol Ob 2aC 2026-CAT-signat_CA.pdf",
+        "long": 737712,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446065,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "03-L0125 U10 Resol Ob 2aC 2026-ESP-signat_CA.pdf",
+        "long": 737931,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210576,
+        "titulo": "Procedimiento Beta",
+        "tituloLeng": null,
+        "texto": "Procedimiento Beta",
+        "textoLeng": null,
+        "url": "https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=1043117",
+        "cve": null,
+        "desDiarioOficial": "DOGC. D.O. DE LA GENERALITAT DE CATALUNYA",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

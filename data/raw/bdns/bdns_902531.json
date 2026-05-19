@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-902531",
+  "id_interno": 1104092,
+  "numero_convocatoria": "902531",
+  "organismo": "LOCAL — LLAGOSTERA — AYUNTAMIENTO DE LLAGOSTERA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "2026-01-01",
+  "fecha_fin_solicitud": "2026-03-30",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Convenio entre eñ Ajuntament de Llagostera i ASOC.FAMILIES D'ALUMNES DEL CENTRE D'EDUCACIO ESPECIAL FONT DE L'ABELLA regulador de una subvención directa para  2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Otras actividades de servicios sociales sin alojamiento",
+  "regiones": "ES512 - Girona",
+  "finalidad": "Educación",
+  "bases_reguladoras": "Ordenanza general de subvenciones del Ayuntamiento de Llagostera",
+  "url_bases_reguladoras": "https://seu-e.cat/documents/27933/18403582/ORDENAN%C3%87A+GENERAL+DE+SUBVENCIONS+DE+L%27AJUNTAMENT+DE+LLAGOSTERA.pdf/9bfa1f20-d964-4b55-82d4-d78448d23cdd",
+  "presupuesto": "500,00 €",
+  "presupuesto_total_num": 500,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902531",
+  "text": "CONVOCATORIA BDNS Nº 902531\nOrganismo: LOCAL — LLAGOSTERA — AYUNTAMIENTO DE LLAGOSTERA\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud: 2026-01-01 → 2026-03-30 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 500,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Otras actividades de servicios sociales sin alojamiento\nRegiones: ES512 - Girona\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvenio entre eñ Ajuntament de Llagostera i ASOC.FAMILIES D'ALUMNES DEL CENTRE D'EDUCACIO ESPECIAL FONT DE L'ABELLA regulador de una subvención directa para  2026\n\nBases reguladoras:\nOrdenanza general de subvenciones del Ayuntamiento de Llagostera\nURL bases reguladoras: https://seu-e.cat/documents/27933/18403582/ORDENAN%C3%87A+GENERAL+DE+SUBVENCIONS+DE+L%27AJUNTAMENT+DE+LLAGOSTERA.pdf/9bfa1f20-d964-4b55-82d4-d78448d23cdd\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902531",
+  "_raw": {
+    "id": 1104092,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "LLAGOSTERA",
+      "nivel3": "AYUNTAMIENTO DE LLAGOSTERA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902531",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 500,
+    "mrr": false,
+    "descripcion": "Convenio entre eñ Ajuntament de Llagostera i ASOC.FAMILIES D'ALUMNES DEL CENTRE D'EDUCACIO ESPECIAL FONT DE L'ABELLA regulador de una subvención directa para  2026",
+    "descripcionLeng": "Conveni entre l'Ajuntament de Llagostera i ASOC.FAMILIES D'ALUMNES DEL CENTRE D'EDUCACIO ESPECIAL FONT DE L'ABELLA regulador d'una subvenció directa per  2026",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Otras actividades de servicios sociales sin alojamiento",
+        "codigo": "88.9"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES512 - Girona"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "Ordenanza general de subvenciones del Ayuntamiento de Llagostera",
+    "urlBasesReguladoras": "https://seu-e.cat/documents/27933/18403582/ORDENAN%C3%87A+GENERAL+DE+SUBVENCIONS+DE+L%27AJUNTAMENT+DE+LLAGOSTERA.pdf/9bfa1f20-d964-4b55-82d4-d78448d23cdd",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-01-01",
+    "fechaFinSolicitud": "2026-03-30",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445585,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "certificado_decreto_cast.pdf",
+        "long": 167588,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445586,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "certificat_decret_cat.pdf",
+        "long": 193545,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

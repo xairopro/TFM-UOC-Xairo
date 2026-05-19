@@ -1,0 +1,119 @@
+{
+  "id": "BDNS-901407",
+  "id_interno": 1102968,
+  "numero_convocatoria": "901407",
+  "organismo": "LOCAL — VILAFRANCA DEL PENEDÈS — AYUNTAMIENTO DE VILAFRANCA DEL PENEDÈS",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "2026-01-01",
+  "fecha_fin_solicitud": "2026-04-10",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Cultura2026_ Subv.Nom. a Associació Coordinadora de música tradicional de Vilafranca",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "GRAN EMPRESA, PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+  "regiones": "ES511 - Barcelona",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Cultura2026_Subvención nominativa",
+  "url_bases_reguladoras": "https://bop.diba.cat/es",
+  "presupuesto": "6.000,00 €",
+  "presupuesto_total_num": 6000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901407",
+  "text": "CONVOCATORIA BDNS Nº 901407\nOrganismo: LOCAL — VILAFRANCA DEL PENEDÈS — AYUNTAMIENTO DE VILAFRANCA DEL PENEDÈS\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud: 2026-01-01 → 2026-04-10 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 6.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: GRAN EMPRESA, PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO\nRegiones: ES511 - Barcelona\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCultura2026_ Subv.Nom. a Associació Coordinadora de música tradicional de Vilafranca\n\nBases reguladoras:\nCultura2026_Subvención nominativa\nURL bases reguladoras: https://bop.diba.cat/es\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901407",
+  "_raw": {
+    "id": 1102968,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "VILAFRANCA DEL PENEDÈS",
+      "nivel3": "AYUNTAMIENTO DE VILAFRANCA DEL PENEDÈS"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901407",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 6000,
+    "mrr": false,
+    "descripcion": "Cultura2026_ Subv.Nom. a Associació Coordinadora de música tradicional de Vilafranca",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "GRAN EMPRESA"
+      },
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES511 - Barcelona"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Cultura2026_Subvención nominativa",
+    "urlBasesReguladoras": "https://bop.diba.cat/es",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-01-01",
+    "fechaFinSolicitud": "2026-04-10",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442224,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "Notificacio_CoordinadoraMusica_cat.pdf",
+        "long": 198896,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442225,
+        "descripcion": "Certificat_AcordJGL_CoordinadoraMúsica_cat.",
+        "nombreFic": "Certificat_acordJGL_CoordinadoraMusica_cat.pdf",
+        "long": 207532,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442223,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Notificacio_CoordinadoraMusica_cast.pdf",
+        "long": 209408,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

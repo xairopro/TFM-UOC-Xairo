@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902302",
+  "id_interno": 1103863,
+  "numero_convocatoria": "902302",
+  "organismo": "AUTONOMICA — PRINCIPADO DE ASTURIAS — CONSEJERÍA DE MOVILIDAD, COOPERACIÓN LOCAL Y GESTIÓN DE EMERGENCIAS",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": true,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "TARAMUNDI/RESOLUCIÓN 2/07/2001 JUNTA SANEAMIENTO - CONCESIÓN APORTACIONES OR COSTES DE EXPLOTACIÓN, MANTENIMIENTO Y CONSERVACIÓN DE OBRAS E INSTALACIONES DE DEPURACIÓN Y DE AYUDAS PARA FINANCIAR GASTOS DE INVERSIÓN",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Captación, depuración y distribución de agua",
+  "regiones": "ES12 - PRINCIPADO DE ASTURIAS",
+  "finalidad": "Otras actuaciones de carácter económico",
+  "bases_reguladoras": "Resolución 2 julio 2001 Junta de Saneamiento - concesión de aportaciones por costes de explotación, mantenimiento y conservación de obras e instalaciones de depuración y de ayudas para financiar gastos de inversión",
+  "url_bases_reguladoras": "https://miprincipado.asturias.es/bopa/2001/07/28/20010728.pdf",
+  "presupuesto": "2.241,80 €",
+  "presupuesto_total_num": 2241.8,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902302",
+  "text": "CONVOCATORIA BDNS Nº 902302\nOrganismo: AUTONOMICA — PRINCIPADO DE ASTURIAS — CONSEJERÍA DE MOVILIDAD, COOPERACIÓN LOCAL Y GESTIÓN DE EMERGENCIAS\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud:  →  (abierto: sí)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 2.241,80 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Captación, depuración y distribución de agua\nRegiones: ES12 - PRINCIPADO DE ASTURIAS\nFinalidad: Otras actuaciones de carácter económico\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nTARAMUNDI/RESOLUCIÓN 2/07/2001 JUNTA SANEAMIENTO - CONCESIÓN APORTACIONES OR COSTES DE EXPLOTACIÓN, MANTENIMIENTO Y CONSERVACIÓN DE OBRAS E INSTALACIONES DE DEPURACIÓN Y DE AYUDAS PARA FINANCIAR GASTOS DE INVERSIÓN\n\nBases reguladoras:\nResolución 2 julio 2001 Junta de Saneamiento - concesión de aportaciones por costes de explotación, mantenimiento y conservación de obras e instalaciones de depuración y de ayudas para financiar gastos de inversión\nURL bases reguladoras: https://miprincipado.asturias.es/bopa/2001/07/28/20010728.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902302",
+  "_raw": {
+    "id": 1103863,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "PRINCIPADO DE ASTURIAS",
+      "nivel3": "CONSEJERÍA DE MOVILIDAD, COOPERACIÓN LOCAL Y GESTIÓN DE EMERGENCIAS"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902302",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 2241.8,
+    "mrr": false,
+    "descripcion": "TARAMUNDI/RESOLUCIÓN 2/07/2001 JUNTA SANEAMIENTO - CONCESIÓN APORTACIONES OR COSTES DE EXPLOTACIÓN, MANTENIMIENTO Y CONSERVACIÓN DE OBRAS E INSTALACIONES DE DEPURACIÓN Y DE AYUDAS PARA FINANCIAR GASTOS DE INVERSIÓN",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Captación, depuración y distribución de agua",
+        "codigo": "36"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES12 - PRINCIPADO DE ASTURIAS"
+      }
+    ],
+    "descripcionFinalidad": "Otras actuaciones de carácter económico",
+    "descripcionBasesReguladoras": "Resolución 2 julio 2001 Junta de Saneamiento - concesión de aportaciones por costes de explotación, mantenimiento y conservación de obras e instalaciones de depuración y de ayudas para financiar gastos de inversión",
+    "urlBasesReguladoras": "https://miprincipado.asturias.es/bopa/2001/07/28/20010728.pdf",
+    "sePublicaDiarioOficial": false,
+    "abierto": true,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444890,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "RESOLUCION de 2 de julio de 2001.pdf",
+        "long": 523808,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

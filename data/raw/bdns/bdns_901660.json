@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-901660",
+  "id_interno": 1103221,
+  "numero_convocatoria": "901660",
+  "organismo": "LOCAL — MADRID — ÁREA DE GOBIERNO DE ECONOMÍA, INNOVACIÓN Y HACIENDA",
+  "sede_electronica": "https://sede.madrid.es/portal/site/tramites/menuitem.c61bb691882ed9d32e202e2084f1a5a0/?vgnextoid=5a9d5d53be9a0210VgnVCM100000171f5a0aRCRD&vgnextchannel=5a9d5d53be9a0210VgnVCM100000171f5a0aRCRD&vgnextfmt=default",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "2026-05-15",
+  "fecha_fin_solicitud": "2026-09-30",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA PÚBLICA DE SUBVENCIONES 2026 PARA INCENTIVAR EL EMPRENDIMIENTO EN LOS MERCADOS , LA INSTALACIÓN DE DETERMINADAS ACTIVIDADES DE INTERÉS PÚBLICO EN LOS MISMOS Y LA MODERNIZACIÓN O SUSTITUCIÓN DE LOS QUIOSCOS DE PRENSA",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Comercio al por menor",
+  "regiones": "ES300 - Madrid",
+  "finalidad": "Comercio, Turismo y Pymes",
+  "bases_reguladoras": "ORDENANZA BBRR GENERALES PARA CONCESIÓN SUBVENCIONES POR AYTO MADRID Y OP",
+  "url_bases_reguladoras": "https://www.bocm.es/boletin/CM_Orden_BOCM/2013/11/22/BOCM-20131122-34.PDF",
+  "presupuesto": "100.000,00 €",
+  "presupuesto_total_num": 100000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901660",
+  "text": "CONVOCATORIA BDNS Nº 901660\nOrganismo: LOCAL — MADRID — ÁREA DE GOBIERNO DE ECONOMÍA, INNOVACIÓN Y HACIENDA\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud: 2026-05-15 → 2026-09-30 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 100.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Comercio al por menor\nRegiones: ES300 - Madrid\nFinalidad: Comercio, Turismo y Pymes\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA PÚBLICA DE SUBVENCIONES 2026 PARA INCENTIVAR EL EMPRENDIMIENTO EN LOS MERCADOS , LA INSTALACIÓN DE DETERMINADAS ACTIVIDADES DE INTERÉS PÚBLICO EN LOS MISMOS Y LA MODERNIZACIÓN O SUSTITUCIÓN DE LOS QUIOSCOS DE PRENSA\n\nBases reguladoras:\nORDENANZA BBRR GENERALES PARA CONCESIÓN SUBVENCIONES POR AYTO MADRID Y OP\nURL bases reguladoras: https://www.bocm.es/boletin/CM_Orden_BOCM/2013/11/22/BOCM-20131122-34.PDF\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901660",
+  "_raw": {
+    "id": 1103221,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "MADRID",
+      "nivel3": "ÁREA DE GOBIERNO DE ECONOMÍA, INNOVACIÓN Y HACIENDA"
+    },
+    "sedeElectronica": "https://sede.madrid.es/portal/site/tramites/menuitem.c61bb691882ed9d32e202e2084f1a5a0/?vgnextoid=5a9d5d53be9a0210VgnVCM100000171f5a0aRCRD&vgnextchannel=5a9d5d53be9a0210VgnVCM100000171f5a0aRCRD&vgnextfmt=default",
+    "codigoBDNS": "901660",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 100000,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA PÚBLICA DE SUBVENCIONES 2026 PARA INCENTIVAR EL EMPRENDIMIENTO EN LOS MERCADOS , LA INSTALACIÓN DE DETERMINADAS ACTIVIDADES DE INTERÉS PÚBLICO EN LOS MISMOS Y LA MODERNIZACIÓN O SUSTITUCIÓN DE LOS QUIOSCOS DE PRENSA",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Comercio al por menor",
+        "codigo": "47"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES300 - Madrid"
+      }
+    ],
+    "descripcionFinalidad": "Comercio, Turismo y Pymes",
+    "descripcionBasesReguladoras": "ORDENANZA BBRR GENERALES PARA CONCESIÓN SUBVENCIONES POR AYTO MADRID Y OP",
+    "urlBasesReguladoras": "https://www.bocm.es/boletin/CM_Orden_BOCM/2013/11/22/BOCM-20131122-34.PDF",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-05-15",
+    "fechaFinSolicitud": "2026-09-30",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442984,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "BASES DE LA CONVOCATORIA SUBV 2026 INCENTIVAR EMPREND. LOCALES MDOS Y QUIOSCOS.PDF",
+        "long": 514716,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

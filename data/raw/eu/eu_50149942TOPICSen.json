@@ -1,0 +1,171 @@
+{
+  "id": "EU-50149942TOPICSen",
+  "topic_id": "50149942TOPICSen",
+  "titulo": "Teaming Synergies",
+  "descripcion": "Teaming Synergies",
+  "organismo": "43108390",
+  "fecha_publicacion": "2026-04-23",
+  "fecha_limite": "2026-09-24",
+  "deadlines_todas": "2026-09-24",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113252\":[{\"action\":\"HORIZON-WIDERA-2026-01-WIDENING-01 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2026\":\"7000000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-24\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "HORIZON Coordination and Support Actions",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-WIDERA-2026-01-WIDENING-01",
+  "text": "EU FUNDING & TENDERS – Topic: 50149942TOPICSen\nProgramme/Organism: 43108390\nTitle: Teaming Synergies\nStatus: Open (31094502)\nType of action: HORIZON Coordination and Support Actions\nOpening date: 2026-04-23\nDeadline: 2026-09-24\nAll deadlines: 2026-09-24\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113252\":[{\"action\":\"HORIZON-WIDERA-2026-01-WIDENING-01 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2026\":\"7000000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-24\"]}]}}\n\nDescription / Scope:\nTeaming Synergies\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-WIDERA-2026-01-WIDENING-01",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "50149942TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-WIDERA-2026-01-WIDENING-01",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Teaming Synergies",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Teaming Synergies",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "BD934FEE5CDDC7D8D169767BD85361FF6BE9AA875483E9E0D650ABBD7F25AB55",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-04-23T00:01:03.975\",\"content\":\"The submission session is now available for: HORIZON-WIDERA-2026-01-WIDENING-01\"}]"
+      ],
+      "es_SortDate": [
+        "2026-04-23T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "HORIZON-WIDERA-2026-01-WIDENING-01",
+        "HORIZON-WIDERA-2026-01"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex A</a> and <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex E</a> of the Horizon Europe Work Programme General Annexes.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p>A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a>.</p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>In order to achieve the expected outcomes, participation as coordinators to the call is limited to legal entities established in Widening countries, as defined in the Horizon Europe regulation, that have been or are coordinator of a Horizon 2020 or Horizon Europe Teaming action. Achiving the objectives of this topic requires in-depth knowledge of creating and sustaining a teaming centre of excellence that only a coordinator with this kind of experience can provide.</p></div><div class=\"eui-u-mt-s\"><p>Other conditions are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex C</a> of the Work Programme General Annexes.</p></div></div><div><h4>5a. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex D</a> of the Work Programme General Annexes.</p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex G</a> of the Work Programme General Annexes.</p></div></div></div><div class=\"eui-u-mt-l\"><h4>Specific conditions</h4> <div class=\"eui-u-mt-s\"><p>The Commission estimates that an EU contribution of around EUR 7.00 million would allow these outcomes to be addressed appropriately. Nonetheless, this does not preclude submission and selection of a proposal requesting different amounts.</p><p>The total indicative budget for the topic is EUR 7.00 million.</p></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Application and evaluation forms and model grant agreement (MGA):</h4> <div class=\"eui-u-mt-s\"><p><strong>Application form templates</strong> <em>— the application form specific to this call is available in the Submission System</em></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-csa_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (HE CSA)</a> </p><p><strong>Evaluation form templates</strong> <em>— will be used with the necessary adaptations</em>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/ef/ef_he-csa_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard evaluation form (HE CSA)</a>&#xa0;</p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a>&#xa0;</p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE MGA</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/agr-contr/unit-mga_he_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Unit MGA</a>&#xa0;</p><p><strong>Call-specific instructions</strong>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/information-on-financial-support-to-third-parties_he_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Information on financial support to third parties (HE)</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/information-on-clinical-studies_he_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Information on clinical studies (HE)</a>&#xa0;</p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-1-general-introduction_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 1. General Introduction</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-11-widening-participation-and-strengthening-the-european-research-area_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 11. Widening participation and strengthening the European Research Area</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 15. General An</a><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp-14-general-annexes_horizon-2025_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">nexes</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0695\" rel=\"noopener noreferrer\" target=\"_blank\">HE Framework Programme 2021/695</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021D0764\" rel=\"noopener noreferrer\" target=\"_blank\">HE Specific Programme Decision 2021/764</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a></p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "Teaming Synergies"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "BD934FEE5CDDC7D8D169767BD85361FF6BE9AA875483E9E0D650ABBD7F25AB55"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43027846"
+      ],
+      "callIdentifier": [
+        "HORIZON-WIDERA-2026-01"
+      ],
+      "ccm2Id": [
+        "50149942"
+      ],
+      "callccm2Id": [
+        "50149961"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50149942TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"HORIZON-WIDERA-2026-01\",\"criterionCode\":\"HORIZON-CSA\",\"criterionDescription\":\"HORIZON Coordination and Support Actions\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43878?topic\\u003dHORIZON-WIDERA-2026-01-WIDENING-01\",\"startDate\":\"1776902400000\",\"endDate\":\"1790208000000\",\"mgaDescription\":\"HORIZON Action Grant Budget-Based\",\"mgaCode\":\"HORIZON-AG\"}]"
+      ],
+      "callTitle": [
+        "Teaming Synergies"
+      ],
+      "frameworkProgramme": [
+        "43108390"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Outcome:</p><p>The Synergy action for Teaming Centres of Excellence (CoE) responds to the need to ensure the sustainability of CoE funded under the Teaming calls<sup>[1]</sup>. The establishment of CoE in Widening countries, supported by a significant investment in Horizon 2020 and Horizon Europe, has created new opportunities for scientific, societal, and economic impact. However, to fully capitalise on this investment and enhance the sustainability and international competitiveness of these CoE, it is essential to facilitate stronger collaboration and strategic joint initiatives among them.</p><p>Proposals are expected to contribute to all the following outcomes:</p><ul level=\"0\"><li>Stronger long-term collaboration among Teaming CoE through structured joint initiatives and clustering efforts to enhance mutual learning, resource sharing, and collective research and innovation capacity;</li><li>Strategic transformation of R&amp;I systems by enhancing institutional cooperation and supporting structural reforms at national and regional levels;</li><li>Promotion of multidisciplinary and transnational cooperation that will enable CoE to address critical European and global challenges, and EU policy priorities;</li><li>Promote ERA priorities such as responsible AI usage, knowledge valorisation, commercialization, and entrepreneurial activities, such as SMEs and start-ups, within the CoE to maximise economic and societal impact;</li><li>Stronger visibility of CoE and their recognition at national, regional, and European levels through structured engagement with industry, policymakers, and society;</li><li>Improved synergies between CoE and national and EU programmes to leverage additional funding opportunities and policy support.</li> </ul><p class=\"topicdescriptionkind\">Scope:</p><p>The call topic aims at fostering collaboration among Teaming Centres of Excellence, both existing ones and those resulting from ongoing or future calls, in view of supporting their efforts towards sustainability and increased impact at the regional, national and European level.</p><p>Proposals are expected to include at least the following activities:</p><p><strong>Strategic Clustering for thematic collaboration:</strong> Conducting an in-depth analysis of CoE capacities, research domains, innovation potential, and their role in national and regional quadruple helixes. The aim is to define strategic clusters addressing common research and innovation challenges, supporting EU priorities, and contributing to policy reforms.</p><p><strong>Pilot implementation of thematic clusters:</strong> Establish clusters and support the coordinated implementation of activities, building e.g. on geographically distributed research capacities and infrastructures, interdisciplinary research collaborations, policy support for national and/or institutional R&amp;I reform, or entrepreneurship-focused activities.</p><p><strong>Capacity building for knowledge valorisation:</strong> Offering specialised training, peer learning, expert coaching, and workshops to improve CoE expertise in knowledge valorisation.</p><p><strong>Networking and matchmaking:</strong> Organising dedicated matchmaking events, policy forums, and startup pitching events to connect CoE with industry, investors, and policymakers, supporting their market outreach and strategic partnerships.</p><p><strong>Teaming online platform:</strong> Developing a digital networking platform to improve cooperation among CoE, provide access to shared resources, showcase success stories, and facilitate continuous interaction between research institutions, industry, and policymakers.</p><p><strong>Teaming conference:</strong> Establish the conference as an internationally recognized event, stimulating cross-fertilization of scientific ideas, promoting industry-academia collaborations, attracting international talents and rewarding early-career researchers through Teaming awards.</p><p><strong>Entrepreneurship and tech transfer support:</strong> Encouraging the creation of spin-offs and start-ups, licensing opportunities, and investment-readiness initiatives to ensure research outputs lead to marketable innovations.</p><p>To achieve the expected outcomes, the consortium is expected to provide a comprehensive range of expertise commensurate with the proposed activities. A core of the consortium should be able to demonstrate successful implementation of sustainability strategies of a Teaming CoE. Complementary members of the consortium can provide specific expertise on e.g. communication, training, knowledge valorisation and IPR issues. The consortium should to demonstrate a geographical coverage of its activities that is able to reach all past, existing and future Teaming CoEs that wish to participate in the activities and benefit from the services offered by the consortium. The consortium is encouraged to maximise the use of existing services and facilities, such as the Widening Dissemination and Exploitation Support Facility, to avoid duplication and creation of competing services.</p><p>In order to assess the efficient and effective implementation of the proposed activities a set of key performance indicators tailored to the objectives of the action should be outlined in the proposal.</p><p>The duration of this action should be 5 years.</p><p class=\"eui-u-font-s\">[1] In June 2022, the European Court of Auditors in its report recommended the Commission to ensure the sustainability of the Teaming Centres of Excellence.</p>"
+      ],
+      "identifier": [
+        "HORIZON-WIDERA-2026-01-WIDENING-01"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43121702",
+        "43121707",
+        "43108390"
+      ],
+      "crossCuttingPriorities": [
+        "AI",
+        "DigitalAgenda"
+      ],
+      "esDA_FirstIngestDate": [
+        "2025-12-16T15:41:56.078+0100"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-09-24T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-23T00:04:14.765+0200"
+      ],
+      "typesOfAction": [
+        "HORIZON Coordination and Support Actions"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-WIDERA-2026-01-WIDENING-01"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-WIDERA-2026-01-WIDENING-01"
+      ],
+      "tags": [],
+      "esDA_QueueDate": [
+        "2026-04-23T00:04:14.746+0200"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"HORIZON-CSA HORIZON Coordination and Support Actions\",\"typeOfMGA\":[{\"id\":43027846,\"abbreviation\":\"HORIZON-AG\",\"description\":\"HORIZON Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-04-23\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-09-24\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113252\":[{\"action\":\"HORIZON-WIDERA-2026-01-WIDENING-01 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2026\":\"7000000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-24\"]}]}}"
+      ],
+      "startDate": [
+        "2026-04-23T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> – find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> – ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> – get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (‘third-countries’).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> – contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> – the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> – consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Teaming Synergies. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-WIDERA-2026-01-WIDENING-01",
+    "score": 3.0
+  }
+}

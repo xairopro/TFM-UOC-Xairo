@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-901528",
+  "id_interno": 1103089,
+  "numero_convocatoria": "901528",
+  "organismo": "LOCAL — SOTOBAÑADO Y PRIORATO — AYUNTAMIENTO DE SOTOBAÑADO Y PRIORATO",
+  "sede_electronica": "https://sotobanadoypriorato.sedelectronica.es/",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - canónica",
+  "descripcion": "Convocatoria pública para la concesión de subvenciones a establecimientos de hostelería tales como bares, restaurantes o cafeterías, ubicados en el municipio de Sotobañado y Priorato (Palencia)",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "HOSTELERÍA",
+  "regiones": "ES414 - Palencia",
+  "finalidad": "Comercio, Turismo y Pymes",
+  "bases_reguladoras": "BASES REGULADORAS PARA LA CONCESIÓN DE SUBVENCIONES A ESTABLECIMIENTOS DE HOSTELERÍA TALES COMO BARES, RESTAURANTES O CAFETERÍAS, UBICADOS EN EL MUNICIPIO DE SOTOBAÑADO Y PRIORATO (PALENCIA)",
+  "url_bases_reguladoras": "https://sotobanadoypriorato.sedelectronica.es/transparency/7a1c94ad-8f56-4493-97c4-20dd3cda9656/",
+  "presupuesto": "2.400,00 €",
+  "presupuesto_total_num": 2400,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901528",
+  "text": "CONVOCATORIA BDNS Nº 901528\nOrganismo: LOCAL — SOTOBAÑADO Y PRIORATO — AYUNTAMIENTO DE SOTOBAÑADO Y PRIORATO\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - canónica\nPresupuesto total: 2.400,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: HOSTELERÍA\nRegiones: ES414 - Palencia\nFinalidad: Comercio, Turismo y Pymes\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria pública para la concesión de subvenciones a establecimientos de hostelería tales como bares, restaurantes o cafeterías, ubicados en el municipio de Sotobañado y Priorato (Palencia)\n\nBases reguladoras:\nBASES REGULADORAS PARA LA CONCESIÓN DE SUBVENCIONES A ESTABLECIMIENTOS DE HOSTELERÍA TALES COMO BARES, RESTAURANTES O CAFETERÍAS, UBICADOS EN EL MUNICIPIO DE SOTOBAÑADO Y PRIORATO (PALENCIA)\nURL bases reguladoras: https://sotobanadoypriorato.sedelectronica.es/transparency/7a1c94ad-8f56-4493-97c4-20dd3cda9656/\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901528",
+  "_raw": {
+    "id": 1103089,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "SOTOBAÑADO Y PRIORATO",
+      "nivel3": "AYUNTAMIENTO DE SOTOBAÑADO Y PRIORATO"
+    },
+    "sedeElectronica": "https://sotobanadoypriorato.sedelectronica.es/",
+    "codigoBDNS": "901528",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - canónica",
+    "presupuestoTotal": 2400,
+    "mrr": false,
+    "descripcion": "Convocatoria pública para la concesión de subvenciones a establecimientos de hostelería tales como bares, restaurantes o cafeterías, ubicados en el municipio de Sotobañado y Priorato (Palencia)",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "HOSTELERÍA",
+        "codigo": "I"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES414 - Palencia"
+      }
+    ],
+    "descripcionFinalidad": "Comercio, Turismo y Pymes",
+    "descripcionBasesReguladoras": "BASES REGULADORAS PARA LA CONCESIÓN DE SUBVENCIONES A ESTABLECIMIENTOS DE HOSTELERÍA TALES COMO BARES, RESTAURANTES O CAFETERÍAS, UBICADOS EN EL MUNICIPIO DE SOTOBAÑADO Y PRIORATO (PALENCIA)",
+    "urlBasesReguladoras": "https://sotobanadoypriorato.sedelectronica.es/transparency/7a1c94ad-8f56-4493-97c4-20dd3cda9656/",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Con la publicación del anuncio de la Convocatoria en el BOP de Palencia",
+    "textFin": "Veinte días hábiles desde el siguiente al anuncio en el BOP de Palencia",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442511,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Bases Ayudas Hostelería.pdf",
+        "long": 246923,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442513,
+        "descripcion": "Solicitud",
+        "nombreFic": "Anexo I Solicitud.pdf",
+        "long": 179551,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

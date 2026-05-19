@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902078",
+  "id_interno": 1103639,
+  "numero_convocatoria": "902078",
+  "organismo": "AUTONOMICA — ARAGÓN — DIRECCIÓN GENERAL DE COMERCIO, FERIAS Y ARTESANÍA",
+  "sede_electronica": "https://www.aragon.es/tramitador/-/tramite/ayudas-entidades-locales-multiservicios-rurales/convocatoria-2026 o incluyendo en el buscador de trámites el procedimiento número 11626",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "ORDEN PEJ/      / 2026, de 27 de abril, por la que se convocan para el ejercicio del año 2026, ayudas para la  realización, por las entidades locales, de actuaciones para la instalación y equipamiento de Multiservicios Rurales en la Comunidad Autónoma de",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "COMERCIO AL POR MAYOR Y AL POR MENOR",
+  "regiones": "ES24 - ARAGON",
+  "finalidad": "Comercio, Turismo y Pymes",
+  "bases_reguladoras": "ORDEN EIE/815/2016, de 25 de julio, por la que se establecen las bases reguladoras de las ayudas correspondientes a actividades y proyectos del sector artesano, comercio interior y ferias, en la Comunidad Autónoma de Aragón.",
+  "url_bases_reguladoras": "http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=920878023232",
+  "presupuesto": "130.000,00 €",
+  "presupuesto_total_num": 130000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902078",
+  "text": "CONVOCATORIA BDNS Nº 902078\nOrganismo: AUTONOMICA — ARAGÓN — DIRECCIÓN GENERAL DE COMERCIO, FERIAS Y ARTESANÍA\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 130.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: COMERCIO AL POR MAYOR Y AL POR MENOR\nRegiones: ES24 - ARAGON\nFinalidad: Comercio, Turismo y Pymes\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nORDEN PEJ/      / 2026, de 27 de abril, por la que se convocan para el ejercicio del año 2026, ayudas para la  realización, por las entidades locales, de actuaciones para la instalación y equipamiento de Multiservicios Rurales en la Comunidad Autónoma de\n\nBases reguladoras:\nORDEN EIE/815/2016, de 25 de julio, por la que se establecen las bases reguladoras de las ayudas correspondientes a actividades y proyectos del sector artesano, comercio interior y ferias, en la Comunidad Autónoma de Aragón.\nURL bases reguladoras: http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=920878023232\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902078",
+  "_raw": {
+    "id": 1103639,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "ARAGÓN",
+      "nivel3": "DIRECCIÓN GENERAL DE COMERCIO, FERIAS Y ARTESANÍA"
+    },
+    "sedeElectronica": "https://www.aragon.es/tramitador/-/tramite/ayudas-entidades-locales-multiservicios-rurales/convocatoria-2026 o incluyendo en el buscador de trámites el procedimiento número 11626",
+    "codigoBDNS": "902078",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 130000,
+    "mrr": false,
+    "descripcion": "ORDEN PEJ/      / 2026, de 27 de abril, por la que se convocan para el ejercicio del año 2026, ayudas para la  realización, por las entidades locales, de actuaciones para la instalación y equipamiento de Multiservicios Rurales en la Comunidad Autónoma de",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "COMERCIO AL POR MAYOR Y AL POR MENOR",
+        "codigo": "G"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES24 - ARAGON"
+      }
+    ],
+    "descripcionFinalidad": "Comercio, Turismo y Pymes",
+    "descripcionBasesReguladoras": "ORDEN EIE/815/2016, de 25 de julio, por la que se establecen las bases reguladoras de las ayudas correspondientes a actividades y proyectos del sector artesano, comercio interior y ferias, en la Comunidad Autónoma de Aragón.",
+    "urlBasesReguladoras": "http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=920878023232",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "A partir del día siguiente de la publicación en Boletín Oficial de Aragón",
+    "textFin": "Un mes a partir del día siguiente de la publicación en Boletín Oficial de Aragón",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444101,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "CSV6E6QXQT7JN1J0XFIL Orden convocatoria 2026 Multiservicios Rurales Ayuntamientos.pdf",
+        "long": 545381,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

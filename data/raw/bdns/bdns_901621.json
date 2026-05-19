@@ -1,0 +1,122 @@
+{
+  "id": "BDNS-901621",
+  "id_interno": 1103182,
+  "numero_convocatoria": "901621",
+  "organismo": "LOCAL — DIPUTACIÓN PROV. DE A CORUÑA — DIPUTACIÓN PROVINCIAL DE CORUÑA, A",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "VIII Premio \"Luisa Villalta\" a proyectos por la igualdad. (PREM-LV/2026)",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS AUXILIARES",
+  "regiones": "ES111 - A Coruña",
+  "finalidad": "Servicios Sociales y Promoción Social",
+  "bases_reguladoras": "Ordenanza general de subvenciones y transferencias de la Diputación Provincial de A Coruña",
+  "url_bases_reguladoras": "https://bop.dacoruna.gal/bopportal/publicado/2025/09/29/2025_0000006296.pdf",
+  "presupuesto": "100.000,00 €",
+  "presupuesto_total_num": 100000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901621",
+  "text": "CONVOCATORIA BDNS Nº 901621\nOrganismo: LOCAL — DIPUTACIÓN PROV. DE A CORUÑA — DIPUTACIÓN PROVINCIAL DE CORUÑA, A\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 100.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS AUXILIARES\nRegiones: ES111 - A Coruña\nFinalidad: Servicios Sociales y Promoción Social\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nVIII Premio \"Luisa Villalta\" a proyectos por la igualdad. (PREM-LV/2026)\n\nBases reguladoras:\nOrdenanza general de subvenciones y transferencias de la Diputación Provincial de A Coruña\nURL bases reguladoras: https://bop.dacoruna.gal/bopportal/publicado/2025/09/29/2025_0000006296.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901621",
+  "_raw": {
+    "id": 1103182,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DIPUTACIÓN PROV. DE A CORUÑA",
+      "nivel3": "DIPUTACIÓN PROVINCIAL DE CORUÑA, A"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901621",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 100000,
+    "mrr": false,
+    "descripcion": "VIII Premio \"Luisa Villalta\" a proyectos por la igualdad. (PREM-LV/2026)",
+    "descripcionLeng": "VIII Premio \"Luisa Villalta\" a proxectos pola igualdade. (PREM-LV/2026)",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS AUXILIARES",
+        "codigo": "O"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES111 - A Coruña"
+      }
+    ],
+    "descripcionFinalidad": "Servicios Sociales y Promoción Social",
+    "descripcionBasesReguladoras": "Ordenanza general de subvenciones y transferencias de la Diputación Provincial de A Coruña",
+    "urlBasesReguladoras": "https://bop.dacoruna.gal/bopportal/publicado/2025/09/29/2025_0000006296.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Al día siguiente de la publicación del extracto en el BOP",
+    "textFin": "A las 14:00 horas del día 28 de mayo de 2026",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442888,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Convocatoria del VIII premio Luisa Villalta - PREM-LV-2026.pdf",
+        "long": 174492,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1442891,
+        "descripcion": "Bases del VIII Premio \"Luisa Villalta\"",
+        "nombreFic": "Bases del VIII Premio Luisa Villalta por la igualdad -PREM-LV-2026.pdf",
+        "long": 189847,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1442890,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "Convocatoria do VIII premio Luisa Villalta - PREM-LV-2026.pdf",
+        "long": 174492,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210102,
+        "titulo": "Extracto de la Resolución número 16351, de 20 de abril de 2026 de la Presidencia de la Diputación de A Coruña, por la que se convocan ayudas destinadas al VIII Premio “Luisa Villalta” a proyectos por la igualdad. (PREM-LV/2026)",
+        "tituloLeng": "Extracto da Resolución número 16351, do 20 de abril de 2026 da Presidencia da Deputación da Coruña, pola que se convocan axudas destinadas ao VIII Premio “Luisa Villalta” a proxectos pola igualdade. (PREM-LV/2026)",
+        "texto": "<p>Primero. Beneficiarias</p><p>Podrán presentar sus proyectos las personas físicas inscritas/os en el régimen especial de trabajadoras/es autónomas/os, entidades de economía social y/o empresas que tengan residencia/sede en el territorio gallego.</p><p>Segundo. Objeto</p><p>El presente premio tiene cómo objeto promover la igualdad de género, combatir la violencia machista y defender la diversidad sexual mediante el impulso de proyectos de impacto social que pongan en valor y hagan visible el papel de las mujeres en los distintos ámbitos de la sociedad —histórico, económico, laboral, deportivo, cultural, social, científico, educativo, tecnológico, político, sanitario y de cuidados, audiovisual, rural y comunitario— desde una perspectiva interseccional.</p><p>Se buscará reconocer y apoyar proyectos que contribuyan a la superación de las desigualdades estructurales y favorezcan la sensibilización, concienciación y fortalecimiento del tejido social, así como la creación de un entorno más justo, inclusivo y diverso.</p><p>Tercero. Bases reguladoras</p><p>La convocatoria se regirá por las Bases, que fueron publicadas en el BOP número 69, de 15 de abril de 2026, disponibles en:</p><p> https://bop.dacoruna.gal/bopportal/publicado/2026/04/15/2026_0000002306.pdf</p><p>Cuarto. Cuantía</p><p>El importe de la consignación asciende a un total de 100.000,00 €, con cargo a la aplicación 0611/23122/481 del Presupuesto común para 2026.</p><p>Se establece ocho premios por un importe máximo de 12.500 euros cada uno.</p><p>Quinto. Criterios de valoración</p><p>Los criterios de valoración serán los establecidos en la base 8ª de las Bases del premio.</p><p>Sexto. Plazo de presentación de solicitudes</p><p>El plazo de presentación de solicitudes se iniciará a partir del día siguiente al de la publicación del presente extracto de la convocatoria en el BOP de A Coruña, y acabará a las 14:00 horas del día 28 de mayo de 2026.</p><p>Séptimo. Otros datos de interés</p><p>Tanto las solicitudes como el resto de la tramitación de la presente convocatoria, se realizará por vía telemática a través de la plataforma SUBTEL, accesible desde la sede electrónica de la Diputación provincial de A Coruña: https://sede.dacoruna.gal/</p>",
+        "textoLeng": "<p>Primeiro. Beneficiarias</p><p>Poderán presentar os seus proxectos as persoas físicas inscritas no réxime especial de traballadoras/es autónomas/os, as entidades de economía social e/ou empresas que teñan residencia/sede no territorio galego.</p><p>Segundo. Obxecto</p><p>O presente premio ten como obxecto promover a igualdade de xénero, combater a violencia machista e defender a diversidade sexual mediante o impulso de proxectos de impacto social que poñan en valor e fagan visible o papel das mulleres nos distintos ámbitos da sociedade —histórico, económico, laboral, deportivo, cultural, social, científico, educativo, tecnolóxico, político, sanitario e de coidados, audiovisual, rural e comunitario— desde unha perspectiva interseccional.</p><p>Buscarase recoñecer e apoiar proxectos que contribúan á superación das desigualdades estruturais e favorezan a sensibilización, concienciación e fortalecemento do tecido social, así como a creación dunha contorna máis xusta, inclusiva e diversa.</p><p>Terceiro. Bases reguladoras</p><p>A convocatoria rexerase polas Bases, que foron publicadas no BOP número 69, de 15 de abril de 2026, dispoñibles en:</p><p>https://bop.dacoruna.gal/bopportal/publicado/2026/04/15/2026_0000002306.pdf</p><p> Cuarto. Contía</p><p>O importe da consignación ascende a un total de 100.000,00 €, con cargo á aplicación 0611/23122/481 do Orzamento ordinario para 2026.</p><p>Establécense oito premios por un importe máximo de 12.500 euros cada un.</p><p>Quinto. Criterios de valoración</p><p>Os criterios de valoración serán os establecidos na base 8ª das Bases do premio.</p><p>Sexto. Prazo de presentación de solicitudes</p><p>O prazo de presentación de solicitudes iniciarase a partir do día seguinte ao da publicación do presente extracto da convocatoria no BOP da Coruña, e rematará ás 14:00 horas do día 28 de maio de 2026.</p><p>Sétimo. Outros datos de interese</p><p>Tanto as solicitudes como o resto da tramitación da presente convocatoria, realizarase por vía telemática a través da plataforma SUBTEL, accesible dende a sede electrónica da Deputación Provincial da Coruña: https://sede.dacoruna.gal/</p>",
+        "url": "https://bop.dacoruna.gal/bopportal/descargarPdf.do?fecha=20260430&numRegistro=2026/0000002675.pdf",
+        "cve": "2026/2675",
+        "desDiarioOficial": "B.O.P. DE A CORUÑA",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

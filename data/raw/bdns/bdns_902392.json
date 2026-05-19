@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902392",
+  "id_interno": 1103953,
+  "numero_convocatoria": "902392",
+  "organismo": "LOCAL — SANT ANDREU DE LA BARCA — AYUNTAMIENTO DE SANT ANDREU DE LA BARCA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "2025-01-01",
+  "fecha_fin_solicitud": "2025-12-31",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Subvención nominativa para el mantenimiento de las instalaciones deportivas para el año 2025",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+  "regiones": "ES511 - Barcelona",
+  "finalidad": "Otras Prestaciones económicas",
+  "bases_reguladoras": "Aprobación del presupuesto único municipal de la corporación para el ejercicio 2025",
+  "url_bases_reguladoras": "https://tauler.seu-e.cat/detall?idEns=819600000&idEdicte=530494",
+  "presupuesto": "2.000,00 €",
+  "presupuesto_total_num": 2000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902392",
+  "text": "CONVOCATORIA BDNS Nº 902392\nOrganismo: LOCAL — SANT ANDREU DE LA BARCA — AYUNTAMIENTO DE SANT ANDREU DE LA BARCA\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud: 2025-01-01 → 2025-12-31 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 2.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO\nRegiones: ES511 - Barcelona\nFinalidad: Otras Prestaciones económicas\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSubvención nominativa para el mantenimiento de las instalaciones deportivas para el año 2025\n\nBases reguladoras:\nAprobación del presupuesto único municipal de la corporación para el ejercicio 2025\nURL bases reguladoras: https://tauler.seu-e.cat/detall?idEns=819600000&idEdicte=530494\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902392",
+  "_raw": {
+    "id": 1103953,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "SANT ANDREU DE LA BARCA",
+      "nivel3": "AYUNTAMIENTO DE SANT ANDREU DE LA BARCA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902392",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 2000,
+    "mrr": false,
+    "descripcion": "Subvención nominativa para el mantenimiento de las instalaciones deportivas para el año 2025",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES511 - Barcelona"
+      }
+    ],
+    "descripcionFinalidad": "Otras Prestaciones económicas",
+    "descripcionBasesReguladoras": "Aprobación del presupuesto único municipal de la corporación para el ejercicio 2025",
+    "urlBasesReguladoras": "https://tauler.seu-e.cat/detall?idEns=819600000&idEdicte=530494",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2025-01-01",
+    "fechaFinSolicitud": "2025-12-31",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445214,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "EDICTE ANUNCI PUM 2025.pdf",
+        "long": 357046,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "id": "EU-50135746TOPICSen",
+  "topic_id": "50135746TOPICSen",
+  "titulo": "Leveraging long-term field experiments and other datasets to develop AI-ready decision support systems for sustainable soil management",
+  "descripcion": "Leveraging long-term field experiments and other datasets to develop AI-ready decision support systems for sustainable soil management",
+  "organismo": "43108390",
+  "fecha_publicacion": "2026-02-04",
+  "fecha_limite": "2026-09-23",
+  "deadlines_todas": "2026-09-23",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113041\":[{\"action\":\"HORIZON-MISS-2026-05-SOIL-02 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":2,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2026\":\"14000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113040\":[{\"action\":\"HORIZON-MISS-2026-05-SOIL-03 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"5000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113042\":[{\"action\":\"HORIZON-MISS-2026-05-SOIL-01 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"5000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113039\":[{\"action\":\"HORIZON-MISS-2026-05-SOIL-04 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":1,\"minContribution\":9000000,\"maxContribution\":9000000,\"budgetYearMap\":{\"2026\":\"9000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "HORIZON Innovation Actions",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-05-SOIL-04",
+  "text": "EU FUNDING & TENDERS – Topic: 50135746TOPICSen\nProgramme/Organism: 43108390\nTitle: Leveraging long-term field experiments and other datasets to develop AI-ready decision support systems for sustainable soil management\nStatus: Open (31094502)\nType of action: HORIZON Innovation Actions\nOpening date: 2026-02-04\nDeadline: 2026-09-23\nAll deadlines: 2026-09-23\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113041\":[{\"action\":\"HORIZON-MISS-2026-05-SOIL-02 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":2,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2026\":\"14000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113040\":[{\"action\":\"HORIZON-MISS-2026-05-SOIL-03 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"5000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113042\":[{\"action\":\"HORIZON-MISS-2026-05-SOIL-01 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"5000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113039\":[{\"action\":\"HORIZON-MISS-2026-05-SOIL-04 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":1,\"minContribution\":9000000,\"maxContribution\":9000000,\"budgetYearMap\":{\"2026\":\"9000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}]}}\n\nDescription / Scope:\nLeveraging long-term field experiments and other datasets to develop AI-ready decision support systems for sustainable soil management\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-05-SOIL-04",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "50135746TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-05-SOIL-04",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Leveraging long-term field experiments and other datasets to develop AI-ready decision support systems for sustainable soil management",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Leveraging long-term field experiments and other datasets to develop AI-ready decision support systems for sustainable soil management",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "6705DB66F504BAFE4CC883D367923909447E39CAE2B2889721939CB65149481D",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-02-17T12:21:39.123\",\"content\":\"\\u003cp\\u003eIf your lump sum budget contains any cost items in cost category C and/or D, please make sure to justify these items in the ‘Any comments’ sheet of the Excel detailed lump sum budget table.\\u003c/p\\u003e\\u003cp\\u003eThe reason is that we simplified the proposal template, removing this information from Part B and bringing it closer to the relevant budget items. \\u003c/p\\u003e\\u003cp\\u003eSpecifically, you must include justification in the ‘Any comments’ sheet if you are in any of the following situations: \\u003c/p\\u003e\\u003cul\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eIf the sum of the costs for ’travel and subsistence’, ‘equipment’, and ‘other goods, works and services’ (i.e. the purchase costs) exceeds 15% of the personnel costs for a participant. If this is the case, justify the most expensive cost item(s) up to the level that the remaining costs are below 15% of personnel costs.\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eIf other cost categories (e.g. internally invoiced goods and services) are used.\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eIf in-kind contributions are used (non-financial resources made available free of charge by third parties, which must be included as direct costs in the corresponding cost category, e.g. personnel costs or purchase costs for equipment). \\u003c/li\\u003e\\u003c/ul\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-02-04T00:01:00.492\",\"content\":\"The submission session is now available for: HORIZON-MISS-2026-05-SOIL-04, HORIZON-MISS-2026-05-SOIL-03, HORIZON-MISS-2026-05-SOIL-02, HORIZON-MISS-2026-05-SOIL-01\"}]"
+      ],
+      "es_SortDate": [
+        "2026-02-04T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "HORIZON-MISS-2026-05-SOIL-04",
+        "HORIZON-MISS-2026-05",
+        "Long-term soil monitoring",
+        "Soil biodiversity",
+        "Soil biology",
+        "Soil chemistry",
+        "Soil fertility",
+        "Soil management",
+        "Soil monitoring",
+        "Soil physics",
+        "Soil science"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p><strong><em>﻿</em></strong>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex A</a> and <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex E</a> of the Horizon Europe Work Programme General Annexes.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p>A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a>.</p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>Proposals must apply the multi-actor approach. See definition of the multi-actor approach in the introduction to this work programme part.</p></div><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex C</a> of the Work Programme General Annexes.</p></div></div><div><h4>5a. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex D</a> of the Work Programme General Annexes.</p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>Beneficiaries may provide financial support to third parties to involve developers in creating or improving AI-powered applications that provide tailored advice to farmers and advisors, enhancing soil management and benefiting small-scale producers. The maximum amount to be granted to each third party is EUR 60 000.</p></div><div class=\"eui-u-mt-s\"><p>Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme – the Framework Programme for Research and Innovation (2021-2027) – and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025) [[This <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\"><u>decision</u></a> is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under ‘Simplified costs decisions’ or through this link: <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\"><u>https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf</u></a>]].</p></div><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex G</a> of the Work Programme General Annexes.</p></div></div></div><div class=\"eui-u-mt-l\"><h4>Specific conditions</h4> <div class=\"eui-u-mt-s\"><p>described in the [specific topic of the Work Programme]</p></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Application and evaluation forms and model grant agreement (MGA):</h4> <div class=\"eui-u-mt-s\"><p><strong>Application form templates</strong> <em>— the application form specific to this call is available in the Submission System</em></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (HE RIA, IA)</a></p><p><strong>Evaluation form templates</strong> <em>— will be used with the necessary adaptations</em> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/ef/ef_he-ria-ia_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard evaluation form (HE RIA, IA)</a>&#xa0;</p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a>&#xa0;</p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/ls-mga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Lump Sum MGA</a>&#xa0;</p><p><strong>Call-specific instructions</strong>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/temp-form/af/detailed-budget-table_he-ls-euratom_en.xlsm\" rel=\"noopener noreferrer\" target=\"_blank\">Detailed budget table (HE LS)</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/information-on-financial-support-to-third-parties_he_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Information on financial support to third parties (HE)</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-funding-what-do-i-need-to-know_he_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Guidance: \"Lump sums - what do I need to know?\"</a></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-1-general-introduction_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 1. General Introduction</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-12-missions_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 12. Missions</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 15. General Annexes</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0695\" rel=\"noopener noreferrer\" target=\"_blank\">HE Framework Programme 2021/695</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021D0764\" rel=\"noopener noreferrer\" target=\"_blank\">HE Specific Programme Decision 2021/764</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Decision authorising the use of lump sum contributions under the Horizon Europe Programme</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a> </p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "Leveraging long-term field experiments and other datasets to develop AI-ready decision support systems for sustainable soil management"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "6705DB66F504BAFE4CC883D367923909447E39CAE2B2889721939CB65149481D"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43027849"
+      ],
+      "callIdentifier": [
+        "HORIZON-MISS-2026-05"
+      ],
+      "ccm2Id": [
+        "50135746"
+      ],
+      "callccm2Id": [
+        "50136584"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50135746TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"HORIZON-MISS-2026-05\",\"criterionCode\":\"HORIZON-IA\",\"criterionDescription\":\"HORIZON Innovation Actions\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43320?topic\\u003dHORIZON-MISS-2026-05-SOIL-04\",\"startDate\":\"1770163200000\",\"endDate\":\"1790121600000\",\"mgaDescription\":\"HORIZON Lump Sum Grant\",\"mgaCode\":\"HORIZON-AG-LS\"}]"
+      ],
+      "callTitle": [
+        "Supporting the implementation of the Soil Deal for Europe Mission"
+      ],
+      "frameworkProgramme": [
+        "43108390"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Outcome:</p><p>Activities under this topic will help progress towards the objectives and targets of the <a href=\"https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/eu-missions-horizon-europe/soil-deal-europe_en\">Mission Soil</a> and the <a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021DC0699\">EU Soil Strategy for 2030</a>. Activities should also contribute to the implementation of the <u><a href=\"https://environment.ec.europa.eu/topics/soil-health/soil-health_en\">Soil Monitoring and Resilience Directive</a></u> after its adoption.</p><p>Project results are expected to contribute to <u>all</u> the following expected outcomes:</p><ul level=\"0\"><li>enhanced adoption of impactful sustainable soil management solutions and strategies supported by AI-powered decision support systems by land managers;</li><li>harmonised, standard, robust, interoperable and accessible methods, protocols and logical architecture for long-term field experiments (LTEs) data collection and integration (including with other datasets) are in place;</li><li>scientists, policymakers, and land managers gain enhanced access to comprehensive, high-quality soil data, enabling better research, informed decision-making, and effective land management practices.</li> </ul><p class=\"topicdescriptionkind\">Scope:</p><p>Long-term field experiments (LTEs) can be defined as “agricultural experiments for monitoring soil and crop properties under changing climate conditions and different management with a minimum duration of 20 years”<sup>[1]</sup><sup>,</sup><sup>[2]</sup>. LTEs are typically owned or managed by public research institutions.</p><p>Long-term field experiments provide valuable information on soil health and sustainable soil management practices and can be considered critical infrastructure for agricultural research. However, LTEs present some limitations or needs to maximize their impact.</p><ul level=\"0\"><li>There is a need for standardized methods in collecting and reporting soil data to ensure consistency and comparability across different studies and regions.</li><li>Opportunities exist to integrate soil data from long-term field experiments with other data sources (including the Mission Soil projects results, but not only) to provide a more comprehensive understanding of soil health dynamics and trend, as well as response to policies and management strategies.</li><li>Enhancing the accessibility and interoperability of soil data across platforms and sources can facilitate collaborative research and accelerate advancements in soil health management.</li><li>More high-resolution temporal and spatial data are needed to capture short-term soil dynamics and site-specific variations that can influence broader interpretations of soil health trends. </li> </ul><p>On the other hand, independent advisory services on soil health for land managers often face challenges such as limited access to comprehensive data, variability in expertise, and the inability to provide tailored recommendations specific to diverse local conditions. These services may struggle with integrating complex and dynamic factors that influence soil health, leading to generic advice that may not effectively address specific needs. There is an opportunity in utilizing cutting-edge technologies such as machine learning and artificial intelligence (AI) to analyse vast, complex soil data sets, extract meaningful patterns, and develop predictive models that can enhance the quality of advice provided, improving decision-making, and fostering more effective, sustainable soil management practices.</p><p>Proposed activities should:</p><ul level=\"0\"><li>design and implement standardised protocols and procedures for harmonised soil data collection, ensuring consistency and comparability, from different LTEs and regions across the EU and Horizon Europe Associated Countries;</li><li>develop robust frameworks for integrating LTE data with other relevant soil health datasets, including outputs from Mission Soil projects, to create comprehensive soil health databases;</li><li>develop open-access and user-friendly interoperable systems and platforms to improve data sharing and accessibility, allowing researchers, advisors, land managers and other stakeholders to easily access and utilize comprehensive soil health information;</li><li>build a network of at least 50 LTEs covering most representative pedo-climatic regions in the EU and Associated Countries involving at least 7 owning institutions, to test and validate the developed infrastructure;</li><li>promote the use of the developed infrastructure for widespread collection and integration of as many as possible soil-health relevant databases (LTEs and others) by, for example, developing intuitive interfaces and user-friendly platforms, partnering with relevant organizations managing LTEs and/or generating datasets, demonstration projects, feedback and improvement loops or training and support services;</li><li>develop AI-driven tools to analyze integrated datasets (including publicly available such as CORDIS, SoilWise repository or repositories like Zenodo), extracting meaningful patterns, and generating predictive models that inform soil health dynamics and management strategies;</li><li>examine potentially correlated explanatory covariates and their relative contribution to the outcome to facilitate spatial downscaling and forecasting in data poor regions and areas by using pre-trained deep learning models;</li><li>develop and train open-source and/or modular AI components, providing comprehensive documentation and tutorials, and establish and nurture open-source communities by, for example, hosting hackathons, workshops, or online platforms to encourage the development, sharing, and integration of the developed modular AI components into commercial applications for land managers and advisors, with a focus on small-scale producers;</li><li>mine large data from publicly available databases (e.g. CORDIS, SoilWise repository or repositories like Zenodo) to pre-train deep learning models and artificial intelligence mobile apps that will facilitate real-time soil status assessments.</li> </ul><p>The project(s) must implement the multi-actor approach<strong> </strong>and ensure an adequate involvement of the primary production sector and all relevant actors (landowners, farmers, scientists, advisors, local/regional/national public authorities) throughout the different stages of project development and implementation. Beneficiaries may provide financial support to third parties (FSTP) to incentivise and support third-party developers to create or improve innovative AI-powered applications that deliver tailored advice to farmers and advisors, enhancing soil management practices and benefiting small-scale producers.</p><p>Proposals should build on the work done by the <a href=\"https://soilwise-he.eu/\">SoilWise</a> project and collaborate with the <u><a href=\"https://esdac.jrc.ec.europa.eu/euso\">EU Soil Observatory</a></u>.</p><p>Proposals should include a dedicated task and appropriate resources to collaborate with other Mission Soil relevant projects developing soil information systems, in particular project <u><a href=\"https://cordis.europa.eu/project/id/101218840\">African Union Soil Observatory</a></u> (AUSO), and other projects that are being funded by other entities in the EU, Horizon Europe Associated Countries and in Africa, including philanthropic organisations. Participation of African organizations is encouraged.</p><p class=\"eui-u-font-s\">[1] <a href=\"https://tools.bonares.de/media/bonares_series/Bonares_Series_2023_1_7ss0-zm41_V1.1.pdf\">Bonares_Series_2023_1_7ss0-zm41_V1.1.pdf</a></p><p class=\"eui-u-font-s\">[2] <sup><a href=\"https://soil.copernicus.org/articles/6/579/2020/?utm_source\">SOIL - Long-term field experiments in Germany: classification and spatial representation</a></sup></p>"
+      ],
+      "identifier": [
+        "HORIZON-MISS-2026-05-SOIL-04"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43108390",
+        "43108541",
+        "43121563"
+      ],
+      "crossCuttingPriorities": [
+        "INCO",
+        "DigitalAgenda",
+        "AI"
+      ],
+      "esDA_FirstIngestDate": [
+        "2025-12-12T00:00:38.880+0100"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-09-23T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-03-02T09:27:48.072+0100"
+      ],
+      "typesOfAction": [
+        "HORIZON Innovation Actions"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-05-SOIL-04"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-05-SOIL-04"
+      ],
+      "tags": [
+        "AI decision support systems",
+        "Artificial intelligence",
+        "Decision support system",
+        "Decision support tools",
+        "Long-term field experiments",
+        "Soil management",
+        "Sustainable soil management"
+      ],
+      "cenTagsA": [
+        "TOPICS-002353",
+        "TOPICS-002354",
+        "TOPICS-002355",
+        "TOPICS-002356",
+        "TOPICS-002357",
+        "TOPICS-002358",
+        "TOPICS-002359",
+        "TOPICS-002360",
+        "TOPICS-002361",
+        "TOPICS-002362",
+        "TOPICS-000404",
+        "TOPICS-002363",
+        "TOPICS-002364",
+        "TOPICS-002365",
+        "TOPICS-002366",
+        "TOPICS-002367",
+        "TOPICS-002368",
+        "TOPICS-002369",
+        "TOPICS-002277",
+        "TOPICS-002279",
+        "TOPICS-002370",
+        "TOPICS-002276"
+      ],
+      "esDA_QueueDate": [
+        "2026-03-02T09:27:48.062+0100"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"HORIZON-IA HORIZON Innovation Actions\",\"typeOfMGA\":[{\"id\":43027849,\"abbreviation\":\"HORIZON-AG-LS\",\"description\":\"HORIZON Lump Sum Grant\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-02-04\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-09-23\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113041\":[{\"action\":\"HORIZON-MISS-2026-05-SOIL-02 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":2,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2026\":\"14000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113040\":[{\"action\":\"HORIZON-MISS-2026-05-SOIL-03 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"5000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113042\":[{\"action\":\"HORIZON-MISS-2026-05-SOIL-01 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"5000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113039\":[{\"action\":\"HORIZON-MISS-2026-05-SOIL-04 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":1,\"minContribution\":9000000,\"maxContribution\":9000000,\"budgetYearMap\":{\"2026\":\"9000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}]}}"
+      ],
+      "startDate": [
+        "2026-02-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> – find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> – ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> – get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (‘third-countries’).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> – contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> – the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> – consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Leveraging long-term field experiments and other datasets to develop AI-ready decision support systems for sustainable soil management. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-05-SOIL-04",
+    "score": 3.0
+  }
+}

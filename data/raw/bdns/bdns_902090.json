@@ -1,0 +1,160 @@
+{
+  "id": "BDNS-902090",
+  "id_interno": 1103651,
+  "numero_convocatoria": "902090",
+  "organismo": "LOCAL — ARETXABALETA — AYUNTAMIENTO DE ARETXABALETA",
+  "sede_electronica": "https://uzt.gipuzkoa.eus/PortalV/7.00/Default.aspx?idioma=eu-ES&idAyto=13",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA PÚBLICA DE LOS DIFERENTES PROGRAMAS DE SUBVENCIONES ESTABLECIDOS POR EL AYUNTAMIENTO DE ARETXABALETA PARA EL AÑO 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de bibliotecas, archivos, museos y otras actividades culturales, Actividades de creación artística y artes escénicas, Actividades de las empresas de trabajo temporal y otra provisión de recursos humanos, Actividades deportivas, recreativas y de entretenimiento, Administración pública y defensa; seguridad social obligatoria, Asistencia en establecimientos residenciales para personas que padecen una enfermedad mental o una drogodependencia o que han recibido un diagnóstico al respecto, Educación preprimaria, ORGANISMOS EXTRATERRITORIALES, Otra educación, Otras actividades de asistencia en establecimientos residenciales, Otras actividades de servicios sociales sin alojamiento",
+  "regiones": "ES211 - Araba/Álava, ES212 - Gipuzkoa, ES213 - Bizkaia, ES220 - Navarra, FR6 - SUD-OUEST",
+  "finalidad": "Otras actuaciones de carácter económico",
+  "bases_reguladoras": "BASES REGULADORAS DE LOS DIFERENTES PROGRAMAS DE SUBVENCIONES ESTABLECIDOS POR EL AYUNTAMIENTO DE ARETXABALETA PARA EL AÑO 2026",
+  "url_bases_reguladoras": "https://www.aretxabaleta.eus/eu/tramiteak/2026ko-dirulaguntzen-oinarriak.pdf",
+  "presupuesto": "172.600,00 €",
+  "presupuesto_total_num": 172600,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902090",
+  "text": "CONVOCATORIA BDNS Nº 902090\nOrganismo: LOCAL — ARETXABALETA — AYUNTAMIENTO DE ARETXABALETA\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 172.600,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de bibliotecas, archivos, museos y otras actividades culturales, Actividades de creación artística y artes escénicas, Actividades de las empresas de trabajo temporal y otra provisión de recursos humanos, Actividades deportivas, recreativas y de entretenimiento, Administración pública y defensa; seguridad social obligatoria, Asistencia en establecimientos residenciales para personas que padecen una enfermedad mental o una drogodependencia o que han recibido un diagnóstico al respecto, Educación preprimaria, ORGANISMOS EXTRATERRITORIALES, Otra educación, Otras actividades de asistencia en establecimientos residenciales, Otras actividades de servicios sociales sin alojamiento\nRegiones: ES211 - Araba/Álava, ES212 - Gipuzkoa, ES213 - Bizkaia, ES220 - Navarra, FR6 - SUD-OUEST\nFinalidad: Otras actuaciones de carácter económico\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA PÚBLICA DE LOS DIFERENTES PROGRAMAS DE SUBVENCIONES ESTABLECIDOS POR EL AYUNTAMIENTO DE ARETXABALETA PARA EL AÑO 2026\n\nBases reguladoras:\nBASES REGULADORAS DE LOS DIFERENTES PROGRAMAS DE SUBVENCIONES ESTABLECIDOS POR EL AYUNTAMIENTO DE ARETXABALETA PARA EL AÑO 2026\nURL bases reguladoras: https://www.aretxabaleta.eus/eu/tramiteak/2026ko-dirulaguntzen-oinarriak.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902090",
+  "_raw": {
+    "id": 1103651,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "ARETXABALETA",
+      "nivel3": "AYUNTAMIENTO DE ARETXABALETA"
+    },
+    "sedeElectronica": "https://uzt.gipuzkoa.eus/PortalV/7.00/Default.aspx?idioma=eu-ES&idAyto=13",
+    "codigoBDNS": "902090",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 172600,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA PÚBLICA DE LOS DIFERENTES PROGRAMAS DE SUBVENCIONES ESTABLECIDOS POR EL AYUNTAMIENTO DE ARETXABALETA PARA EL AÑO 2026",
+    "descripcionLeng": "ARETXABALETAKO UDALAK 2026. URTERAKO EZARRI DITUEN DIRULAGUNTZA PROGRAMEN DEIALDI IREKIA",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+        "codigo": "91"
+      },
+      {
+        "descripcion": "Actividades de creación artística y artes escénicas",
+        "codigo": "90"
+      },
+      {
+        "descripcion": "Actividades de las empresas de trabajo temporal y otra provisión de recursos humanos",
+        "codigo": "78.2"
+      },
+      {
+        "descripcion": "Actividades deportivas, recreativas y de entretenimiento",
+        "codigo": "93"
+      },
+      {
+        "descripcion": "Administración pública y defensa; seguridad social obligatoria",
+        "codigo": "84"
+      },
+      {
+        "descripcion": "Asistencia en establecimientos residenciales para personas que padecen una enfermedad mental o una drogodependencia o que han recibido un diagnóstico al respecto",
+        "codigo": "87.2"
+      },
+      {
+        "descripcion": "Educación preprimaria",
+        "codigo": "85.1"
+      },
+      {
+        "descripcion": "ORGANISMOS EXTRATERRITORIALES",
+        "codigo": "V"
+      },
+      {
+        "descripcion": "Otra educación",
+        "codigo": "85.5"
+      },
+      {
+        "descripcion": "Otras actividades de asistencia en establecimientos residenciales",
+        "codigo": "87.9"
+      },
+      {
+        "descripcion": "Otras actividades de servicios sociales sin alojamiento",
+        "codigo": "88.9"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES211 - Araba/Álava"
+      },
+      {
+        "descripcion": "ES212 - Gipuzkoa"
+      },
+      {
+        "descripcion": "ES213 - Bizkaia"
+      },
+      {
+        "descripcion": "ES220 - Navarra"
+      },
+      {
+        "descripcion": "FR6 - SUD-OUEST"
+      }
+    ],
+    "descripcionFinalidad": "Otras actuaciones de carácter económico",
+    "descripcionBasesReguladoras": "BASES REGULADORAS DE LOS DIFERENTES PROGRAMAS DE SUBVENCIONES ESTABLECIDOS POR EL AYUNTAMIENTO DE ARETXABALETA PARA EL AÑO 2026",
+    "urlBasesReguladoras": "https://www.aretxabaleta.eus/eu/tramiteak/2026ko-dirulaguntzen-oinarriak.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Desde el día siguiente a la publicación del extracto de esta convocatoria en el BOG",
+    "textFin": "Plazo de un mes, contado desde el día siguiente a la publicación en el BOG",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446473,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "2026 dirulaguntzen oinarriak.pdf",
+        "long": 1265914,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446472,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "2026 dirulaguntzen oinarriak.pdf",
+        "long": 1265914,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

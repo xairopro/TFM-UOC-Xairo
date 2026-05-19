@@ -1,0 +1,104 @@
+{
+  "id": "BDNS-902551",
+  "id_interno": 1104112,
+  "numero_convocatoria": "902551",
+  "organismo": "AUTONOMICA — CIUDAD AUTÓNOMA DE CEUTA — INSTITUTO DE ESTUDIOS CEUTÍES",
+  "sede_electronica": "https://sede.ceuta.es/controlador/controlador?cmd=tramite&modulo=tramites&tramite=AYNVT",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA 2026 - AYUDAS A LA INVESTIGACIÓN - INSTITUTO DE ESTUDIOS CEUTÍES",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Investigación y desarrollo experimental en ciencias naturales y técnicas, Investigación y desarrollo experimental en ciencias sociales y humanidades",
+  "regiones": "ES63 - CIUDAD AUTONOMA DE CEUTA",
+  "finalidad": "Investigación, desarrollo e innovación",
+  "bases_reguladoras": "BASES REGULADORAS DE LA CONCESIÓN DE AYUDAS A LA INVESTIGACIÓN",
+  "url_bases_reguladoras": "https://www.ceuta.es/ceuta/component/jdownloads/finish/1548-mayo/8854-bocce-5677-12-05-2017?Itemid=534",
+  "presupuesto": "40.000,00 €",
+  "presupuesto_total_num": 40000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902551",
+  "text": "CONVOCATORIA BDNS Nº 902551\nOrganismo: AUTONOMICA — CIUDAD AUTÓNOMA DE CEUTA — INSTITUTO DE ESTUDIOS CEUTÍES\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 40.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Investigación y desarrollo experimental en ciencias naturales y técnicas, Investigación y desarrollo experimental en ciencias sociales y humanidades\nRegiones: ES63 - CIUDAD AUTONOMA DE CEUTA\nFinalidad: Investigación, desarrollo e innovación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA 2026 - AYUDAS A LA INVESTIGACIÓN - INSTITUTO DE ESTUDIOS CEUTÍES\n\nBases reguladoras:\nBASES REGULADORAS DE LA CONCESIÓN DE AYUDAS A LA INVESTIGACIÓN\nURL bases reguladoras: https://www.ceuta.es/ceuta/component/jdownloads/finish/1548-mayo/8854-bocce-5677-12-05-2017?Itemid=534\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902551",
+  "_raw": {
+    "id": 1104112,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "CIUDAD AUTÓNOMA DE CEUTA",
+      "nivel3": "INSTITUTO DE ESTUDIOS CEUTÍES"
+    },
+    "sedeElectronica": "https://sede.ceuta.es/controlador/controlador?cmd=tramite&modulo=tramites&tramite=AYNVT",
+    "codigoBDNS": "902551",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 40000,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA 2026 - AYUDAS A LA INVESTIGACIÓN - INSTITUTO DE ESTUDIOS CEUTÍES",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Investigación y desarrollo experimental en ciencias naturales y técnicas",
+        "codigo": "72.1"
+      },
+      {
+        "descripcion": "Investigación y desarrollo experimental en ciencias sociales y humanidades",
+        "codigo": "72.2"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES63 - CIUDAD AUTONOMA DE CEUTA"
+      }
+    ],
+    "descripcionFinalidad": "Investigación, desarrollo e innovación",
+    "descripcionBasesReguladoras": "BASES REGULADORAS DE LA CONCESIÓN DE AYUDAS A LA INVESTIGACIÓN",
+    "urlBasesReguladoras": "https://www.ceuta.es/ceuta/component/jdownloads/finish/1548-mayo/8854-bocce-5677-12-05-2017?Itemid=534",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "al día siguiente de su publicación en el BOCCE",
+    "textFin": "dos meses a contar desde el día siguiente al de la publicación de la convocatoria en el BOCCE",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445650,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "03-CONV.-2026-AI-IEC-TEXTO-COMPLETO-DISPOSIC-fdo.PDF",
+        "long": 310849,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

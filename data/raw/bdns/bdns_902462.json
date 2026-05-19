@@ -1,0 +1,109 @@
+{
+  "id": "BDNS-902462",
+  "id_interno": 1104023,
+  "numero_convocatoria": "902462",
+  "organismo": "AUTONOMICA — CATALUÑA — DEPARTAMENT D'AGRICULTURA, RAMADERIA, PESCA I ALIMENTACIÓ",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Ayudas al control de rendimiento lechero.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Agricultura, ganadería, caza y servicios relacionados con las mismas",
+  "regiones": "ES51 - CATALUÑA",
+  "finalidad": "Agricultura, Pesca y Alimentación",
+  "bases_reguladoras": "Bases reguladoras de las subvenciones al control de rendimiento lechero y se modifican diversos reales decretos en materia agraria.",
+  "url_bases_reguladoras": "https://www.boe.es/eli/es/rd/2023/07/18/663/con",
+  "presupuesto": "1.000,00 €",
+  "presupuesto_total_num": 1000,
+  "ayuda_estado": "SA.108725",
+  "url_ayuda_estado": "https://competition-cases.ec.europa.eu/cases/SA.108725",
+  "fondos": "",
+  "reglamento": "PRODUCCIÓN AGRÍCOLA PRIMARIA - REG (UE) 2022/2472, de 14 DE DICIEMBRE, de exención de notificación (vigente desde 01-01-2023)",
+  "objetivos": "ART. 27 AYUDAS DESTINADAS AL SECTOR GANADERO Y AYUDAS POR GANADO MUERTO",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902462",
+  "text": "CONVOCATORIA BDNS Nº 902462\nOrganismo: AUTONOMICA — CATALUÑA — DEPARTAMENT D'AGRICULTURA, RAMADERIA, PESCA I ALIMENTACIÓ\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 1.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Agricultura, ganadería, caza y servicios relacionados con las mismas\nRegiones: ES51 - CATALUÑA\nFinalidad: Agricultura, Pesca y Alimentación\nFondos: \nReglamento: PRODUCCIÓN AGRÍCOLA PRIMARIA - REG (UE) 2022/2472, de 14 DE DICIEMBRE, de exención de notificación (vigente desde 01-01-2023)\nAyuda de Estado: SA.108725\nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nAyudas al control de rendimiento lechero.\n\nBases reguladoras:\nBases reguladoras de las subvenciones al control de rendimiento lechero y se modifican diversos reales decretos en materia agraria.\nURL bases reguladoras: https://www.boe.es/eli/es/rd/2023/07/18/663/con\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902462",
+  "_raw": {
+    "id": 1104023,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "CATALUÑA",
+      "nivel3": "DEPARTAMENT D'AGRICULTURA, RAMADERIA, PESCA I ALIMENTACIÓ"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902462",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 1000,
+    "mrr": false,
+    "descripcion": "Ayudas al control de rendimiento lechero.",
+    "descripcionLeng": "Ajuts al control de rendiment lleter",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Agricultura, ganadería, caza y servicios relacionados con las mismas",
+        "codigo": "01"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES51 - CATALUÑA"
+      }
+    ],
+    "descripcionFinalidad": "Agricultura, Pesca y Alimentación",
+    "descripcionBasesReguladoras": "Bases reguladoras de las subvenciones al control de rendimiento lechero y se modifican diversos reales decretos en materia agraria.",
+    "urlBasesReguladoras": "https://www.boe.es/eli/es/rd/2023/07/18/663/con",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Des de l’endemà de la publicació en el diari oficial de la convocatòria inicial",
+    "textFin": "15 Dies Hàbils",
+    "ayudaEstado": "SA.108725",
+    "urlAyudaEstado": "https://competition-cases.ec.europa.eu/cases/SA.108725",
+    "fondos": [],
+    "reglamento": {
+      "descripcion": "PRODUCCIÓN AGRÍCOLA PRIMARIA - REG (UE) 2022/2472, de 14 DE DICIEMBRE, de exención de notificación (vigente desde 01-01-2023)",
+      "orden": null
+    },
+    "objetivos": [
+      {
+        "descripcion": "ART. 27 AYUDAS DESTINADAS AL SECTOR GANADERO Y AYUDAS POR GANADO MUERTO"
+      }
+    ],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445425,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "RESOLUCIÓ RENDIMENT LLETER_1.pdf",
+        "long": 302770,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445424,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "RESOLUCIÓN RENDIMIENTO LECHERO.pdf",
+        "long": 144021,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

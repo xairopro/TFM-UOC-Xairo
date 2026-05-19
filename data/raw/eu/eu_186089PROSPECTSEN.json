@@ -1,0 +1,136 @@
+{
+  "id": "EU-186089PROSPECTSEN",
+  "topic_id": "186089PROSPECTSEN",
+  "titulo": "Strengthening Civil Society for Risk Mitigation and Dialogue in Support of EU-Tanzania Economic Cooperation",
+  "descripcion": "Strengthening Civil Society for Risk Mitigation and Dialogue in Support of EU-Tanzania Economic Cooperation",
+  "organismo": "111111",
+  "fecha_publicacion": "2026-03-13",
+  "fecha_limite": "2026-05-07",
+  "deadlines_todas": "2026-05-07",
+  "presupuesto": "5757000",
+  "duracion": "",
+  "tipo_accion": "",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186089",
+  "text": "EU FUNDING & TENDERS – Topic: 186089PROSPECTSEN\nProgramme/Organism: 111111\nTitle: Strengthening Civil Society for Risk Mitigation and Dialogue in Support of EU-Tanzania Economic Cooperation\nStatus: Open (31094502)\nType of action: \nOpening date: 2026-03-13\nDeadline: 2026-05-07\nAll deadlines: 2026-05-07\nDuration: \nBudget overview: 5757000\n\nDescription / Scope:\nStrengthening Civil Society for Risk Mitigation and Dialogue in Support of EU-Tanzania Economic Cooperation\n\nMore info: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186089",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "186089PROSPECTSEN",
+    "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186089",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Strengthening Civil Society for Risk Mitigation and Dialogue in Support of EU-Tanzania Economic Cooperation",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Strengthening Civil Society for Risk Mitigation and Dialogue in Support of EU-Tanzania Economic Cooperation",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "3E547B8DFBF0B383534EA470830DFD080DE0D0C09A0B49C52C6900A54EB0FE78",
+    "metadata": {
+      "updateDate": [
+        "2026-04-24T15:45:22.000+0000"
+      ],
+      "es_SortDate": [
+        "2026-03-13T12:00:00.000+0000"
+      ],
+      "beneficiaryAdministration": [],
+      "sortStatus": [
+        "1"
+      ],
+      "contractType": [
+        "42893160"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Strengthening Civil Society for Risk Mitigation and Dialogue in Support of EU-Tanzania Economic Cooperation"
+      ],
+      "type": [
+        "2"
+      ],
+      "esST_checksum": [
+        "3E547B8DFBF0B383534EA470830DFD080DE0D0C09A0B49C52C6900A54EB0FE78"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "callIdentifier": [
+        "186089"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "186089PROSPECTSEN"
+      ],
+      "currency": [
+        "EUR"
+      ],
+      "frameworkProgramme": [
+        "111111"
+      ],
+      "budget": [
+        "5757000"
+      ],
+      "identifier": [
+        "EuropeAid/186089/DD/ACT/TZ"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "geographicalZones": [
+        "20001030"
+      ],
+      "publicationDocuments": [
+        "[{\"nameDoc\":\"FURTHER INFO ABOUT CONCEPT NOTES (presentation info session)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-24 23:00:05.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160706&lang=EN\"},{\"nameDoc\":\"FURTHER INFO ABOUT CONCEPT NOTES (Q&A))\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-24 23:55:14.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160704&lang=EN\"},{\"nameDoc\":\"Corrigendum 1 - Annex 1 - Guidelines for Grant Applicants - 186-089\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-24 14:00:37.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160391&lang=EN\"},{\"nameDoc\":\"Corrigendum 1 to CfP 186-089\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-24 14:00:52.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160389&lang=EN\"},{\"nameDoc\":\"Annex J - Information on the tax regime applicable to grant contracts\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-13 13:00:16.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160404&lang=EN\"},{\"nameDoc\":\"Annex G IX - Standard template for transfer of ownership of assets\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-13 13:00:04.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160402&lang=EN\"},{\"nameDoc\":\"Annex G VIII - Model of financial guaranteee\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-13 13:00:29.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160387&lang=EN\"},{\"nameDoc\":\"Annex G VIIA - ToR for expenditure verification\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-13 13:00:30.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160408&lang=EN\"},{\"nameDoc\":\"Annex G VIIA - Expenditure verification table of transations and errors\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-13 13:00:45.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160406&lang=EN\"},{\"nameDoc\":\"Annex G VI - Mode of interim narrative report\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-13 13:00:29.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160401&lang=EN\"},{\"nameDoc\":\"Annex G VI - Model of final narrative report\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-13 13:00:14.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160398&lang=EN\"},{\"nameDoc\":\"Annex G VI - Cost-based action financial report\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-13 13:00:29.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160388&lang=EN\"},{\"nameDoc\":\"Annex G V - Standard request for payment\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-13 13:00:12.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160390&lang=EN\"},{\"nameDoc\":\"Annex G IV - Contract awards rules\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-13 13:00:09.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160411&lang=EN\"},{\"nameDoc\":\"Annex G II - General conditions\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-13 13:00:17.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160396&lang=EN\"},{\"nameDoc\":\"Annex G - Standard grant contract (special conditions)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-13 13:00:17.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160400&lang=EN\"},{\"nameDoc\":\"Annex L - Self evaluation questionnaire on SEA-H\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-13 13:00:52.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160393&lang=EN\"},{\"nameDoc\":\"Annex H - Declaration of honour\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-13 13:00:09.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160395&lang=EN\"},{\"nameDoc\":\"Annex F - PADOR offline registration form\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-13 13:00:28.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160397&lang=EN\"},{\"nameDoc\":\"Annex D1 - Identification form (natural person)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-13 13:00:41.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160407&lang=EN\"},{\"nameDoc\":\"Annex D2 - Identification form (private or public law body with legal form)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-13 13:00:41.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160403&lang=EN\"},{\"nameDoc\":\"Annex D3 - Identification form (public lawa body)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-13 13:00:42.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160410&lang=EN\"},{\"nameDoc\":\"Annex C - Logical Framework\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-13 13:00:46.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160409&lang=EN\"},{\"nameDoc\":\"Annex B - Budget\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-13 13:00:38.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160392&lang=EN\"},{\"nameDoc\":\"Annex A2. Grant application form - Full application\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-13 13:00:50.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160394&lang=EN\"},{\"nameDoc\":\"Annex A1. Grant application form - Concept note\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-13 13:00:19.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160405&lang=EN\"},{\"nameDoc\":\"Guidelines for Grant Applicants\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-13 13:00:26.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160399&lang=EN\"}]"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-03-23T11:58:00.482+0100"
+      ],
+      "programmePeriod": [
+        "2014 - 2020",
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-05-07T10:00:24.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-24T23:56:06.054+0200"
+      ],
+      "url": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186089"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186089"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-24T23:56:05.953+0200"
+      ],
+      "programmeDivisionProspect": [
+        "44996030"
+      ],
+      "geographicalZone": [
+        "20001030"
+      ],
+      "startDate": [
+        "2026-03-13T12:00:00.000+0000"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Strengthening Civil Society for Risk Mitigation and Dialogue in Support of EU-Tanzania Economic Cooperation. Available at: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186089",
+    "score": 3.0
+  }
+}

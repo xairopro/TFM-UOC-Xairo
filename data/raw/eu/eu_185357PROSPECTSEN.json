@@ -1,0 +1,136 @@
+{
+  "id": "EU-185357PROSPECTSEN",
+  "topic_id": "185357PROSPECTSEN",
+  "titulo": "Support to Human Rights, Democracy and Civil Society in Jordan 2026",
+  "descripcion": "Support to Human Rights, Democracy and Civil Society in Jordan 2026",
+  "organismo": "111111",
+  "fecha_publicacion": "2026-04-23",
+  "fecha_limite": "2026-06-14",
+  "deadlines_todas": "2026-06-14",
+  "presupuesto": "3000000",
+  "duracion": "",
+  "tipo_accion": "",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185357",
+  "text": "EU FUNDING & TENDERS – Topic: 185357PROSPECTSEN\nProgramme/Organism: 111111\nTitle: Support to Human Rights, Democracy and Civil Society in Jordan 2026\nStatus: Open (31094502)\nType of action: \nOpening date: 2026-04-23\nDeadline: 2026-06-14\nAll deadlines: 2026-06-14\nDuration: \nBudget overview: 3000000\n\nDescription / Scope:\nSupport to Human Rights, Democracy and Civil Society in Jordan 2026\n\nMore info: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185357",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "185357PROSPECTSEN",
+    "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185357",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Support to Human Rights, Democracy and Civil Society in Jordan 2026",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Support to Human Rights, Democracy and Civil Society in Jordan 2026",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "39BC8FCB34D0E411E8B58381C1BB037366DE32B6320DA9A8890C1209B3985E9A",
+    "metadata": {
+      "updateDate": [
+        "2026-04-23T06:10:19.000+0000"
+      ],
+      "es_SortDate": [
+        "2026-04-23T14:00:18.000+0000"
+      ],
+      "beneficiaryAdministration": [],
+      "sortStatus": [
+        "1"
+      ],
+      "contractType": [
+        "42893160"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Support to Human Rights, Democracy and Civil Society in Jordan 2026"
+      ],
+      "type": [
+        "2"
+      ],
+      "esST_checksum": [
+        "39BC8FCB34D0E411E8B58381C1BB037366DE32B6320DA9A8890C1209B3985E9A"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "callIdentifier": [
+        "185357"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "185357PROSPECTSEN"
+      ],
+      "currency": [
+        "EUR"
+      ],
+      "frameworkProgramme": [
+        "111111"
+      ],
+      "budget": [
+        "3000000"
+      ],
+      "identifier": [
+        "EuropeAid/185357/DD/ACT/Multi"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "geographicalZones": [
+        "31085113"
+      ],
+      "publicationDocuments": [
+        "[{\"nameDoc\":\"APP_FORM_FA_EN_Annex A2. Grant application form-Full application res (en)\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-23 16:00:55.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159510&lang=EN\"},{\"nameDoc\":\"APP_FORM_CN_EN_Annex A1. Grant application form-Concept note res (en)\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-23 16:00:24.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159509&lang=EN\"},{\"nameDoc\":\"Guidelines 2026\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-23 16:00:23.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159364&lang=EN\"},{\"nameDoc\":\"Annex B - Budget\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-23 16:00:21.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159365&lang=EN\"},{\"nameDoc\":\"Annex C - Logical framework\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-23 16:00:46.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2085665&lang=EN\"},{\"nameDoc\":\"Annex D - Identification Form (private or public with legal form)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-23 16:00:13.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2085666&lang=EN\"},{\"nameDoc\":\"Annex F - PADOR offline registration form\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-23 16:00:46.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2085675&lang=EN\"},{\"nameDoc\":\"Annex G - Standard Grant Contract\",\"typeDoc\":\"zip\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-23 16:00:08.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159367&lang=EN\"},{\"nameDoc\":\"Annex J - Information on the tax regime applicable to grant contracts\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-23 16:00:12.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159368&lang=EN\"},{\"nameDoc\":\"Annex H - Declaration of honour on exclusion and selection criteria\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-23 16:00:19.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2085670&lang=EN\"},{\"nameDoc\":\"Annex L - Self-evaluation questionnaire on SEA-H\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-23 16:00:46.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2085667&lang=EN\"}]"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-04-23T16:01:00.234+0200"
+      ],
+      "programmePeriod": [
+        "2014 - 2020",
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-06-14T10:00:54.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-23T16:01:00.234+0200"
+      ],
+      "url": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185357"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185357"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-23T16:01:00.218+0200"
+      ],
+      "programmeDivisionProspect": [
+        "43072409"
+      ],
+      "geographicalZone": [
+        "31085113"
+      ],
+      "startDate": [
+        "2026-04-23T14:00:18.000+0000"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Support to Human Rights, Democracy and Civil Society in Jordan 2026. Available at: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185357",
+    "score": 3.0
+  }
+}

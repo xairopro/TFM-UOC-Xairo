@@ -1,0 +1,110 @@
+{
+  "id": "BDNS-901304",
+  "id_interno": 1102865,
+  "numero_convocatoria": "901304",
+  "organismo": "LOCAL — BERRIOZAR — AYUNTAMIENTO DE BERRIOZAR",
+  "sede_electronica": "https://sedeelectronica.berriozar.es/",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - canónica",
+  "descripcion": "Convocatoria de Subvención para facilitar la emancipación juvenil mediante ayudas  al pago de gastos de vivienda en Berriozar 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "OTROS SERVICIOS",
+  "regiones": "ES220 - Navarra",
+  "finalidad": "Servicios Sociales y Promoción Social",
+  "bases_reguladoras": "Bases reguladoras de la Convocatoria de Subvención para facilitar la emancipación juvenil mediante ayudas  al pago de gastos de vivienda en Berriozar 2026",
+  "url_bases_reguladoras": "https://sedeelectronica.berriozar.es/",
+  "presupuesto": "15.000,00 €",
+  "presupuesto_total_num": 15000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901304",
+  "text": "CONVOCATORIA BDNS Nº 901304\nOrganismo: LOCAL — BERRIOZAR — AYUNTAMIENTO DE BERRIOZAR\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - canónica\nPresupuesto total: 15.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: OTROS SERVICIOS\nRegiones: ES220 - Navarra\nFinalidad: Servicios Sociales y Promoción Social\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria de Subvención para facilitar la emancipación juvenil mediante ayudas  al pago de gastos de vivienda en Berriozar 2026\n\nBases reguladoras:\nBases reguladoras de la Convocatoria de Subvención para facilitar la emancipación juvenil mediante ayudas  al pago de gastos de vivienda en Berriozar 2026\nURL bases reguladoras: https://sedeelectronica.berriozar.es/\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901304",
+  "_raw": {
+    "id": 1102865,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "BERRIOZAR",
+      "nivel3": "AYUNTAMIENTO DE BERRIOZAR"
+    },
+    "sedeElectronica": "https://sedeelectronica.berriozar.es/",
+    "codigoBDNS": "901304",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - canónica",
+    "presupuestoTotal": 15000,
+    "mrr": false,
+    "descripcion": "Convocatoria de Subvención para facilitar la emancipación juvenil mediante ayudas  al pago de gastos de vivienda en Berriozar 2026",
+    "descripcionLeng": "Berriozarko etxebizitza gastuak ordaintzeko laguntzen bidez gazteen emantzipazioa dirulaguntza deialdiaren oinarri arautzaileak 2026",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES220 - Navarra"
+      }
+    ],
+    "descripcionFinalidad": "Servicios Sociales y Promoción Social",
+    "descripcionBasesReguladoras": "Bases reguladoras de la Convocatoria de Subvención para facilitar la emancipación juvenil mediante ayudas  al pago de gastos de vivienda en Berriozar 2026",
+    "urlBasesReguladoras": "https://sedeelectronica.berriozar.es/",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Desde su publicación en el BON",
+    "textFin": "15/12/2026",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1441937,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "convocatoria_subvencion_emancipacion_juvenil.pdf",
+        "long": 549842,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1441940,
+        "descripcion": "anexo I",
+        "nombreFic": "ANEXO I emancipacion_juvenil.pdf",
+        "long": 668961,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1441938,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "convocatoria_subvencion_emancipacion_juvenil.pdf",
+        "long": 549842,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

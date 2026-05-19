@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902599",
+  "id_interno": 1104160,
+  "numero_convocatoria": "902599",
+  "organismo": "LOCAL — HUESCA — AYUNTAMIENTO DE HUESCA",
+  "sede_electronica": "www.huesca.es",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "CONVENIO DE COLABORACIÓN ENTRE EL AYUNTAMIENTO DE HUESCAY EL OBISPADO DE HUESCA PARA PROPORCIONAR ALOJAMIENTO A LAS PERSONAS EN SITUACIÓN DE VULNERABILIDAD 2026",
+  "instrumentos": "OTROS INSTRUMENTOS DE AYUDA",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "OTROS SERVICIOS",
+  "regiones": "ES241 - Huesca",
+  "finalidad": "Otras Prestaciones económicas",
+  "bases_reguladoras": "Ordenanza general por la que se aprueban las bases reguladoras para la concesión de subvenciones por el ayuntamiento de Huesca y sus entidades dependientes.",
+  "url_bases_reguladoras": "https://www.huesca.es/ayuntamiento/tramites-y-gestiones/normativa/subvenciones",
+  "presupuesto": "2.400,00 €",
+  "presupuesto_total_num": 2400,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902599",
+  "text": "CONVOCATORIA BDNS Nº 902599\nOrganismo: LOCAL — HUESCA — AYUNTAMIENTO DE HUESCA\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 2.400,00 €\nInstrumentos: OTROS INSTRUMENTOS DE AYUDA\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: OTROS SERVICIOS\nRegiones: ES241 - Huesca\nFinalidad: Otras Prestaciones económicas\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVENIO DE COLABORACIÓN ENTRE EL AYUNTAMIENTO DE HUESCAY EL OBISPADO DE HUESCA PARA PROPORCIONAR ALOJAMIENTO A LAS PERSONAS EN SITUACIÓN DE VULNERABILIDAD 2026\n\nBases reguladoras:\nOrdenanza general por la que se aprueban las bases reguladoras para la concesión de subvenciones por el ayuntamiento de Huesca y sus entidades dependientes.\nURL bases reguladoras: https://www.huesca.es/ayuntamiento/tramites-y-gestiones/normativa/subvenciones\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902599",
+  "_raw": {
+    "id": 1104160,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "HUESCA",
+      "nivel3": "AYUNTAMIENTO DE HUESCA"
+    },
+    "sedeElectronica": "www.huesca.es",
+    "codigoBDNS": "902599",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "OTROS INSTRUMENTOS DE AYUDA"
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 2400,
+    "mrr": false,
+    "descripcion": "CONVENIO DE COLABORACIÓN ENTRE EL AYUNTAMIENTO DE HUESCAY EL OBISPADO DE HUESCA PARA PROPORCIONAR ALOJAMIENTO A LAS PERSONAS EN SITUACIÓN DE VULNERABILIDAD 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES241 - Huesca"
+      }
+    ],
+    "descripcionFinalidad": "Otras Prestaciones económicas",
+    "descripcionBasesReguladoras": "Ordenanza general por la que se aprueban las bases reguladoras para la concesión de subvenciones por el ayuntamiento de Huesca y sus entidades dependientes.",
+    "urlBasesReguladoras": "https://www.huesca.es/ayuntamiento/tramites-y-gestiones/normativa/subvenciones",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "AL DIA SIGUIENTE DE LA FIRMA DEL CONVENIO",
+    "textFin": "AL DIA SIGUIENTE DE LA FIRMA DEL CONVENIO",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445822,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "CONVENIO OBISPADO DE HUESCA 2026 VULNERABILIDAD Completo.pdf",
+        "long": 230357,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

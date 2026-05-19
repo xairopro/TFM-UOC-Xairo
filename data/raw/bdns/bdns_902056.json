@@ -1,0 +1,194 @@
+{
+  "id": "BDNS-902056",
+  "id_interno": 1103617,
+  "numero_convocatoria": "902056",
+  "organismo": "LOCAL — HUESCA — AYUNTAMIENTO DE HUESCA",
+  "sede_electronica": "www.huesca.es",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA PARA LA CONCESIÓN DE SUBVENCIONES EN RÉGIMEN DE CONCURRENCIA COMPETITIVA EJERCICIO 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "OTROS SERVICIOS",
+  "regiones": "ES241 - Huesca",
+  "finalidad": "Otras Prestaciones económicas",
+  "bases_reguladoras": "ORDENANZA GENERAL POR LA QUE SE APRUEBAN LAS BASES REGULADORAS PARA LA CONCESIÓN DE SUBVENCIONES POR EL AYUNTAMIENTO DE HUESCA Y SUS ENTIDADES DEPENDIENTES",
+  "url_bases_reguladoras": "https://www.huesca.es/ayuntamiento/tramites-y-gestiones/normativa/ordenanzas-y-reglamentos",
+  "presupuesto": "254.000,00 €",
+  "presupuesto_total_num": 254000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902056",
+  "text": "CONVOCATORIA BDNS Nº 902056\nOrganismo: LOCAL — HUESCA — AYUNTAMIENTO DE HUESCA\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 254.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: OTROS SERVICIOS\nRegiones: ES241 - Huesca\nFinalidad: Otras Prestaciones económicas\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA PARA LA CONCESIÓN DE SUBVENCIONES EN RÉGIMEN DE CONCURRENCIA COMPETITIVA EJERCICIO 2026\n\nBases reguladoras:\nORDENANZA GENERAL POR LA QUE SE APRUEBAN LAS BASES REGULADORAS PARA LA CONCESIÓN DE SUBVENCIONES POR EL AYUNTAMIENTO DE HUESCA Y SUS ENTIDADES DEPENDIENTES\nURL bases reguladoras: https://www.huesca.es/ayuntamiento/tramites-y-gestiones/normativa/ordenanzas-y-reglamentos\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902056",
+  "_raw": {
+    "id": 1103617,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "HUESCA",
+      "nivel3": "AYUNTAMIENTO DE HUESCA"
+    },
+    "sedeElectronica": "www.huesca.es",
+    "codigoBDNS": "902056",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 254000,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA PARA LA CONCESIÓN DE SUBVENCIONES EN RÉGIMEN DE CONCURRENCIA COMPETITIVA EJERCICIO 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES241 - Huesca"
+      }
+    ],
+    "descripcionFinalidad": "Otras Prestaciones económicas",
+    "descripcionBasesReguladoras": "ORDENANZA GENERAL POR LA QUE SE APRUEBAN LAS BASES REGULADORAS PARA LA CONCESIÓN DE SUBVENCIONES POR EL AYUNTAMIENTO DE HUESCA Y SUS ENTIDADES DEPENDIENTES",
+    "urlBasesReguladoras": "https://www.huesca.es/ayuntamiento/tramites-y-gestiones/normativa/ordenanzas-y-reglamentos",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "AL DIA SIGUIENTE DE LA PUBLICACIÓN DEL EXTRACTO EN EL B.O.P.H.",
+    "textFin": "20 DÍAS HÁBILES TRAS LA PUBLICACIÓN DEL EXTRACTO EN EL B.O.P.H.",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445536,
+        "descripcion": "Anexo II Justificación",
+        "nombreFic": "Anexo II_Justificación de subvención_formulario.pdf",
+        "long": 151695,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1444069,
+        "descripcion": "Anexo II.1 Memoria",
+        "nombreFic": "Anexo II.1_Memoria de  actividad_formulario.pdf",
+        "long": 57311,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444051,
+        "descripcion": "Decreto aprobación Bases",
+        "nombreFic": "DECRETO GENERAL Aprobación Bases.pdf",
+        "long": 158908,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444050,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "BASES CONVOCATORIA DE SUBVENCIONES 2026.pdf",
+        "long": 164429,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444056,
+        "descripcion": "Solicitud",
+        "nombreFic": "Anexo I_Solicitud_formulario.pdf",
+        "long": 50055,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444070,
+        "descripcion": "Anexo II.2 Relación de Gastos",
+        "nombreFic": "Anexo II.2_Relación de gastos_formulario.pdf",
+        "long": 40637,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444072,
+        "descripcion": "Anexo II.3 Relación de Ingresos",
+        "nombreFic": "Anexo II.3_Relación de ingresos recibidos_formulario.pdf",
+        "long": 105667,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444067,
+        "descripcion": "Presupuesto Reformulado",
+        "nombreFic": "Presupuesto  reformulado_formulario.pdf",
+        "long": 137312,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444063,
+        "descripcion": "Aceptación-Renuncia",
+        "nombreFic": "Modelo aceptación-renuncia-reformulación-anticipo_formulario.pdf",
+        "long": 151972,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444061,
+        "descripcion": "Anexo I.3 Declaración Responsable",
+        "nombreFic": "Anexo I.3_Declaración responsable formulario.pdf",
+        "long": 141124,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444059,
+        "descripcion": "Anexo I.2 Presupuesto",
+        "nombreFic": "Anexo I.2_Presupuesto  previsto_formulario.pdf",
+        "long": 114087,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444058,
+        "descripcion": "Anexo I.1 Memoria de la Actividad",
+        "nombreFic": "Anexo I.1_Memoria de la  actividad_formulario.pdf",
+        "long": 50888,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210305,
+        "titulo": "CONVOCATORIA PARA LA CONCESIÓN DE SUBVENCIONES EN RÉGIMEN DE CONCURRENCIA COMPETITIVA EJERCICIO 2026 A ASOCIACIONES DE CARÁCTER SOCIAL.",
+        "tituloLeng": null,
+        "texto": "<p>Extracto del Decreto 2195/2026, de fecha 20 de abril de 2026, por el que se aprueban las bases de la convocatoria de subvenciones a Asociaciones de Carácter Social, Recurso Residencial y Diversidad Funcional 2026.</p><p>Primero. Beneficiarios:</p><p>- Asociaciones de Carácter Social, Recurso Residencial y Diversidad Funcional que, sin ánimo de lucro, realicen proyectos y/o actividades de carácter social en la ciudad de Huesca.</p><p>Segundo. Objeto:</p><p>Regular la concesión de Subvenciones en régimen de concurrencia competitiva a Asociaciones de Carácter Social, Entidades con Recurso Residencial Permanente y Asociaciones con Diversidad Funcional.</p><p>Tercero. Bases Reguladoras:</p><p>Ordenanza General por la que se aprueban las Bases Reguladoras para la Concesión de Subvenciones por el Ayuntamiento de Huesca y sus Entidades Dependientes, publicadas en el Boletín Oficial de la Provincia de Huesca nº 239 de 19 de diciembre de 2017.</p><p>Cuarto. Cuantía:</p><p>Proyectos destinados a Asociaciones de acción social: 254.000,00 (Doscientos cincuenta y cuatro mil euros), que se aplicarán a la partida presupuestaria 20.23107.48000 \"Ayudas Sociales. Otras Transferencias\", del Presupuesto del Ayuntamiento de Huesca, Ejercicio 2026.</p><p>Quinto. Plazo de presentación de solicitudes:</p><p>El plazo de presentación de solicitudes será de veinte días hábiles a partir de la fecha de la publicación del extracto de la Convocatoria en el Boletín Oficial de la Provincia de Huesca.</p><p>Las solicitudes se presentarán en SEDE ELECTRÓNICA a través de la página web www.huesca.es.</p><p>Sexto. Otros datos:</p><p>Los Anexos y demás documentación correspondientes a la presente Convocatoria, estarán a disposición de los interesados en la sede electrónica del Ayuntamiento de Huesca</p><p>(https://sede.huesca.es/tramites/subvenciones).</p>",
+        "textoLeng": null,
+        "url": "https://bop.dphuesca.es/index.php/mod.bopanuncios/mem.ultimoboletin/idmenu.50004/seccion.portal/chk.b6a0e09090757bcdf5de25060e5c4cf5.html",
+        "cve": "CSVYR7NMDW2M0LMANBOP",
+        "desDiarioOficial": "B.O.P. DE HUESCA",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

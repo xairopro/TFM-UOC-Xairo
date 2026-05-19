@@ -1,0 +1,108 @@
+{
+  "id": "BDNS-902880",
+  "id_interno": 1104441,
+  "numero_convocatoria": "902880",
+  "organismo": "AUTONOMICA — CATALUÑA — AGENCIA DE LA VIVIENDA DE CATALUÑA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "2026-05-18",
+  "fecha_fin_solicitud": "2026-09-10",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Resolución TER//2026, de 29 de abril, por la que se abre la convocatoria para la concesión de las subvenciones del Programa de rehabilitación de viviendas de titularidad pública y privada, para fomentar el arraigo y repoblación en entornos rurales",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Administración pública y de la política económica, social y medioambiental",
+  "regiones": "ES51 - CATALUÑA",
+  "finalidad": "Acceso a la vivienda y fomento de la edificación",
+  "bases_reguladoras": "Resolución TER/723/2026, de 11 de marzo, por la que se aprueban las bases reguladoras para la concesión de las subvenciones del Programa de rehabilitación de viviendas de titularidad pública y privada, para fomentar el arraigo y repoblación en entornos ru",
+  "url_bases_reguladoras": "https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=1039620",
+  "presupuesto": "5.000.000,00 €",
+  "presupuesto_total_num": 5000000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902880",
+  "text": "CONVOCATORIA BDNS Nº 902880\nOrganismo: AUTONOMICA — CATALUÑA — AGENCIA DE LA VIVIENDA DE CATALUÑA\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud: 2026-05-18 → 2026-09-10 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 5.000.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Administración pública y de la política económica, social y medioambiental\nRegiones: ES51 - CATALUÑA\nFinalidad: Acceso a la vivienda y fomento de la edificación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nResolución TER//2026, de 29 de abril, por la que se abre la convocatoria para la concesión de las subvenciones del Programa de rehabilitación de viviendas de titularidad pública y privada, para fomentar el arraigo y repoblación en entornos rurales\n\nBases reguladoras:\nResolución TER/723/2026, de 11 de marzo, por la que se aprueban las bases reguladoras para la concesión de las subvenciones del Programa de rehabilitación de viviendas de titularidad pública y privada, para fomentar el arraigo y repoblación en entornos ru\nURL bases reguladoras: https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=1039620\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902880",
+  "_raw": {
+    "id": 1104441,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "CATALUÑA",
+      "nivel3": "AGENCIA DE LA VIVIENDA DE CATALUÑA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902880",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 5000000,
+    "mrr": false,
+    "descripcion": "Resolución TER//2026, de 29 de abril, por la que se abre la convocatoria para la concesión de las subvenciones del Programa de rehabilitación de viviendas de titularidad pública y privada, para fomentar el arraigo y repoblación en entornos rurales",
+    "descripcionLeng": "Resolució TER/ /2026, de 29 d’abril, per la qual s'obre la convocatòria per a la concessió de les subvencions del Programa de rehabilitació d’habitatges de titularitat pública i privada, per fomentar l’arrelament i repoblament en entorns rurals",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Administración pública y de la política económica, social y medioambiental",
+        "codigo": "84.1"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES51 - CATALUÑA"
+      }
+    ],
+    "descripcionFinalidad": "Acceso a la vivienda y fomento de la edificación",
+    "descripcionBasesReguladoras": "Resolución TER/723/2026, de 11 de marzo, por la que se aprueban las bases reguladoras para la concesión de las subvenciones del Programa de rehabilitación de viviendas de titularidad pública y privada, para fomentar el arraigo y repoblación en entornos ru",
+    "urlBasesReguladoras": "https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=1039620",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-05-18",
+    "fechaFinSolicitud": "2026-09-10",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446591,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "260429 CAT_Conv_Mon_Rural_2026.pdf",
+        "long": 257183,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446590,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "260429 CAST_Conv_Mon_Rural_2026.pdf",
+        "long": 96572,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

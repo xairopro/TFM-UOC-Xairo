@@ -1,0 +1,110 @@
+{
+  "id": "BDNS-901613",
+  "id_interno": 1103174,
+  "numero_convocatoria": "901613",
+  "organismo": "LOCAL — CASTELLET I LA GORNAL — AYUNTAMIENTO DE CASTELLET I LA GORNAL",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": true,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - canónica",
+  "descripcion": "OTORGAMIENTO SUBVENCIÓN A LA ENTIDAD \"EL TURÓ SALUT MENTAL, ASSOCIACIÓ DE FAMILIARS I AMICS\" EJERCICIO 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Otras actividades sanitarias",
+  "regiones": "ES511 - Barcelona",
+  "finalidad": "Sanidad",
+  "bases_reguladoras": "ORDENANZA GENERAL DE SUBVENCIONES",
+  "url_bases_reguladoras": "https://www.castelletilagornal.cat/",
+  "presupuesto": "1.000,00 €",
+  "presupuesto_total_num": 1000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901613",
+  "text": "CONVOCATORIA BDNS Nº 901613\nOrganismo: LOCAL — CASTELLET I LA GORNAL — AYUNTAMIENTO DE CASTELLET I LA GORNAL\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  →  (abierto: sí)\nTipo de convocatoria: Concesión directa - canónica\nPresupuesto total: 1.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Otras actividades sanitarias\nRegiones: ES511 - Barcelona\nFinalidad: Sanidad\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nOTORGAMIENTO SUBVENCIÓN A LA ENTIDAD \"EL TURÓ SALUT MENTAL, ASSOCIACIÓ DE FAMILIARS I AMICS\" EJERCICIO 2026\n\nBases reguladoras:\nORDENANZA GENERAL DE SUBVENCIONES\nURL bases reguladoras: https://www.castelletilagornal.cat/\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901613",
+  "_raw": {
+    "id": 1103174,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "CASTELLET I LA GORNAL",
+      "nivel3": "AYUNTAMIENTO DE CASTELLET I LA GORNAL"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901613",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - canónica",
+    "presupuestoTotal": 1000,
+    "mrr": false,
+    "descripcion": "OTORGAMIENTO SUBVENCIÓN A LA ENTIDAD \"EL TURÓ SALUT MENTAL, ASSOCIACIÓ DE FAMILIARS I AMICS\" EJERCICIO 2026",
+    "descripcionLeng": "ATORGAMENT SUBVENCIÓ A LA ENTITAT \"EL TURÓ SALUT MENTAL, ASSOCIACIÓ DE FAMILIARS I AMICS\" EXERCICI 2026",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Otras actividades sanitarias",
+        "codigo": "86.9"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES511 - Barcelona"
+      }
+    ],
+    "descripcionFinalidad": "Sanidad",
+    "descripcionBasesReguladoras": "ORDENANZA GENERAL DE SUBVENCIONES",
+    "urlBasesReguladoras": "https://www.castelletilagornal.cat/",
+    "sePublicaDiarioOficial": true,
+    "abierto": true,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442857,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "ORDENANZA GENERAL DE SUBVENCIONES .pdf",
+        "long": 339717,
+        "datMod": "2026-04-27",
+        "datPublicacion": null
+      },
+      {
+        "id": 1442867,
+        "descripcion": "ACUERDO JGL CONCESIÓN",
+        "nombreFic": "ACUERDO JGL.pdf",
+        "long": 172881,
+        "datMod": "2026-04-27",
+        "datPublicacion": null
+      },
+      {
+        "id": 1442858,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "BOPB ORD.GENERAL DE SUBVENCIONS.pdf",
+        "long": 318354,
+        "datMod": "2026-04-27",
+        "datPublicacion": null
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

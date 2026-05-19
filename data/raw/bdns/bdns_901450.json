@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-901450",
+  "id_interno": 1103011,
+  "numero_convocatoria": "901450",
+  "organismo": "OTROS — UNIVERSITAT POLITÈCNICA DE VALÈNCIA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "2026-04-24",
+  "fecha_fin_solicitud": "2026-04-27",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "CONVENIO COLABORACIÓN CPI-UPV 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades auxiliares a la educación",
+  "regiones": "ES523 - Valencia / València",
+  "finalidad": "Investigación, desarrollo e innovación",
+  "bases_reguladoras": "CONVENIO COLABORACIÓN CPI-UPV 2026",
+  "url_bases_reguladoras": "https://cpi.upv.es/wp-content/uploads/2026/04/CONVENIO-DE-COLABORACION-PRESUPUESTO-2026-FIRMADO.pdf",
+  "presupuesto": "650.000,00 €",
+  "presupuesto_total_num": 650000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901450",
+  "text": "CONVOCATORIA BDNS Nº 901450\nOrganismo: OTROS — UNIVERSITAT POLITÈCNICA DE VALÈNCIA\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud: 2026-04-24 → 2026-04-27 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 650.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades auxiliares a la educación\nRegiones: ES523 - Valencia / València\nFinalidad: Investigación, desarrollo e innovación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVENIO COLABORACIÓN CPI-UPV 2026\n\nBases reguladoras:\nCONVENIO COLABORACIÓN CPI-UPV 2026\nURL bases reguladoras: https://cpi.upv.es/wp-content/uploads/2026/04/CONVENIO-DE-COLABORACION-PRESUPUESTO-2026-FIRMADO.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901450",
+  "_raw": {
+    "id": 1103011,
+    "organo": {
+      "nivel1": "OTROS",
+      "nivel2": "UNIVERSITAT POLITÈCNICA DE VALÈNCIA",
+      "nivel3": null
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901450",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 650000,
+    "mrr": false,
+    "descripcion": "CONVENIO COLABORACIÓN CPI-UPV 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades auxiliares a la educación",
+        "codigo": "85.6"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES523 - Valencia / València"
+      }
+    ],
+    "descripcionFinalidad": "Investigación, desarrollo e innovación",
+    "descripcionBasesReguladoras": "CONVENIO COLABORACIÓN CPI-UPV 2026",
+    "urlBasesReguladoras": "https://cpi.upv.es/wp-content/uploads/2026/04/CONVENIO-DE-COLABORACION-PRESUPUESTO-2026-FIRMADO.pdf",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-04-24",
+    "fechaFinSolicitud": "2026-04-27",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442337,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "convenio 26_cas.pdf",
+        "long": 1092721,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

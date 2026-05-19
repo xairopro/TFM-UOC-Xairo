@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902650",
+  "id_interno": 1104211,
+  "numero_convocatoria": "902650",
+  "organismo": "AUTONOMICA — CANARIAS — CONSEJERÍA DE UNIVERSIDADES, CIENCIA E INNOVACIÓN Y CULTURA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "2026-03-06",
+  "fecha_fin_solicitud": "2026-12-31",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "MUSEO CANARIO -ACTIVIDADES CULTURALES",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+  "regiones": "ES705 - Gran Canaria",
+  "finalidad": "Otras actuaciones de carácter económico",
+  "bases_reguladoras": "MUSEO CANARIO -ACTIVIDADES CULTURALES",
+  "url_bases_reguladoras": "httpp//sede.gobcan.es/ctd//",
+  "presupuesto": "250.000,00 €",
+  "presupuesto_total_num": 250000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902650",
+  "text": "CONVOCATORIA BDNS Nº 902650\nOrganismo: AUTONOMICA — CANARIAS — CONSEJERÍA DE UNIVERSIDADES, CIENCIA E INNOVACIÓN Y CULTURA\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud: 2026-03-06 → 2026-12-31 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 250.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de bibliotecas, archivos, museos y otras actividades culturales\nRegiones: ES705 - Gran Canaria\nFinalidad: Otras actuaciones de carácter económico\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nMUSEO CANARIO -ACTIVIDADES CULTURALES\n\nBases reguladoras:\nMUSEO CANARIO -ACTIVIDADES CULTURALES\nURL bases reguladoras: httpp//sede.gobcan.es/ctd//\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902650",
+  "_raw": {
+    "id": 1104211,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "CANARIAS",
+      "nivel3": "CONSEJERÍA DE UNIVERSIDADES, CIENCIA E INNOVACIÓN Y CULTURA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902650",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 250000,
+    "mrr": false,
+    "descripcion": "MUSEO CANARIO -ACTIVIDADES CULTURALES",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+        "codigo": "91"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES705 - Gran Canaria"
+      }
+    ],
+    "descripcionFinalidad": "Otras actuaciones de carácter económico",
+    "descripcionBasesReguladoras": "MUSEO CANARIO -ACTIVIDADES CULTURALES",
+    "urlBasesReguladoras": "httpp//sede.gobcan.es/ctd//",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-03-06",
+    "fechaFinSolicitud": "2026-12-31",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445942,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Documento convocatoria castellano.PDF",
+        "long": 473346,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

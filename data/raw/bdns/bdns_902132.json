@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902132",
+  "id_interno": 1103693,
+  "numero_convocatoria": "902132",
+  "organismo": "AUTONOMICA — EXTREMADURA — DIRECCIÓN GENERAL DE UNIVERSIDAD",
+  "sede_electronica": "https://erasmusuniversidad.educarex.es",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Ayudas curso 2026/2027 para el alumnado universitario de Extremadura del Programa de movilidad Erasmus+, según Resolución de 16 de abril de 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Educación terciaria",
+  "regiones": "ES43 - EXTREMADURA",
+  "finalidad": "Educación",
+  "bases_reguladoras": "Decreto 68/2025, de 1 de julio, de bases reguladoras de las ayudas para el alumnado universitario de Extremadura, seleccionado para realizar estudios o prácticas, en el marco del programa de movilidad ERASMUS+ y primera convocatoria para el curso 2025/26",
+  "url_bases_reguladoras": "https://doe.juntaex.es/pdfs/doe/2025/1450o/25040113.pdf",
+  "presupuesto": "500.000,00 €",
+  "presupuesto_total_num": 500000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902132",
+  "text": "CONVOCATORIA BDNS Nº 902132\nOrganismo: AUTONOMICA — EXTREMADURA — DIRECCIÓN GENERAL DE UNIVERSIDAD\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 500.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Educación terciaria\nRegiones: ES43 - EXTREMADURA\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nAyudas curso 2026/2027 para el alumnado universitario de Extremadura del Programa de movilidad Erasmus+, según Resolución de 16 de abril de 2026\n\nBases reguladoras:\nDecreto 68/2025, de 1 de julio, de bases reguladoras de las ayudas para el alumnado universitario de Extremadura, seleccionado para realizar estudios o prácticas, en el marco del programa de movilidad ERASMUS+ y primera convocatoria para el curso 2025/26\nURL bases reguladoras: https://doe.juntaex.es/pdfs/doe/2025/1450o/25040113.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902132",
+  "_raw": {
+    "id": 1103693,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "EXTREMADURA",
+      "nivel3": "DIRECCIÓN GENERAL DE UNIVERSIDAD"
+    },
+    "sedeElectronica": "https://erasmusuniversidad.educarex.es",
+    "codigoBDNS": "902132",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 500000,
+    "mrr": false,
+    "descripcion": "Ayudas curso 2026/2027 para el alumnado universitario de Extremadura del Programa de movilidad Erasmus+, según Resolución de 16 de abril de 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Educación terciaria",
+        "codigo": "85.4"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES43 - EXTREMADURA"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "Decreto 68/2025, de 1 de julio, de bases reguladoras de las ayudas para el alumnado universitario de Extremadura, seleccionado para realizar estudios o prácticas, en el marco del programa de movilidad ERASMUS+ y primera convocatoria para el curso 2025/26",
+    "urlBasesReguladoras": "https://doe.juntaex.es/pdfs/doe/2025/1450o/25040113.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "a partir del día siguiente al de la publicación de la convocatoria y del extracto en DOE",
+    "textFin": "un mes, desde el día siguiente al de la publicación de la convocatoria y del extracto",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444254,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Resolución de 16 de abril de 2026, por la que se aprueba la convocatoria de las ayudas para el alumnado universitario de la CA de Extremadura, para realizar estudios o prácticas, en el marco del Programa Erasmus 2026/2027.PDF",
+        "long": 465369,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

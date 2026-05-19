@@ -1,0 +1,114 @@
+{
+  "id": "BDNS-901585",
+  "id_interno": 1103146,
+  "numero_convocatoria": "901585",
+  "organismo": "LOCAL — ESPONELLÀ — AYUNTAMIENTO DE ESPONELLÀ",
+  "sede_electronica": "https://seu-e.cat/ca/web/esponella/tramits-i-gestions",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - canónica",
+  "descripcion": "EXTRACTO DE LA CONVOCATORIA DE SUBVENCIONES A LAS FAMILIAS DE ALUMNOS DE LA ESCUELA PÚBLICA DE ESPONELLÀ, PARA LA UNIVERSALIZACIÓN DE LAS ACTIVIDADES EN EL ÀMBITO DE LA ESCOLARIZACIÓN DE SUS HIJOS/HIJAS PARA EL CURSO 2025-2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "EDUCACIÓN",
+  "regiones": "ES512 - Girona",
+  "finalidad": "Educación",
+  "bases_reguladoras": "BASES REGULADORES DE LA CONCESSIÓ DE SUBVENCIONS A LES FAMÍLIES DELS ALUMNES DE L’ESCOLA PÚBLICA D’ESPONELLÀ, PER A LA UNIVERSALITZACIÓ DE LES ACTIVITATS EN L’ÀMBIT DE L’ESCOLARITZACIÓ DELS SEUS FILLS/FILLES",
+  "url_bases_reguladoras": "https://ssl4.ddgi.cat/bopV1/pdf/2025/59/20255902515.pdf",
+  "presupuesto": "1.500,00 €",
+  "presupuesto_total_num": 1500,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901585",
+  "text": "CONVOCATORIA BDNS Nº 901585\nOrganismo: LOCAL — ESPONELLÀ — AYUNTAMIENTO DE ESPONELLÀ\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - canónica\nPresupuesto total: 1.500,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: EDUCACIÓN\nRegiones: ES512 - Girona\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nEXTRACTO DE LA CONVOCATORIA DE SUBVENCIONES A LAS FAMILIAS DE ALUMNOS DE LA ESCUELA PÚBLICA DE ESPONELLÀ, PARA LA UNIVERSALIZACIÓN DE LAS ACTIVIDADES EN EL ÀMBITO DE LA ESCOLARIZACIÓN DE SUS HIJOS/HIJAS PARA EL CURSO 2025-2026\n\nBases reguladoras:\nBASES REGULADORES DE LA CONCESSIÓ DE SUBVENCIONS A LES FAMÍLIES DELS ALUMNES DE L’ESCOLA PÚBLICA D’ESPONELLÀ, PER A LA UNIVERSALITZACIÓ DE LES ACTIVITATS EN L’ÀMBIT DE L’ESCOLARITZACIÓ DELS SEUS FILLS/FILLES\nURL bases reguladoras: https://ssl4.ddgi.cat/bopV1/pdf/2025/59/20255902515.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901585",
+  "_raw": {
+    "id": 1103146,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "ESPONELLÀ",
+      "nivel3": "AYUNTAMIENTO DE ESPONELLÀ"
+    },
+    "sedeElectronica": "https://seu-e.cat/ca/web/esponella/tramits-i-gestions",
+    "codigoBDNS": "901585",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - canónica",
+    "presupuestoTotal": 1500,
+    "mrr": false,
+    "descripcion": "EXTRACTO DE LA CONVOCATORIA DE SUBVENCIONES A LAS FAMILIAS DE ALUMNOS DE LA ESCUELA PÚBLICA DE ESPONELLÀ, PARA LA UNIVERSALIZACIÓN DE LAS ACTIVIDADES EN EL ÀMBITO DE LA ESCOLARIZACIÓN DE SUS HIJOS/HIJAS PARA EL CURSO 2025-2026",
+    "descripcionLeng": "EXTRACTE DE LA CONVOCATÒRIA DE SUBVENCIONS A LES FAMÍLIES DELS ALUMNES DE L’ESCOLA PÚBLICA D’ESPONELLÀ, PER A LA  UNIVERSALITZACIÓ DE LES ACTIVITATS EN L’ÀMBIT DE L’ESCOLARITZACIÓ DELS SEUS FILLS/FILLES PER AL CURS 2025-2026",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES512 - Girona"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "BASES REGULADORES DE LA CONCESSIÓ DE SUBVENCIONS A LES FAMÍLIES DELS ALUMNES DE L’ESCOLA PÚBLICA D’ESPONELLÀ, PER A LA UNIVERSALITZACIÓ DE LES ACTIVITATS EN L’ÀMBIT DE L’ESCOLARITZACIÓ DELS SEUS FILLS/FILLES",
+    "urlBasesReguladoras": "https://ssl4.ddgi.cat/bopV1/pdf/2025/59/20255902515.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "A PARTIR DE LA PUBLICACIÓN DEL EXTRACTO EN EL BOP GIRONA",
+    "textFin": "30/06/2026",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442735,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "EXTRACTE ESCOLARITZACIÓ 2026.pdf",
+        "long": 209223,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1442736,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "EXTRACTO ESCOLARITZACIÓ 2026.pdf",
+        "long": 208775,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210122,
+        "titulo": "EXTRACTO DE LA CONVOCATORIA DE SUBVENCIONES A LAS FAMILIAS DE ALUMNOS DE LA ESCUELA PÚBLICA DE ESPONELLÀ, PARA LA UNIVERSALIZACIÓN DE LAS ACTIVIDADES EN EL ÀMBITO DE LA ESCOLARIZACIÓN DE SUS HIJOS/HIJAS PARA EL CURSO 2025-2026",
+        "tituloLeng": "EXTRACTE DE LA CONVOCATÒRIA DE SUBVENCIONS A LES FAMÍLIES DELS ALUMNES DE L’ESCOLA PÚBLICA D’ESPONELLÀ, PER A LA  UNIVERSALITZACIÓ DE LES ACTIVITATS EN L’ÀMBIT DE L’ESCOLARITZACIÓ DELS SEUS FILLS/FILLES PER AL CURS 2025-2026",
+        "texto": "<p>EXTRACTO DE LA CONVOCATORIA DE SUBVENCIONES A LAS FAMILIAS DE ALUMNOS DE LA ESCUELA PÚBLICA DE ESPONELLÀ, PARA LA UNIVERSALIZACIÓN DE LAS ACTIVIDADES EN EL ÀMBITO DE LA ESCOLARIZACIÓN DE SUS HIJOS/HIJAS PARA EL CURSO 2025-2026</p><p>Primero. Objeto de las bases</p><p>El objeto de estas bases es la regulación del otorgamiento, por parte del Ajuntament d’Esponellà, de ayudas a las familias de los alumnos de la escuela pública de Esponellà para la universalización de las actividades en el ámbito de la escolarización de sus hijos/hijas.</p><p>Segundo. Personas destinatarias y requisitos</p><p>2.1.a) Beneficiarios: Podrán obtener la condición de beneficiario de las ayudas las familias de alumnos de la escuela pública de Esponellà, empadronados en el municipio de Esponellà y con hijos en edad de escolarización que cursen educación infantil o educación primaria (des de I3 a 6º)</p><p>2.1.b) Solicitantes: podrán sol·licitar la ayuda para minorar los gestos relacionados con la realización de actividades en el ámbito de la escolarización para el curso de la convocatoria de esta subvención, el padre, la madre, el tutor/ora o el representante legal del alumno que cumpla los requisitos de las bases</p><p>2.2. Requisitos</p><p>Para poder solicitar la ayuda, el alumnado deberá reunir los requisitos siguientes:</p><p>• Estar empadronado en el municipio de Esponellà, como mínimo, desde el 1 de septiembe de el año de la convocatoria.</p><p>• Estar cursando cualquiera de los cursos de la etapa de escolarización de educación infantil a educación primaria (de I3 a 6º)</p><p>• Será necesario que los solicitantes se enquentren al corriente de sus obligaciones fiscales con el Ajuntament d’Esponellà</p><p>Tercero. Bases Reguladoras</p><p>Les bases reguladoras de la concesión de estas subvenciones son las aprovades por el Pleno de l’Ajuntament d’Esponellà en fecha de 19 de marzo de 2025 i publicadas en el Boletín Oficial de la Provincia de Girona, núm. 59 del 26 de marzo de 2025.</p><p>Quarto. Cuantía de la ayuda y gestos subvencionables</p><p>La partida presupuestaria a la que se imputa la subvención és 02/3200/48004 y la cuantía total máxima de las subvenciones convocadas es de 1.500,00€ a razón de 75,00€ por alumno.</p><p>Tienen consideración de gasto subvencionable los que inequívocamente responden a la realización de actividades en el ámbito de la escolarización de los alumnos de la escuela Carles de Fortuny de Esponellà en el plazo y con las condiciones determinados en las bases como pueden ser excursiones, colonias, cursos, talleres...</p><p>Son gastos no subvencionables los destinados a la adquisición de material escolar y/o didáctico</p><p> </p><p>Quinto. Plazo, sol·licitud y documentación a presentar</p><p>El plazo de presentación de las solicitudes finalizará el día treinta (30) de junio de 2026. Si la ayuda se sol·licita para más de un hijo/a, serà necesario presentar un impreso por cada uno. La solicitud debe incluir</p><p>a.         DECLARACION RESPONSABLE que contendrà pronunciamiento expresso sobre las cuestiones siguientes:</p><p>-           Que la persona solicitante no està incursa en las prohibiciones para obtenir la condición de beneficiaria y para ser receptora del pago establecidas en la lei 38/2003, de 17 de novembre, y en concreto apartados 2 y 3 i el apartado 5 del articulo 34 de la misma.</p><p>-           Que la persona solicitante se compromete al cumplimiento de las obligaciones de las persones beneficiaries de subvenciones, establecidas en el articulo 14 de la Lei 38/2003, de 17 de novembre</p><p>b.         AUTORIZACIONES para la consulta interactiva por parte del Ayuntamiento de los requisitos de encontrarse al corriente del cumplimiento de las obligaciones tributarias con la Agencia Estatal de la Administración tributaria (AEAT), frente la Seguridad Social (TGSS) y con la tresoreria municipal.</p><p>c.         FORMULARIO de domiciliación bancaria.</p><p>d.         CERTIFICADO emitido por la Escuela Pública en que conste el gasto de escolarización subvencionable satisfecho por cada alumno.</p><p> </p><p>Las solicitudes deben formalizarse mediante el modelo normalizado disponible en la sede electrónica del Ayuntamiento de Esponellà y acompañado de la documentación prevista por el articulo 5 de las bases reguladores</p><p>También se podran presentar en cualquier de los sitios previstos en el articulo 16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.</p><p> </p><p> </p><p> </p><p>Esponellà, en la fecha de la firma electrónica</p><p>El Alcalde</p><p>David Juan Garganta</p>",
+        "textoLeng": "<p>EXTRACTE DE LA CONVOCATÒRIA DE SUBVENCIONS A LES FAMÍLIES DELS ALUMNES DE L’ESCOLA PÚBLICA D’ESPONELLÀ, PER A LA  UNIVERSALITZACIÓ DE LES ACTIVITATS EN L’ÀMBIT DE L’ESCOLARITZACIÓ DELS SEUS FILLS/FILLES PER AL CURS 2025-2026</p><p>Primer. Objecte de les bases</p><p>L’objecte d’aquestes bases és la regulació de l’atorgament, per part de Ajuntament d’Esponellà, d’ajuts a les famílies dels alumnes de l’escola pública d’Esponellà per a la universalització de les activitats en l’àmbit de l’escolarització dels seus fills/filles.</p><p>Segon. Persones destinatàries i requisits</p><p>2.1.a) Beneficiaris: Podran obtenir la condició de beneficiari dels ajuts les famílies d’alumnes de l’escola pública d’Esponellà, empadronades al municipi d’Esponellà i amb fills en edat d’escolarització que cursin educació infantil o ensenyament primari (d’I3 a 6è)</p><p>2.1.b) Sol·licitants: podran sol·licitar l’ajut per a minorar les despeses relacionades amb la realització d’activitats en l’àmbit de l’escolarització per al curs de la convocatòria d’aquesta subvenció, el pare, la mare, el tutor/a o representant legal de l’alumne que compleixi els requisits de les bases.</p><p>2.2. Requisits</p><p>Per a poder sol·licitar l’ajut, l’alumnat haurà de reunir els requisits següents:</p><p>• Estar empadronat al municipi d’Esponellà, com a mínim, des de l’1 de setembre de l’any de la convocatòria.</p><p>• Estar cursant qualsevol dels cursos de l’etapa d’escolarització d’educació infantil a ensenyament primari (d’I3 a 6è) a l’escola d’Esponellà.</p><p> • Caldrà que els sol·licitants es trobin al corrent de les seves obligacions fiscals amb l’Ajuntament d’Esponellà.</p><p>Tercer. Bases Reguladores</p><p>Les bases reguladores de la concessió d’aquestes subvencions són les aprovades pel Ple de l’Ajuntament en data 19 de març de 2025 i publicades en el Butlletí Oficial de la Província de Girona, núm. 59 del 26 de març de 2025.</p><p>Quart. Quantia de l’ajuda i despeses subvencionables</p><p>La partida pressupostària a la qual s’imputa la subvenció és 02/3200/48004, i la quantia total màxima de les subvencions convocades és de 1.500,00€ a raó de 75,00€ com a màxim per alumne.</p><p>Tenen consideració de despesa subvencionable les que inequívocament responen a la realització d’activitats en l’àmbit de l’escolarització dels alumnes de l’escola Carles de Fortuny d’Esponellà en el termini i amb les condicions determinades en aquestes bases com ara excursions, colònies, cursos, tallers...</p><p>Són despeses no subvencionables aquelles destinades a l’adquisició de material escolar i/o didàctic.</p><p>Cinquè. Termini, sol·licitud i documentació que cal presentar</p><p>El termini de presentació de les sol·licituds finalitzarà el dia trenta (30) de juny de 2026. Si l’ajut se sol·licita per a més d’un fill/a, caldrà presentar un imprès per cadascun. La sol·licitud ha d’incloure:</p><p>a.         DECLARACIÓ RESPONSABLE que contindrà el pronunciament exprés sobre les següents qüestions:</p><p>-           Que la persona sol·licitant no està incursa en les prohibicions per a obtenir la condició de beneficiària i per a ser receptora del pagament establert en la Llei 38/2003, de 17 de novembre, i en concret apartats 2 i 3 de l'article 13 i l'apartat 5 de l'article 34 d'aquesta.</p><p>-           Que la persona sol·licitant es compromet al compliment de les obligacions de les  persones beneficiàries de subvencions, establertes en l'article 14 de la Llei 38/2003, de 17 de novembre.</p><p>b.         AUTORITZACIONS per a la consulta interactiva per part de l’ajuntament dels requisits de trobar-se al corrent en el compliment de les obligacions tributàries amb l'Agència Estatal de l'Administració Tributària (AEAT), enfront de la Seguretat Social (TGSS), i amb la Tresoreria municipal. En cas de no autoritzar o oposar-se a la comprovació per l’ajuntament d'aquests requisits, haurà d'aportar-se de manera obligatòria la documentació acreditativa (certificat d’estar al corrent de pagament).</p><p>c.         FORMULARI de domiciliació bancària.</p><p>d.         CERTIFICAT emès per l’Escola Pública en que consti la despesa d’escolarització subvencionable satisfeta per cada alumne.</p><p> </p><p>Les sol·licituds s’hauran de formalitzar mitjançant el model normalitzat disponible a la seu electrònica de l’Ajuntament d’Esponellà i acompanyar de la documentació que preveu l’article 5 de les bases reguladores.</p><p>També es podran presentar en qualsevol dels llocs previstos a l’article 16.4 de la Llei 39/2015, d’1 d’octubre, de Procediment Administratiu Comú de les Administracions Públiques.</p><p> </p><p>Esponellà, a la data de la signatura electrònica</p><p>L’Alcalde</p><p>David Juan Garganta</p><p> </p>",
+        "url": "https://ssl4.ddgi.cat/bopV1/pdf/2026/82/20268203492.pdf",
+        "cve": null,
+        "desDiarioOficial": "B.O.P. DE GIRONA",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

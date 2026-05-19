@@ -1,0 +1,201 @@
+{
+  "id": "BDNS-902435",
+  "id_interno": 1103996,
+  "numero_convocatoria": "902435",
+  "organismo": "OTROS — CÁMARA DE COMERCIO DE VALENCIA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Convocatoria Programa Pyme Innova 2026 - Cámara Valencia",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS AUXILIARES, ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, ACTIVIDADES DE EDICIÓN, RADIODIFUSIÓN Y PRODUCCIÓN Y DISTRIBUCIÓN DE CONTENIDOS, ACTIVIDADES DE LOS HOGARES COMO EMPLEADORES Y COMO PRODUCTORES DE BIENES Y SERVICIOS NO DIFERENCIADOS PARA USO PROPIO, ACTIVIDADES FINANCIERAS Y DE SEGUROS, ACTIVIDADES INMOBILIARIAS, ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS, ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES, ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA, COMERCIO AL POR MAYOR Y AL POR MENOR, CONSTRUCCIÓN, EDUCACIÓN, HOSTELERÍA, INDUSTRIA MANUFACTURERA, ORGANISMOS EXTRATERRITORIALES, OTROS SERVICIOS, SUMINISTRO DE AGUA, ACTIVIDADES DE SANEAMIENTO, GESTIÓN DE RESIDUOS Y DESCONTAMINACIÓN, SUMINISTRO DE ENERGIA ELECTRICA, GAS, VAPOR Y AIRE ACONDICIONADO, TELECOMUNICACIONES, PROGRAMACIÓN INFORMÁTICA, CONSULTORÍA, INFRAESTRUCTURA INFORMÁTICA Y OTROS SERVICIOS DE INFORMACIÓN, TRANSPORTE Y ALMACENAMIENTO",
+  "regiones": "ES523 - Valencia / València",
+  "finalidad": "Investigación, desarrollo e innovación",
+  "bases_reguladoras": "Convocatoria Programa Pyme Innova 2026 - Cámara Valencia",
+  "url_bases_reguladoras": "https://www.camaravalencia.com/competitividad/medio-ambiente-y-energia/ayudas/pyme-innova-2026",
+  "presupuesto": "337.050,00 €",
+  "presupuesto_total_num": 337050,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "FEDER - FONDO EUROPEO DE DESARROLLO REGIONAL",
+  "reglamento": "REG (UE) 2023/2831 de minimis, General",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902435",
+  "text": "CONVOCATORIA BDNS Nº 902435\nOrganismo: OTROS — CÁMARA DE COMERCIO DE VALENCIA\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 337.050,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS AUXILIARES, ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, ACTIVIDADES DE EDICIÓN, RADIODIFUSIÓN Y PRODUCCIÓN Y DISTRIBUCIÓN DE CONTENIDOS, ACTIVIDADES DE LOS HOGARES COMO EMPLEADORES Y COMO PRODUCTORES DE BIENES Y SERVICIOS NO DIFERENCIADOS PARA USO PROPIO, ACTIVIDADES FINANCIERAS Y DE SEGUROS, ACTIVIDADES INMOBILIARIAS, ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS, ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES, ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA, COMERCIO AL POR MAYOR Y AL POR MENOR, CONSTRUCCIÓN, EDUCACIÓN, HOSTELERÍA, INDUSTRIA MANUFACTURERA, ORGANISMOS EXTRATERRITORIALES, OTROS SERVICIOS, SUMINISTRO DE AGUA, ACTIVIDADES DE SANEAMIENTO, GESTIÓN DE RESIDUOS Y DESCONTAMINACIÓN, SUMINISTRO DE ENERGIA ELECTRICA, GAS, VAPOR Y AIRE ACONDICIONADO, TELECOMUNICACIONES, PROGRAMACIÓN INFORMÁTICA, CONSULTORÍA, INFRAESTRUCTURA INFORMÁTICA Y OTROS SERVICIOS DE INFORMACIÓN, TRANSPORTE Y ALMACENAMIENTO\nRegiones: ES523 - Valencia / València\nFinalidad: Investigación, desarrollo e innovación\nFondos: FEDER - FONDO EUROPEO DE DESARROLLO REGIONAL\nReglamento: REG (UE) 2023/2831 de minimis, General\nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria Programa Pyme Innova 2026 - Cámara Valencia\n\nBases reguladoras:\nConvocatoria Programa Pyme Innova 2026 - Cámara Valencia\nURL bases reguladoras: https://www.camaravalencia.com/competitividad/medio-ambiente-y-energia/ayudas/pyme-innova-2026\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902435",
+  "_raw": {
+    "id": 1103996,
+    "organo": {
+      "nivel1": "OTROS",
+      "nivel2": "CÁMARA DE COMERCIO DE VALENCIA",
+      "nivel3": null
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902435",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 337050,
+    "mrr": false,
+    "descripcion": "Convocatoria Programa Pyme Innova 2026 - Cámara Valencia",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS AUXILIARES",
+        "codigo": "O"
+      },
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      },
+      {
+        "descripcion": "ACTIVIDADES DE EDICIÓN, RADIODIFUSIÓN Y PRODUCCIÓN Y DISTRIBUCIÓN DE CONTENIDOS",
+        "codigo": "J"
+      },
+      {
+        "descripcion": "ACTIVIDADES DE LOS HOGARES COMO EMPLEADORES Y COMO PRODUCTORES DE BIENES Y SERVICIOS NO DIFERENCIADOS PARA USO PROPIO",
+        "codigo": "U"
+      },
+      {
+        "descripcion": "ACTIVIDADES FINANCIERAS Y DE SEGUROS",
+        "codigo": "L"
+      },
+      {
+        "descripcion": "ACTIVIDADES INMOBILIARIAS",
+        "codigo": "M"
+      },
+      {
+        "descripcion": "ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS",
+        "codigo": "N"
+      },
+      {
+        "descripcion": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+        "codigo": "R"
+      },
+      {
+        "descripcion": "ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA",
+        "codigo": "P"
+      },
+      {
+        "descripcion": "COMERCIO AL POR MAYOR Y AL POR MENOR",
+        "codigo": "G"
+      },
+      {
+        "descripcion": "CONSTRUCCIÓN",
+        "codigo": "F"
+      },
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      },
+      {
+        "descripcion": "HOSTELERÍA",
+        "codigo": "I"
+      },
+      {
+        "descripcion": "INDUSTRIA MANUFACTURERA",
+        "codigo": "C"
+      },
+      {
+        "descripcion": "ORGANISMOS EXTRATERRITORIALES",
+        "codigo": "V"
+      },
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      },
+      {
+        "descripcion": "SUMINISTRO DE AGUA, ACTIVIDADES DE SANEAMIENTO, GESTIÓN DE RESIDUOS Y DESCONTAMINACIÓN",
+        "codigo": "E"
+      },
+      {
+        "descripcion": "SUMINISTRO DE ENERGIA ELECTRICA, GAS, VAPOR Y AIRE ACONDICIONADO",
+        "codigo": "D"
+      },
+      {
+        "descripcion": "TELECOMUNICACIONES, PROGRAMACIÓN INFORMÁTICA, CONSULTORÍA, INFRAESTRUCTURA INFORMÁTICA Y OTROS SERVICIOS DE INFORMACIÓN",
+        "codigo": "K"
+      },
+      {
+        "descripcion": "TRANSPORTE Y ALMACENAMIENTO",
+        "codigo": "H"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES523 - Valencia / València"
+      }
+    ],
+    "descripcionFinalidad": "Investigación, desarrollo e innovación",
+    "descripcionBasesReguladoras": "Convocatoria Programa Pyme Innova 2026 - Cámara Valencia",
+    "urlBasesReguladoras": "https://www.camaravalencia.com/competitividad/medio-ambiente-y-energia/ayudas/pyme-innova-2026",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": " A las 09:00h, transcurridos 5 días hábiles desde el día siguiente a la publicación en el DOGV",
+    "textFin": "A las 14:00h del 15 de junio de 2026, o hasta agotar presupuesto.",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [
+      {
+        "descripcion": "FEDER - FONDO EUROPEO DE DESARROLLO REGIONAL"
+      }
+    ],
+    "reglamento": {
+      "descripcion": "REG (UE) 2023/2831 de minimis, General",
+      "orden": null
+    },
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445355,
+        "descripcion": "ANEXO I",
+        "nombreFic": "2026_Anexo I. Descripción Pyme Innova.pdf",
+        "long": 284203,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445357,
+        "descripcion": "ANEXO III",
+        "nombreFic": "2026_Anexo III Declaración responsable empresa Pyme Innova.pdf",
+        "long": 851552,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445356,
+        "descripcion": "ANEXO II",
+        "nombreFic": "2026_Anexo II. Tipología y Justificación de Gastos Elegibles Fase II.pdf",
+        "long": 443798,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445353,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "2026_Modelo Convocatoria Pyme Innova_ORDINARIA.pdf",
+        "long": 516139,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902556",
+  "id_interno": 1104117,
+  "numero_convocatoria": "902556",
+  "organismo": "LOCAL — EJEA DE LOS CABALLEROS — AYUNTAMIENTO DE EJEA DE LOS CABALLEROS",
+  "sede_electronica": "www.ejea.es",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "2026-04-27",
+  "fecha_fin_solicitud": "2026-12-31",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "CONVENIO ENTRE EL AYUNTAMIENTO DE EJEA DE LOS CABALLEROS Y LA ASOCIACIÓN CDR CICLISMO ES VIDA PARA EL DESARROLLO DEL EVENTO “VIII EDUCANDO CON EL CICLISMO” EN EJEA DE LOS CABALLEROS.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades deportivas",
+  "regiones": "ES243 - Zaragoza",
+  "finalidad": "Otras actuaciones de carácter económico",
+  "bases_reguladoras": "CONVENIO ENTRE EL AYUNTAMIENTO DE EJEA DE LOS CABALLEROS Y LA ASOCIACIÓN CDR CICLISMO ES VIDA PARA EL DESARROLLO DEL EVENTO “VIII EDUCANDO CON EL CICLISMO” EN EJEA DE LOS CABALLEROS.",
+  "url_bases_reguladoras": "https://www.ejea.es/relacion_de_convenios_2t_2026/",
+  "presupuesto": "4.000,00 €",
+  "presupuesto_total_num": 4000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902556",
+  "text": "CONVOCATORIA BDNS Nº 902556\nOrganismo: LOCAL — EJEA DE LOS CABALLEROS — AYUNTAMIENTO DE EJEA DE LOS CABALLEROS\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud: 2026-04-27 → 2026-12-31 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 4.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades deportivas\nRegiones: ES243 - Zaragoza\nFinalidad: Otras actuaciones de carácter económico\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVENIO ENTRE EL AYUNTAMIENTO DE EJEA DE LOS CABALLEROS Y LA ASOCIACIÓN CDR CICLISMO ES VIDA PARA EL DESARROLLO DEL EVENTO “VIII EDUCANDO CON EL CICLISMO” EN EJEA DE LOS CABALLEROS.\n\nBases reguladoras:\nCONVENIO ENTRE EL AYUNTAMIENTO DE EJEA DE LOS CABALLEROS Y LA ASOCIACIÓN CDR CICLISMO ES VIDA PARA EL DESARROLLO DEL EVENTO “VIII EDUCANDO CON EL CICLISMO” EN EJEA DE LOS CABALLEROS.\nURL bases reguladoras: https://www.ejea.es/relacion_de_convenios_2t_2026/\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902556",
+  "_raw": {
+    "id": 1104117,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "EJEA DE LOS CABALLEROS",
+      "nivel3": "AYUNTAMIENTO DE EJEA DE LOS CABALLEROS"
+    },
+    "sedeElectronica": "www.ejea.es",
+    "codigoBDNS": "902556",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 4000,
+    "mrr": false,
+    "descripcion": "CONVENIO ENTRE EL AYUNTAMIENTO DE EJEA DE LOS CABALLEROS Y LA ASOCIACIÓN CDR CICLISMO ES VIDA PARA EL DESARROLLO DEL EVENTO “VIII EDUCANDO CON EL CICLISMO” EN EJEA DE LOS CABALLEROS.",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades deportivas",
+        "codigo": "93.1"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES243 - Zaragoza"
+      }
+    ],
+    "descripcionFinalidad": "Otras actuaciones de carácter económico",
+    "descripcionBasesReguladoras": "CONVENIO ENTRE EL AYUNTAMIENTO DE EJEA DE LOS CABALLEROS Y LA ASOCIACIÓN CDR CICLISMO ES VIDA PARA EL DESARROLLO DEL EVENTO “VIII EDUCANDO CON EL CICLISMO” EN EJEA DE LOS CABALLEROS.",
+    "urlBasesReguladoras": "https://www.ejea.es/relacion_de_convenios_2t_2026/",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-04-27",
+    "fechaFinSolicitud": "2026-12-31",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445686,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "CONVENIO CICLISMO ES VIDA.pdf",
+        "long": 246064,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

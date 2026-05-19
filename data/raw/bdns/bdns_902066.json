@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902066",
+  "id_interno": 1103627,
+  "numero_convocatoria": "902066",
+  "organismo": "AUTONOMICA — LA RIOJA — CONSEJERÍA DE CULTURA, TURISMO, DEPORTE Y JUVENTUD",
+  "sede_electronica": "https://www.larioja.org/oficina-electronica/es?web=&proc=24642",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "CONVENIO CONGDCAR 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES DE LOS HOGARES COMO EMPLEADORES Y COMO PRODUCTORES DE BIENES Y SERVICIOS NO DIFERENCIADOS PARA USO PROPIO",
+  "regiones": "ES230 - La Rioja",
+  "finalidad": "Cooperación internacional para el desarrollo y cultural",
+  "bases_reguladoras": "Convenio entre el Gobierno de La Rioja  y la Coordinadora de Organizaciones no Gubernamentales de Desarrollo de la Comunidad Autónoma de La Rioja para la realización de actividades de coordinación, formación, asesoramiento técnico  sensibilización y",
+  "url_bases_reguladoras": "https://ias1.larioja.org/cex/sistemas/GenericoServlet?servlet=cex.sistemas.dyn.portal.ImgServletSis&code=oumCvWIgBUF6lChv9ZDgP_hXhSM_FmcHyx0pnk2wfusH5h3TVkJMOgIAFw6X7X0oxVWa9cUmjPoQ%0AG0ds6DnAAGaYJ37bC4B8_2VQKN_vZdY%3D",
+  "presupuesto": "100.000,00 €",
+  "presupuesto_total_num": 100000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902066",
+  "text": "CONVOCATORIA BDNS Nº 902066\nOrganismo: AUTONOMICA — LA RIOJA — CONSEJERÍA DE CULTURA, TURISMO, DEPORTE Y JUVENTUD\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 100.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES DE LOS HOGARES COMO EMPLEADORES Y COMO PRODUCTORES DE BIENES Y SERVICIOS NO DIFERENCIADOS PARA USO PROPIO\nRegiones: ES230 - La Rioja\nFinalidad: Cooperación internacional para el desarrollo y cultural\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVENIO CONGDCAR 2026\n\nBases reguladoras:\nConvenio entre el Gobierno de La Rioja  y la Coordinadora de Organizaciones no Gubernamentales de Desarrollo de la Comunidad Autónoma de La Rioja para la realización de actividades de coordinación, formación, asesoramiento técnico  sensibilización y\nURL bases reguladoras: https://ias1.larioja.org/cex/sistemas/GenericoServlet?servlet=cex.sistemas.dyn.portal.ImgServletSis&code=oumCvWIgBUF6lChv9ZDgP_hXhSM_FmcHyx0pnk2wfusH5h3TVkJMOgIAFw6X7X0oxVWa9cUmjPoQ%0AG0ds6DnAAGaYJ37bC4B8_2VQKN_vZdY%3D\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902066",
+  "_raw": {
+    "id": 1103627,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "LA RIOJA",
+      "nivel3": "CONSEJERÍA DE CULTURA, TURISMO, DEPORTE Y JUVENTUD"
+    },
+    "sedeElectronica": "https://www.larioja.org/oficina-electronica/es?web=&proc=24642",
+    "codigoBDNS": "902066",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 100000,
+    "mrr": false,
+    "descripcion": "CONVENIO CONGDCAR 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES DE LOS HOGARES COMO EMPLEADORES Y COMO PRODUCTORES DE BIENES Y SERVICIOS NO DIFERENCIADOS PARA USO PROPIO",
+        "codigo": "U"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES230 - La Rioja"
+      }
+    ],
+    "descripcionFinalidad": "Cooperación internacional para el desarrollo y cultural",
+    "descripcionBasesReguladoras": "Convenio entre el Gobierno de La Rioja  y la Coordinadora de Organizaciones no Gubernamentales de Desarrollo de la Comunidad Autónoma de La Rioja para la realización de actividades de coordinación, formación, asesoramiento técnico  sensibilización y",
+    "urlBasesReguladoras": "https://ias1.larioja.org/cex/sistemas/GenericoServlet?servlet=cex.sistemas.dyn.portal.ImgServletSis&code=oumCvWIgBUF6lChv9ZDgP_hXhSM_FmcHyx0pnk2wfusH5h3TVkJMOgIAFw6X7X0oxVWa9cUmjPoQ%0AG0ds6DnAAGaYJ37bC4B8_2VQKN_vZdY%3D",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "No tiene",
+    "textFin": "No tiene",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444097,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Ley_8.2025.pdf",
+        "long": 882257,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

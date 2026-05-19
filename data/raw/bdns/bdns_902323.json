@@ -1,0 +1,97 @@
+{
+  "id": "BDNS-902323",
+  "id_interno": 1103884,
+  "numero_convocatoria": "902323",
+  "organismo": "LOCAL — BRUC, EL — AYUNTAMIENTO DE BRUC, EL",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "2026-01-01",
+  "fecha_fin_solicitud": "2026-03-31",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "CONVENI ESCOLA DE MUSICA EL BRUC CURS 2025-2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Otra educación",
+  "regiones": "ES511 - Barcelona",
+  "finalidad": "Educación",
+  "bases_reguladoras": "ORDENANÇA GENERAL DE SUBVENCIONS DE L`AJUNTAMENT DEL BRUC",
+  "url_bases_reguladoras": "https://bop.diba.cat/anunci/3222974/aprovacio-definitiva-de-l-ordenanca-municipal-reguladora-de-les-subvencions-ajuntament-del-bruc",
+  "presupuesto": "15.000,00 €",
+  "presupuesto_total_num": 15000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902323",
+  "text": "CONVOCATORIA BDNS Nº 902323\nOrganismo: LOCAL — BRUC, EL — AYUNTAMIENTO DE BRUC, EL\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud: 2026-01-01 → 2026-03-31 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 15.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Otra educación\nRegiones: ES511 - Barcelona\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVENI ESCOLA DE MUSICA EL BRUC CURS 2025-2026\n\nBases reguladoras:\nORDENANÇA GENERAL DE SUBVENCIONS DE L`AJUNTAMENT DEL BRUC\nURL bases reguladoras: https://bop.diba.cat/anunci/3222974/aprovacio-definitiva-de-l-ordenanca-municipal-reguladora-de-les-subvencions-ajuntament-del-bruc\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902323",
+  "_raw": {
+    "id": 1103884,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "BRUC, EL",
+      "nivel3": "AYUNTAMIENTO DE BRUC, EL"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902323",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 15000,
+    "mrr": false,
+    "descripcion": "CONVENI ESCOLA DE MUSICA EL BRUC CURS 2025-2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Otra educación",
+        "codigo": "85.5"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES511 - Barcelona"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "ORDENANÇA GENERAL DE SUBVENCIONS DE L`AJUNTAMENT DEL BRUC",
+    "urlBasesReguladoras": "https://bop.diba.cat/anunci/3222974/aprovacio-definitiva-de-l-ordenanca-municipal-reguladora-de-les-subvencions-ajuntament-del-bruc",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-01-01",
+    "fechaFinSolicitud": "2026-03-31",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445063,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "TEXT_CONVENI_ESCOLA_MUSICA.docx",
+        "long": 1234178,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "BDNS-901622",
+  "id_interno": 1103183,
+  "numero_convocatoria": "901622",
+  "organismo": "LOCAL — ANSOÁIN/ANTSOAIN — AYUNTAMIENTO DE ANSOÁIN/ANTSOAIN",
+  "sede_electronica": "https://sedeelectronica.ansoain.es/",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "2026-06-05",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA DE AYUDAS SOCIALES PARA ABONOS DE TEMPORADA DE VERANO DE LAS PISCINAS MUNICIPALES DEL AYUNTAMIENTO DE ANSOÁIN EN EL AÑO 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA",
+  "regiones": "ES22 - COMUNIDAD FORAL DE NAVARRA",
+  "finalidad": "Servicios Sociales y Promoción Social",
+  "bases_reguladoras": "LEY 38/2003 DE SUBVENCIONES",
+  "url_bases_reguladoras": "https://sedeelectronica.ansoain.es/tablondeanuncios/",
+  "presupuesto": "1.000,00 €",
+  "presupuesto_total_num": 1000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901622",
+  "text": "CONVOCATORIA BDNS Nº 901622\nOrganismo: LOCAL — ANSOÁIN/ANTSOAIN — AYUNTAMIENTO DE ANSOÁIN/ANTSOAIN\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  → 2026-06-05 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 1.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA\nRegiones: ES22 - COMUNIDAD FORAL DE NAVARRA\nFinalidad: Servicios Sociales y Promoción Social\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA DE AYUDAS SOCIALES PARA ABONOS DE TEMPORADA DE VERANO DE LAS PISCINAS MUNICIPALES DEL AYUNTAMIENTO DE ANSOÁIN EN EL AÑO 2026\n\nBases reguladoras:\nLEY 38/2003 DE SUBVENCIONES\nURL bases reguladoras: https://sedeelectronica.ansoain.es/tablondeanuncios/\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901622",
+  "_raw": {
+    "id": 1103183,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "ANSOÁIN/ANTSOAIN",
+      "nivel3": "AYUNTAMIENTO DE ANSOÁIN/ANTSOAIN"
+    },
+    "sedeElectronica": "https://sedeelectronica.ansoain.es/",
+    "codigoBDNS": "901622",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 1000,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA DE AYUDAS SOCIALES PARA ABONOS DE TEMPORADA DE VERANO DE LAS PISCINAS MUNICIPALES DEL AYUNTAMIENTO DE ANSOÁIN EN EL AÑO 2026",
+    "descripcionLeng": "ANTSOAINGO UDALAREN IGERILEKUETAKO UDAKO DENBORALDIKO ABONUETARAKO GIZARTE LAGUNTZEN DEIALDIA 2026. URTEAN",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      },
+      {
+        "descripcion": "ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA",
+        "codigo": "P"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES22 - COMUNIDAD FORAL DE NAVARRA"
+      }
+    ],
+    "descripcionFinalidad": "Servicios Sociales y Promoción Social",
+    "descripcionBasesReguladoras": "LEY 38/2003 DE SUBVENCIONES",
+    "urlBasesReguladoras": "https://sedeelectronica.ansoain.es/tablondeanuncios/",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": "2026-06-05",
+    "textInicio": "DESDE EL DÍA SIGUIENTE A LA PUBLICACIÓN EN EL BOLETÍN OFICIAL DE NAVARRA",
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442889,
+        "descripcion": "Eskaera orria_Hoja de solicitud",
+        "nombreFic": "Eskaera orria_Hoja de solicitud.pdf",
+        "long": 324218,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1442887,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Bases de la convocatoria.pdf",
+        "long": 191204,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "BDNS-901568",
+  "id_interno": 1103129,
+  "numero_convocatoria": "901568",
+  "organismo": "LOCAL — ASCÓ — AYUNTAMIENTO DE ASCÓ",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "2026-04-24",
+  "fecha_fin_solicitud": "2026-12-31",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Subvenciones para el fomento de las Explotaciones Agrícolas en el municipio de Ascó.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA",
+  "regiones": "ES514 - Tarragona",
+  "finalidad": "Agricultura, Pesca y Alimentación",
+  "bases_reguladoras": "Subvenciones para el fomento de las Explotaciones Agrícolas en el municipio de Ascó.",
+  "url_bases_reguladoras": "https://www.pap.hacienda.gob.es/bdnstrans/GE/es/inicio",
+  "presupuesto": "90.000,00 €",
+  "presupuesto_total_num": 90000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901568",
+  "text": "CONVOCATORIA BDNS Nº 901568\nOrganismo: LOCAL — ASCÓ — AYUNTAMIENTO DE ASCÓ\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud: 2026-04-24 → 2026-12-31 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 90.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA\nRegiones: ES514 - Tarragona\nFinalidad: Agricultura, Pesca y Alimentación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSubvenciones para el fomento de las Explotaciones Agrícolas en el municipio de Ascó.\n\nBases reguladoras:\nSubvenciones para el fomento de las Explotaciones Agrícolas en el municipio de Ascó.\nURL bases reguladoras: https://www.pap.hacienda.gob.es/bdnstrans/GE/es/inicio\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901568",
+  "_raw": {
+    "id": 1103129,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "ASCÓ",
+      "nivel3": "AYUNTAMIENTO DE ASCÓ"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901568",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 90000,
+    "mrr": false,
+    "descripcion": "Subvenciones para el fomento de las Explotaciones Agrícolas en el municipio de Ascó.",
+    "descripcionLeng": "Subvencions per al Foment de les Explotacions Agrícoles al municipi d’Ascó.",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA",
+        "codigo": "A"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES514 - Tarragona"
+      }
+    ],
+    "descripcionFinalidad": "Agricultura, Pesca y Alimentación",
+    "descripcionBasesReguladoras": "Subvenciones para el fomento de las Explotaciones Agrícolas en el municipio de Ascó.",
+    "urlBasesReguladoras": "https://www.pap.hacienda.gob.es/bdnstrans/GE/es/inicio",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-04-24",
+    "fechaFinSolicitud": "2026-12-31",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442622,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "CONVOCATORIA EXPLOTACIONES AGRICOLAS 2026.pdf",
+        "long": 557259,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442623,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "CONVOCATORIA CONREU 2026.pdf",
+        "long": 445258,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210063,
+        "titulo": "Subvenciones para el fomento de las explotaciones agrícolas en el municipio de Ascó.",
+        "tituloLeng": "Subvencions per al Foment de les Explotacions Agrícoles al municipi d’Ascó.",
+        "texto": "<p>Extracto del acuerdo de la Junta de Gobierno Local del Ayuntamiento de Ascó de fecha 23 deabril de 2026, por la que se convocan subvenciones para el fomento de las explotacionesagrícolas en el municipio de Ascó.</p><p>De conformidad con lo previsto en los artículos 17.3.b y 20.8.a de la Ley 38/2003, de 17 denoviembre, General de Subvenciones, se publica el extracto de la convocatoria cuyo textocompleto puede consultarse en la Base de Datos Nacional de Subvenciones(http://www.pap.minhap.gob.es/bdnstrans):</p><p>Primero.- Personas beneficiarias- En relación con la construcción o rehabilitación de instalaciones de riego y nivelación delas fincas (excluidos los márgenes) y la construcción o rehabilitación de la infraestructuranecesaria para los cultivos (incluidos los almacenes y masías): tanto a personas físicascomo jurídicas propietarias o arrendatarias de terrenos rústicos cultivables ubicados enel término municipal de Ascó.</p><p>- Respecto al cultivo: tanto a personas físicas como personas jurídicas propietarias,copropietarias o usufructuarias de terrenos rústicos cultivados ubicados en el términomunicipal de Ascó, que desarrollen la actividad enmarcada en el sector agrícola en esosterrenos de Ascó.</p><p>- En relación con las obras e instalaciones que tengan como finalidad evitar o prevenir quelos animales cinegéticos entren en los terrenos destinados al cultivo y que las heladas ylas condiciones climatológicas extremas dañen cultivos: tanto las personas físicas comojurídicas propietarias de las fincas o autorizadas por las personas propietarias de losterrenos.</p><p>- En relación con la instalación de equipos de generación de electricidad con energíasrenovables para el autoconsumo y la instalación de paneles solares para ACS: tanto laspersonas físicas como jurídicas propietarias de las fincas o autorizadas por las personaspropietarias de los terrenos.- En relación con la retirada, tratamiento y gestión de les cubiertas de fibrocemento(contenido de amianto): tanto las personas físicas como jurídicas propietarias de losterrenos o autorizadas por las personas propietarias de los terrenos.</p><p>Segundo.- FinalidadIncentivar el sector primario incrementando la superficie agrícola mejorando la producción yproductividad favoreciendo la recuperación de terrenos abandonados con olivos y frutales,consolidar las explotaciones existentes y mejorar las necesidades para el cultivo.</p><p>Tercero.- ImportePara el cultivo el importe será de 100€ por hectárea cultivada con un importe máximo de 1000€por propietario para todas esas fincas que estén en producción.Para la construcción o rehabilitación de instalaciones de riego y nivelación de las fincas(excluidos los márgenes) y la construcción o rehabilitación de la infraestructura necesaria paralos cultivos (incluidos los almacenes y masías), el importe será del 35% del coste total del trabajoa realizar, excluyendo el IVA, con un límite de 12.000€ por finca. No obstante, dado el caso queel titular de la finca o explotación objeto de la subvención tenga una edad de hasta los 35 añoso superior a los 55 años, el límite por finca será de 20.000€.Para las obras e instalaciones para evitar o prevenir que los animales cinegéticos entren en lasfincas destinadas al cultivo y las que tengan como finalidad evitar o prevenir que las heladas ylas condiciones climatológicas extremas, el importe será del 25% del coste total de la instalación(excluido el IVA), con un límite de 12.000€ por finca. No obstante, en el caso que el titular de lafinca objeto de la subvención tenga una edad hasta 35 años o superior a los 55 años el límite porfinca será de 20.000€.Para la instalación de equipos de generación de electricidad con energías renovables para elautoconsumo y la instalación de paneles solares para ACS, el importe será del 75% del coste dela instalación (excluido el IVA), con un límite de 12.000€ por finca.Para la retirada, tratamiento y gestión de las cubiertas de fibrocemento (contenido de amianto),el importe será del 95% del coste de la actuación (excluido el IVA), con un límite de 15.000€ porfinca.</p><p>Cuarto.- Bases reguladorasBases específicas publicadas en el BOPT de Tarragona de 6 de junio de 2025.Quinto.- Plazo de presentación de las solicitudesHasta el 31 de diciembre del año en curso.</p><p>Ascó, 24 de abril de 2026</p><p>El Alcalde,Miquel Àngel Ribes Jornet</p>",
+        "textoLeng": "<p>Extracte de l’acord de la Junta de Govern Local de l’Ajuntament d’Ascó de data 23 d’abril de2026, pel qual es convoquen subvencions per al Foment de les Explotacions Agrícoles almunicipi d’Ascó.</p><p>De conformitat amb el que estableixen els articles 17.3b i 20.8a de la Llei 38/2003, de 17 denovembre, general de subvencions, es publica l’extracte de la convocatòria, el text complert dela qual es pot consultar a la Base de Datos Nacional de Subvenciones(http://www.pa.minhap.gob.es/bdnstrans):</p><p>Primer.- Persones beneficiàries- En relació amb la construcció o rehabilitació d’instal·lacions de reg i l’anivellament de lesfinques (exclosos els marges) i la construcció o rehabilitació de la infraestructuranecessària per a cultius (inclosos els magatzems agrícoles i masies): tant les personesfísiques com jurídiques propietàries dels terrenys ubicats al terme municipal d’Ascó.- En relació al conreu: tant persones físiques com persones jurídiques propietàries,copropietàries o usufructuàries de la finca rústica, que realitzin l’activitat emmarcada enel sector agrícola en aquells terrenys d’Ascó.- En relació amb les obres i instal·lacions que tinguin com a finalitat evitar o prevenir queels animals cinegètics entrin a les finques destinades al conreu i que les gelades i lescondicions climatològiques extremes danyin els cultius i conreus: tant les personesfísiques com jurídiques propietàries de les finques o autoritzades per les personespropietàries dels terrenys.- En relació a la instal·lació d’equips de generació d’electricitat amb energies renovables,per l’autoconsum i la instal·lació de panells solars per ACS: tant les persones físiquescom jurídiques propietàries dels terrenys o autoritzades per les persones propietàriesdels terrenys.- En relació a la retirada, tractament i gestió de les cobertes de fibrociment (contingutd’aminat): tant les persones físiques com jurídiques propietàries dels terrenys oautoritzades per les persones propietàries dels terrenys.</p><p>Segon.- FinalitatFomentar el sector primari incrementant la superfície agrícola millorant la producció i productivitatper tal d’afavorir la recuperació de terrenys abandonats amb oliveres i fruiters, consolidar lesexplotacions existents i millorar les necessitats del conreu.</p><p>Tercer.- ImportPer al conreu l’import serà de 100€ per hectàrea conreada amb un import màxim anual de 1000€per propietari/a per a totes aquestes finques que estiguin en produccióPer la construcció o rehabilitació d’instal·lacions de reg i l’anivellament de les finques (exclososels marges) i la construcció o rehabilitació de la infraestructura necessària per als cultius (inclososels magatzems agrícoles i masies), l’import serà del 35% del cost total de l’obra, exclòs l’IVA,amb un límit de 12.000€ per finca. No obstant, en el cas que el titular de la finca o explotacióobjecte de la subvenció tingui una edat de fins a 35 anys o superior als 55 anys, el límit per fincaserà de 20.000€.Per les obres i instal·lacions per evitar o prevenir que els animals cinegètics entrin a les finquesdestinades al conreu i les que tinguin com a finalitat evitar o prevenir que les gelades i lescondicions climatològiques extremes, l’import serà del 25% del cost total de la instal·lació (exclòsl’iva), amb un límit de 12.000€ per finca. No obstant, en el cas que el titular de la finca objectede la subvenció tingui una edat de fins a 35 anys o superior als 55 anys, el límit per finca serà de20.000€.Per la instal·lació d’equips de generació d’electricitat amb energies renovables per l’autoconsumi la instal·lació de panells solars per ACS, l’import serà del 75% del cost de la instal·lació (exclòsl’IVA), amb un límit de 12.000€ per finca.Per la retirada, tractament i gestió de les cobertes de fibrociment (contingut d’aminat), l’importserà del 95% del cost de l’actuació (exclòs l’IVA), amb un límit de 15.000€ per finca.</p><p>Quart.- Bases reguladoresBases específiques publicades al BOPT de Tarragona de 6 de juny de 2025.</p><p>Cinquè.- Termini de presentació de sol·licituds</p><p>Fins al 31 de desembre de l’any en curs.</p><p>Ascó, 24 d’abril de 2026</p><p>L’alcaldeMiquel Àngel Ribes Jornet</p>",
+        "url": "https://www.dipta.cat/bopt/web/butlleti-del-dia?bopb_dia%5BtipologiaAnunciant%5D=202",
+        "cve": "2026-03719",
+        "desDiarioOficial": "B.O.P. DE TARRAGONA",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

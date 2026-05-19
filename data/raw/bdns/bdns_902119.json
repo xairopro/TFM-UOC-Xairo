@@ -1,0 +1,114 @@
+{
+  "id": "BDNS-902119",
+  "id_interno": 1103680,
+  "numero_convocatoria": "902119",
+  "organismo": "OTROS — UNIVERSIDAD DE ALICANTE",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "2026-05-07",
+  "fecha_fin_solicitud": "2026-05-11",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "BECAS DE VERANO IUMA DE INICIACIÓN A LA INVESTIGACIÓN DE LA UNIVERSIDAD DE ALICANTE",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Educación terciaria",
+  "regiones": "ES - ESPAÑA",
+  "finalidad": "Educación",
+  "bases_reguladoras": "BECAS DE VERANO IUMA DE INICIACIÓN A LA INVESTIGACIÓN DE LA UNIVERSIDAD DE ALICANTE",
+  "url_bases_reguladoras": "https://www.boua.ua.es/Acuerdos/DescargarAcuerdo/66921",
+  "presupuesto": "1.500,00 €",
+  "presupuesto_total_num": 1500,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902119",
+  "text": "CONVOCATORIA BDNS Nº 902119\nOrganismo: OTROS — UNIVERSIDAD DE ALICANTE\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud: 2026-05-07 → 2026-05-11 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 1.500,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Educación terciaria\nRegiones: ES - ESPAÑA\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nBECAS DE VERANO IUMA DE INICIACIÓN A LA INVESTIGACIÓN DE LA UNIVERSIDAD DE ALICANTE\n\nBases reguladoras:\nBECAS DE VERANO IUMA DE INICIACIÓN A LA INVESTIGACIÓN DE LA UNIVERSIDAD DE ALICANTE\nURL bases reguladoras: https://www.boua.ua.es/Acuerdos/DescargarAcuerdo/66921\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902119",
+  "_raw": {
+    "id": 1103680,
+    "organo": {
+      "nivel1": "OTROS",
+      "nivel2": "UNIVERSIDAD DE ALICANTE",
+      "nivel3": null
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902119",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 1500,
+    "mrr": false,
+    "descripcion": "BECAS DE VERANO IUMA DE INICIACIÓN A LA INVESTIGACIÓN DE LA UNIVERSIDAD DE ALICANTE",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Educación terciaria",
+        "codigo": "85.4"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES - ESPAÑA "
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "BECAS DE VERANO IUMA DE INICIACIÓN A LA INVESTIGACIÓN DE LA UNIVERSIDAD DE ALICANTE",
+    "urlBasesReguladoras": "https://www.boua.ua.es/Acuerdos/DescargarAcuerdo/66921",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-05-07",
+    "fechaFinSolicitud": "2026-05-11",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444227,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "2026SBV119_conv.pdf",
+        "long": 234008,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444226,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "2026SBV119_conv.pdf",
+        "long": 234008,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210322,
+        "titulo": "Extracto de la Resolución de 25 de abril de 2026, de la rectora de la Universidad de Alicante, por la que se convoca BECAS DE VERANO IUMA DE INICIACIÓN A LA INVESTIGACIÓN DE LA UNIVERSIDAD DE ALICANTE",
+        "tituloLeng": "Extracte de la Resolució de 25 d'abril de 2026, de la rectora de la Universitat d'Alacant, per la qual es convoca BEQUES D'ESTIU IUMA D'INICIACIÓ A LA INVESTIGACIÓ DE LA UNIVERSITAT D'ALACANT",
+        "texto": "<p>Primero. Objeto:\n</p><p>Conceder 2 becas de verano de iniciación a la investigación.\n</p><p>\n</p><p>Segundo. Beneficiarios:\n</p><p>Podrán solicitar estas becas los estudiantes que cumplen los requisitos establecidos en las bases de la convocatoria.\n</p><p>\n</p><p>Tercero. Bases reguladoras:\n</p><p>Las bases reguladoras y convocatoria están publicadas de manera conjunta en el Boletín Oficial de la Universidad de Alicante de día 28 de abril de 2026 , en la siguiente URL:\n</p><p>https://www.boua.ua.es/Acuerdos/DescargarAcuerdo/66921\n</p><p>\n</p><p>Cuarto. Cuantía:\n</p><p>La dotación de esta convocatoria es de un máximo de 1500  euros.\n</p><p>\n</p><p>Quinto. Plazo de presentación de solicitudes:\n</p><p>La convocatoria se publicará en BOUA con carácter informativo previamente a la publicación de su extracto en el DOGV.\n</p><p>El plazo de solicitudes se inicia el 7 de mayo de 2026 y finaliza el día 11 de mayo de 2026.\n</p>",
+        "textoLeng": "<p>Primer. Objecte:\n</p><p>Concedir 2 beques d'estiu d'iniciació a la investigació.\n</p><p>\n</p><p>Segon. Beneficiaris:\n</p><p>Podran sol·licitar estes beques els estudiants que complixen els requisits establits en les bases de la convocatòria.\n</p><p>\n</p><p>Tercer. Bases reguladores:\n</p><p>Les bases reguladores i convocatòria estan publicades de manera conjunta en el Butlletí Oficial de la Universitat d'Alacant de dia 28 d'abril de 2026 , en la següent URL:\n</p><p>https://www.boua.ua.es/acuerdos/descargaracuerdo/66921\n</p><p>\n</p><p>Quart. Quantia:\n</p><p>La dotació d'esta convocatòria és d'un màxim de 1500 euros.\n</p><p>\n</p><p>Quint. Termini de presentació de sol·licituds:\n</p><p>La convocatòria es publicarà en BOUA amb caràcter informatiu prèviament a la publicació del seu extracte en el DOGV.\n</p><p>El termini de sol·licituds s'inicia el 7 de maig de 2026 i finalitza el dia 11 de maig de 2026.\n</p>",
+        "url": "https://dogv.gva.es/va/resultat-dogv?signatura=2026/12431",
+        "cve": "DOGV-V-2026-12431",
+        "desDiarioOficial": "DOCV. D.O. DE LA COMUNITAT VALENCIANA",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

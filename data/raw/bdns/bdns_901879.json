@@ -1,0 +1,213 @@
+{
+  "id": "BDNS-901879",
+  "id_interno": 1103440,
+  "numero_convocatoria": "901879",
+  "organismo": "ESTADO — MINISTERIO DE DEFENSA — SECRETARÍA GENERAL DE POLÍTICA DE DEFENSA",
+  "sede_electronica": "http://sede.defensa.gob.es/acceda",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Orden de 27 de abril de 2026, por la que se convocan subvenciones para promover la Cultura de Defensa, correspondientes al año 2026.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Administración pública y defensa; seguridad social obligatoria",
+  "regiones": "ES - ESPAÑA",
+  "finalidad": "Defensa",
+  "bases_reguladoras": "Orden DEF/186/2015, de 9 de febrero, por la que se establecen las bases reguladoras para la concesión de subvenciones para promover la cultura de defensa, modificada por la Orden DEF/159/2024, de 15 de febrero B.O.E. núm.48, de 23 de febrero de 2024.",
+  "url_bases_reguladoras": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2015-1335",
+  "presupuesto": "300.000,00 €",
+  "presupuesto_total_num": 300000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901879",
+  "text": "CONVOCATORIA BDNS Nº 901879\nOrganismo: ESTADO — MINISTERIO DE DEFENSA — SECRETARÍA GENERAL DE POLÍTICA DE DEFENSA\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 300.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Administración pública y defensa; seguridad social obligatoria\nRegiones: ES - ESPAÑA\nFinalidad: Defensa\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nOrden de 27 de abril de 2026, por la que se convocan subvenciones para promover la Cultura de Defensa, correspondientes al año 2026.\n\nBases reguladoras:\nOrden DEF/186/2015, de 9 de febrero, por la que se establecen las bases reguladoras para la concesión de subvenciones para promover la cultura de defensa, modificada por la Orden DEF/159/2024, de 15 de febrero B.O.E. núm.48, de 23 de febrero de 2024.\nURL bases reguladoras: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2015-1335\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901879",
+  "_raw": {
+    "id": 1103440,
+    "organo": {
+      "nivel1": "ESTADO",
+      "nivel2": "MINISTERIO DE DEFENSA",
+      "nivel3": "SECRETARÍA GENERAL DE POLÍTICA DE DEFENSA"
+    },
+    "sedeElectronica": "http://sede.defensa.gob.es/acceda",
+    "codigoBDNS": "901879",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 300000,
+    "mrr": false,
+    "descripcion": "Orden de 27 de abril de 2026, por la que se convocan subvenciones para promover la Cultura de Defensa, correspondientes al año 2026.",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Administración pública y defensa; seguridad social obligatoria",
+        "codigo": "84"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES - ESPAÑA "
+      }
+    ],
+    "descripcionFinalidad": "Defensa",
+    "descripcionBasesReguladoras": "Orden DEF/186/2015, de 9 de febrero, por la que se establecen las bases reguladoras para la concesión de subvenciones para promover la cultura de defensa, modificada por la Orden DEF/159/2024, de 15 de febrero B.O.E. núm.48, de 23 de febrero de 2024.",
+    "urlBasesReguladoras": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2015-1335",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "A partir del día siguiente al de la publicación del extracto de esta convocatoria en BOE",
+    "textFin": "Quince días hábiles desde el día siguiente al de la publicación del extracto en BOE",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443617,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Orden Convocatoria Subvenciones 2026.pdf",
+        "long": 11412924,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443618,
+        "descripcion": "Anexo 1 Modelo de solicitud Personas Fisicas",
+        "nombreFic": "Anexo 1 Modelo de solicitud Personas Fisicas.pdf",
+        "long": 33940,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443619,
+        "descripcion": "Anexo 2 A Declaración Personas Fisicas",
+        "nombreFic": "Anexo 2 A Declaración Personas Fisicas.pdf",
+        "long": 22589,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443620,
+        "descripcion": "Anexo 2 B Declaración Personas Juridico Publicas",
+        "nombreFic": "Anexo 2 B Declaración Personas Juridico Publicas.pdf",
+        "long": 23675,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443621,
+        "descripcion": "Anexo 2 C Declaración Personas Juridico Privadas",
+        "nombreFic": "Anexo 2 C Declaración Personas Juridico Privadas.pdf",
+        "long": 22660,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443622,
+        "descripcion": "Anexo 3 Memoria del proyecto",
+        "nombreFic": "Anexo 3 Memoria del proyecto.pdf",
+        "long": 37716,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443624,
+        "descripcion": "Anexo 4 Justificación certificado Personas Fisicas",
+        "nombreFic": "Anexo 4 Justificación certificado Personas Fisicas.pdf",
+        "long": 33450,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443628,
+        "descripcion": "Anexo 7 Logo SEGENPOL",
+        "nombreFic": "Anexo 7 Logo SEGENPOL.pdf",
+        "long": 101005,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443627,
+        "descripcion": "Anexo 6 Memoria justificativa",
+        "nombreFic": "Anexo 6 Memoria justificativa.pdf",
+        "long": 43827,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443626,
+        "descripcion": "Anexo 5 Justificación certificado Personas Juridicas",
+        "nombreFic": "Anexo 5 Justificación certificado Personas Juridicas.pdf",
+        "long": 33389,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443631,
+        "descripcion": "Anexo 10 modelo solicitud modificacion",
+        "nombreFic": "Anexo 10 modelo solicitud modificacion.pdf",
+        "long": 84407,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443630,
+        "descripcion": "Anexo 9 modelo solicitud ampliacion",
+        "nombreFic": "Anexo 9 modelo solicitud ampliacion.pdf",
+        "long": 25923,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443629,
+        "descripcion": "Anexo 8 Instancia de presentación justificación",
+        "nombreFic": "Anexo 8 Instancia de presentación justificación.pdf",
+        "long": 26510,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443634,
+        "descripcion": "Anexo 11 Modelo Renuncia subvención",
+        "nombreFic": "Anexo 11 Modelo Renuncia subvención.pdf",
+        "long": 88531,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210221,
+        "titulo": "Extracto de la Orden de 27 de abril de 2026, por la que se convocan subvenciones para promover la cultura de defensa, correspondiente al año 2026.",
+        "tituloLeng": null,
+        "texto": "<p>Primero. Beneficiarios:</p><p>Podrán obtener la condición de beneficiario:</p><p>Las personas jurídicas, públicas o privadas, que carezcan de ánimo de lucro, y tengan su domicilio social en España. Deberán estar legalmente constituidas e inscritas en el registro público correspondiente en la fecha en que se presente la solicitud.</p><p>Las personas físicas que tengan su domicilio en España.</p><p>Todas ellas habrán de cumplir los demás requisitos establecidos en la Orden de convocatoria, y tener las condiciones idóneas para garantizar el cumplimiento del objeto y la finalidad fijados en el apartado primero. No deberán encontrarse incursas en ninguna de las prohibiciones establecidas en el artículo 13 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones en los términos previstos en los artículos 18 al 21, ambos inclusive, del Real Decreto 887/2006, de 21 de julio, por el que se aprueba el Reglamento de la Ley General de Subvenciones.</p><p>Se excluirán como beneficiarios:</p><p>Las unidades, centros y organismos con dependencia orgánica del Ministerio de Defensa.</p><p>El personal que dependa orgánica o funcionalmente del órgano concedente de las subvenciones y el personal de los organismos que estén representados en la Comisión de Valoración.</p><p>Segundo. Finalidad:</p><p>Aprobar las normas de procedimiento para la gestión de las subvenciones, en régimen de concurrencia competitiva, para promover la cultura de defensa en el año 2026.</p><p>Esta convocatoria se destina a los proyectos o actividades que se realicen desde el 1 de enero hasta el 2 de noviembre de 2026.</p><p>Las subvenciones reguladas por la presente Orden tienen como finalidad impulsar la realización de actividades de fomento y difusión de la cultura de defensa que promuevan el conocimiento de la defensa como elemento esencial para garantizar la seguridad y el bienestar de España y de los españoles, con la finalidad de que la sociedad española conozca, valore y se identifique con su historia y con el esfuerzo solidario mediante el que las Fuerzas Armadas salvaguardan los intereses nacionales.</p><p>Tercero. Bases reguladoras.</p><p>Aprobadas por Orden DEF/186/2015, de 9 de febrero (B.O.E. núm.36, de 11 de febrero de 2015), modificada por la Orden DEF/159/2024, de 15 de febrero (B.O.E. núm.48, de 23 de febrero de 2024).</p><p>Cuarto. Importe.</p><p>La cuantía asciende a trescientos mil euros (300.000,00€), pertenecientes a la aplicación presupuestaria 14.01.121M2.485.03 del presupuesto de gastos del Ministerio de Defensa para el año 2026.</p><p>Quinto. Plazo de presentación de solicitudes.</p><p>El plazo de presentación de las solicitudes será de quince días hábiles, contados a partir del día siguiente al de la publicación del extracto de esta orden en el Boletín Oficial del Estado.</p><p>A efectos del cómputo del plazo de solicitud, para determinar la fecha de presentación de las solicitudes de personas físicas que se presenten en papel, la fecha que se tendrá en cuenta será la fecha del sello de entrada de la oficina del registro correspondiente que figure en la instancia de solicitud.</p><p>Sexto. Otros datos.</p><p>Las solicitudes se presentarán electrónicamente a través de la Sede Electrónica Central del Ministerio de Defensa [http://sede.defensa.gob.es/acceda], accediendo al apartado de \"Trámites generales\". En el Tablón de Anuncios de la citada Sede se podrá consultar toda la información relativa al procedimiento, y descargar los modelos de documentos requeridos. Excepcionalmente, las personas físicas podrán presentar su solicitud a través de alguno de los registros oficiales contemplados en el artículo 16.4 de la Ley 39/2015.</p>",
+        "textoLeng": null,
+        "url": "http://www.boe.es/diario_boe/verifica.php?acc=Verificar&c=BOE-B-2026-13473",
+        "cve": "BOE-B-2026-13473",
+        "desDiarioOficial": "BOE. BOLETÍN OFICIAL DEL ESTADO",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

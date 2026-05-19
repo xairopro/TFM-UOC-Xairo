@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-902245",
+  "id_interno": 1103806,
+  "numero_convocatoria": "902245",
+  "organismo": "LOCAL — OLESA DE MONTSERRAT — AYUNTAMIENTO DE OLESA DE MONTSERRAT",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "2026-05-04",
+  "fecha_fin_solicitud": "2026-05-20",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA DE SUBVENCIONES EN RÉGIMEN DE CONCURRENCIA COMPETITIVA EN MATERIA DE BIENESTAR SOCIAL DESTINADAS A LA PARTICIPACIÓN DE LOS NIÑOS Y JÓVENES A LAS ACTIVIDADES EN PERÍODO DE VACACIONES PARA EL AÑO 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades auxiliares a la educación",
+  "regiones": "ES511 - Barcelona",
+  "finalidad": "Servicios Sociales y Promoción Social",
+  "bases_reguladoras": "BASES REGULADORES PER A LA CONCESSIÓ DE SUBVENCIONS PER A LA PARTICIPACIÓ DELS INFANTS I JOVES A LES ACTIVITATS EN PERÍODE DE VACANCES",
+  "url_bases_reguladoras": "https://bop.diba.cat/anunci/3902439/modificacio-de-les-bases-reguladores-per-a-la-concessio-de-subvencions-per-a-la-participacio-dels-infants-i-joves-a-les-activitats-en-periode-de-vacances-versio-en-catala-i-castella-ajuntament-d-olesa-de-montserrat",
+  "presupuesto": "32.000,00 €",
+  "presupuesto_total_num": 32000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902245",
+  "text": "CONVOCATORIA BDNS Nº 902245\nOrganismo: LOCAL — OLESA DE MONTSERRAT — AYUNTAMIENTO DE OLESA DE MONTSERRAT\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud: 2026-05-04 → 2026-05-20 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 32.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades auxiliares a la educación\nRegiones: ES511 - Barcelona\nFinalidad: Servicios Sociales y Promoción Social\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA DE SUBVENCIONES EN RÉGIMEN DE CONCURRENCIA COMPETITIVA EN MATERIA DE BIENESTAR SOCIAL DESTINADAS A LA PARTICIPACIÓN DE LOS NIÑOS Y JÓVENES A LAS ACTIVIDADES EN PERÍODO DE VACACIONES PARA EL AÑO 2026\n\nBases reguladoras:\nBASES REGULADORES PER A LA CONCESSIÓ DE SUBVENCIONS PER A LA PARTICIPACIÓ DELS INFANTS I JOVES A LES ACTIVITATS EN PERÍODE DE VACANCES\nURL bases reguladoras: https://bop.diba.cat/anunci/3902439/modificacio-de-les-bases-reguladores-per-a-la-concessio-de-subvencions-per-a-la-participacio-dels-infants-i-joves-a-les-activitats-en-periode-de-vacances-versio-en-catala-i-castella-ajuntament-d-olesa-de-montserrat\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902245",
+  "_raw": {
+    "id": 1103806,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "OLESA DE MONTSERRAT",
+      "nivel3": "AYUNTAMIENTO DE OLESA DE MONTSERRAT"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902245",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 32000,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA DE SUBVENCIONES EN RÉGIMEN DE CONCURRENCIA COMPETITIVA EN MATERIA DE BIENESTAR SOCIAL DESTINADAS A LA PARTICIPACIÓN DE LOS NIÑOS Y JÓVENES A LAS ACTIVIDADES EN PERÍODO DE VACACIONES PARA EL AÑO 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades auxiliares a la educación",
+        "codigo": "85.6"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES511 - Barcelona"
+      }
+    ],
+    "descripcionFinalidad": "Servicios Sociales y Promoción Social",
+    "descripcionBasesReguladoras": "BASES REGULADORES PER A LA CONCESSIÓ DE SUBVENCIONS PER A LA PARTICIPACIÓ DELS INFANTS I JOVES A LES ACTIVITATS EN PERÍODE DE VACANCES",
+    "urlBasesReguladoras": "https://bop.diba.cat/anunci/3902439/modificacio-de-les-bases-reguladores-per-a-la-concessio-de-subvencions-per-a-la-participacio-dels-infants-i-joves-a-les-activitats-en-periode-de-vacances-versio-en-catala-i-castella-ajuntament-d-olesa-de-montserrat",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-05-04",
+    "fechaFinSolicitud": "2026-05-20",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444669,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "CONVOCATORIA_CAT.pdf",
+        "long": 416706,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444668,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "CONVOCATORIA_CAST.pdf",
+        "long": 180682,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

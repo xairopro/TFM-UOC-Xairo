@@ -1,0 +1,133 @@
+{
+  "id": "BDNS-901966",
+  "id_interno": 1103527,
+  "numero_convocatoria": "901966",
+  "organismo": "AUTONOMICA — CANARIAS — CONSEJERÍA DE TRANSICIÓN ECOLÓGICA Y ENERGÍA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "2025-04-11",
+  "fecha_fin_solicitud": "",
+  "abierto": true,
+  "mrr": true,
+  "tipo_convocatoria": "Concesión directa - canónica",
+  "descripcion": "C7I2EE-27S Subv. Varios Programas_MIX P2-P3",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Acabado de edificios, Actividades de construcción especializada en ingeniería civil, Actividades de construcción especializada en la construcción de edificios, Actividades de limpieza, Construcción de otros proyectos de ingeniería civil, Instalaciones eléctricas, de fontanería y otras instalaciones en obras de construcción, Otras actividades de construcción especializada, Servicios integrales a edificios e instalaciones, Suministro de energía eléctrica, gas, vapor y aire acondicionado",
+  "regiones": "ES70 - CANARIAS",
+  "finalidad": "Industria y Energía",
+  "bases_reguladoras": "ORDEN del CTEE, bases reguladoras y convocatoria subv. régimen conc. competitiva para ayudas fomento generación eléctrica renovable, autoconsumo y descarbonización de Canarias marco de la EES en las Islas Canarias P2 y 3, con cargo al PRTR C7I2",
+  "url_bases_reguladoras": "http://www.gobiernodecanarias.org/boc/",
+  "presupuesto": "14.818.443,06 €",
+  "presupuesto_total_num": 14818443.06,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "MRR - MECANISMO DE RECUPERACIÓN Y RESILIENCIA",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901966",
+  "text": "CONVOCATORIA BDNS Nº 901966\nOrganismo: AUTONOMICA — CANARIAS — CONSEJERÍA DE TRANSICIÓN ECOLÓGICA Y ENERGÍA\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud: 2025-04-11 →  (abierto: sí)\nTipo de convocatoria: Concesión directa - canónica\nPresupuesto total: 14.818.443,06 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Acabado de edificios, Actividades de construcción especializada en ingeniería civil, Actividades de construcción especializada en la construcción de edificios, Actividades de limpieza, Construcción de otros proyectos de ingeniería civil, Instalaciones eléctricas, de fontanería y otras instalaciones en obras de construcción, Otras actividades de construcción especializada, Servicios integrales a edificios e instalaciones, Suministro de energía eléctrica, gas, vapor y aire acondicionado\nRegiones: ES70 - CANARIAS\nFinalidad: Industria y Energía\nFondos: MRR - MECANISMO DE RECUPERACIÓN Y RESILIENCIA\nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): sí\n\nObjeto / Descripción:\nC7I2EE-27S Subv. Varios Programas_MIX P2-P3\n\nBases reguladoras:\nORDEN del CTEE, bases reguladoras y convocatoria subv. régimen conc. competitiva para ayudas fomento generación eléctrica renovable, autoconsumo y descarbonización de Canarias marco de la EES en las Islas Canarias P2 y 3, con cargo al PRTR C7I2\nURL bases reguladoras: http://www.gobiernodecanarias.org/boc/\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901966",
+  "_raw": {
+    "id": 1103527,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "CANARIAS",
+      "nivel3": "CONSEJERÍA DE TRANSICIÓN ECOLÓGICA Y ENERGÍA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901966",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - canónica",
+    "presupuestoTotal": 14818443.06,
+    "mrr": true,
+    "descripcion": "C7I2EE-27S Subv. Varios Programas_MIX P2-P3",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Acabado de edificios",
+        "codigo": "43.3"
+      },
+      {
+        "descripcion": "Actividades de construcción especializada en ingeniería civil",
+        "codigo": "43.5"
+      },
+      {
+        "descripcion": "Actividades de construcción especializada en la construcción de edificios",
+        "codigo": "43.4"
+      },
+      {
+        "descripcion": "Actividades de limpieza",
+        "codigo": "81.2"
+      },
+      {
+        "descripcion": "Construcción de otros proyectos de ingeniería civil",
+        "codigo": "42.9"
+      },
+      {
+        "descripcion": "Instalaciones eléctricas, de fontanería y otras instalaciones en obras de construcción",
+        "codigo": "43.2"
+      },
+      {
+        "descripcion": "Otras actividades de construcción especializada",
+        "codigo": "43.9"
+      },
+      {
+        "descripcion": "Servicios integrales a edificios e instalaciones",
+        "codigo": "81.1"
+      },
+      {
+        "descripcion": "Suministro de energía eléctrica, gas, vapor y aire acondicionado",
+        "codigo": "35"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES70 - CANARIAS"
+      }
+    ],
+    "descripcionFinalidad": "Industria y Energía",
+    "descripcionBasesReguladoras": "ORDEN del CTEE, bases reguladoras y convocatoria subv. régimen conc. competitiva para ayudas fomento generación eléctrica renovable, autoconsumo y descarbonización de Canarias marco de la EES en las Islas Canarias P2 y 3, con cargo al PRTR C7I2",
+    "urlBasesReguladoras": "http://www.gobiernodecanarias.org/boc/",
+    "sePublicaDiarioOficial": true,
+    "abierto": true,
+    "fechaInicioSolicitud": "2025-04-11",
+    "fechaFinSolicitud": null,
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [
+      {
+        "descripcion": "MRR - MECANISMO DE RECUPERACIÓN Y RESILIENCIA"
+      }
+    ],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443831,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Documento convocatoria castellano.PDF",
+        "long": 1093222,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

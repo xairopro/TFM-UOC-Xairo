@@ -1,0 +1,114 @@
+{
+  "id": "BDNS-902560",
+  "id_interno": 1104121,
+  "numero_convocatoria": "902560",
+  "organismo": "LOCAL — CARLET — AYUNTAMIENTO DE CARLET",
+  "sede_electronica": "https://carlet.sedelectronica.es",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "2026-05-31",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "XXVI Concurs Nacional de Piano Ciutat de Carlet 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, EDUCACIÓN",
+  "regiones": "ES523 - Valencia / València",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "BASES REGULADORES DEL XXVI CONCURS NACIONAL DE PIANO “CIUTAT DE CARLET” 2026 (publicat en BDNS 898859)",
+  "url_bases_reguladoras": "https://carlet.sedelectronica.es/transparency/4a0875a4-604c-47cc-9d1d-ab0bef5846b2/",
+  "presupuesto": "6.600,00 €",
+  "presupuesto_total_num": 6600,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902560",
+  "text": "CONVOCATORIA BDNS Nº 902560\nOrganismo: LOCAL — CARLET — AYUNTAMIENTO DE CARLET\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  → 2026-05-31 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 6.600,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, EDUCACIÓN\nRegiones: ES523 - Valencia / València\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nXXVI Concurs Nacional de Piano Ciutat de Carlet 2026\n\nBases reguladoras:\nBASES REGULADORES DEL XXVI CONCURS NACIONAL DE PIANO “CIUTAT DE CARLET” 2026 (publicat en BDNS 898859)\nURL bases reguladoras: https://carlet.sedelectronica.es/transparency/4a0875a4-604c-47cc-9d1d-ab0bef5846b2/\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902560",
+  "_raw": {
+    "id": 1104121,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "CARLET",
+      "nivel3": "AYUNTAMIENTO DE CARLET"
+    },
+    "sedeElectronica": "https://carlet.sedelectronica.es",
+    "codigoBDNS": "902560",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 6600,
+    "mrr": false,
+    "descripcion": "XXVI Concurs Nacional de Piano Ciutat de Carlet 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      },
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES523 - Valencia / València"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "BASES REGULADORES DEL XXVI CONCURS NACIONAL DE PIANO “CIUTAT DE CARLET” 2026 (publicat en BDNS 898859)",
+    "urlBasesReguladoras": "https://carlet.sedelectronica.es/transparency/4a0875a4-604c-47cc-9d1d-ab0bef5846b2/",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": "2026-05-31",
+    "textInicio": "Des de l'endemà de la publicació de la convocatòria en el BOP València",
+    "textFin": "fins al 31 de maig de 2026",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445661,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Edicto concurso de piano.pdf",
+        "long": 223925,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445687,
+        "descripcion": "Resolució",
+        "nombreFic": "Resolució convocatòria concurs de piano.pdf",
+        "long": 600210,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445657,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "Edicte convocatòria concurs de Piano.pdf",
+        "long": 209454,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

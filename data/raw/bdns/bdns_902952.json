@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-902952",
+  "id_interno": 1104513,
+  "numero_convocatoria": "902952",
+  "organismo": "AUTONOMICA — CATALUÑA — DEPARTAMENT D'AGRICULTURA, RAMADERIA, PESCA I ALIMENTACIÓ",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Ayudas al sector apícola para polinización 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA",
+  "regiones": "ES51 - CATALUÑA",
+  "finalidad": "Agricultura, Pesca y Alimentación",
+  "bases_reguladoras": "Bases reguladoras de las ayudas al sector apícola por polinización",
+  "url_bases_reguladoras": "https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=1014834",
+  "presupuesto": "102.000,00 €",
+  "presupuesto_total_num": 102000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902952",
+  "text": "CONVOCATORIA BDNS Nº 902952\nOrganismo: AUTONOMICA — CATALUÑA — DEPARTAMENT D'AGRICULTURA, RAMADERIA, PESCA I ALIMENTACIÓ\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 102.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA\nRegiones: ES51 - CATALUÑA\nFinalidad: Agricultura, Pesca y Alimentación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nAyudas al sector apícola para polinización 2026\n\nBases reguladoras:\nBases reguladoras de las ayudas al sector apícola por polinización\nURL bases reguladoras: https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=1014834\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902952",
+  "_raw": {
+    "id": 1104513,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "CATALUÑA",
+      "nivel3": "DEPARTAMENT D'AGRICULTURA, RAMADERIA, PESCA I ALIMENTACIÓ"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902952",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 102000,
+    "mrr": false,
+    "descripcion": "Ayudas al sector apícola para polinización 2026",
+    "descripcionLeng": "Ajuts al sector apícola per a pol·linització 2026",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA",
+        "codigo": "A"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES51 - CATALUÑA"
+      }
+    ],
+    "descripcionFinalidad": "Agricultura, Pesca y Alimentación",
+    "descripcionBasesReguladoras": "Bases reguladoras de las ayudas al sector apícola por polinización",
+    "urlBasesReguladoras": "https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=1014834",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Des de l’endemà de la publicació en el diari oficial de la convocatòria inicial",
+    "textFin": "10 Dies Hàbils",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446776,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "2026089_Resol_convoc_ajuts_Polinitzacio_2026_amb_ob.pdf",
+        "long": 224094,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446775,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Res_POL_CAST.pdf",
+        "long": 161734,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

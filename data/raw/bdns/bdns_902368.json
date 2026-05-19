@@ -1,0 +1,98 @@
+{
+  "id": "BDNS-902368",
+  "id_interno": 1103929,
+  "numero_convocatoria": "902368",
+  "organismo": "AUTONOMICA — ARAGÓN — INSTITUTO ARAGONÉS DE EMPLEO (INAEM)",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Orden Consejera de Empleo, Ciencia y Universidades, que aprueba convocatoria de subvenciones públicas para ejecución acciones formativas dirigidas a personas desempleadas con necesidades formativas especiales o dificultades de inserción o recualificación",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "EDUCACIÓN, OTROS SERVICIOS",
+  "regiones": "ES24 - ARAGON",
+  "finalidad": "Fomento del Empleo",
+  "bases_reguladoras": "Orden EFP/942/2022, de 23 de septiembre, por la que se regula la oferta formativa del sistema de Formación profesional en el ámbito laboral asociada al Catálogo Nacional de Cualificaciones Profesionales efectuada por las administraciones competentes",
+  "url_bases_reguladoras": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-16196",
+  "presupuesto": "2.000.000,00 €",
+  "presupuesto_total_num": 2000000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902368",
+  "text": "CONVOCATORIA BDNS Nº 902368\nOrganismo: AUTONOMICA — ARAGÓN — INSTITUTO ARAGONÉS DE EMPLEO (INAEM)\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 2.000.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: EDUCACIÓN, OTROS SERVICIOS\nRegiones: ES24 - ARAGON\nFinalidad: Fomento del Empleo\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nOrden Consejera de Empleo, Ciencia y Universidades, que aprueba convocatoria de subvenciones públicas para ejecución acciones formativas dirigidas a personas desempleadas con necesidades formativas especiales o dificultades de inserción o recualificación\n\nBases reguladoras:\nOrden EFP/942/2022, de 23 de septiembre, por la que se regula la oferta formativa del sistema de Formación profesional en el ámbito laboral asociada al Catálogo Nacional de Cualificaciones Profesionales efectuada por las administraciones competentes\nURL bases reguladoras: https://www.boe.es/buscar/act.php?id=BOE-A-2022-16196\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902368",
+  "_raw": {
+    "id": 1103929,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "ARAGÓN",
+      "nivel3": "INSTITUTO ARAGONÉS DE EMPLEO (INAEM)"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902368",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 2000000,
+    "mrr": false,
+    "descripcion": "Orden Consejera de Empleo, Ciencia y Universidades, que aprueba convocatoria de subvenciones públicas para ejecución acciones formativas dirigidas a personas desempleadas con necesidades formativas especiales o dificultades de inserción o recualificación",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      },
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES24 - ARAGON"
+      }
+    ],
+    "descripcionFinalidad": "Fomento del Empleo",
+    "descripcionBasesReguladoras": "Orden EFP/942/2022, de 23 de septiembre, por la que se regula la oferta formativa del sistema de Formación profesional en el ámbito laboral asociada al Catálogo Nacional de Cualificaciones Profesionales efectuada por las administraciones competentes",
+    "urlBasesReguladoras": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-16196",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Será de diez días hábiles, contados desde el día siguiente a publicación BOA",
+    "textFin": "Será de diez días hábiles, contados desde el día siguiente a publicación BOA",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445156,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "CSVOQ7A8XU2JI1B0XFIL Orden convocatoria 2026 dificultades inserción +Anexo firmada.pdf",
+        "long": 1624693,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

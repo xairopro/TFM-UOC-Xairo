@@ -1,0 +1,98 @@
+{
+  "id": "BDNS-902292",
+  "id_interno": 1103853,
+  "numero_convocatoria": "902292",
+  "organismo": "AUTONOMICA — PRINCIPADO DE ASTURIAS — CONSEJERÍA DE DERECHOS SOCIALES Y BIENESTAR",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "2026-01-01",
+  "fecha_fin_solicitud": "2026-12-31",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Resolución 23 de abril de 2026, de la Consejería de Derechos Sociales y Bienestar, por la que autoriza y dispone el gasto y reconoce la obligación a favor de Plataforma del Voluntariado de Asturias, para hacer efectiva la subvención nominativa",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES, EDUCACIÓN",
+  "regiones": "ES12 - PRINCIPADO DE ASTURIAS",
+  "finalidad": "Servicios Sociales y Promoción Social",
+  "bases_reguladoras": "Ley del Principado de Asturias, 5/2025 de 31 de diciembre de Presupuestos Generales para 2026",
+  "url_bases_reguladoras": "https://miprincipado.asturias.es/bopa-sumario?p_p_id=pa_sede_bopa_web_portlet_SedeBopaSummaryWeb&p_p_lifecycle=0&p_r_p_summaryDate=31/12/2025&p_r_p_summaryIsSearch=false",
+  "presupuesto": "83.373,00 €",
+  "presupuesto_total_num": 83373,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902292",
+  "text": "CONVOCATORIA BDNS Nº 902292\nOrganismo: AUTONOMICA — PRINCIPADO DE ASTURIAS — CONSEJERÍA DE DERECHOS SOCIALES Y BIENESTAR\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud: 2026-01-01 → 2026-12-31 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 83.373,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES, EDUCACIÓN\nRegiones: ES12 - PRINCIPADO DE ASTURIAS\nFinalidad: Servicios Sociales y Promoción Social\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nResolución 23 de abril de 2026, de la Consejería de Derechos Sociales y Bienestar, por la que autoriza y dispone el gasto y reconoce la obligación a favor de Plataforma del Voluntariado de Asturias, para hacer efectiva la subvención nominativa\n\nBases reguladoras:\nLey del Principado de Asturias, 5/2025 de 31 de diciembre de Presupuestos Generales para 2026\nURL bases reguladoras: https://miprincipado.asturias.es/bopa-sumario?p_p_id=pa_sede_bopa_web_portlet_SedeBopaSummaryWeb&p_p_lifecycle=0&p_r_p_summaryDate=31/12/2025&p_r_p_summaryIsSearch=false\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902292",
+  "_raw": {
+    "id": 1103853,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "PRINCIPADO DE ASTURIAS",
+      "nivel3": "CONSEJERÍA DE DERECHOS SOCIALES Y BIENESTAR"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902292",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 83373,
+    "mrr": false,
+    "descripcion": "Resolución 23 de abril de 2026, de la Consejería de Derechos Sociales y Bienestar, por la que autoriza y dispone el gasto y reconoce la obligación a favor de Plataforma del Voluntariado de Asturias, para hacer efectiva la subvención nominativa",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+        "codigo": "R"
+      },
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES12 - PRINCIPADO DE ASTURIAS"
+      }
+    ],
+    "descripcionFinalidad": "Servicios Sociales y Promoción Social",
+    "descripcionBasesReguladoras": "Ley del Principado de Asturias, 5/2025 de 31 de diciembre de Presupuestos Generales para 2026",
+    "urlBasesReguladoras": "https://miprincipado.asturias.es/bopa-sumario?p_p_id=pa_sede_bopa_web_portlet_SedeBopaSummaryWeb&p_p_lifecycle=0&p_r_p_summaryDate=31/12/2025&p_r_p_summaryIsSearch=false",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-01-01",
+    "fechaFinSolicitud": "2026-12-31",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444880,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "RESOLUCIÓN PLATAFORMA VOLUNTARIADO 23-04-2026.pdf",
+        "long": 299049,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

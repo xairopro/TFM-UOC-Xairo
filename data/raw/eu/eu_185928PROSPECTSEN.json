@@ -1,0 +1,136 @@
+{
+  "id": "EU-185928PROSPECTSEN",
+  "topic_id": "185928PROSPECTSEN",
+  "titulo": "Cypriot civil society in action X",
+  "descripcion": "Cypriot civil society in action X",
+  "organismo": "111111",
+  "fecha_publicacion": "2026-04-17",
+  "fecha_limite": "2026-06-16",
+  "deadlines_todas": "2026-06-16",
+  "presupuesto": "2250000",
+  "duracion": "",
+  "tipo_accion": "",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185928",
+  "text": "EU FUNDING & TENDERS – Topic: 185928PROSPECTSEN\nProgramme/Organism: 111111\nTitle: Cypriot civil society in action X\nStatus: Open (31094502)\nType of action: \nOpening date: 2026-04-17\nDeadline: 2026-06-16\nAll deadlines: 2026-06-16\nDuration: \nBudget overview: 2250000\n\nDescription / Scope:\nCypriot civil society in action X\n\nMore info: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185928",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "185928PROSPECTSEN",
+    "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185928",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Cypriot civil society in action X",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Cypriot civil society in action X",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "FDF5A640F8BB1B8ED9569DC8BFB5869090787227B93D578BB42180989975F3D7",
+    "metadata": {
+      "updateDate": [
+        "2026-04-17T12:06:08.000+0000"
+      ],
+      "es_SortDate": [
+        "2026-04-17T13:00:19.000+0000"
+      ],
+      "beneficiaryAdministration": [],
+      "sortStatus": [
+        "1"
+      ],
+      "contractType": [
+        "42893160"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Cypriot civil society in action X"
+      ],
+      "type": [
+        "2"
+      ],
+      "esST_checksum": [
+        "FDF5A640F8BB1B8ED9569DC8BFB5869090787227B93D578BB42180989975F3D7"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "callIdentifier": [
+        "185928"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "185928PROSPECTSEN"
+      ],
+      "currency": [
+        "EUR"
+      ],
+      "frameworkProgramme": [
+        "111111"
+      ],
+      "budget": [
+        "2250000"
+      ],
+      "identifier": [
+        "EuropeAid/185928/DH/ACT/CY"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "geographicalZones": [
+        "20000871"
+      ],
+      "publicationDocuments": [
+        "[{\"nameDoc\":\"Guidelines for grant applicants restricted EuropeAid185928 CSX\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-17 15:00:18.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156736&lang=EN\"},{\"nameDoc\":\"Annex A1. Grant application form-Concept note res (en)\",\"typeDoc\":\"rtf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-17 15:00:24.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156723&lang=EN\"},{\"nameDoc\":\"Annex A2. Grant application form-Full application res (en)\",\"typeDoc\":\"rtf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-17 15:00:01.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156733&lang=EN\"},{\"nameDoc\":\"Annex B - Budget (en)\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-17 15:00:39.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156734&lang=EN\"},{\"nameDoc\":\"Annex C - Logical framework\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-17 15:00:02.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2114074&lang=EN\"},{\"nameDoc\":\"Annex D - Identification Form (private or public with legal form)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-17 15:00:49.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2114075&lang=EN\"},{\"nameDoc\":\"Annex F - PADOR offline registration form\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-17 15:00:52.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2114072&lang=EN\"},{\"nameDoc\":\"Annex G - Standard grant contract (special conditions) CSX\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-17 15:00:47.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156724&lang=EN\"},{\"nameDoc\":\"Annex G - Annex II general conditions (en)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-17 15:00:32.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156726&lang=EN\"},{\"nameDoc\":\"Annex G - Annex IV - Procurement rules for beneficiaries (en)\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-17 15:00:50.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156727&lang=EN\"},{\"nameDoc\":\"Annex G - Annex V standard request for payment (en)\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-17 15:00:56.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156728&lang=EN\"},{\"nameDoc\":\"Annex G - Annex VI (1) model interim narrative report (en)\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-17 15:00:16.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156729&lang=EN\"},{\"nameDoc\":\"Annex G - Annex VI (2) model final narrative report (en)\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-17 15:00:40.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156730&lang=EN\"},{\"nameDoc\":\"Annex G - Annex VI (3)  Cost-based action financial report (en)\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-17 15:00:43.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156731&lang=EN\"},{\"nameDoc\":\"Annex G - Annex IX standard template transfer owner (en)\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-17 15:00:25.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156732&lang=EN\"},{\"nameDoc\":\"Annex H - Declaration of honour on exclusion and selection criteria\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-17 15:00:43.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2114069&lang=EN\"},{\"nameDoc\":\"Annex K - Clarifications on financing not linked to costs\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-17 15:00:15.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2114068&lang=EN\"},{\"nameDoc\":\"Annex J - Information on the tax regime applicable to grant contracts\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-17 15:00:46.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2114077&lang=EN\"},{\"nameDoc\":\"Annex L - Self-evaluation questionnaire on SEA-H\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-17 15:00:06.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2114067&lang=EN\"},{\"nameDoc\":\"e-Calls PADOR privacy statement\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-17 15:00:28.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2114079&lang=EN\"}]"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-04-17T15:01:00.247+0200"
+      ],
+      "programmePeriod": [
+        "2014 - 2020",
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-06-16T13:00:13.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-17T15:01:00.247+0200"
+      ],
+      "url": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185928"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185928"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-17T15:01:00.234+0200"
+      ],
+      "programmeDivisionProspect": [
+        "42921326"
+      ],
+      "geographicalZone": [
+        "20000871"
+      ],
+      "startDate": [
+        "2026-04-17T13:00:19.000+0000"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Cypriot civil society in action X. Available at: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185928",
+    "score": 3.0
+  }
+}

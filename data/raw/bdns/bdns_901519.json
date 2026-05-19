@@ -1,0 +1,229 @@
+{
+  "id": "BDNS-901519",
+  "id_interno": 1103080,
+  "numero_convocatoria": "901519",
+  "organismo": "OTROS — CÁMARA DE COMERCIO DE LA CORUÑA",
+  "sede_electronica": "https://sede.camara.es/sede/coruna",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "2026-07-31",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Convocatoria Programa Xpande Digital 2026 - Cámara de A Coruña",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS AUXILIARES, ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, ACTIVIDADES DE EDICIÓN, RADIODIFUSIÓN Y PRODUCCIÓN Y DISTRIBUCIÓN DE CONTENIDOS, ACTIVIDADES DE LOS HOGARES COMO EMPLEADORES Y COMO PRODUCTORES DE BIENES Y SERVICIOS NO DIFERENCIADOS PARA USO PROPIO, ACTIVIDADES FINANCIERAS Y DE SEGUROS, ACTIVIDADES INMOBILIARIAS, ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS, ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES, ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA, AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA, COMERCIO AL POR MAYOR Y AL POR MENOR, CONSTRUCCIÓN, EDUCACIÓN, HOSTELERÍA, INDUSTRIA MANUFACTURERA, INDUSTRIAS EXTRACTIVAS, ORGANISMOS EXTRATERRITORIALES, OTROS SERVICIOS, SUMINISTRO DE AGUA, ACTIVIDADES DE SANEAMIENTO, GESTIÓN DE RESIDUOS Y DESCONTAMINACIÓN, SUMINISTRO DE ENERGIA ELECTRICA, GAS, VAPOR Y AIRE ACONDICIONADO, TELECOMUNICACIONES, PROGRAMACIÓN INFORMÁTICA, CONSULTORÍA, INFRAESTRUCTURA INFORMÁTICA Y OTROS SERVICIOS DE INFORMACIÓN, TRANSPORTE Y ALMACENAMIENTO",
+  "regiones": "ES111 - A Coruña",
+  "finalidad": "Otras actuaciones de carácter económico",
+  "bases_reguladoras": "Convocatoria Programa Xpande Digital 2026a",
+  "url_bases_reguladoras": "https://www.camaracoruna.com/pag/programas-europeos/",
+  "presupuesto": "37.450,00 €",
+  "presupuesto_total_num": 37450,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "FEDER - FONDO EUROPEO DE DESARROLLO REGIONAL",
+  "reglamento": "REG (UE) 2023/2831 de minimis, General",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901519",
+  "text": "CONVOCATORIA BDNS Nº 901519\nOrganismo: OTROS — CÁMARA DE COMERCIO DE LA CORUÑA\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  → 2026-07-31 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 37.450,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS AUXILIARES, ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, ACTIVIDADES DE EDICIÓN, RADIODIFUSIÓN Y PRODUCCIÓN Y DISTRIBUCIÓN DE CONTENIDOS, ACTIVIDADES DE LOS HOGARES COMO EMPLEADORES Y COMO PRODUCTORES DE BIENES Y SERVICIOS NO DIFERENCIADOS PARA USO PROPIO, ACTIVIDADES FINANCIERAS Y DE SEGUROS, ACTIVIDADES INMOBILIARIAS, ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS, ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES, ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA, AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA, COMERCIO AL POR MAYOR Y AL POR MENOR, CONSTRUCCIÓN, EDUCACIÓN, HOSTELERÍA, INDUSTRIA MANUFACTURERA, INDUSTRIAS EXTRACTIVAS, ORGANISMOS EXTRATERRITORIALES, OTROS SERVICIOS, SUMINISTRO DE AGUA, ACTIVIDADES DE SANEAMIENTO, GESTIÓN DE RESIDUOS Y DESCONTAMINACIÓN, SUMINISTRO DE ENERGIA ELECTRICA, GAS, VAPOR Y AIRE ACONDICIONADO, TELECOMUNICACIONES, PROGRAMACIÓN INFORMÁTICA, CONSULTORÍA, INFRAESTRUCTURA INFORMÁTICA Y OTROS SERVICIOS DE INFORMACIÓN, TRANSPORTE Y ALMACENAMIENTO\nRegiones: ES111 - A Coruña\nFinalidad: Otras actuaciones de carácter económico\nFondos: FEDER - FONDO EUROPEO DE DESARROLLO REGIONAL\nReglamento: REG (UE) 2023/2831 de minimis, General\nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria Programa Xpande Digital 2026 - Cámara de A Coruña\n\nBases reguladoras:\nConvocatoria Programa Xpande Digital 2026a\nURL bases reguladoras: https://www.camaracoruna.com/pag/programas-europeos/\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901519",
+  "_raw": {
+    "id": 1103080,
+    "organo": {
+      "nivel1": "OTROS",
+      "nivel2": "CÁMARA DE COMERCIO DE LA CORUÑA",
+      "nivel3": null
+    },
+    "sedeElectronica": "https://sede.camara.es/sede/coruna",
+    "codigoBDNS": "901519",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 37450,
+    "mrr": false,
+    "descripcion": "Convocatoria Programa Xpande Digital 2026 - Cámara de A Coruña",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS AUXILIARES",
+        "codigo": "O"
+      },
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      },
+      {
+        "descripcion": "ACTIVIDADES DE EDICIÓN, RADIODIFUSIÓN Y PRODUCCIÓN Y DISTRIBUCIÓN DE CONTENIDOS",
+        "codigo": "J"
+      },
+      {
+        "descripcion": "ACTIVIDADES DE LOS HOGARES COMO EMPLEADORES Y COMO PRODUCTORES DE BIENES Y SERVICIOS NO DIFERENCIADOS PARA USO PROPIO",
+        "codigo": "U"
+      },
+      {
+        "descripcion": "ACTIVIDADES FINANCIERAS Y DE SEGUROS",
+        "codigo": "L"
+      },
+      {
+        "descripcion": "ACTIVIDADES INMOBILIARIAS",
+        "codigo": "M"
+      },
+      {
+        "descripcion": "ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS",
+        "codigo": "N"
+      },
+      {
+        "descripcion": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+        "codigo": "R"
+      },
+      {
+        "descripcion": "ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA",
+        "codigo": "P"
+      },
+      {
+        "descripcion": "AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA",
+        "codigo": "A"
+      },
+      {
+        "descripcion": "COMERCIO AL POR MAYOR Y AL POR MENOR",
+        "codigo": "G"
+      },
+      {
+        "descripcion": "CONSTRUCCIÓN",
+        "codigo": "F"
+      },
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      },
+      {
+        "descripcion": "HOSTELERÍA",
+        "codigo": "I"
+      },
+      {
+        "descripcion": "INDUSTRIA MANUFACTURERA",
+        "codigo": "C"
+      },
+      {
+        "descripcion": "INDUSTRIAS EXTRACTIVAS",
+        "codigo": "B"
+      },
+      {
+        "descripcion": "ORGANISMOS EXTRATERRITORIALES",
+        "codigo": "V"
+      },
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      },
+      {
+        "descripcion": "SUMINISTRO DE AGUA, ACTIVIDADES DE SANEAMIENTO, GESTIÓN DE RESIDUOS Y DESCONTAMINACIÓN",
+        "codigo": "E"
+      },
+      {
+        "descripcion": "SUMINISTRO DE ENERGIA ELECTRICA, GAS, VAPOR Y AIRE ACONDICIONADO",
+        "codigo": "D"
+      },
+      {
+        "descripcion": "TELECOMUNICACIONES, PROGRAMACIÓN INFORMÁTICA, CONSULTORÍA, INFRAESTRUCTURA INFORMÁTICA Y OTROS SERVICIOS DE INFORMACIÓN",
+        "codigo": "K"
+      },
+      {
+        "descripcion": "TRANSPORTE Y ALMACENAMIENTO",
+        "codigo": "H"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES111 - A Coruña"
+      }
+    ],
+    "descripcionFinalidad": "Otras actuaciones de carácter económico",
+    "descripcionBasesReguladoras": "Convocatoria Programa Xpande Digital 2026a",
+    "urlBasesReguladoras": "https://www.camaracoruna.com/pag/programas-europeos/",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": "2026-07-31",
+    "textInicio": "A las 09:00h, transcurridos 5 días hábiles desde el día siguiente al de publicación en BOP A Coruña",
+    "textFin": "14:00 horas",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [
+      {
+        "descripcion": "FEDER - FONDO EUROPEO DE DESARROLLO REGIONAL"
+      }
+    ],
+    "reglamento": {
+      "descripcion": "REG (UE) 2023/2831 de minimis, General",
+      "orden": null
+    },
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442490,
+        "descripcion": "2026_ Anexo II. Tipología gastos elegibles y justificación",
+        "nombreFic": "2026_ Anexo II. Tipología gastos elegibles y justificación.pdf",
+        "long": 296712,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442487,
+        "descripcion": "2026_Anexo I. Descripción del programa Xpande Digital",
+        "nombreFic": "2026_Anexo I. Descripción del programa Xpande Digital.pdf",
+        "long": 116967,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442491,
+        "descripcion": "2026_Anexo III Declaración responsable empresa Xpande Digital",
+        "nombreFic": "2026_Anexo III Declaración responsable empresa Xpande Digital.pdf",
+        "long": 345421,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442480,
+        "descripcion": "Extracto Convocatoria Boletín Xpande Digital 2026",
+        "nombreFic": "Extracto Convocatoria Boletín Xpande Digital 2026.pdf",
+        "long": 280209,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442478,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Convocatoria de ayudas Xpande Digital 2026 - Camara A Coruña.pdf",
+        "long": 438267,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210048,
+        "titulo": "Convocatoria Programa Xpande Digital 2026 - Cámara de A Coruña",
+        "tituloLeng": null,
+        "texto": "<p>La Cámara de Comercio, Industria, Servicios y Navegación de A Coruña informa de la Convocatoria Pública de Ayudas Xpande Digital para el desarrollo de estrategias de internacionalización digital en la anualidad 2026, cofinanciada por el Fondo Europeo de Desarrollo Regional (FEDER) de la Unión Europea.</p><p>Primero.– Beneficiarios.</p><p>Pymes de la demarcación territorial de la Cámara de Comercio de A Coruña, que se encuentren dadas de alta en el Censo del IAE.</p><p>Segundo.– Objeto.</p><p>Promover la participación de las pymes en el Programa Xpande Digital, mediante la puesta de su disposición de servicios de asesoramiento y ayudas económicas para diseñar y desarrollar estrategias de internacionalización digital, subvencionados en un 60% a través del Programa Plurirregional de España FEDER 2021-2027 (POPE).</p><p>Tercero.– Convocatoria.</p><p>El texto completo de esta convocatoria está a disposición de las empresas en la sede electrónica de la Cámara de A Coruña Además, puede consultarse a través de la web https://www.camaracoruna.com/pag/programas-europeos/</p><p>En dicha dirección podrá descargarse, junto con la convocatoria, la documentación necesaria para realizar la solicitud.</p><p>Cuarto. – Cuantía.</p><p>La cuantía de las ayudas económicas a otorgar con cargo a esta convocatoria es de 22.470 €, sobre un presupuesto de 37.450 € para la ejecución de la Fase II de Implantación por parte de las pymes beneficiarias.</p><p>La cuantía máxima de ayuda por empresa será de 3.210,0 €, sobre un presupuesto máximo elegible de 5.350 € (5.000 € de coste directo + 7% de costes indirectos asociados), que será pre financiado en su totalidad por la empresa beneficiaria y cofinanciado por FEDER al 60%.</p><p>Estas ayudas forman parte de Programa Xpande Digital, cuyo presupuesto máximo de ejecución es de 53.721,85 €, en el marco del \"Programa Plurirregional de España 2021-2027”, y que incluye los servicios gratuitos de asesoramiento y seguimiento.</p><p>Quinto.- Plazo de presentación de solicitudes.</p><p>El plazo para la presentación de solicitudes se abre a las 09:00h, una vez transcurridos 5 días hábiles desde el día siguiente a la publicación de este anuncio, y finalizará el día 31 de julio de 2026 a las 14:00h, si bien el plazo podrá acortarse en caso de agotarse el presupuesto.</p>",
+        "textoLeng": null,
+        "url": "https://bop.dacoruna.gal/bopportal/descargarPdf.do?fecha=20260430&numRegistro=2026/0000002634.pdf",
+        "cve": "2026/2634",
+        "desDiarioOficial": "B.O.P. DE A CORUÑA",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

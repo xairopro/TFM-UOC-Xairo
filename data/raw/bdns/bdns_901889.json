@@ -1,0 +1,98 @@
+{
+  "id": "BDNS-901889",
+  "id_interno": 1103450,
+  "numero_convocatoria": "901889",
+  "organismo": "AUTONOMICA — ANDALUCÍA — INSTITUTO ANDALUZ DE LA MUJER",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Resolución de 15 de abril de 2026, del IAM por la que se conv.subven. rég.de conc.comp.a entidades sin ánimo de lucro para la atención a mujeres en situación de riesgo de exclusión social y especialmente vulnerables ante la Violencia de Género 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES, EDUCACIÓN",
+  "regiones": "ES61 - ANDALUCIA",
+  "finalidad": "Servicios Sociales y Promoción Social",
+  "bases_reguladoras": "Orden de 24 de septiembre de 2020, por la que se aprueban las b.r. para la conc.de subv. a ent.sin ánimo de lucro para la atención a mujeres en situación de riesgo de exclusión social y vulnerables ante la violencia de género,en rég.de conc.competitiva.",
+  "url_bases_reguladoras": "https://juntadeandalucia.es/boja/2020/190/BOJA20-190-00016-11003-01_00178302.pdf",
+  "presupuesto": "2.000.000,00 €",
+  "presupuesto_total_num": 2000000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901889",
+  "text": "CONVOCATORIA BDNS Nº 901889\nOrganismo: AUTONOMICA — ANDALUCÍA — INSTITUTO ANDALUZ DE LA MUJER\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 2.000.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES, EDUCACIÓN\nRegiones: ES61 - ANDALUCIA\nFinalidad: Servicios Sociales y Promoción Social\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nResolución de 15 de abril de 2026, del IAM por la que se conv.subven. rég.de conc.comp.a entidades sin ánimo de lucro para la atención a mujeres en situación de riesgo de exclusión social y especialmente vulnerables ante la Violencia de Género 2026\n\nBases reguladoras:\nOrden de 24 de septiembre de 2020, por la que se aprueban las b.r. para la conc.de subv. a ent.sin ánimo de lucro para la atención a mujeres en situación de riesgo de exclusión social y vulnerables ante la violencia de género,en rég.de conc.competitiva.\nURL bases reguladoras: https://juntadeandalucia.es/boja/2020/190/BOJA20-190-00016-11003-01_00178302.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901889",
+  "_raw": {
+    "id": 1103450,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "ANDALUCÍA",
+      "nivel3": "INSTITUTO ANDALUZ DE LA MUJER"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901889",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 2000000,
+    "mrr": false,
+    "descripcion": "Resolución de 15 de abril de 2026, del IAM por la que se conv.subven. rég.de conc.comp.a entidades sin ánimo de lucro para la atención a mujeres en situación de riesgo de exclusión social y especialmente vulnerables ante la Violencia de Género 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+        "codigo": "R"
+      },
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES61 - ANDALUCIA"
+      }
+    ],
+    "descripcionFinalidad": "Servicios Sociales y Promoción Social",
+    "descripcionBasesReguladoras": "Orden de 24 de septiembre de 2020, por la que se aprueban las b.r. para la conc.de subv. a ent.sin ánimo de lucro para la atención a mujeres en situación de riesgo de exclusión social y vulnerables ante la violencia de género,en rég.de conc.competitiva.",
+    "urlBasesReguladoras": "https://juntadeandalucia.es/boja/2020/190/BOJA20-190-00016-11003-01_00178302.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Desde el día siguiente al que se publique en el BOJA el Extracto de Resol.",
+    "textFin": "15 días hábiles a contar desde el día siguiente al que se publique en el BOJA el Extracto de Resol.",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443671,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "TextoConvocatoria.pdf",
+        "long": 91850,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

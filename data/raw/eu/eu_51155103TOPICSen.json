@@ -1,0 +1,211 @@
+{
+  "id": "EU-51155103TOPICSen",
+  "topic_id": "51155103TOPICSen",
+  "titulo": "Digital Skills and Jobs Platform: The National Coalitions for Digital Skills and Jobs",
+  "descripcion": "Digital Skills and Jobs Platform: The National Coalitions for Digital Skills and Jobs",
+  "organismo": "43152860",
+  "fecha_publicacion": "2026-04-21",
+  "fecha_limite": "2026-10-01",
+  "deadlines_todas": "2026-10-01",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"114381\":[{\"action\":\"DIGITAL-2026-SKILLS-10-EDTECH - DIGITAL-CSA DIGITAL Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"12500000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]},{\"action\":\"DIGITAL-2026-SKILLS-10-NATIONAL-COALITIONS - DIGITAL-CSA DIGITAL Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"12500000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]},{\"action\":\"DIGITAL-2026-SKILLS-10-DIGITAL-HEALTH-STEP - DIGITAL-LS DIGITAL Lump Sum Grants\",\"expectedGrants\":2,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"12500000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "DIGITAL Coordination and Support Actions",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-SKILLS-10-NATIONAL-COALITIONS",
+  "text": "EU FUNDING & TENDERS – Topic: 51155103TOPICSen\nProgramme/Organism: 43152860\nTitle: Digital Skills and Jobs Platform: The National Coalitions for Digital Skills and Jobs\nStatus: Open (31094502)\nType of action: DIGITAL Coordination and Support Actions\nOpening date: 2026-04-21\nDeadline: 2026-10-01\nAll deadlines: 2026-10-01\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"114381\":[{\"action\":\"DIGITAL-2026-SKILLS-10-EDTECH - DIGITAL-CSA DIGITAL Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"12500000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]},{\"action\":\"DIGITAL-2026-SKILLS-10-NATIONAL-COALITIONS - DIGITAL-CSA DIGITAL Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"12500000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]},{\"action\":\"DIGITAL-2026-SKILLS-10-DIGITAL-HEALTH-STEP - DIGITAL-LS DIGITAL Lump Sum Grants\",\"expectedGrants\":2,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"12500000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]}]}}\n\nDescription / Scope:\nDigital Skills and Jobs Platform: The National Coalitions for Digital Skills and Jobs\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-SKILLS-10-NATIONAL-COALITIONS",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "51155103TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-SKILLS-10-NATIONAL-COALITIONS",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Digital Skills and Jobs Platform: The National Coalitions for Digital Skills and Jobs",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Digital Skills and Jobs Platform: The National Coalitions for Digital Skills and Jobs",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "4E3806303EE62EA35A699991160883914AEF1EBC870294A4DEB66D8BFF5C4B5A",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-04-01T15:44:11.908\",\"content\":\"\\u003cp\\u003eThe available budget for topic DIGITAL-2026-SKILLS-10-NATIONAL-COALITIONS is 2,000,000.00 €. The indicative number of grants is 1.\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-04-21T00:01:07.944\",\"content\":\"The submission session is now available for: DIGITAL-2026-SKILLS-10-EDTECH, DIGITAL-2026-SKILLS-10-NATIONAL-COALITIONS, DIGITAL-2026-SKILLS-10-DIGITAL-HEALTH-STEP\"}]"
+      ],
+      "es_SortDate": [
+        "2026-04-21T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "DIGITAL-2026-SKILLS-10-NATIONAL-COALITIONS",
+        "DIGITAL-2026-SKILLS-10",
+        "Civil society organisations",
+        "Communication",
+        "Communication network",
+        "Communities of practices",
+        "Digital Services and Platforms",
+        "Interoperability",
+        "Knowledge transfer",
+        "Localisation",
+        "Public administration",
+        "Training"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>Conditions</h4><div><h4>1. Admissibility conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>described in section 5 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-skills-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p></div></div><div><h4>2. Eligible countries</h4><div class=\"eui-u-mt-s\"><p>described in section 6 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-skills-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>3. Other eligibility conditions</h4><div class=\"eui-u-mt-s\"><p>described in section 6 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-skills-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in section 7 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-skills-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>5a. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>described section 8 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-skills-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u> and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5b. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>described in section 9 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-skills-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in section 4 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-skills-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>described in section 10 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-skills-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Call document and annexes:</h4> <div class=\"eui-u-mt-s\"><p><u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-skills-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Call document</a></u></p><p><strong>Application form templates</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/temp-form/af/af_dep_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (DEP)</a> — the application form specific to this call is available in the Submission System</p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/agr-contr/mga_dep_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">DEP MGA</a></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://digital-strategy.ec.europa.eu/en/activities/work-programmes-digital\" rel=\"noopener noreferrer\" target=\"_blank\">DEP Work Programmes</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0694\" rel=\"noopener noreferrer\" target=\"_blank\">DEP Regulation 2021/964</a> </p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a>&#xa0;</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "Digital Skills and Jobs Platform: The National Coalitions for Digital Skills and Jobs"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "4E3806303EE62EA35A699991160883914AEF1EBC870294A4DEB66D8BFF5C4B5A"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43140990"
+      ],
+      "callIdentifier": [
+        "DIGITAL-2026-SKILLS-10"
+      ],
+      "ccm2Id": [
+        "51155103"
+      ],
+      "callccm2Id": [
+        "51155131"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "51155103TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"DIGITAL-2026-SKILLS-10\",\"criterionCode\":\"DIGITAL-CSA\",\"criterionDescription\":\"DIGITAL Coordination and Support Actions\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43818?topic\\u003dDIGITAL-2026-SKILLS-10-NATIONAL-COALITIONS\",\"startDate\":\"1776729600000\",\"endDate\":\"1790812800000\",\"mgaDescription\":\"DIGITAL Action Grant Budget-Based\",\"mgaCode\":\"DIGITAL-AG\"}]"
+      ],
+      "callTitle": [
+        "Advanced Digital Skills"
+      ],
+      "frameworkProgramme": [
+        "43152860"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Outcome:</p><p><strong><em>Deliverable:</em></strong></p><ul level=\"0\"><li>Connected National Coalitions for Digital Skills and Jobs to the Core Platform.</li> </ul><p class=\"topicdescriptionkind\">Objective:</p><p>The Digital Skills and Jobs Platform provides a single point of information related to digital skills in Europe. At EU level, the Platform gathers all relevant information and funding opportunities for stakeholders to benefit from. At national level, it connects to National Coalition websites, establishing a mutually enriching exchange with relevant content and data on digital skills and jobs. In 2024, 22 national websites are connected to the Platform. Additional Member States websites will be connected by the ongoing project on National Coalitions for Digital Skills and Jobs<i>[1]</i> by 2026. The Platform also hosts the Cyber Security Skills Academy and will host other relevant sectoral academies and initiatives. </p><p>The objective of this topic is to consolidate and uphold the operation of the Digital Skills and Jobs Platform, including corrective and adaptive maintenance. This topic will also sustain and extend the activities related to the Digital Skills and Jobs Coalition, as well as deepening the exchange between the National Coalition websites and the core Platform. This topic aims to further increase the number of National Coalitions, to get existing and new National Coalitions to be more active and engaged, and to increase the number of members of the Digital Skills and Jobs Coalition. Synergies should be sought with the EIT Campus, EIT Digital’s (d)Academy Skills Passport Platform, the EIT Deep Tech Talent Initiative (DTTI) and other relevant initiatives.</p><p><i>1 Project selected under the call DIGITAL-2024-ADVANCED-DIGITAL-06-SKILLS.</i></p><p class=\"topicdescriptionkind\">Scope:</p><p>The action under this work-strand will aim to further extend the activities of National Coalitions’ websites established under CEF calls in 2019 and 2020 and DIGITAL call of 2024, as well as support the creation of new websites in Member States who do not have any National Coalition or website yet.</p><p>Activities under the second work strand will:</p><ul level=\"0\"><li>Develop and connect the infrastructures (websites) of National Coalitions that are not yet connected to the Core Platform through interoperable interconnections, integrating and enabling exchanges with the Core Platform components.</li><li>Provide access to national/regional/local actors and practices, building interoperable links to provide services relevant to the local context.</li><li>Expand and engage National Coalitions that are already connected to the Core Platform.</li></ul><p>The support to Nation Coalitions in a given Member State can take the form of Financial Support for Third Parties (FSTP) of a maximum amount of 150.000 EUR per third party to allow sufficient funding for the implementation of their activities.</p>"
+      ],
+      "identifier": [
+        "DIGITAL-2026-SKILLS-10-NATIONAL-COALITIONS"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43152865"
+      ],
+      "crossCuttingPriorities": [],
+      "esDA_FirstIngestDate": [
+        "2026-04-01T00:01:13.803+0200"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-10-01T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-21T00:10:07.570+0200"
+      ],
+      "typesOfAction": [
+        "DIGITAL Coordination and Support Actions"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-SKILLS-10-NATIONAL-COALITIONS"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-SKILLS-10-NATIONAL-COALITIONS"
+      ],
+      "tags": [
+        "Content creation",
+        "DSJP",
+        "Digital Skills and Jobs Coalitions",
+        "Digital Skills and Jobs Platform",
+        "Interoperability of links",
+        "National Coalitions for Digital Skills and Jobs"
+      ],
+      "cenTagsA": [
+        "TOPICS-009932",
+        "TOPICS-009933",
+        "TOPICS-009934",
+        "TOPICS-009935",
+        "TOPICS-009936",
+        "TOPICS-009937",
+        "TOPICS-009938",
+        "TOPICS-009939",
+        "TOPICS-008312",
+        "TOPICS-009940",
+        "TOPICS-009941",
+        "TOPICS-009942",
+        "TOPICS-009943",
+        "TOPICS-009944",
+        "TOPICS-000517",
+        "TOPICS-000120",
+        "TOPICS-000374",
+        "TOPICS-003072",
+        "TOPICS-007594",
+        "TOPICS-007595",
+        "TOPICS-000304",
+        "TOPICS-000036",
+        "TOPICS-001184",
+        "TOPICS-007337"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-21T00:10:07.545+0200"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"DIGITAL-CSA DIGITAL Coordination and Support Actions\",\"typeOfMGA\":[{\"id\":43140990,\"abbreviation\":\"DIGITAL-AG\",\"description\":\"DIGITAL Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-04-21\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-10-01\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"114381\":[{\"action\":\"DIGITAL-2026-SKILLS-10-EDTECH - DIGITAL-CSA DIGITAL Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"12500000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]},{\"action\":\"DIGITAL-2026-SKILLS-10-NATIONAL-COALITIONS - DIGITAL-CSA DIGITAL Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"12500000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]},{\"action\":\"DIGITAL-2026-SKILLS-10-DIGITAL-HEALTH-STEP - DIGITAL-LS DIGITAL Lump Sum Grants\",\"expectedGrants\":2,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"12500000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]}]}}"
+      ],
+      "startDate": [
+        "2026-04-21T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [
+        "SO4"
+      ],
+      "supportInfo": [
+        "<p>For help related to this call, please <u><a href=\"https://european-union.europa.eu/contact-eu/write-us_en\" rel=\"noopener noreferrer\" target=\"_blank\">Write to us</a></u>.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?order=DESC&amp;pageNumber=1&amp;pageSize=10&amp;sortBy=publicationDate&amp;isExactMatch=true&amp;type=1&amp;grantCategories=p_submission_eval\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ – Submission of proposals</a>.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> – Step-by-step online guide through the Portal processes from proposal preparation and evaluation to reporting on your ongoing project. Valid for all 2021-2027 programmes.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Digital Skills and Jobs Platform: The National Coalitions for Digital Skills and Jobs. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-SKILLS-10-NATIONAL-COALITIONS",
+    "score": 3.0
+  }
+}

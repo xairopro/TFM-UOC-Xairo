@@ -1,0 +1,136 @@
+{
+  "id": "EU-185516PROSPECTSEN",
+  "topic_id": "185516PROSPECTSEN",
+  "titulo": "Support for the Management of Marine Protected Areas in Gabon",
+  "descripcion": "Support for the Management of Marine Protected Areas in Gabon",
+  "organismo": "111111",
+  "fecha_publicacion": "2026-01-28",
+  "fecha_limite": "2026-05-04",
+  "deadlines_todas": "2026-05-04",
+  "presupuesto": "2000000",
+  "duracion": "",
+  "tipo_accion": "",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185516",
+  "text": "EU FUNDING & TENDERS – Topic: 185516PROSPECTSEN\nProgramme/Organism: 111111\nTitle: Support for the Management of Marine Protected Areas in Gabon\nStatus: Open (31094502)\nType of action: \nOpening date: 2026-01-28\nDeadline: 2026-05-04\nAll deadlines: 2026-05-04\nDuration: \nBudget overview: 2000000\n\nDescription / Scope:\nSupport for the Management of Marine Protected Areas in Gabon\n\nMore info: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185516",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "185516PROSPECTSEN",
+    "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185516",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Support for the Management of Marine Protected Areas in Gabon",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Support for the Management of Marine Protected Areas in Gabon",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "BB902C0706F7603B5410276B898AB07B66342C2C3DE6B54651BAE9C61F91BCFC",
+    "metadata": {
+      "updateDate": [
+        "2026-04-21T11:16:48.000+0000"
+      ],
+      "es_SortDate": [
+        "2026-01-28T11:00:00.000+0000"
+      ],
+      "beneficiaryAdministration": [],
+      "sortStatus": [
+        "1"
+      ],
+      "contractType": [
+        "42893160"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Support for the Management of Marine Protected Areas in Gabon"
+      ],
+      "type": [
+        "2"
+      ],
+      "esST_checksum": [
+        "BB902C0706F7603B5410276B898AB07B66342C2C3DE6B54651BAE9C61F91BCFC"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "callIdentifier": [
+        "185516"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "185516PROSPECTSEN"
+      ],
+      "currency": [
+        "EUR"
+      ],
+      "frameworkProgramme": [
+        "111111"
+      ],
+      "budget": [
+        "2000000"
+      ],
+      "identifier": [
+        "EuropeAid/185516/DD/ACT/Multi"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "geographicalZones": [
+        "31085487"
+      ],
+      "publicationDocuments": [
+        "[{\"nameDoc\":\"CORRIGENDUM SUR DATE LIMITE DE SOUMISSION\",\"typeDoc\":\"doc\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-20 17:00:51.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2158922&lang=EN\"},{\"nameDoc\":\"Questions réponses 2\",\"typeDoc\":\"doc\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-21 14:00:46.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2158927&lang=FR\"},{\"nameDoc\":\"CORRIGENDUM SUR DATE LIMITE DE SOUMISSION\",\"typeDoc\":\"doc\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-20 17:00:51.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2158922&lang=FR\"},{\"nameDoc\":\"Questions réponses\",\"typeDoc\":\"doc\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-20 17:00:24.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2158916&lang=FR\"},{\"nameDoc\":\"LIGNES DIRECTRICES\",\"typeDoc\":\"pdf\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-01-28 12:00:02.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2158914&lang=FR\"},{\"nameDoc\":\"Documents techniques pour information\",\"typeDoc\":\"zip\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-01-28 12:00:15.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2158921&lang=FR\"},{\"nameDoc\":\"Annexe G - conditions particulières du contrat\",\"typeDoc\":\"pdf\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-01-28 12:00:28.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2158920&lang=FR\"},{\"nameDoc\":\"Annexes du contrat type pour information\",\"typeDoc\":\"zip\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-01-28 12:00:23.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2158918&lang=FR\"},{\"nameDoc\":\"Documents à complèter (y inclus formulaires de demande)\",\"typeDoc\":\"zip\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-01-28 12:00:41.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2158917&lang=FR\"},{\"nameDoc\":\"INFO SESSION DU 13 02 26 - Partie 1\",\"typeDoc\":\"ppt\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-02-19 07:00:38.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2158919&lang=FR\"},{\"nameDoc\":\"INFO SESSION DU 13 02 2026 - Partie 2\",\"typeDoc\":\"pptx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-02-19 07:00:17.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2158915&lang=FR\"}]"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-01-28T12:01:01.028+0100"
+      ],
+      "programmePeriod": [
+        "2014 - 2020",
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-05-04T10:00:39.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-21T14:01:05.533+0200"
+      ],
+      "url": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185516"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185516"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-21T14:01:05.514+0200"
+      ],
+      "programmeDivisionProspect": [
+        "44995760"
+      ],
+      "geographicalZone": [
+        "31085487"
+      ],
+      "startDate": [
+        "2026-01-28T11:00:00.000+0000"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Support for the Management of Marine Protected Areas in Gabon. Available at: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185516",
+    "score": 3.0
+  }
+}

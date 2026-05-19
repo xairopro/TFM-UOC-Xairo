@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-901329",
+  "id_interno": 1102890,
+  "numero_convocatoria": "901329",
+  "organismo": "LOCAL — ALCOY/ALCOI — AYUNTAMIENTO DE ALCOY/ALCOI",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "2026-03-16",
+  "fecha_fin_solicitud": "2026-08-31",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "BECA I PRACTICAS REMUNERADAS DEPARTAMENTO DE INNOVACIÓN PERIODO JULIO-AGOSTO",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+  "regiones": "ES521 - Alicante / Alacant",
+  "finalidad": "Educación",
+  "bases_reguladoras": "BASE REGULADORA CONCESION DIRECTA",
+  "url_bases_reguladoras": "https://sedeelectronica.alcoi.org/export/sites/sede/es/generales/areas/secretaria/ordenanzas/descarga/ordenanza_subvenciones_2015.pdf",
+  "presupuesto": "2.849,00 €",
+  "presupuesto_total_num": 2849,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901329",
+  "text": "CONVOCATORIA BDNS Nº 901329\nOrganismo: LOCAL — ALCOY/ALCOI — AYUNTAMIENTO DE ALCOY/ALCOI\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud: 2026-03-16 → 2026-08-31 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 2.849,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO\nRegiones: ES521 - Alicante / Alacant\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nBECA I PRACTICAS REMUNERADAS DEPARTAMENTO DE INNOVACIÓN PERIODO JULIO-AGOSTO\n\nBases reguladoras:\nBASE REGULADORA CONCESION DIRECTA\nURL bases reguladoras: https://sedeelectronica.alcoi.org/export/sites/sede/es/generales/areas/secretaria/ordenanzas/descarga/ordenanza_subvenciones_2015.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901329",
+  "_raw": {
+    "id": 1102890,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "ALCOY/ALCOI",
+      "nivel3": "AYUNTAMIENTO DE ALCOY/ALCOI"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901329",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 2849,
+    "mrr": false,
+    "descripcion": "BECA I PRACTICAS REMUNERADAS DEPARTAMENTO DE INNOVACIÓN PERIODO JULIO-AGOSTO",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES521 - Alicante / Alacant"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "BASE REGULADORA CONCESION DIRECTA",
+    "urlBasesReguladoras": "https://sedeelectronica.alcoi.org/export/sites/sede/es/generales/areas/secretaria/ordenanzas/descarga/ordenanza_subvenciones_2015.pdf",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-03-16",
+    "fechaFinSolicitud": "2026-08-31",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442009,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Certificado_de_acuerdo_de_JGL_conveni_2n.pdf",
+        "long": 568694,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

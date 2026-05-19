@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902329",
+  "id_interno": 1103890,
+  "numero_convocatoria": "902329",
+  "organismo": "LOCAL — CABILDO INSULAR DE GRAN CANARIA — INSTITUTO INS. DE DEPORTES DE GRAN CANARIA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "2026-05-04",
+  "fecha_fin_solicitud": "2026-05-15",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA DE SUBVENCIONES PARA SUFRAGAR GASTOS SOPORTADOS POR LAS FEDERACIONES DEPORTIVAS POR LA SITUACIÓN DE ORGANIZADORA, POR ATRIBUCIÓN LEGAL, DE COMPETICIONES OFICIALES DE PROMOCIÓN DEPORTIVA EN GRAN CANARIA.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades deportivas, recreativas y de entretenimiento",
+  "regiones": "ES705 - Gran Canaria",
+  "finalidad": "Otras Prestaciones económicas",
+  "bases_reguladoras": "Ordenanza General de Subvenciones del Cabildo de Gran Canaria",
+  "url_bases_reguladoras": "http://cabildo.grancanaria.com/documents/10180/461059/Ordenanza+General+de+Subvenciones+del+Cabildo+de+Gran+Canaria./ba4aae17-0ce8-4464-9fa0-6e378c4113d0?version=1.0",
+  "presupuesto": "225.000,00 €",
+  "presupuesto_total_num": 225000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902329",
+  "text": "CONVOCATORIA BDNS Nº 902329\nOrganismo: LOCAL — CABILDO INSULAR DE GRAN CANARIA — INSTITUTO INS. DE DEPORTES DE GRAN CANARIA\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud: 2026-05-04 → 2026-05-15 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 225.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades deportivas, recreativas y de entretenimiento\nRegiones: ES705 - Gran Canaria\nFinalidad: Otras Prestaciones económicas\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA DE SUBVENCIONES PARA SUFRAGAR GASTOS SOPORTADOS POR LAS FEDERACIONES DEPORTIVAS POR LA SITUACIÓN DE ORGANIZADORA, POR ATRIBUCIÓN LEGAL, DE COMPETICIONES OFICIALES DE PROMOCIÓN DEPORTIVA EN GRAN CANARIA.\n\nBases reguladoras:\nOrdenanza General de Subvenciones del Cabildo de Gran Canaria\nURL bases reguladoras: http://cabildo.grancanaria.com/documents/10180/461059/Ordenanza+General+de+Subvenciones+del+Cabildo+de+Gran+Canaria./ba4aae17-0ce8-4464-9fa0-6e378c4113d0?version=1.0\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902329",
+  "_raw": {
+    "id": 1103890,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "CABILDO INSULAR DE GRAN CANARIA",
+      "nivel3": "INSTITUTO INS. DE DEPORTES DE GRAN CANARIA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902329",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 225000,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA DE SUBVENCIONES PARA SUFRAGAR GASTOS SOPORTADOS POR LAS FEDERACIONES DEPORTIVAS POR LA SITUACIÓN DE ORGANIZADORA, POR ATRIBUCIÓN LEGAL, DE COMPETICIONES OFICIALES DE PROMOCIÓN DEPORTIVA EN GRAN CANARIA.",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades deportivas, recreativas y de entretenimiento",
+        "codigo": "93"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES705 - Gran Canaria"
+      }
+    ],
+    "descripcionFinalidad": "Otras Prestaciones económicas",
+    "descripcionBasesReguladoras": "Ordenanza General de Subvenciones del Cabildo de Gran Canaria",
+    "urlBasesReguladoras": "http://cabildo.grancanaria.com/documents/10180/461059/Ordenanza+General+de+Subvenciones+del+Cabildo+de+Gran+Canaria./ba4aae17-0ce8-4464-9fa0-6e378c4113d0?version=1.0",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-05-04",
+    "fechaFinSolicitud": "2026-05-15",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445069,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "20260427_Informe_Bases Convocatoria federaciones 2026-1.pdf",
+        "long": 5774294,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

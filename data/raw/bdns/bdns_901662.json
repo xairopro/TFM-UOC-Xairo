@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-901662",
+  "id_interno": 1103223,
+  "numero_convocatoria": "901662",
+  "organismo": "AUTONOMICA — GALICIA — AGENCIA TURISMO DE GALICIA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Convenio de colaboración entre la Agencia de Turismo de Galicia y el Instituto Ourensano de Desarrollo Económico (INORDE) para la realización de actividades de dinamización turística en la provincia de Ourense",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Prestación de servicios a la comunidad en general",
+  "regiones": "ES11 - GALICIA",
+  "finalidad": "Comercio, Turismo y Pymes",
+  "bases_reguladoras": "Convenio de colaboración entre la Agencia de Turismo de Galicia y el Instituto Ourensano de Desarrollo Económico (INORDE) para la realización de actividades de dinamización turística en la provincia de Ourense",
+  "url_bases_reguladoras": "Convenio de colaboración entre la Agencia de Turismo de Galicia y el Instituto Ourensano de Desarrollo Económico (INORDE) para la realización de actividades de dinamización turística en la provincia de Ourense",
+  "presupuesto": "108.000,00 €",
+  "presupuesto_total_num": 108000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901662",
+  "text": "CONVOCATORIA BDNS Nº 901662\nOrganismo: AUTONOMICA — GALICIA — AGENCIA TURISMO DE GALICIA\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 108.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Prestación de servicios a la comunidad en general\nRegiones: ES11 - GALICIA\nFinalidad: Comercio, Turismo y Pymes\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvenio de colaboración entre la Agencia de Turismo de Galicia y el Instituto Ourensano de Desarrollo Económico (INORDE) para la realización de actividades de dinamización turística en la provincia de Ourense\n\nBases reguladoras:\nConvenio de colaboración entre la Agencia de Turismo de Galicia y el Instituto Ourensano de Desarrollo Económico (INORDE) para la realización de actividades de dinamización turística en la provincia de Ourense\nURL bases reguladoras: Convenio de colaboración entre la Agencia de Turismo de Galicia y el Instituto Ourensano de Desarrollo Económico (INORDE) para la realización de actividades de dinamización turística en la provincia de Ourense\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901662",
+  "_raw": {
+    "id": 1103223,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "GALICIA",
+      "nivel3": "AGENCIA TURISMO DE GALICIA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901662",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 108000,
+    "mrr": false,
+    "descripcion": "Convenio de colaboración entre la Agencia de Turismo de Galicia y el Instituto Ourensano de Desarrollo Económico (INORDE) para la realización de actividades de dinamización turística en la provincia de Ourense",
+    "descripcionLeng": "Convenio de colaboración entre a Axencia de Turismo de Galicia e o Instituto Ourensán de Desenvolvemento Económico (INORDE) para a realización de actividades de dinamización turística na provincia de Ourense",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Prestación de servicios a la comunidad en general",
+        "codigo": "84.2"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES11 - GALICIA"
+      }
+    ],
+    "descripcionFinalidad": "Comercio, Turismo y Pymes",
+    "descripcionBasesReguladoras": "Convenio de colaboración entre la Agencia de Turismo de Galicia y el Instituto Ourensano de Desarrollo Económico (INORDE) para la realización de actividades de dinamización turística en la provincia de Ourense",
+    "urlBasesReguladoras": "Convenio de colaboración entre la Agencia de Turismo de Galicia y el Instituto Ourensano de Desarrollo Económico (INORDE) para la realización de actividades de dinamización turística en la provincia de Ourense",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Sin plazo de solicitud",
+    "textFin": "Sin plazo de solicitud",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442988,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "Texto convenio_INORDE dinamización Ourense_gal_20260427_100050.pdf",
+        "long": 301476,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1442987,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Texto convenio_INORDE dinamización Ourense_es_20260427_100036.pdf",
+        "long": 305429,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "BDNS-901530",
+  "id_interno": 1103091,
+  "numero_convocatoria": "901530",
+  "organismo": "AUTONOMICA — REGIÓN DE MURCIA — SERVICIO REGIONAL DE EMPLEO Y FORMACIÓN (SEF)",
+  "sede_electronica": "https://sede.carm.es/web/pagina?IDCONTENIDO=2248&IDTIPO=240&RASTRO=c$m40288",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "PROYECTOS DE FORMACIÓN 2026 (MODALIDAD 3) - FORMACIÓN PROFESIONAL PARA EL EMPLEO SEPE",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "GRAN EMPRESA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Otra educación",
+  "regiones": "ES62 - REGION DE MURCIA",
+  "finalidad": "Desempleo",
+  "bases_reguladoras": "Orden TMS/368/2019, de 28 de marzo, por la que se desarrolla el Real Decreto 694/2017, de 3 de julio, por el que se desarrolla la Ley 30/2015, de 9 de septiembre, por la que se regula el Sistema de Formación Profesional para el Empleo en el ámbito laboral",
+  "url_bases_reguladoras": "https://www.boe.es/eli/es/o/2019/03/28/tms368",
+  "presupuesto": "2.151.736,00 €",
+  "presupuesto_total_num": 2151736,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901530",
+  "text": "CONVOCATORIA BDNS Nº 901530\nOrganismo: AUTONOMICA — REGIÓN DE MURCIA — SERVICIO REGIONAL DE EMPLEO Y FORMACIÓN (SEF)\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 2.151.736,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: GRAN EMPRESA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Otra educación\nRegiones: ES62 - REGION DE MURCIA\nFinalidad: Desempleo\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nPROYECTOS DE FORMACIÓN 2026 (MODALIDAD 3) - FORMACIÓN PROFESIONAL PARA EL EMPLEO SEPE\n\nBases reguladoras:\nOrden TMS/368/2019, de 28 de marzo, por la que se desarrolla el Real Decreto 694/2017, de 3 de julio, por el que se desarrolla la Ley 30/2015, de 9 de septiembre, por la que se regula el Sistema de Formación Profesional para el Empleo en el ámbito laboral\nURL bases reguladoras: https://www.boe.es/eli/es/o/2019/03/28/tms368\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901530",
+  "_raw": {
+    "id": 1103091,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "REGIÓN DE MURCIA",
+      "nivel3": "SERVICIO REGIONAL DE EMPLEO Y FORMACIÓN (SEF)"
+    },
+    "sedeElectronica": "https://sede.carm.es/web/pagina?IDCONTENIDO=2248&IDTIPO=240&RASTRO=c$m40288",
+    "codigoBDNS": "901530",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 2151736,
+    "mrr": false,
+    "descripcion": "PROYECTOS DE FORMACIÓN 2026 (MODALIDAD 3) - FORMACIÓN PROFESIONAL PARA EL EMPLEO SEPE",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "GRAN EMPRESA"
+      },
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Otra educación",
+        "codigo": "85.5"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES62 - REGION DE MURCIA"
+      }
+    ],
+    "descripcionFinalidad": "Desempleo",
+    "descripcionBasesReguladoras": "Orden TMS/368/2019, de 28 de marzo, por la que se desarrolla el Real Decreto 694/2017, de 3 de julio, por el que se desarrolla la Ley 30/2015, de 9 de septiembre, por la que se regula el Sistema de Formación Profesional para el Empleo en el ámbito laboral",
+    "urlBasesReguladoras": "https://www.boe.es/eli/es/o/2019/03/28/tms368",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Dia siguiente de su publicación en BORM",
+    "textFin": "15 Días hábiles después del día siguiente de la publicación en BORM",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442527,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Resolución de 24 de abril de 2026 Modalidad 3-SEPE (COPIA).pdf",
+        "long": 1479437,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210054,
+        "titulo": "Extracto Resolución de 24 de abril de 2026 de la Dirección General del SEF de convocatoria de subvenciones destinadas a la realización de proyectos de formación, correspondientes a la formación de oferta dirigida a personas trabajadoras desempleadas en el ámbito de la Comunidad Autónoma de la Región de Murcia para 2026 (SEPE).",
+        "tituloLeng": null,
+        "texto": "<p>Descripción de la convocatoria</p><p>Las subvenciones que se concedan al amparo de esta convocatoria tendrán como finalidad la financiación de proyectos de formación dirigidos principalmente a personas desempleadas con necesidades formativas especiales o con dificultades para su inserción por su situación de vulnerabilidad, a fortalecer el espíritu emprendedor, fomentar el empleo en sectores emergentes y la creación de empresas</p><p>Los proyectos de formación consistirán en un conjunto de acciones formativas principales y complementarias, planificadas para un sector de actividad, ámbito geográfico o colectivo concreto cuyo fin sea la formación y la inserción laboral, ya sea por cuenta propia o ajena.</p><p>Primero.- Beneficiarios</p><p>Podrán ser beneficiarias de estas subvenciones las entidades de formación públicas o privadas, inscritas en el Registro de Entidades de Formación del SEF y en el Registro Estatal de Entidades de Formación, para impartir las especialidades formativas objeto de esta convocatoria, ya sea en la modalidad presencial, de teleformación o mixta, y con presencia en el ámbito territorial de la Región de Murcia.</p><p>Segundo.- Objeto</p><p>La presente resolución tiene por objeto convocar, en régimen de concurrencia competitiva, las subvenciones para la realización de proyectos de formación dirigidos a personas trabajadoras desempleadas a desarrollar en el ámbito de la Comunidad Autónoma de la Región de Murcia para 2026.</p><p>Tercero.- Bases Reguladoras</p><p>Orden TMS/368/2019, de 28 de marzo, por la que se desarrolla el Real Decreto 694/2017, de 3 de julio, por el que se desarrolla la Ley 30/2015, de 9 de septiembre, por la que se regula el Sistema de Formación Profesional para el Empleo en el ámbito laboral, en relación con la oferta formativa de las administraciones competentes y su financiación, y se establecen las bases reguladoras para la concesión de subvenciones públicas destinadas a su financiación.</p><p>Cuarto.- Cuantía</p><p>El importe total convocado es de 2.151.736,00 euros.</p><p>Quinto.- Plazo de presentación de solicitudes</p><p>El plazo de presentación de la solicitud será de 15 días hábiles contados desde el siguiente a la publicación del extracto de esta resolución en el Boletín Oficial de la Región de Murcia.</p>",
+        "textoLeng": null,
+        "url": "https://www.borm.es/services/anuncio/ano/2026/numero/1863/pdf",
+        "cve": "A-280426-1863",
+        "desDiarioOficial": "BORM. B.O. DE LA REGIÓN DE MURCIA",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

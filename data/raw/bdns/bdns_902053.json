@@ -1,0 +1,114 @@
+{
+  "id": "BDNS-902053",
+  "id_interno": 1103614,
+  "numero_convocatoria": "902053",
+  "organismo": "OTROS — UNIVERSIDAD JAUME I DE CASTELLÓN",
+  "sede_electronica": "ujiapps.uji.es/seu/info-adm/tao/convocatoriesRH?pArId=85642",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Beca Santander Excelencia 360° 2026 para el estudiantado de grado para el curso 2025/26.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Educación terciaria",
+  "regiones": "ES52 - COMUNIDAD VALENCIANA",
+  "finalidad": "Educación",
+  "bases_reguladoras": "Beca Santander Excelencia 360° 2026 para el estudiantado de grado para el curso 2025/26.",
+  "url_bases_reguladoras": "ujiapps.uji.es/seu/info-adm/tao/convocatoriesRH?pArId=85642",
+  "presupuesto": "12.000,00 €",
+  "presupuesto_total_num": 12000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902053",
+  "text": "CONVOCATORIA BDNS Nº 902053\nOrganismo: OTROS — UNIVERSIDAD JAUME I DE CASTELLÓN\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 12.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Educación terciaria\nRegiones: ES52 - COMUNIDAD VALENCIANA\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nBeca Santander Excelencia 360° 2026 para el estudiantado de grado para el curso 2025/26.\n\nBases reguladoras:\nBeca Santander Excelencia 360° 2026 para el estudiantado de grado para el curso 2025/26.\nURL bases reguladoras: ujiapps.uji.es/seu/info-adm/tao/convocatoriesRH?pArId=85642\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902053",
+  "_raw": {
+    "id": 1103614,
+    "organo": {
+      "nivel1": "OTROS",
+      "nivel2": "UNIVERSIDAD JAUME I DE CASTELLÓN",
+      "nivel3": null
+    },
+    "sedeElectronica": "ujiapps.uji.es/seu/info-adm/tao/convocatoriesRH?pArId=85642",
+    "codigoBDNS": "902053",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 12000,
+    "mrr": false,
+    "descripcion": "Beca Santander Excelencia 360° 2026 para el estudiantado de grado para el curso 2025/26.",
+    "descripcionLeng": "Beca Santander Excel·lència 360º 2026 per a l'estudiantat de grau per al curs 2025/26.",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Educación terciaria",
+        "codigo": "85.4"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES52 - COMUNIDAD VALENCIANA"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "Beca Santander Excelencia 360° 2026 para el estudiantado de grado para el curso 2025/26.",
+    "urlBasesReguladoras": "ujiapps.uji.es/seu/info-adm/tao/convocatoriesRH?pArId=85642",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Periodo de entrega de solicitudes abierto desde  hasta .",
+    "textFin": "Periodo de de entrega de solicitudes cerrado el dia .",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444086,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "BASES BECA SANTANDER 360º 2026 VAL.pdf",
+        "long": 340771,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444085,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "BASES BECA SANTANDER 360º 2026 CAST.pdf",
+        "long": 352644,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210300,
+        "titulo": "Beca Santander Excelencia 360° 2026 para el estudiantado de grado para el curso 2025/26.",
+        "tituloLeng": "Beca Santander Excel·lència 360º 2026 per a l'estudiantat de grau per al curs 2025/26.",
+        "texto": "<p>Universitat Jaume I\n</p><p>\n</p><p>Extracto de la Resolución Castellón de la Plana, 27 de abril de 2026, de la Vicerrector/a de Estudiantado y Vida Saludable de la Universitat Jaume I de Castellón por la que se convoca Beca Santander Excelencia 360° 2026 para el estudiantado de grado para el curso 2025/26..\n</p><p>BDNS (902053):\n</p><p>\n</p><p>De conformidad con lo previsto en los artículos 17.3.b y 20.8.a de la Ley 38/2003, de 17 de noviembre, \n</p><p>                  General de Subvenciones, se publica el extracto de la convocatoria cuyo texto completo puede consultarse \n</p><p>                  en la Base de Datos Nacional de Subvenciones:\n</p><p>http://www.pap.minhap.gob.es/bdnstrans/index\n</p><p>\n</p><p>Primero. Beneficiarios\n</p><p>Pueden ser beneficiarias de estas becas las personas físicas que reúnan los siguientes requisitos:\n</p><p>a) Haberse matriculado de un grado de la Universitat Jaume I durante el curso 2025-26 de la totalidad de los créditos que le restan para finalizar sus estudios de grado y encontrarse al corriente de pago de las tasas académicas.\n</p><p>b) Haber superado, en la Universitat Jaume I, todos los créditos de los cursos académicos anteriores a la presente convocatoria dentro del periodo correspondiente. En el caso de los dobles grados, se tendrá en cuenta la superación de 72 créditos por curso académico. En cualquier caso, se considerarán los créditos convalidados y reconocidos.\n</p><p>c) Tener al expediente una nota media igual o superior a 8,5 sobre 10. Se tomará la nota media del expediente a fecha del último curso finalizado, es decir el curso anterior a la publicación de la convocatoria. Se entienden finalizados los cursos una vez formalizados los trámites reglamentarios y abonado el importe correspondiente a este curso.\n</p><p>d) Haber realizado, durante los estudios de grado en los cuales está matriculado, alguna de las actividades de participación universitaria organizadas por la Universitat Jaume I que se enumeran en el apartado 7.1. de estas bases. Se valorarán las actividades ejercidas hasta el cierre del plazo de presentación de solicitudes.\n</p><p>e) Será requisito no estar en posesión o no reunir los requisitos legales para la obtención de un título del mismo o superior nivel correspondiente al de los estudios para los cuales se solicita la beca.\n</p><p>f) Estar inscritos en el Programa Becas Santander - Excelencia 360° 2026 a través de la página web habilitada a tal efecto: https://app.santanderopenacademy.com/es/program/excelencia-360o-2026\n</p><p>\n</p><p>Segundo. Finalidad\n</p><p>Estas bases tienen por objeto regular la concesión de la Beca Santander Excelencia 360° 2026 para el estudiantado de grado para el curso 2025/26.\n</p><p>Esta convocatoria está vinculada con el objetivo 8.3 ‘Reconocer e incentivar el talento y las trayectorias profesionales’, concretamente con la acción 8.3.b ‘Concesión de diferentes distinciones y premios a la excelencia académica al estudiantado de grado, máster y doctorado’ del Plan Estratégico de Subvenciones 2023/2025 prorrogado para 2026, de la Universitat Jaume I.\n</p><p>\n</p><p>Tercero. Bases reguladoras\n</p><p>Accesibles en: http://www.uji.es/seu/info-adm/tao/\n</p><p>\n</p><p>Cuarto. Importe\n</p><p>El importe global destinado a la concesión de esta ayuda es de 12.000 €.\n</p><p>\n</p><p>Quinto. Plazo de presentación de solicitudes\n</p><p>El plazo de presentación de solicitudes es de diez días hábiles contadores a partir del día siguiente a la publicación del extracto de la convocatoria en el DOGV.</p>",
+        "textoLeng": "<p>Universitat Jaume I\n</p><p>\n</p><p>Extracte de la Resolució del 27 d'abril de 2026, de la Vicerector/a d'Estudiantat i Vida Saludable de la Universitat Jaume I de Castelló per la que es convoca Beca Santander Excel·lència 360º 2026 per a l'estudiantat de grau per al curs 2025/26..\n</p><p>BDNS (902053):\n</p><p>\n</p><p>De conformitat amb el que preveuen els articles 17.3.b i 20.8.a de la Llei 38/2003, de 17 de novembre, \n</p><p>                 general de subvencions, es publica l’extracte de la convocatòria, \n</p><p>                  el text complet dels quals pot consultar-se en la Base de Dades Nacionals de Subvencions:\n</p><p>http://www.pap.minhap.gob.es/bdnstrans/index\n</p><p>\n</p><p>Primer. Beneficiaris\n</p><p>Poden ser beneficiàries d'estes beques les persones físiques que reunisquen els següents requisits:\n</p><p>a) Haver-se matriculat d'un grau de la Universitat Jaume I durant el curs 2025-26 de la totalitat dels crèdits que li resten per a finalitzar els seus estudis de grau i trobar-se al corrent de pagament de les taxes acadèmiques.\n</p><p>b) Haver superat, a la Universitat Jaume I, tots els crèdits dels cursos acadèmics anteriors a la present convocatòria dins del període corresponent. En el cas dels dobles graus, es tindrà en compte la superació de 72 crèdits per curs acadèmic. En qualsevol cas, es consideraran els crèdits convalidats i reconeguts.\n</p><p>c) Tindre a l’expedient una nota mitjana igual o superior a 8,5 sobre 10. Es prendrà la nota mitjana de l'expedient a data de l'últim curs finalitzat, és a dir el curs anterior a la publicació de la convocatòria. S'entenen finalitzats els cursos una vegada formalitzats els tràmits reglamentaris i abonat l'import corresponent a este curs.\n</p><p>d) Haver realitzat, durant els estudis de grau en els quals està matriculat, alguna de les activitats de participació universitària organitzades per la Universitat Jaume I que s'enumeren en l'apartat 7.1. d'estes bases. Es valoraran les activitats exercides fins al tancament del termini de presentació de sol·licituds.\n</p><p>e) Serà requisit no estar en possessió o no reunir els requisits legals per a l'obtenció d'un títol del mateix o superior nivell corresponent al dels estudis per als quals se sol·licita la beca.\n</p><p>f) Estar inscrits en el Programa Beques Santander - Excel·lència 360º 2026 a través de la pàgina web habilitada a este efecte: https://app.santanderopenacademy.com/es/program/excelencia-360o-2026\n</p><p>\n</p><p>Segon. Finalitat\n</p><p>Estes bases tenen per objecte regular la concessió de la Beca Santander Excel·lència 360º 2026 per a l'estudiantat de grau per al curs 2025/26.\n</p><p>Aquesta convocatòria està vinculada amb l’objectiu 8.3 ‘Reconèixer i incentivar el talent i les trajectòries professionals’, concretament amb l’acció 8.3.b ‘Concessió de diferents distincions i premis a l’excel·lència acadèmica a l’estudiantat de grau, màster i doctorat’ del Pla Estratègic de Subvencions 2023/2025 prorrogat per a 2026, de la Universitat Jaume I.\n</p><p>\n</p><p>Tercer. Bases reguladores\n</p><p>Accessibles en: http://www.uji.es/seu/info-adm/tao/\n</p><p>\n</p><p>Quart. Import\n</p><p>L'import global destinat a la concessió d'aquesta ajuda és de 12.000 €.\n</p><p>\n</p><p>Cinquè. Termini de presentació de sol·licituds\n</p><p>El termini de presentació de sol·licituds és de deu dies hàbils comptadors a partir de l'endemà de la publicació de l'extracte de la convocatòria en el DOGV.</p>",
+        "url": "https://dogv.gva.es/va/resultat-dogv?signatura=2026/12404",
+        "cve": "DOGV-V-2026-12404",
+        "desDiarioOficial": "DOCV. D.O. DE LA COMUNITAT VALENCIANA",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

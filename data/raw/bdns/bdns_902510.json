@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-902510",
+  "id_interno": 1104071,
+  "numero_convocatoria": "902510",
+  "organismo": "LOCAL — DIPUTACIÓN PROV. DE VALENCIA — DIPUTACIÓN PROVINCIAL DE VALENCIA",
+  "sede_electronica": "https://www.sede.dival.es/",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "MV-1/2026 Concesión subvención directa Ruta ciclopeatonal Montes de Chulilla, en Chulilla",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "CONSTRUCCIÓN",
+  "regiones": "ES523 - Valencia / València",
+  "finalidad": "Infraestructuras",
+  "bases_reguladoras": "MV-1/2026 Concesión subvención directa Ruta ciclopeatonal Montes de Chulilla, en Chulilla",
+  "url_bases_reguladoras": "https://www.dival.es/sites/default/files/portal-de-transparencia/2024%2012%2004%20OGS.%20Consolidada.2025.CAS_.pdf",
+  "presupuesto": "60.000,00 €",
+  "presupuesto_total_num": 60000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902510",
+  "text": "CONVOCATORIA BDNS Nº 902510\nOrganismo: LOCAL — DIPUTACIÓN PROV. DE VALENCIA — DIPUTACIÓN PROVINCIAL DE VALENCIA\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 60.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: CONSTRUCCIÓN\nRegiones: ES523 - Valencia / València\nFinalidad: Infraestructuras\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nMV-1/2026 Concesión subvención directa Ruta ciclopeatonal Montes de Chulilla, en Chulilla\n\nBases reguladoras:\nMV-1/2026 Concesión subvención directa Ruta ciclopeatonal Montes de Chulilla, en Chulilla\nURL bases reguladoras: https://www.dival.es/sites/default/files/portal-de-transparencia/2024%2012%2004%20OGS.%20Consolidada.2025.CAS_.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902510",
+  "_raw": {
+    "id": 1104071,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DIPUTACIÓN PROV. DE VALENCIA",
+      "nivel3": "DIPUTACIÓN PROVINCIAL DE VALENCIA"
+    },
+    "sedeElectronica": "https://www.sede.dival.es/",
+    "codigoBDNS": "902510",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 60000,
+    "mrr": false,
+    "descripcion": "MV-1/2026 Concesión subvención directa Ruta ciclopeatonal Montes de Chulilla, en Chulilla",
+    "descripcionLeng": "MV-1/2026 Concessió subvenció directa Ruta ciclovianant Montes de Chulilla, a Chulilla",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "CONSTRUCCIÓN",
+        "codigo": "F"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES523 - Valencia / València"
+      }
+    ],
+    "descripcionFinalidad": "Infraestructuras",
+    "descripcionBasesReguladoras": "MV-1/2026 Concesión subvención directa Ruta ciclopeatonal Montes de Chulilla, en Chulilla",
+    "urlBasesReguladoras": "https://www.dival.es/sites/default/files/portal-de-transparencia/2024%2012%2004%20OGS.%20Consolidada.2025.CAS_.pdf",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Sin plazo de solicitud",
+    "textFin": "Sin plazo de solicitud",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445541,
+        "descripcion": "Diligencia: Propuesta subv. directa ciclopeatonal Montes de Chulilla para JG ABRIL",
+        "nombreFic": "cl_documento.pdf",
+        "long": 231525,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445540,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "cl_documento.pdf",
+        "long": 231525,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

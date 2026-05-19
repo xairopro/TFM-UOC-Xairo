@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-901476",
+  "id_interno": 1103037,
+  "numero_convocatoria": "901476",
+  "organismo": "AUTONOMICA — CASTILLA Y LEÓN — CONSEJERÍA DE INDUSTRIA, COMERCIO Y EMPLEO",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Acuerdo de 16 de abril de 2026 de la Junta de Castilla y León, por el que se autoriza la concesión directa de una subvención al Consejo de Cámaras Oficiales de Comercio, Industria y Servicios de Castilla y León",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de organizaciones empresariales, profesionales y patronales",
+  "regiones": "ES41 - CASTILLA Y LEON",
+  "finalidad": "Comercio, Turismo y Pymes",
+  "bases_reguladoras": "Ley 5/2008, de 25 de septiembre, de Subvenciones de la Comunidad de Castilla y León. Artículo 31",
+  "url_bases_reguladoras": "https://www.boe.es/buscar/pdf/2008/BOE-A-2008-16664-consolidado.pdf",
+  "presupuesto": "1.920.000,00 €",
+  "presupuesto_total_num": 1920000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901476",
+  "text": "CONVOCATORIA BDNS Nº 901476\nOrganismo: AUTONOMICA — CASTILLA Y LEÓN — CONSEJERÍA DE INDUSTRIA, COMERCIO Y EMPLEO\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 1.920.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de organizaciones empresariales, profesionales y patronales\nRegiones: ES41 - CASTILLA Y LEON\nFinalidad: Comercio, Turismo y Pymes\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nAcuerdo de 16 de abril de 2026 de la Junta de Castilla y León, por el que se autoriza la concesión directa de una subvención al Consejo de Cámaras Oficiales de Comercio, Industria y Servicios de Castilla y León\n\nBases reguladoras:\nLey 5/2008, de 25 de septiembre, de Subvenciones de la Comunidad de Castilla y León. Artículo 31\nURL bases reguladoras: https://www.boe.es/buscar/pdf/2008/BOE-A-2008-16664-consolidado.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901476",
+  "_raw": {
+    "id": 1103037,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "CASTILLA Y LEÓN",
+      "nivel3": "CONSEJERÍA DE INDUSTRIA, COMERCIO Y EMPLEO"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901476",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 1920000,
+    "mrr": false,
+    "descripcion": "Acuerdo de 16 de abril de 2026 de la Junta de Castilla y León, por el que se autoriza la concesión directa de una subvención al Consejo de Cámaras Oficiales de Comercio, Industria y Servicios de Castilla y León",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de organizaciones empresariales, profesionales y patronales",
+        "codigo": "94.1"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES41 - CASTILLA Y LEON"
+      }
+    ],
+    "descripcionFinalidad": "Comercio, Turismo y Pymes",
+    "descripcionBasesReguladoras": "Ley 5/2008, de 25 de septiembre, de Subvenciones de la Comunidad de Castilla y León. Artículo 31",
+    "urlBasesReguladoras": "https://www.boe.es/buscar/pdf/2008/BOE-A-2008-16664-consolidado.pdf",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "SIN PLAZO",
+    "textFin": "SIN PLAZO",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442380,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "7. Acuerdo junta 16 abril 26_SIN FIRMAR.pdf",
+        "long": 278379,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

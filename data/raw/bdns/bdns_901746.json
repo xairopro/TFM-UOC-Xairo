@@ -1,0 +1,166 @@
+{
+  "id": "BDNS-901746",
+  "id_interno": 1103307,
+  "numero_convocatoria": "901746",
+  "organismo": "LOCAL — VALL D'UIXÓ, LA — AYUNTAMIENTO DE VALL D'UIXÓ, LA",
+  "sede_electronica": "http://www.lavallduixo.es/sede-electronica",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA DEL EXCMO AYUNTAMIENTO DE LA VALL D'UIXÓ, QUE REGIRÁ EL PROCESO DE CONCESIÓN DE SUBVENCIONES A LAS ASOCIACIONES Y ENTIDADES DE COMERCIANTES DE LA LOCALIDAD, PARA LA DINAMIZACIÓN Y PROMOCIÓN DEL COMERCIO, DURANTE EL EJERCICIO 2026.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Comercio al por menor",
+  "regiones": "ES522 - Castellón / Castelló",
+  "finalidad": "Comercio, Turismo y Pymes",
+  "bases_reguladoras": "ORDENANZA REGULADORA DEL OTORGAMIENTO DE SUBVENCIONES Y AYUDAS PARA ACTIVIDADES EN DIVERSOS AMBITOS",
+  "url_bases_reguladoras": "http://www.lavallduixo.es/sites/L01121264/files/2021-01/ORDENANZA%20REGULADORA%20DEL%20OTORGAMIENTO%20DE%20SUBVENCIONES%20Y%20AYUDAS%20PARA%20ACTIVIDADES%20EN%20DIVERSOS%20%C3%81MBITOS%20EN%20LA%20VALL%20D%C2%B4UIX%C3%93..pdf",
+  "presupuesto": "20.000,00 €",
+  "presupuesto_total_num": 20000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901746",
+  "text": "CONVOCATORIA BDNS Nº 901746\nOrganismo: LOCAL — VALL D'UIXÓ, LA — AYUNTAMIENTO DE VALL D'UIXÓ, LA\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 20.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Comercio al por menor\nRegiones: ES522 - Castellón / Castelló\nFinalidad: Comercio, Turismo y Pymes\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA DEL EXCMO AYUNTAMIENTO DE LA VALL D'UIXÓ, QUE REGIRÁ EL PROCESO DE CONCESIÓN DE SUBVENCIONES A LAS ASOCIACIONES Y ENTIDADES DE COMERCIANTES DE LA LOCALIDAD, PARA LA DINAMIZACIÓN Y PROMOCIÓN DEL COMERCIO, DURANTE EL EJERCICIO 2026.\n\nBases reguladoras:\nORDENANZA REGULADORA DEL OTORGAMIENTO DE SUBVENCIONES Y AYUDAS PARA ACTIVIDADES EN DIVERSOS AMBITOS\nURL bases reguladoras: http://www.lavallduixo.es/sites/L01121264/files/2021-01/ORDENANZA%20REGULADORA%20DEL%20OTORGAMIENTO%20DE%20SUBVENCIONES%20Y%20AYUDAS%20PARA%20ACTIVIDADES%20EN%20DIVERSOS%20%C3%81MBITOS%20EN%20LA%20VALL%20D%C2%B4UIX%C3%93..pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901746",
+  "_raw": {
+    "id": 1103307,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "VALL D'UIXÓ, LA",
+      "nivel3": "AYUNTAMIENTO DE VALL D'UIXÓ, LA"
+    },
+    "sedeElectronica": "http://www.lavallduixo.es/sede-electronica",
+    "codigoBDNS": "901746",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 20000,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA DEL EXCMO AYUNTAMIENTO DE LA VALL D'UIXÓ, QUE REGIRÁ EL PROCESO DE CONCESIÓN DE SUBVENCIONES A LAS ASOCIACIONES Y ENTIDADES DE COMERCIANTES DE LA LOCALIDAD, PARA LA DINAMIZACIÓN Y PROMOCIÓN DEL COMERCIO, DURANTE EL EJERCICIO 2026.",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Comercio al por menor",
+        "codigo": "47"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES522 - Castellón / Castelló"
+      }
+    ],
+    "descripcionFinalidad": "Comercio, Turismo y Pymes",
+    "descripcionBasesReguladoras": "ORDENANZA REGULADORA DEL OTORGAMIENTO DE SUBVENCIONES Y AYUDAS PARA ACTIVIDADES EN DIVERSOS AMBITOS",
+    "urlBasesReguladoras": "http://www.lavallduixo.es/sites/L01121264/files/2021-01/ORDENANZA%20REGULADORA%20DEL%20OTORGAMIENTO%20DE%20SUBVENCIONES%20Y%20AYUDAS%20PARA%20ACTIVIDADES%20EN%20DIVERSOS%20%C3%81MBITOS%20EN%20LA%20VALL%20D%C2%B4UIX%C3%93..pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Desde la publicación de la convocatoria en el BOP",
+    "textFin": "Hasta treinta días naturales siguientes al de la publicación de la convocatoria en el BOP",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443566,
+        "descripcion": "Anexo III Ingresos y gastos",
+        "nombreFic": "Anexo III Ingresos y gastos.pdf",
+        "long": 331717,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443570,
+        "descripcion": "Anexo V Modelo de certificado",
+        "nombreFic": "Anexo V modelo de certificado.pdf",
+        "long": 272432,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443579,
+        "descripcion": "Anexo IX Memoria final",
+        "nombreFic": "Anexo IX Memoria final.pdf",
+        "long": 272482,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443567,
+        "descripcion": "Anexo IV Memoria detallada del año anterior",
+        "nombreFic": "Anexo IV Memoria detallada del año anterior.pdf",
+        "long": 269891,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443582,
+        "descripcion": "Anexo X Certificado de cumplimiento",
+        "nombreFic": "Anexo X certificado cumplimiento.pdf",
+        "long": 273785,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443571,
+        "descripcion": "Anexo VI Declaración responsable",
+        "nombreFic": "Anexo VI declaración responsable.pdf",
+        "long": 275200,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443576,
+        "descripcion": "Anexo VII Cuenta justificativa",
+        "nombreFic": "Anexo VII Cuenta Justificativa.pdf",
+        "long": 281162,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443577,
+        "descripcion": "Anexo VIII relación numerada",
+        "nombreFic": "Anexo VIII relación numerada.pdf",
+        "long": 276416,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443154,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Convocatoria 2026.pdf",
+        "long": 187608,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443564,
+        "descripcion": "Anexo II Denominación descripción actividad",
+        "nombreFic": "Anexo II Denominación descripción de acciones.pdf",
+        "long": 269577,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

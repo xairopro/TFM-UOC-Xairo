@@ -1,0 +1,136 @@
+{
+  "id": "EU-186130PROSPECTSEN",
+  "topic_id": "186130PROSPECTSEN",
+  "titulo": "Support to Civil Society Organization in  Eritrea",
+  "descripcion": "Support to Civil Society Organization in Eritrea",
+  "organismo": "111111",
+  "fecha_publicacion": "2026-04-09",
+  "fecha_limite": "2026-07-08",
+  "deadlines_todas": "2026-07-08",
+  "presupuesto": "459000",
+  "duracion": "",
+  "tipo_accion": "",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186130",
+  "text": "EU FUNDING & TENDERS – Topic: 186130PROSPECTSEN\nProgramme/Organism: 111111\nTitle: Support to Civil Society Organization in  Eritrea\nStatus: Open (31094502)\nType of action: \nOpening date: 2026-04-09\nDeadline: 2026-07-08\nAll deadlines: 2026-07-08\nDuration: \nBudget overview: 459000\n\nDescription / Scope:\nSupport to Civil Society Organization in Eritrea\n\nMore info: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186130",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "186130PROSPECTSEN",
+    "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186130",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Support to Civil Society Organization in Eritrea",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Support to Civil Society Organization in Eritrea",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "29CD3038F25B91221EBFFAB88F21C4C660BA6A94A1314202FBD8241F88255285",
+    "metadata": {
+      "updateDate": [
+        "2026-04-08T07:54:44.000+0000"
+      ],
+      "es_SortDate": [
+        "2026-04-09T15:00:58.000+0000"
+      ],
+      "beneficiaryAdministration": [],
+      "sortStatus": [
+        "1"
+      ],
+      "contractType": [
+        "42893160"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Support to Civil Society Organization in  Eritrea"
+      ],
+      "type": [
+        "2"
+      ],
+      "esST_checksum": [
+        "29CD3038F25B91221EBFFAB88F21C4C660BA6A94A1314202FBD8241F88255285"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "callIdentifier": [
+        "186130"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "186130PROSPECTSEN"
+      ],
+      "currency": [
+        "EUR"
+      ],
+      "frameworkProgramme": [
+        "111111"
+      ],
+      "budget": [
+        "459000"
+      ],
+      "identifier": [
+        "EuropeAid/186130/DD/ACT/ER"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "geographicalZones": [
+        "20000882"
+      ],
+      "publicationDocuments": [
+        "[{\"nameDoc\":\"Guidelines (open call)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-09 17:00:03.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2151908&lang=EN\"},{\"nameDoc\":\"Application form FA (open procedure)\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-09 17:00:08.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2151907&lang=EN\"},{\"nameDoc\":\"Application form CN (open procedure)\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-09 17:00:47.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2151906&lang=EN\"},{\"nameDoc\":\"Annex B - Budget\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-09 17:00:57.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2125448&lang=EN\"},{\"nameDoc\":\"Annex C - Logical framework\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-09 17:00:36.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2125446&lang=EN\"},{\"nameDoc\":\"Annex D - Identification Form (public law body)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-09 17:00:53.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2125447&lang=EN\"},{\"nameDoc\":\"Annex D - Identification Form (private or public law body with legal form)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-09 17:00:28.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2125453&lang=EN\"},{\"nameDoc\":\"Annex D - Identification Form (natural person)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-09 17:00:11.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2125452&lang=EN\"},{\"nameDoc\":\"Annex F - PADOR offline registration form\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-09 17:00:04.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2125449&lang=EN\"},{\"nameDoc\":\"Annex G - Standard Grant Contract\",\"typeDoc\":\"zip\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-09 17:00:03.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2125442&lang=EN\"},{\"nameDoc\":\"Annex J - Information on the tax regime applicable to grant contracts\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-09 17:00:27.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2125444&lang=EN\"},{\"nameDoc\":\"Appendix - Derogations international organisation\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-09 17:00:18.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2125450&lang=EN\"},{\"nameDoc\":\"Annex H - Declaration of honour on exclusion and selection criteria\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-09 17:00:37.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2125451&lang=EN\"},{\"nameDoc\":\"Annex K - Clarifications on financing not linked to costs\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-09 17:00:06.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2125441&lang=EN\"},{\"nameDoc\":\"Annex L - Self-evaluation questionnaire on SEA-H\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-09 17:00:55.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2125445&lang=EN\"},{\"nameDoc\":\"e-Calls PADOR privacy statement\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-09 17:00:16.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2125443&lang=EN\"}]"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-04-09T17:02:00.275+0200"
+      ],
+      "programmePeriod": [
+        "2014 - 2020",
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-07-08T15:00:19.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-09T17:02:00.275+0200"
+      ],
+      "url": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186130"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186130"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-09T17:02:00.226+0200"
+      ],
+      "programmeDivisionProspect": [
+        "44996030"
+      ],
+      "geographicalZone": [
+        "20000882"
+      ],
+      "startDate": [
+        "2026-04-09T15:00:58.000+0000"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Support to Civil Society Organization in  Eritrea. Available at: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186130",
+    "score": 3.0
+  }
+}

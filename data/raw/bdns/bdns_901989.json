@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-901989",
+  "id_interno": 1103550,
+  "numero_convocatoria": "901989",
+  "organismo": "LOCAL — MEDINA DE POMAR — AYUNTAMIENTO DE MEDINA DE POMAR",
+  "sede_electronica": "https://medinadepomar.sedelectronica.es",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "2026-03-30",
+  "fecha_fin_solicitud": "2026-11-30",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "SUBVENCION NOMINATIVA SOCIEDAD CANINA BURGALESA SORIANA 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades deportivas, recreativas y de entretenimiento",
+  "regiones": "ES412 - Burgos",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Base ejecución presupuesto Nº 61",
+  "url_bases_reguladoras": "https://medinadepomar.sedelectronica.es",
+  "presupuesto": "3.000,00 €",
+  "presupuesto_total_num": 3000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901989",
+  "text": "CONVOCATORIA BDNS Nº 901989\nOrganismo: LOCAL — MEDINA DE POMAR — AYUNTAMIENTO DE MEDINA DE POMAR\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud: 2026-03-30 → 2026-11-30 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 3.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades deportivas, recreativas y de entretenimiento\nRegiones: ES412 - Burgos\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSUBVENCION NOMINATIVA SOCIEDAD CANINA BURGALESA SORIANA 2026\n\nBases reguladoras:\nBase ejecución presupuesto Nº 61\nURL bases reguladoras: https://medinadepomar.sedelectronica.es\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901989",
+  "_raw": {
+    "id": 1103550,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "MEDINA DE POMAR",
+      "nivel3": "AYUNTAMIENTO DE MEDINA DE POMAR"
+    },
+    "sedeElectronica": "https://medinadepomar.sedelectronica.es",
+    "codigoBDNS": "901989",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 3000,
+    "mrr": false,
+    "descripcion": "SUBVENCION NOMINATIVA SOCIEDAD CANINA BURGALESA SORIANA 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades deportivas, recreativas y de entretenimiento",
+        "codigo": "93"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES412 - Burgos"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Base ejecución presupuesto Nº 61",
+    "urlBasesReguladoras": "https://medinadepomar.sedelectronica.es",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-03-30",
+    "fechaFinSolicitud": "2026-11-30",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443870,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "convenio Asociación Canina BNDS.pdf",
+        "long": 1893901,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

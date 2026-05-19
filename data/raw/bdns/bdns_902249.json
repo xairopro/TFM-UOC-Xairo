@@ -1,0 +1,103 @@
+{
+  "id": "BDNS-902249",
+  "id_interno": 1103810,
+  "numero_convocatoria": "902249",
+  "organismo": "AUTONOMICA — GALICIA — AGENCIA GALLEGA DE LAS INDUSTRIAS CULTURALES (AGADIC)",
+  "sede_electronica": "https://www.sede.xunta.gal/portada",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "CONVENIO DE COLABORACIÓN ENTRE LA AGENCIA GALLEGA DE LAS INDUSTRIAS CULTURALES Y LA FEDERACIÓN DE CINECLUBES DE GALICIA PARA El DESARROLLO DE PROGRAMACIÓN CINEMATOGRÁFICA DE LOS CINECLUBES GALLEGOS EN 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "GRAN EMPRESA, PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+  "regiones": "ES11 - GALICIA",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Procedimiento de subvención directa de la Ley de subvenciones de Galicia",
+  "url_bases_reguladoras": "https://www.xunta.gal/diario-oficial-galicia/",
+  "presupuesto": "60.000,00 €",
+  "presupuesto_total_num": 60000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902249",
+  "text": "CONVOCATORIA BDNS Nº 902249\nOrganismo: AUTONOMICA — GALICIA — AGENCIA GALLEGA DE LAS INDUSTRIAS CULTURALES (AGADIC)\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 60.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: GRAN EMPRESA, PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de bibliotecas, archivos, museos y otras actividades culturales\nRegiones: ES11 - GALICIA\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVENIO DE COLABORACIÓN ENTRE LA AGENCIA GALLEGA DE LAS INDUSTRIAS CULTURALES Y LA FEDERACIÓN DE CINECLUBES DE GALICIA PARA El DESARROLLO DE PROGRAMACIÓN CINEMATOGRÁFICA DE LOS CINECLUBES GALLEGOS EN 2026\n\nBases reguladoras:\nProcedimiento de subvención directa de la Ley de subvenciones de Galicia\nURL bases reguladoras: https://www.xunta.gal/diario-oficial-galicia/\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902249",
+  "_raw": {
+    "id": 1103810,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "GALICIA",
+      "nivel3": "AGENCIA GALLEGA DE LAS INDUSTRIAS CULTURALES (AGADIC)"
+    },
+    "sedeElectronica": "https://www.sede.xunta.gal/portada",
+    "codigoBDNS": "902249",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 60000,
+    "mrr": false,
+    "descripcion": "CONVENIO DE COLABORACIÓN ENTRE LA AGENCIA GALLEGA DE LAS INDUSTRIAS CULTURALES Y LA FEDERACIÓN DE CINECLUBES DE GALICIA PARA El DESARROLLO DE PROGRAMACIÓN CINEMATOGRÁFICA DE LOS CINECLUBES GALLEGOS EN 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "GRAN EMPRESA"
+      },
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+        "codigo": "91"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES11 - GALICIA"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Procedimiento de subvención directa de la Ley de subvenciones de Galicia",
+    "urlBasesReguladoras": "https://www.xunta.gal/diario-oficial-galicia/",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "1/04/2026",
+    "textFin": "28/04/2026",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444746,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "convenio Federacion Cineclubs 2026_20260428_145741.pdf",
+        "long": 254883,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-902883",
+  "id_interno": 1104444,
+  "numero_convocatoria": "902883",
+  "organismo": "LOCAL — SANT PERE DE RIUDEBITLLES — AYUNTAMIENTO DE SANT PERE DE RIUDEBITLLES",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "2026-01-01",
+  "fecha_fin_solicitud": "2026-12-31",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "PREMI XIII BIENNAL D`ART RIUDEBITLLES",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de creación artística y artes escénicas",
+  "regiones": "ES511 - Barcelona",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "PREMI XIII BIENNAL D`ART RIUDEBITLLES",
+  "url_bases_reguladoras": "https://bop.diba.cat/anunci/3914872/aprovacio-inicial-de-les-bases-reguladores-de-la-xiii-biennal-d-art-riudebitlles-ajuntament-de-sant-pere-de-riudebitlles",
+  "presupuesto": "2.500,00 €",
+  "presupuesto_total_num": 2500,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902883",
+  "text": "CONVOCATORIA BDNS Nº 902883\nOrganismo: LOCAL — SANT PERE DE RIUDEBITLLES — AYUNTAMIENTO DE SANT PERE DE RIUDEBITLLES\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud: 2026-01-01 → 2026-12-31 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 2.500,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de creación artística y artes escénicas\nRegiones: ES511 - Barcelona\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nPREMI XIII BIENNAL D`ART RIUDEBITLLES\n\nBases reguladoras:\nPREMI XIII BIENNAL D`ART RIUDEBITLLES\nURL bases reguladoras: https://bop.diba.cat/anunci/3914872/aprovacio-inicial-de-les-bases-reguladores-de-la-xiii-biennal-d-art-riudebitlles-ajuntament-de-sant-pere-de-riudebitlles\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902883",
+  "_raw": {
+    "id": 1104444,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "SANT PERE DE RIUDEBITLLES",
+      "nivel3": "AYUNTAMIENTO DE SANT PERE DE RIUDEBITLLES"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902883",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 2500,
+    "mrr": false,
+    "descripcion": "PREMI XIII BIENNAL D`ART RIUDEBITLLES",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de creación artística y artes escénicas",
+        "codigo": "90"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES511 - Barcelona"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "PREMI XIII BIENNAL D`ART RIUDEBITLLES",
+    "urlBasesReguladoras": "https://bop.diba.cat/anunci/3914872/aprovacio-inicial-de-les-bases-reguladores-de-la-xiii-biennal-d-art-riudebitlles-ajuntament-de-sant-pere-de-riudebitlles",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-01-01",
+    "fechaFinSolicitud": "2026-12-31",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446594,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "DECRET_APROVACIO_CONVOCATORIA_BIENNAL.pdf",
+        "long": 2180998,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446593,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "DECRETO_APROBACION_CONVOCATORIA.pdf",
+        "long": 2190288,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

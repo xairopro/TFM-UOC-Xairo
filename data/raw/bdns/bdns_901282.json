@@ -1,0 +1,110 @@
+{
+  "id": "BDNS-901282",
+  "id_interno": 1102843,
+  "numero_convocatoria": "901282",
+  "organismo": "LOCAL — LEIOA — AYUNTAMIENTO DE LEIOA",
+  "sede_electronica": "https://udaletxean.leioa.eus/",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "2026-01-01",
+  "fecha_fin_solicitud": "2026-11-15",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "GIZARTE LARRIALDIETARAKO LAGUNTZAK 2026ko EKITALDIRAKO/ AYUDAS DE EMERGECIA SOCIAL PARA EL EJERCICIO 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de servicios sociales sin alojamiento",
+  "regiones": "ES213 - Bizkaia",
+  "finalidad": "Otras Prestaciones económicas",
+  "bases_reguladoras": "AYUDAS DE EMERGECIA SOCIAL PARA EL EJERCICIO 2026",
+  "url_bases_reguladoras": "GIZARTE LARRIALDIETARAKO LAGUNTZAK 2026ko EKITALDIRAKO",
+  "presupuesto": "552.610,00 €",
+  "presupuesto_total_num": 552610,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901282",
+  "text": "CONVOCATORIA BDNS Nº 901282\nOrganismo: LOCAL — LEIOA — AYUNTAMIENTO DE LEIOA\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud: 2026-01-01 → 2026-11-15 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 552.610,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de servicios sociales sin alojamiento\nRegiones: ES213 - Bizkaia\nFinalidad: Otras Prestaciones económicas\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nGIZARTE LARRIALDIETARAKO LAGUNTZAK 2026ko EKITALDIRAKO/ AYUDAS DE EMERGECIA SOCIAL PARA EL EJERCICIO 2026\n\nBases reguladoras:\nAYUDAS DE EMERGECIA SOCIAL PARA EL EJERCICIO 2026\nURL bases reguladoras: GIZARTE LARRIALDIETARAKO LAGUNTZAK 2026ko EKITALDIRAKO\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901282",
+  "_raw": {
+    "id": 1102843,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "LEIOA",
+      "nivel3": "AYUNTAMIENTO DE LEIOA"
+    },
+    "sedeElectronica": "https://udaletxean.leioa.eus/",
+    "codigoBDNS": "901282",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 552610,
+    "mrr": false,
+    "descripcion": "GIZARTE LARRIALDIETARAKO LAGUNTZAK 2026ko EKITALDIRAKO/ AYUDAS DE EMERGECIA SOCIAL PARA EL EJERCICIO 2026",
+    "descripcionLeng": "GIZARTE LARRIALDIETARAKO LAGUNTZAK 2026ko EKITALDIRAKO/ AYUDAS DE EMERGECIA SOCIAL PARA EL EJERCICIO 2026",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de servicios sociales sin alojamiento",
+        "codigo": "88"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES213 - Bizkaia"
+      }
+    ],
+    "descripcionFinalidad": "Otras Prestaciones económicas",
+    "descripcionBasesReguladoras": "AYUDAS DE EMERGECIA SOCIAL PARA EL EJERCICIO 2026",
+    "urlBasesReguladoras": "GIZARTE LARRIALDIETARAKO LAGUNTZAK 2026ko EKITALDIRAKO",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-01-01",
+    "fechaFinSolicitud": "2026-11-15",
+    "textInicio": "El plazo de solicitud estará abierto durante todo 2026, una vez publicado el extracto en el BOB",
+    "textFin": "El plazo de presentación de solicitudes terminará el 15 de noviembre de 2026",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1441884,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "Resolución.PDF",
+        "long": 369538,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1441885,
+        "descripcion": "Resolución",
+        "nombreFic": "Resolución.PDF",
+        "long": 369538,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1441883,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Resolución.PDF",
+        "long": 369538,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

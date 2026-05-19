@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902474",
+  "id_interno": 1104035,
+  "numero_convocatoria": "902474",
+  "organismo": "ESTADO — MINISTERIO DE DEFENSA — EJÉRCITO DE TIERRA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Resolución 550/MADOC/PC-2026019 de 29 de abril de 2026, del Jefe del Mando de Adiestramiento y Doctrina por la que se convocan las ayudas económicas para la realización de un Máster Universitario en Derecho Militar para el personal del Ejército de Tierra.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Administración pública y defensa; seguridad social obligatoria",
+  "regiones": "ES - ESPAÑA",
+  "finalidad": "Defensa",
+  "bases_reguladoras": "Orden DEF/411/2024, de 25 de abril, por la que se establecen las bases reguladoras para la concesión de ayudas para la realización del Máster Universitario en Derecho Militar, para el personal militar del Ejército de Tierra.",
+  "url_bases_reguladoras": "https://www.boe.es/eli/es/o/2024/04/25/def411",
+  "presupuesto": "20.000,00 €",
+  "presupuesto_total_num": 20000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902474",
+  "text": "CONVOCATORIA BDNS Nº 902474\nOrganismo: ESTADO — MINISTERIO DE DEFENSA — EJÉRCITO DE TIERRA\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 20.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Administración pública y defensa; seguridad social obligatoria\nRegiones: ES - ESPAÑA\nFinalidad: Defensa\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nResolución 550/MADOC/PC-2026019 de 29 de abril de 2026, del Jefe del Mando de Adiestramiento y Doctrina por la que se convocan las ayudas económicas para la realización de un Máster Universitario en Derecho Militar para el personal del Ejército de Tierra.\n\nBases reguladoras:\nOrden DEF/411/2024, de 25 de abril, por la que se establecen las bases reguladoras para la concesión de ayudas para la realización del Máster Universitario en Derecho Militar, para el personal militar del Ejército de Tierra.\nURL bases reguladoras: https://www.boe.es/eli/es/o/2024/04/25/def411\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902474",
+  "_raw": {
+    "id": 1104035,
+    "organo": {
+      "nivel1": "ESTADO",
+      "nivel2": "MINISTERIO DE DEFENSA",
+      "nivel3": "EJÉRCITO DE TIERRA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902474",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 20000,
+    "mrr": false,
+    "descripcion": "Resolución 550/MADOC/PC-2026019 de 29 de abril de 2026, del Jefe del Mando de Adiestramiento y Doctrina por la que se convocan las ayudas económicas para la realización de un Máster Universitario en Derecho Militar para el personal del Ejército de Tierra.",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Administración pública y defensa; seguridad social obligatoria",
+        "codigo": "84"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES - ESPAÑA "
+      }
+    ],
+    "descripcionFinalidad": "Defensa",
+    "descripcionBasesReguladoras": "Orden DEF/411/2024, de 25 de abril, por la que se establecen las bases reguladoras para la concesión de ayudas para la realización del Máster Universitario en Derecho Militar, para el personal militar del Ejército de Tierra.",
+    "urlBasesReguladoras": "https://www.boe.es/eli/es/o/2024/04/25/def411",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Día siguiente al de la publicación del extracto de la convocatoria en el Boletín Oficial del Estado",
+    "textFin": "Quince (15) días hábiles",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445455,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "260429-RESOLUCIÓN-CONVOCATORIA_MASTER_DERMIL_2026.pdf",
+        "long": 417381,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

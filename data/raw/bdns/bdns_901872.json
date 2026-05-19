@@ -1,0 +1,138 @@
+{
+  "id": "BDNS-901872",
+  "id_interno": 1103433,
+  "numero_convocatoria": "901872",
+  "organismo": "LOCAL — AMPUDIA — AYUNTAMIENTO DE AMPUDIA",
+  "sede_electronica": "www.ampudia.es",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "2026-09-30",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "AYUDAS DESTINADAS A LA MEJORA DE LA EFICIENCIA ENERGÉTICA Y SOSTENIBILIDAD EN VIVIENDAS EN AMPUDIA Y VALORIA DEL ALCOR, año 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "OTROS SERVICIOS",
+  "regiones": "ES414 - Palencia",
+  "finalidad": "Infraestructuras",
+  "bases_reguladoras": "CONVOCATORIA PARA LA MEJORA DE LA EFICIENCIA ENERGÉTICA Y SOSTENIBILIDAD EN VIVIENDAS EN AMPUDIA Y VALORIA DEL ALCOR, año 2026",
+  "url_bases_reguladoras": "https://www.diputaciondepalencia.es/system/files/bop/2013/20130419-bop-47-ordinario.pdf",
+  "presupuesto": "30.000,00 €",
+  "presupuesto_total_num": 30000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "FSE - FONDO SOCIAL EUROPEO",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901872",
+  "text": "CONVOCATORIA BDNS Nº 901872\nOrganismo: LOCAL — AMPUDIA — AYUNTAMIENTO DE AMPUDIA\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  → 2026-09-30 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 30.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: OTROS SERVICIOS\nRegiones: ES414 - Palencia\nFinalidad: Infraestructuras\nFondos: FSE - FONDO SOCIAL EUROPEO\nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nAYUDAS DESTINADAS A LA MEJORA DE LA EFICIENCIA ENERGÉTICA Y SOSTENIBILIDAD EN VIVIENDAS EN AMPUDIA Y VALORIA DEL ALCOR, año 2026\n\nBases reguladoras:\nCONVOCATORIA PARA LA MEJORA DE LA EFICIENCIA ENERGÉTICA Y SOSTENIBILIDAD EN VIVIENDAS EN AMPUDIA Y VALORIA DEL ALCOR, año 2026\nURL bases reguladoras: https://www.diputaciondepalencia.es/system/files/bop/2013/20130419-bop-47-ordinario.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901872",
+  "_raw": {
+    "id": 1103433,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "AMPUDIA",
+      "nivel3": "AYUNTAMIENTO DE AMPUDIA"
+    },
+    "sedeElectronica": "www.ampudia.es",
+    "codigoBDNS": "901872",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 30000,
+    "mrr": false,
+    "descripcion": "AYUDAS DESTINADAS A LA MEJORA DE LA EFICIENCIA ENERGÉTICA Y SOSTENIBILIDAD EN VIVIENDAS EN AMPUDIA Y VALORIA DEL ALCOR, año 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES414 - Palencia"
+      }
+    ],
+    "descripcionFinalidad": "Infraestructuras",
+    "descripcionBasesReguladoras": "CONVOCATORIA PARA LA MEJORA DE LA EFICIENCIA ENERGÉTICA Y SOSTENIBILIDAD EN VIVIENDAS EN AMPUDIA Y VALORIA DEL ALCOR, año 2026",
+    "urlBasesReguladoras": "https://www.diputaciondepalencia.es/system/files/bop/2013/20130419-bop-47-ordinario.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": "2026-09-30",
+    "textInicio": "Desde el día siguiente a la publicación en el BOP de Palencia",
+    "textFin": "Hasta el 30 de septiembre de 2026",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [
+      {
+        "descripcion": "FSE - FONDO SOCIAL EUROPEO "
+      }
+    ],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443600,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "11.- ANUNCIO BOP RESUM CONV SUBV EFICIENCIA Y SOSTENIBILIDAD.pdf",
+        "long": 288102,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443604,
+        "descripcion": "ANEXO I, Solicitud de subvencion",
+        "nombreFic": "ANEXO I SOLICITUD DE SUBVENCIÓN.pdf",
+        "long": 145381,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443616,
+        "descripcion": "BASES COMPLETAS",
+        "nombreFic": "10.- ANEXO DECRETO DE ALCALDÍA APROVAC CONVOCATORIA.pdf",
+        "long": 423065,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443609,
+        "descripcion": "ANEXO III, Relacion de pagos",
+        "nombreFic": "ANEXO III RELACION DE PAGOS.pdf",
+        "long": 151009,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443614,
+        "descripcion": "ANEXIO IV, Declaracion jurada",
+        "nombreFic": "ANEXO IV DECLARACIÓN JURADA.pdf",
+        "long": 56904,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443607,
+        "descripcion": "ANEXO II, Ficha de Tercero-Banco",
+        "nombreFic": "ANEXO II.FICHA DE TERCERO BANCO.pdf",
+        "long": 225782,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

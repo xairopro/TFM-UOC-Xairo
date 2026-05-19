@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902201",
+  "id_interno": 1103762,
+  "numero_convocatoria": "902201",
+  "organismo": "AUTONOMICA — CIUDAD AUTÓNOMA DE CEUTA — CONSEJERÍA DE MEDIO AMBIENTE, SERVICIOS URBANOS Y VIVIENDA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "2026-01-01",
+  "fecha_fin_solicitud": "2026-12-31",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "HUERTOS Y ESPACIOS URBANOS 2026. CONVENIO DE COLABORCIÓN ENTRE LA CIUDAD DE CEUTA Y LA ASOCIACIÓN HUERTOS Y ESPACIOS URBANOS CIUDAD DE CEUTA",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA",
+  "regiones": "ES63 - CIUDAD AUTONOMA DE CEUTA",
+  "finalidad": "Agricultura, Pesca y Alimentación",
+  "bases_reguladoras": "PRESUPUESTOS GENERALES DE LA CIUDD AUTÓNOMA DE CEUTA",
+  "url_bases_reguladoras": "https://www.ceuta.es",
+  "presupuesto": "30.000,00 €",
+  "presupuesto_total_num": 30000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902201",
+  "text": "CONVOCATORIA BDNS Nº 902201\nOrganismo: AUTONOMICA — CIUDAD AUTÓNOMA DE CEUTA — CONSEJERÍA DE MEDIO AMBIENTE, SERVICIOS URBANOS Y VIVIENDA\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud: 2026-01-01 → 2026-12-31 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 30.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA\nRegiones: ES63 - CIUDAD AUTONOMA DE CEUTA\nFinalidad: Agricultura, Pesca y Alimentación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nHUERTOS Y ESPACIOS URBANOS 2026. CONVENIO DE COLABORCIÓN ENTRE LA CIUDAD DE CEUTA Y LA ASOCIACIÓN HUERTOS Y ESPACIOS URBANOS CIUDAD DE CEUTA\n\nBases reguladoras:\nPRESUPUESTOS GENERALES DE LA CIUDD AUTÓNOMA DE CEUTA\nURL bases reguladoras: https://www.ceuta.es\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902201",
+  "_raw": {
+    "id": 1103762,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "CIUDAD AUTÓNOMA DE CEUTA",
+      "nivel3": "CONSEJERÍA DE MEDIO AMBIENTE, SERVICIOS URBANOS Y VIVIENDA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902201",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 30000,
+    "mrr": false,
+    "descripcion": "HUERTOS Y ESPACIOS URBANOS 2026. CONVENIO DE COLABORCIÓN ENTRE LA CIUDAD DE CEUTA Y LA ASOCIACIÓN HUERTOS Y ESPACIOS URBANOS CIUDAD DE CEUTA",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA",
+        "codigo": "A"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES63 - CIUDAD AUTONOMA DE CEUTA"
+      }
+    ],
+    "descripcionFinalidad": "Agricultura, Pesca y Alimentación",
+    "descripcionBasesReguladoras": "PRESUPUESTOS GENERALES DE LA CIUDD AUTÓNOMA DE CEUTA",
+    "urlBasesReguladoras": "https://www.ceuta.es",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-01-01",
+    "fechaFinSolicitud": "2026-12-31",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444433,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "BORRADOR CONVENIO .pdf",
+        "long": 281593,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

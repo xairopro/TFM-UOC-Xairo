@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902708",
+  "id_interno": 1104269,
+  "numero_convocatoria": "902708",
+  "organismo": "LOCAL — DIPUTACIÓN PROV. DE GUADALAJARA — DIPUTACIÓN PROVINCIAL DE GUADALAJARA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "2026-01-01",
+  "fecha_fin_solicitud": "2026-01-31",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "PLENO",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS AUXILIARES",
+  "regiones": "ES424 - Guadalajara",
+  "finalidad": "Otras actuaciones de carácter económico",
+  "bases_reguladoras": "BASES REGULADORES PRESUPUESTO 2026",
+  "url_bases_reguladoras": "file:///C:/Users/rmoreno/Downloads/20260202_Otros_Publicaci%C3%B3n%20BOP%20anuncio%20aprobaci%C3%B3n%20definitiva%20Presupuesto%202026%20(1).pdf",
+  "presupuesto": "228.998,82 €",
+  "presupuesto_total_num": 228998.82,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902708",
+  "text": "CONVOCATORIA BDNS Nº 902708\nOrganismo: LOCAL — DIPUTACIÓN PROV. DE GUADALAJARA — DIPUTACIÓN PROVINCIAL DE GUADALAJARA\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud: 2026-01-01 → 2026-01-31 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 228.998,82 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS AUXILIARES\nRegiones: ES424 - Guadalajara\nFinalidad: Otras actuaciones de carácter económico\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nPLENO\n\nBases reguladoras:\nBASES REGULADORES PRESUPUESTO 2026\nURL bases reguladoras: file:///C:/Users/rmoreno/Downloads/20260202_Otros_Publicaci%C3%B3n%20BOP%20anuncio%20aprobaci%C3%B3n%20definitiva%20Presupuesto%202026%20(1).pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902708",
+  "_raw": {
+    "id": 1104269,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DIPUTACIÓN PROV. DE GUADALAJARA",
+      "nivel3": "DIPUTACIÓN PROVINCIAL DE GUADALAJARA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902708",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 228998.82,
+    "mrr": false,
+    "descripcion": "PLENO",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS AUXILIARES",
+        "codigo": "O"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES424 - Guadalajara"
+      }
+    ],
+    "descripcionFinalidad": "Otras actuaciones de carácter económico",
+    "descripcionBasesReguladoras": "BASES REGULADORES PRESUPUESTO 2026",
+    "urlBasesReguladoras": "file:///C:/Users/rmoreno/Downloads/20260202_Otros_Publicaci%C3%B3n%20BOP%20anuncio%20aprobaci%C3%B3n%20definitiva%20Presupuesto%202026%20(1).pdf",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-01-01",
+    "fechaFinSolicitud": "2026-01-31",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446039,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "PLENO ASIGNACION GRUPOS POLITICOS 2023-2027.pdf",
+        "long": 327848,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

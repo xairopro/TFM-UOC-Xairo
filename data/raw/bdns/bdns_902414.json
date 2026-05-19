@@ -1,0 +1,97 @@
+{
+  "id": "BDNS-902414",
+  "id_interno": 1103975,
+  "numero_convocatoria": "902414",
+  "organismo": "LOCAL — DON BENITO — AYUNTAMIENTO DE DON BENITO",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "2026-11-30",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "PCEM PARA SUMINISTROS MÍNIMOS VITALES DEL AYUNTAMIENTO DE DON BENITO PARA 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades deportivas",
+  "regiones": "ES431 - Badajoz",
+  "finalidad": "Otras actuaciones de carácter económico",
+  "bases_reguladoras": "BASE REGULADORA DEL AYUNTAMIENTO DE DON BENITO",
+  "url_bases_reguladoras": "WWW.DONBENITO.ES",
+  "presupuesto": "72.329,33 €",
+  "presupuesto_total_num": 72329.33,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "REG (UE) 2023/2831 de minimis, General",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902414",
+  "text": "CONVOCATORIA BDNS Nº 902414\nOrganismo: LOCAL — DON BENITO — AYUNTAMIENTO DE DON BENITO\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  → 2026-11-30 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 72.329,33 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades deportivas\nRegiones: ES431 - Badajoz\nFinalidad: Otras actuaciones de carácter económico\nFondos: \nReglamento: REG (UE) 2023/2831 de minimis, General\nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nPCEM PARA SUMINISTROS MÍNIMOS VITALES DEL AYUNTAMIENTO DE DON BENITO PARA 2026\n\nBases reguladoras:\nBASE REGULADORA DEL AYUNTAMIENTO DE DON BENITO\nURL bases reguladoras: WWW.DONBENITO.ES\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902414",
+  "_raw": {
+    "id": 1103975,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DON BENITO",
+      "nivel3": "AYUNTAMIENTO DE DON BENITO"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902414",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 72329.33,
+    "mrr": false,
+    "descripcion": "PCEM PARA SUMINISTROS MÍNIMOS VITALES DEL AYUNTAMIENTO DE DON BENITO PARA 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades deportivas",
+        "codigo": "93.1"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES431 - Badajoz"
+      }
+    ],
+    "descripcionFinalidad": "Otras actuaciones de carácter económico",
+    "descripcionBasesReguladoras": "BASE REGULADORA DEL AYUNTAMIENTO DE DON BENITO",
+    "urlBasesReguladoras": "WWW.DONBENITO.ES",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": "2026-11-30",
+    "textInicio": "DESDE EL DÍA SIGUIENTE AL DE LA PUBLICACIÓN DE ESTA CONVOCATORIA EN EL BOP DE BADAJOZ",
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": {
+      "descripcion": "REG (UE) 2023/2831 de minimis, General",
+      "orden": null
+    },
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445319,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Extracto Bases SUMIVI 2026.pdf",
+        "long": 171109,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

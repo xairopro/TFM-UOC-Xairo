@@ -1,0 +1,146 @@
+{
+  "id": "BDNS-902258",
+  "id_interno": 1103819,
+  "numero_convocatoria": "902258",
+  "organismo": "LOCAL — DIPUTACIÓN PROV. DE LEÓN — DIPUTACIÓN PROVINCIAL DE LEÓN",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "SUBVENCIÓN PROTECTORAS ANIMALES 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Otras actividades sanitarias",
+  "regiones": "ES413 - León",
+  "finalidad": "Otras actuaciones de carácter económico",
+  "bases_reguladoras": "ORD. GNRAL. DE SUBVENCIONES 2022",
+  "url_bases_reguladoras": "https://transparencia.dipuleon.es/export/sites/transparencia/.galleries/Normativa/Ordenanzas-y-Reglamentos/Subvenciones/Ordenanza-General-de-Subvenciones.pdf",
+  "presupuesto": "10.000,00 €",
+  "presupuesto_total_num": 10000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902258",
+  "text": "CONVOCATORIA BDNS Nº 902258\nOrganismo: LOCAL — DIPUTACIÓN PROV. DE LEÓN — DIPUTACIÓN PROVINCIAL DE LEÓN\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 10.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Otras actividades sanitarias\nRegiones: ES413 - León\nFinalidad: Otras actuaciones de carácter económico\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSUBVENCIÓN PROTECTORAS ANIMALES 2026\n\nBases reguladoras:\nORD. GNRAL. DE SUBVENCIONES 2022\nURL bases reguladoras: https://transparencia.dipuleon.es/export/sites/transparencia/.galleries/Normativa/Ordenanzas-y-Reglamentos/Subvenciones/Ordenanza-General-de-Subvenciones.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902258",
+  "_raw": {
+    "id": 1103819,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DIPUTACIÓN PROV. DE LEÓN",
+      "nivel3": "DIPUTACIÓN PROVINCIAL DE LEÓN"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902258",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 10000,
+    "mrr": false,
+    "descripcion": "SUBVENCIÓN PROTECTORAS ANIMALES 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Otras actividades sanitarias",
+        "codigo": "86.9"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES413 - León"
+      }
+    ],
+    "descripcionFinalidad": "Otras actuaciones de carácter económico",
+    "descripcionBasesReguladoras": "ORD. GNRAL. DE SUBVENCIONES 2022",
+    "urlBasesReguladoras": "https://transparencia.dipuleon.es/export/sites/transparencia/.galleries/Normativa/Ordenanzas-y-Reglamentos/Subvenciones/Ordenanza-General-de-Subvenciones.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "1er.  día siguiente a la publicacion extracto BOP",
+    "textFin": "20 DÍAS HÁBILES",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444822,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "BASES.pdf",
+        "long": 195203,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444823,
+        "descripcion": "ANEXO I",
+        "nombreFic": "ANEXO_I.pdf",
+        "long": 126961,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444827,
+        "descripcion": "ANEXO V",
+        "nombreFic": "ANEXO_V.pdf",
+        "long": 107410,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444825,
+        "descripcion": "ANEXO III",
+        "nombreFic": "ANEXO_III.pdf",
+        "long": 115283,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444826,
+        "descripcion": "ANEXO IV",
+        "nombreFic": "ANEXO_IV.pdf",
+        "long": 125570,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444824,
+        "descripcion": "ANEXO II",
+        "nombreFic": "ANEXO_II.pdf",
+        "long": 115975,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210395,
+        "titulo": "Extracto de la convocatoria y bases aprobadas mediante Resolución de Presidencia de la Diputación de León nº 3720, de fecha 8 de abril de 2026 para la concesión de subvenciones en régimen de concurrencia competitiva a las asociaciones protectoras de animales de la provincia de León, año 2026.",
+        "tituloLeng": null,
+        "texto": "<p>De conformidad con lo previsto en los artículos 17.3.b y 20.8 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, el texto completo se publica en la web de la Diputación (www.dipuleon.es) Desarrollo Rural y Medio Ambiente ? Ayudas y subvenciones).</p><p></p><p>Primero. Beneficiarios:</p><p></p><p>Las asociaciones protectoras de animales de la provincia de León que se dediquen a la recogida y custodia de perros vagabundos, abandonados, extraviados o que deban permanecer aislados por razones sanitarias, en los municipios de la provincia de León de menos de 20.000 habitantes, que realicen las actuaciones comprendidas en la base primera de las que rigen la convocatoria, para sufragar los gastos veterinarios necesarios, durante el tiempo comprendido entre el 1 de julio de 2025 hasta el 30 de junio de 2026 y que reúnan los requisitos establecidos en la base tercera de las BGS.</p><p></p><p>Segundo. Finalidad:</p><p></p><p>La finalidad de esta convocatoria es fomentar la protección de los animales abandonados y su posterior adopción. Para ello se les proporcionarán los cuidados necesarios mientras se encuentran en esa situación, evitando de esa manera la proliferación de animales sin control sanitario por las vías públicas, realizándose cuantas acciones sean necesarias para facilitar su adopción y evitando de esta manera el sacrificio de los mismos.</p><p></p><p>Tercero. Bases Reguladoras:</p><p></p><p>Las subvenciones objeto de la presente convocatoria se regirán, además de lo previsto en las presentes Bases, por lo dispuesto en las Bases Generales reguladoras de la concesión de subvenciones en régimen de concurrencia competitiva en la Diputación Provincial de León (en adelante BGS), aprobadas por acuerdo del Pleno de 27 de febrero de 2008 (BOP de León nº 45/2008, de 5 de marzo) y en las bases de ejecución del presupuesto. Asimismo, se estará a lo dispuesto en la OGS, en la LGS, en el Reglamento que la desarrolla (RD 887/2006, de 21 de julio) y en las restantes normas de derecho administrativo, aplicándose en su defecto las normas de derecho privado.</p><p></p><p>Cuarto. Cuantía:</p><p></p><p>Cuantía total: 10.000 â¿¬</p><p>La ayuda a conceder podrá alcanzar hasta el 90% del presupuesto. Se concederá el máximo porcentaje posible en función del crédito presupuestario, número de beneficiarios y presupuestos presentados, con limite señalado. </p><p></p><p>Quinto. Plazo de presentación de solicitudes:</p><p></p><p>Veinte días hábiles contados a partir del siguiente a la fecha de la publicación del extracto de la presente convocatoria en el Boletín Oficial de la Provincia de León.</p><p></p><p>Sexta. Otros datos de interés:</p><p></p><p>- Presentación de solicitudes. ? Vía electrónica a través de la sede electrónica de la Diputación https://sede.dipuleon.es/, mediante el trámite relativo a la presente convocatoria localizado en el apartado Servicio de Desarrollo Rural y Medio Ambiente - Ayudas y subvenciones.</p><p></p><p>- Documentación a presentar con la solicitud. </p><p>Anexo I y II acompañando además la siguiente documentación (salvo que ya obre en poder de la Diputación, en cuyo caso deberán indicar en que expediente se han aportado):</p><p>?\tEstatutos de la asociación.</p><p>?\tProyecto de actividades a desarrollar durante el periodo del 1 de julio de 2025 al 30 de junio de 2026, en el que se contenga el presupuesto de gastos e ingresos por la actividad veterinaria a realizar durante ese periodo.</p><p>?\tCertificado acreditativo de la inscripción en el Registro de Núcleos Zoológicos de la Consejería de Agricultura, Ganadería y Desarrollo Rural de la Junta de Castilla y León.</p><p>?\tCertificado acreditativo de la inscripción en el Registro de Asociaciones de la Consejería de la Presidencia de la Junta de Castilla y León.</p><p>- Gastos subvencionables. ? Aquellos que de manera indubitada respondan a la naturaleza de la actividad subvencionada, resulten estrictamente necesarios y se realicen en el plazo establecido.</p><p>Serán gastos subvencionables los gastos por servicios veterinarios que se presten a las asociaciones protectoras de animales durante el periodo comprendido entre el 1 de julio de 2025 y el 30 de junio de 2026, que cumplan los requisitos de la base séptima.</p><p></p><p>- Justificación. - Hasta el 31 de agosto de 2026, aportando la documentación prevista en la base décima de la convocatoria.</p><p></p><p>-   Forma de pago. - Se realizará una vez que se haya justificado el gasto y se acredite el cumplimiento de los requisitos señalados en el art. 18 de la OGS y en la base 5 de las BGS.</p><p></p><p>-   Compatibilidad con otras ayudas.- Sí.</p><p></p><p>- Órgano competente para resolver. Diputada delegada de Desarrollo Rural de la Diputación de León.</p>",
+        "textoLeng": null,
+        "url": "https://bop.dipuleon.es/publica/buscador-anuncios/anuncio/Extracto-de-la-convocatoria-de-subvenciones-a-las-asociaciones-protectoras-de-animales-2026-BDNS-902258/",
+        "cve": null,
+        "desDiarioOficial": "B.O.P. DE LEÓN",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

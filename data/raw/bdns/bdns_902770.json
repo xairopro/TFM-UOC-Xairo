@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-902770",
+  "id_interno": 1104331,
+  "numero_convocatoria": "902770",
+  "organismo": "ESTADO — MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA — SECRETARÍA DE ESTADO DE MEMORIA DEMOCRÁTICA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": true,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Concesión directa de una subvención a la Universidad Pública de Navarra para la elaboración del inventario de edificaciones y obras realizadas por personas sometidas a trabajos forzados bajo el franquismo en el ámbito penitenciario y concentracionario,",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "EDUCACIÓN",
+  "regiones": "ES22 - COMUNIDAD FORAL DE NAVARRA",
+  "finalidad": "Justicia",
+  "bases_reguladoras": "Real Decreto 1191/2025, de 26 de diciembre, por el que se regula la concesión directa de una subvención a la Universidad Pública de Navarra para la elaboración del inventario de edificaciones y obras realizadas por personas sometidas a trabajos forzado",
+  "url_bases_reguladoras": "https://www.boe.es/eli/es/rd/2025/12/26/1191",
+  "presupuesto": "600.000,00 €",
+  "presupuesto_total_num": 600000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902770",
+  "text": "CONVOCATORIA BDNS Nº 902770\nOrganismo: ESTADO — MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA — SECRETARÍA DE ESTADO DE MEMORIA DEMOCRÁTICA\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud:  →  (abierto: sí)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 600.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: EDUCACIÓN\nRegiones: ES22 - COMUNIDAD FORAL DE NAVARRA\nFinalidad: Justicia\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConcesión directa de una subvención a la Universidad Pública de Navarra para la elaboración del inventario de edificaciones y obras realizadas por personas sometidas a trabajos forzados bajo el franquismo en el ámbito penitenciario y concentracionario,\n\nBases reguladoras:\nReal Decreto 1191/2025, de 26 de diciembre, por el que se regula la concesión directa de una subvención a la Universidad Pública de Navarra para la elaboración del inventario de edificaciones y obras realizadas por personas sometidas a trabajos forzado\nURL bases reguladoras: https://www.boe.es/eli/es/rd/2025/12/26/1191\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902770",
+  "_raw": {
+    "id": 1104331,
+    "organo": {
+      "nivel1": "ESTADO",
+      "nivel2": "MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA",
+      "nivel3": "SECRETARÍA DE ESTADO DE MEMORIA DEMOCRÁTICA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902770",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 600000,
+    "mrr": false,
+    "descripcion": "Concesión directa de una subvención a la Universidad Pública de Navarra para la elaboración del inventario de edificaciones y obras realizadas por personas sometidas a trabajos forzados bajo el franquismo en el ámbito penitenciario y concentracionario,",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES22 - COMUNIDAD FORAL DE NAVARRA"
+      }
+    ],
+    "descripcionFinalidad": "Justicia",
+    "descripcionBasesReguladoras": "Real Decreto 1191/2025, de 26 de diciembre, por el que se regula la concesión directa de una subvención a la Universidad Pública de Navarra para la elaboración del inventario de edificaciones y obras realizadas por personas sometidas a trabajos forzado",
+    "urlBasesReguladoras": "https://www.boe.es/eli/es/rd/2025/12/26/1191",
+    "sePublicaDiarioOficial": false,
+    "abierto": true,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446180,
+        "descripcion": "Resolución",
+        "nombreFic": "Resolución Subv UPNA_modif.pdf.xsig.pdf",
+        "long": 342701,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446179,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "BOE-A-2025-26703.pdf",
+        "long": 250346,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

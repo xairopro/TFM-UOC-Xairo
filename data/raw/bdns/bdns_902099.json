@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902099",
+  "id_interno": 1103660,
+  "numero_convocatoria": "902099",
+  "organismo": "LOCAL — VALLE DE TRÁPAGA-TRAPAGARAN — AYUNTAMIENTO DE VALLE DE TRÁPAGA-TRAPAGARAN",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "2026-04-28",
+  "fecha_fin_solicitud": "2026-10-30",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Criterios interpretativos a adoptar en la concesión de las Ayudas de Emergencia Social (AES) 2026 en el Ayuntamiento de Valle de Trápaga-Trapagaran.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+  "regiones": "ES213 - Bizkaia",
+  "finalidad": "Servicios Sociales y Promoción Social",
+  "bases_reguladoras": "Criterios de interpretación",
+  "url_bases_reguladoras": "https://www.trapagaran.net/es-ES/Ayuntamiento/Subvenciones/Paginas/ayudas-emergencia-social-2026.aspx",
+  "presupuesto": "206.223,00 €",
+  "presupuesto_total_num": 206223,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902099",
+  "text": "CONVOCATORIA BDNS Nº 902099\nOrganismo: LOCAL — VALLE DE TRÁPAGA-TRAPAGARAN — AYUNTAMIENTO DE VALLE DE TRÁPAGA-TRAPAGARAN\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud: 2026-04-28 → 2026-10-30 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 206.223,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES\nRegiones: ES213 - Bizkaia\nFinalidad: Servicios Sociales y Promoción Social\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCriterios interpretativos a adoptar en la concesión de las Ayudas de Emergencia Social (AES) 2026 en el Ayuntamiento de Valle de Trápaga-Trapagaran.\n\nBases reguladoras:\nCriterios de interpretación\nURL bases reguladoras: https://www.trapagaran.net/es-ES/Ayuntamiento/Subvenciones/Paginas/ayudas-emergencia-social-2026.aspx\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902099",
+  "_raw": {
+    "id": 1103660,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "VALLE DE TRÁPAGA-TRAPAGARAN",
+      "nivel3": "AYUNTAMIENTO DE VALLE DE TRÁPAGA-TRAPAGARAN"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902099",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 206223,
+    "mrr": false,
+    "descripcion": "Criterios interpretativos a adoptar en la concesión de las Ayudas de Emergencia Social (AES) 2026 en el Ayuntamiento de Valle de Trápaga-Trapagaran.",
+    "descripcionLeng": "Laguntzak ematean hartu beharreko interpretazio-irizpideak Gizarte Larrialdietarako Laguntzak (GLL) 2026 Trapagarango Udalean",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+        "codigo": "R"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES213 - Bizkaia"
+      }
+    ],
+    "descripcionFinalidad": "Servicios Sociales y Promoción Social",
+    "descripcionBasesReguladoras": "Criterios de interpretación",
+    "urlBasesReguladoras": "https://www.trapagaran.net/es-ES/Ayuntamiento/Subvenciones/Paginas/ayudas-emergencia-social-2026.aspx",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-04-28",
+    "fechaFinSolicitud": "2026-10-30",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444147,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Criterios Interpretativos.pdf",
+        "long": 465735,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

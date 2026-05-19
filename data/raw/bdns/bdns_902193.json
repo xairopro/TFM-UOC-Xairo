@@ -1,0 +1,114 @@
+{
+  "id": "BDNS-902193",
+  "id_interno": 1103754,
+  "numero_convocatoria": "902193",
+  "organismo": "LOCAL — SANTA COLOMA DE FARNERS — AYUNTAMIENTO DE SANTA COLOMA DE FARNERS",
+  "sede_electronica": "www.scf.cat",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "2026-05-11",
+  "fecha_fin_solicitud": "2026-05-26",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA DE SUBVENCIONES DEL ÁREA DE ACCIÓN SOCIAL, IGUALDAD Y GENTE MAYOR DEL AYUNTAMIENTO DE SANTA COLOMA DE FARNERS PARA ENTIDADES Y/O ASOCIACIONES SIN ÁNIMO DE LUCRO (AÑO 2026)",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+  "regiones": "ES512 - Girona",
+  "finalidad": "Servicios Sociales y Promoción Social",
+  "bases_reguladoras": "SUBVENCIONES DEL ÁREA DE ACCIÓN SOCIAL, IGUALDAD Y GENTE MAYOR DEL AYUNTAMIENTO DE SANTA COLOMA DE FARNERS PARA ENTIDADES Y/O ASOCIACIONES SIN ÁNIMO DE LUCRO",
+  "url_bases_reguladoras": "WWW.SCF.CAT",
+  "presupuesto": "13.200,00 €",
+  "presupuesto_total_num": 13200,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902193",
+  "text": "CONVOCATORIA BDNS Nº 902193\nOrganismo: LOCAL — SANTA COLOMA DE FARNERS — AYUNTAMIENTO DE SANTA COLOMA DE FARNERS\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud: 2026-05-11 → 2026-05-26 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 13.200,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES\nRegiones: ES512 - Girona\nFinalidad: Servicios Sociales y Promoción Social\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA DE SUBVENCIONES DEL ÁREA DE ACCIÓN SOCIAL, IGUALDAD Y GENTE MAYOR DEL AYUNTAMIENTO DE SANTA COLOMA DE FARNERS PARA ENTIDADES Y/O ASOCIACIONES SIN ÁNIMO DE LUCRO (AÑO 2026)\n\nBases reguladoras:\nSUBVENCIONES DEL ÁREA DE ACCIÓN SOCIAL, IGUALDAD Y GENTE MAYOR DEL AYUNTAMIENTO DE SANTA COLOMA DE FARNERS PARA ENTIDADES Y/O ASOCIACIONES SIN ÁNIMO DE LUCRO\nURL bases reguladoras: WWW.SCF.CAT\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902193",
+  "_raw": {
+    "id": 1103754,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "SANTA COLOMA DE FARNERS",
+      "nivel3": "AYUNTAMIENTO DE SANTA COLOMA DE FARNERS"
+    },
+    "sedeElectronica": "www.scf.cat",
+    "codigoBDNS": "902193",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 13200,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA DE SUBVENCIONES DEL ÁREA DE ACCIÓN SOCIAL, IGUALDAD Y GENTE MAYOR DEL AYUNTAMIENTO DE SANTA COLOMA DE FARNERS PARA ENTIDADES Y/O ASOCIACIONES SIN ÁNIMO DE LUCRO (AÑO 2026)",
+    "descripcionLeng": "CONVOCATÒRIA DE SUBVENCIONS DE L’ÀREA D’ACCIÓ SOCIAL, IGUALTAT I GENT GRAN DE L’AJUNTAMENT DE SANTA COLOMA DE FARNERS PER A ENTITATS I/O ASSOCIACIONS SENSE FINALITAT LUCRATIVA (ANY 2026)",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+        "codigo": "R"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES512 - Girona"
+      }
+    ],
+    "descripcionFinalidad": "Servicios Sociales y Promoción Social",
+    "descripcionBasesReguladoras": "SUBVENCIONES DEL ÁREA DE ACCIÓN SOCIAL, IGUALDAD Y GENTE MAYOR DEL AYUNTAMIENTO DE SANTA COLOMA DE FARNERS PARA ENTIDADES Y/O ASOCIACIONES SIN ÁNIMO DE LUCRO",
+    "urlBasesReguladoras": "WWW.SCF.CAT",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-05-11",
+    "fechaFinSolicitud": "2026-05-26",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444412,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "DOC CONVOC CAT.pdf",
+        "long": 77078,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444411,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "DOC CONVOC CAST.pdf",
+        "long": 78167,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210371,
+        "titulo": "CONVOCATORIA DE SUBVENCIONES DEL ÁREA DE ACCIÓN SOCIAL, IGUALDAD Y GENTE MAYOR DEL AYUNTAMIENTO DE SANTA COLOMA DE FARNERS PARA ENTIDADES Y/O ASOCIACIONES SIN ÁNIMO DE LUCRO (AÑO 2026)",
+        "tituloLeng": "CONVOCATÒRIA DE SUBVENCIONS DE L’ÀREA D’ACCIÓ SOCIAL, IGUALTAT I GENT GRAN DE L’AJUNTAMENT DE SANTA COLOMA DE FARNERS PER A ENTITATS I/O ASSOCIACIONS SENSE FINALITAT LUCRATIVA (ANY 2026)",
+        "texto": "<p>Primero.- Objeto</p><p>El objeto de esta convocatoria es la concesión de subvenciones del Área de Acción Social, Igualdad y Gente Mayor, en régimen de concurrencia competitiva, dirigidas a entidades y/o asociaciones sin ánimo de lucro para el año 2026. La convocatoria se rige por las bases específicas que la regulan, por la Ordenanza General de Subvenciones del Ayuntamiento y por lo establecido en la Ley 38/2003, de 17 de noviembre, General de Subvenciones.</p><p> </p><p>Segundo.- Líneas de subvención y dotación presupuestaria</p><p>A esta convocatoria únicamente podrán presentarse solicitudes que se ajusten a la Línea 3: Actividades de dinamización dirigidas a las personas mayores.</p><p>La dotación presupuestaria prevista para el ejercicio 2026, con cargo a la aplicación 2026.20.2310.48001, es la siguiente:&#8594; Dotación total máxima: 13.200 euros</p><p>El importe a conceder a cada entidad se determinará de manera proporcional a la puntuación obtenida, de acuerdo con los criterios establecidos en las bases. Solo participarán en el reparto las solicitudes admitidas que hayan superado la puntuación mínima exigida. Si la suma de las cuantías resultantes supera el crédito disponible, se aplicará un ajuste proporcional entre todos los proyectos que hayan alcanzado la puntuación mínima, respetando en todo caso los límites de cuantía establecidos en esta convocatoria.</p><p> </p><p>Tercero.- Requisitos y beneficiarios</p><p>Tendrán la condición de personas beneficiarias las asociaciones y demás entidades sin ánimo de lucro del municipio de Santa Coloma de Farners que, en el momento de presentar la solicitud, cumplan los siguientes requisitos:</p><p>a) Estar legalmente constituidas, tener la condición de entidad sin ánimo de lucro y constar inscritas, con los datos actualizados, en el Registro Municipal de Entidades del Ayuntamiento de Santa Coloma de Farners.b) No encontrarse en ninguna de las circunstancias que impiden obtener la condición de beneficiario de subvenciones públicas, de acuerdo con el artículo 13 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.c) Disponer de los medios, estructura y capacidad suficientes para llevar a cabo los proyectos objeto de las ayudas y garantizar el cumplimiento de los objetivos previstos.</p><p>La concurrencia de estos requisitos deberá acreditarse en el momento de presentar la solicitud mediante la documentación indicada. En caso de no poder acreditar alguna de las circunstancias mencionadas, podrá hacerse mediante la presentación de una declaración responsable ante el órgano concedente de la subvención, según el modelo normalizado del Anexo 2.</p><p> </p><p>Cuarto.- Plazo y presentación de solicitudes</p><p>Las solicitudes de concesión de subvenciones deberán formalizarse mediante los modelos normalizados disponibles en la sede electrónica del Ayuntamiento y en el Registro General. La presentación deberá realizarse a través del Registro General del Ayuntamiento de Santa Coloma de Farners, de acuerdo con lo previsto en el artículo 14 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas.</p><p>El plazo de presentación de solicitudes es de 15 días naturales, contados a partir del día siguiente al de la publicación de la convocatoria en el BOPG. Las solicitudes deberán presentarse mediante los modelos normalizados y deberán ir acompañadas de la documentación establecida en el artículo 9 de las Bases.</p><p> </p><p>Quinto.- Procedimiento, resolución y pago</p><p>Las solicitudes serán evaluadas por una comisión de evaluación, de acuerdo con los criterios detallados en las bases.</p><p>El órgano competente resolverá la concesión de las subvenciones en un plazo máximo de 3 meses desde la finalización del plazo de presentación.</p><p>La notificación del resultado se realizará de manera individualizada a cada solicitante, mediante una resolución que pondrá fin a la vía administrativa. Contra esta resolución podrá interponerse, con carácter potestativo, recurso de reposición en el plazo de un mes, o bien recurso contencioso-administrativo.</p><p>Una vez dictada la resolución de concesión de las subvenciones, y sin perjuicio de la notificación individualizada, se hará pública la relación de subvenciones otorgadas mediante su publicación en el tablón de anuncios electrónico del Ayuntamiento de Santa Coloma de Farners, en el Boletín Oficial de la Provincia y en la Base de Datos Nacional de Subvenciones (BDNS).</p><p>La publicación incluirá la identificación de las entidades beneficiarias, la cuantía otorgada y, en su caso, la denegación o inadmisión de solicitudes con indicación del motivo. Esta publicación tendrá efectos de notificación general, de acuerdo con lo establecido en el artículo 45 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas. El pago se efectuará mediante transferencia bancaria.</p><p> </p><p>Sexto.- Justificación</p><p>Las entidades beneficiarias deberán presentar la justificación de la subvención antes del 30 de noviembre de 2026, mediante la documentación establecida en las bases.</p><p> </p><p>Séptimo.- Otras cuestiones</p><p>La participación en esta convocatoria implica el conocimiento y la aceptación de las bases reguladoras.</p>",
+        "textoLeng": "<p>Primer.- Objecte</p><p> </p><p>L’objecte d’aquesta convocatòria és la concessió de subvencions de l’Àrea d’Acció social, igualtat i gent gran, en règim de concurrència competitiva, adreçades a entitats i/o associacions sense finalitat lucrativa per a l’any 2026. La convocatòria es regeix per les bases específiques que la regulen, per l’Ordenança General de Subvencions de l’Ajuntament i pel que estableix la Llei 38/2003, de 17 de novembre, General de Subvencions.</p><p> </p><p>Segon.- Línies de subvenció i dotació pressupostària</p><p> </p><p>A aquesta convocatòria només s’hi podran presentar sol·licituds que s’adiguin a la Línia 3: Activitats de dinamització adreçades a la gent gran.</p><p> </p><p>La dotació pressupostària prevista per a l’exercici 2026 amb càrrec a l’aplicació 2026.20.2310.48001 és la següent:</p><p>&#8594; Dotació total màxima: 13200 euros</p><p>L’import a concedir a cada entitat es determinarà de manera proporcional a la puntuació obtinguda, d’acord amb els criteris establerts a les bases. Només participaran en el repartiment les sol·licituds admeses que hagin superat la puntuació mínima exigida. Si la suma de les quanties resultants supera el crèdit disponible, s’aplicarà un ajust proporcional entre tots els projectes que hagin assolit la puntuació mínima, respectant en tot cas els límits de quantia establerts en aquesta convocatòria.</p><p> </p><p>Tercer.- Requisits i beneficiaris</p><p> </p><p>Tindran la condició de persones beneficiàries les associacions i altres entitats sense ànim de lucre del municipi de Santa Coloma de Farners que, en el moment de presentar la sol·licitud, compleixin els requisits següents:</p><p>a) Estar legalment constituïdes, tenir la condició d’entitat sense ànim de lucre, i constar inscrites i amb les dades actualitzades al Registre Municipal d’Entitats de l’Ajuntament de Santa Coloma de Farners.</p><p>b) No trobar-se en cap de les circumstàncies que impedeixen obtenir la condició de beneficiari de subvencions públiques, d’acord amb l’article 13 de la Llei 38/2003, de 17 de novembre, General de Subvencions.</p><p>c) Disposar dels mitjans, estructura i capacitat suficients per dur a terme els projectes objecte dels ajuts i garantir el compliment dels objectius previstos.</p><p>La concurrència d’aquests requisits s’haurà d’acreditar en el moment de presentar la sol·licitud mitjançant la documentació que s’indiqui. En cas que no es pugui acreditar alguna de les circumstàncies indicades, es podrà acreditar mitjançant la presentació d’una declaració responsable davant l’òrgan concedent de la subvenció, segons el model normalitzat de l’Annex 2.</p><p> </p><p>Quart.- Termini i presentació de sol·licituds</p><p> </p><p>Les sol·licituds de concessió de subvencions s’han de formalitzar mitjançant els models normalitzats disponibles a la seu electrònica de l’Ajuntament i al Registre General. La presentació s’ha de realitzar a través del registre general de l’Ajuntament de Santa Coloma de Farners, d’acord amb el que preveu l’article 14 de la Llei 39/2015, de 1 d’octubre, del procediment administratiu comú de les administracions públiques.</p><p> </p><p>El termini de presentació de sol·licituds és de 15 dies naturals, comptats a partir de l’endemà de la publicació de la convocatòria al BOPG. Les sol·licituds s’han de presentar mitjançant els models normalitzats i han d’anar acompanyades de la documentació establerta a l’article 9 de les Bases.</p><p> </p><p>Cinquè.- Procediment, resolució i pagament</p><p> </p><p>Les sol·licituds seran avaluades per una comissió d’avaluació, d’acord amb els criteris detallats a les bases.</p><p> </p><p>L’òrgan competent resoldrà la concessió de les subvencions en un termini màxim de 3 mesos des de la finalització del termini de presentació.</p><p> </p><p>La notificació del resultat es farà de manera individualitzada a cada sol·licitant, mitjançant una resolució que posarà fi a la via administrativa. Contra aquesta resolució es podrà interposar, amb caràcter potestatiu, recurs de reposició en el termini d’un mes, o bé recurs contenciós administratiu. Un cop dictada la resolució de concessió de les subvencions, i sense perjudici de la notificació individualitzada a cada sol·licitant, es farà pública la relació de subvencions atorgades mitjançant la seva publicació al tauler d’anuncis electrònic de l’Ajuntament de Santa Coloma de Farners, al Butlletí Oficial de la Província i a la Base de Dades Nacional de Subvencions (BDNS).</p><p> </p><p>La publicació inclourà la identificació de les entitats beneficiàries, la quantia atorgada i, si escau, la denegació o inadmissió de sol·licituds amb indicació del motiu. Aquesta publicació tindrà efectes de notificació general, d’acord amb el que estableix l’article 45 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques. El pagament s’efectuarà per transferència bancària.</p><p> </p><p>Sisè.- Justificació</p><p> </p><p>Els beneficiaris hauran de presentar la justificació de la subvenció abans del 30 de novembre de 2026, mitjançant la documentació establerta a les bases.</p><p> </p><p>Setè.- Altres qüestions</p><p> </p><p>La participació en aquesta convocatòria implica el coneixement i acceptació de les bases reguladores.</p>",
+        "url": "https://ssl4.ddgi.cat/bopV1/pdf/2026/83/20268303575.pdf",
+        "cve": null,
+        "desDiarioOficial": "B.O.P. DE GIRONA",
+        "datPublicacion": "2026-05-04"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

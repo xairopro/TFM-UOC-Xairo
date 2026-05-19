@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-901415",
+  "id_interno": 1102976,
+  "numero_convocatoria": "901415",
+  "organismo": "LOCAL — DIPUTACIÓN PROV. DE CÁCERES — DIPUTACIÓN PROVINCIAL DE CÁCERES",
+  "sede_electronica": "https://sede.dip-caceres.es/carpetaCiudadano/Init.do",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "SN a varias Mancomunidades de la Provincia para sufragar gastos de funcionamiento y/o de actividades a desarrollar durante 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades asociativas",
+  "regiones": "ES432 - Cáceres",
+  "finalidad": "Otras actuaciones de carácter económico",
+  "bases_reguladoras": "Presupuesto de la Diputación Provincial de Cáceres para 2026",
+  "url_bases_reguladoras": "https://transparencia.dip-caceres.es/informacion-economico-financiera/presupuestos/presupuesto/",
+  "presupuesto": "320.000,00 €",
+  "presupuesto_total_num": 320000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901415",
+  "text": "CONVOCATORIA BDNS Nº 901415\nOrganismo: LOCAL — DIPUTACIÓN PROV. DE CÁCERES — DIPUTACIÓN PROVINCIAL DE CÁCERES\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 320.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades asociativas\nRegiones: ES432 - Cáceres\nFinalidad: Otras actuaciones de carácter económico\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSN a varias Mancomunidades de la Provincia para sufragar gastos de funcionamiento y/o de actividades a desarrollar durante 2026\n\nBases reguladoras:\nPresupuesto de la Diputación Provincial de Cáceres para 2026\nURL bases reguladoras: https://transparencia.dip-caceres.es/informacion-economico-financiera/presupuestos/presupuesto/\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901415",
+  "_raw": {
+    "id": 1102976,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DIPUTACIÓN PROV. DE CÁCERES",
+      "nivel3": "DIPUTACIÓN PROVINCIAL DE CÁCERES"
+    },
+    "sedeElectronica": "https://sede.dip-caceres.es/carpetaCiudadano/Init.do",
+    "codigoBDNS": "901415",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 320000,
+    "mrr": false,
+    "descripcion": "SN a varias Mancomunidades de la Provincia para sufragar gastos de funcionamiento y/o de actividades a desarrollar durante 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades asociativas",
+        "codigo": "94"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES432 - Cáceres"
+      }
+    ],
+    "descripcionFinalidad": "Otras actuaciones de carácter económico",
+    "descripcionBasesReguladoras": "Presupuesto de la Diputación Provincial de Cáceres para 2026",
+    "urlBasesReguladoras": "https://transparencia.dip-caceres.es/informacion-economico-financiera/presupuestos/presupuesto/",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Sin plazo de solicitud",
+    "textFin": "Sin plazo de solicitud",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442235,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "220260007256.pdf",
+        "long": 391960,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

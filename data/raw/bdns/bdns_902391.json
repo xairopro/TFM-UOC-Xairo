@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902391",
+  "id_interno": 1103952,
+  "numero_convocatoria": "902391",
+  "organismo": "LOCAL — VALLADOLID — AYUNTAMIENTO DE VALLADOLID",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "PRÓRROGA DEL CONVENIO DE COLABORACIÓN ENTRE EL AYUNTAMIENTO DE VALLADOLID Y LA ASOCIACIÓN EYLO -EMPRENDIMIENTO, INNOVACIÓN, LIDERAZGO Y OPORTUNIDADES- PARA EL DESARROLLO DEL TALENTO EMPRENDEDOR A TRAVÉS DEL PROGRAMA TIMMIS.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "OTROS SERVICIOS",
+  "regiones": "ES418 - Valladolid",
+  "finalidad": "Fomento del Empleo",
+  "bases_reguladoras": "PLAN ESTRATEGICO DE SUBVENCIONES 2026-2028",
+  "url_bases_reguladoras": "https://www.valladolid.gob.es/en/tablonoficial/ ayuntamiento-valladolid-tablon-oficial/planestrategico- subvenciones-2026-2028",
+  "presupuesto": "30.000,00 €",
+  "presupuesto_total_num": 30000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902391",
+  "text": "CONVOCATORIA BDNS Nº 902391\nOrganismo: LOCAL — VALLADOLID — AYUNTAMIENTO DE VALLADOLID\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 30.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: OTROS SERVICIOS\nRegiones: ES418 - Valladolid\nFinalidad: Fomento del Empleo\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nPRÓRROGA DEL CONVENIO DE COLABORACIÓN ENTRE EL AYUNTAMIENTO DE VALLADOLID Y LA ASOCIACIÓN EYLO -EMPRENDIMIENTO, INNOVACIÓN, LIDERAZGO Y OPORTUNIDADES- PARA EL DESARROLLO DEL TALENTO EMPRENDEDOR A TRAVÉS DEL PROGRAMA TIMMIS.\n\nBases reguladoras:\nPLAN ESTRATEGICO DE SUBVENCIONES 2026-2028\nURL bases reguladoras: https://www.valladolid.gob.es/en/tablonoficial/ ayuntamiento-valladolid-tablon-oficial/planestrategico- subvenciones-2026-2028\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902391",
+  "_raw": {
+    "id": 1103952,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "VALLADOLID",
+      "nivel3": "AYUNTAMIENTO DE VALLADOLID"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902391",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 30000,
+    "mrr": false,
+    "descripcion": "PRÓRROGA DEL CONVENIO DE COLABORACIÓN ENTRE EL AYUNTAMIENTO DE VALLADOLID Y LA ASOCIACIÓN EYLO -EMPRENDIMIENTO, INNOVACIÓN, LIDERAZGO Y OPORTUNIDADES- PARA EL DESARROLLO DEL TALENTO EMPRENDEDOR A TRAVÉS DEL PROGRAMA TIMMIS.",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES418 - Valladolid"
+      }
+    ],
+    "descripcionFinalidad": "Fomento del Empleo",
+    "descripcionBasesReguladoras": "PLAN ESTRATEGICO DE SUBVENCIONES 2026-2028",
+    "urlBasesReguladoras": "https://www.valladolid.gob.es/en/tablonoficial/ ayuntamiento-valladolid-tablon-oficial/planestrategico- subvenciones-2026-2028",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Sin plazo de solicitud",
+    "textFin": "Sin plazo de solicitud",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445181,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "03_Memoria.pdf",
+        "long": 143056,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

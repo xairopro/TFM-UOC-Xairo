@@ -1,0 +1,154 @@
+{
+  "id": "BDNS-901448",
+  "id_interno": 1103009,
+  "numero_convocatoria": "901448",
+  "organismo": "LOCAL — ALCOBENDAS — AYUNTAMIENTO DE ALCOBENDAS",
+  "sede_electronica": "www.alcobendas.org",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Subvenciones en concurrencia competitiva para el Impulso del sector de turismo en Alcobendas. (comercio, pequeñas empresas y autónomos)",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades auxiliares del transporte, Actividades de bibliotecas, archivos, museos y otras actividades culturales, Actividades de jardinería, Actividades de limpieza, Actividades de publicidad, estudios de mercado y relaciones públicas, Actividades deportivas, recreativas y de entretenimiento, Alquiler de vehículos de motor, Comercio al por menor, Infraestructura informática, tratamiento de datos, alojamiento de datos y otras actividades de servicios de información, Organización de convenciones y ferias de muestras, Servicios de alojamiento, Servicios de comidas y bebidas, Servicios personales, Telecomunicaciones",
+  "regiones": "ES30 - COMUNIDAD DE MADRID",
+  "finalidad": "Comercio, Turismo y Pymes",
+  "bases_reguladoras": "BASES REGULADORAS PARA LA OCNCESIÓN DE SUBVENCIONES EN  MATERIA DE DESARROLLO ECONÓMICO, FOMENTO DEL EMPLEO Y COMERCIO",
+  "url_bases_reguladoras": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.alcobendas.org/sites/default/files/2021-01/Ordenanza%20de%20las%20bases%20reguladoras%20generales%20para%20la%20concesi%C3%B3n%20de%20subvenciones%20en%20materia%20de%20desarrollo%20econ%C3%B3mico%2C%20fomento%20del%20empleo%20y%20comercio.pdf",
+  "presupuesto": "285.000,00 €",
+  "presupuesto_total_num": 285000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901448",
+  "text": "CONVOCATORIA BDNS Nº 901448\nOrganismo: LOCAL — ALCOBENDAS — AYUNTAMIENTO DE ALCOBENDAS\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 285.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades auxiliares del transporte, Actividades de bibliotecas, archivos, museos y otras actividades culturales, Actividades de jardinería, Actividades de limpieza, Actividades de publicidad, estudios de mercado y relaciones públicas, Actividades deportivas, recreativas y de entretenimiento, Alquiler de vehículos de motor, Comercio al por menor, Infraestructura informática, tratamiento de datos, alojamiento de datos y otras actividades de servicios de información, Organización de convenciones y ferias de muestras, Servicios de alojamiento, Servicios de comidas y bebidas, Servicios personales, Telecomunicaciones\nRegiones: ES30 - COMUNIDAD DE MADRID\nFinalidad: Comercio, Turismo y Pymes\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSubvenciones en concurrencia competitiva para el Impulso del sector de turismo en Alcobendas. (comercio, pequeñas empresas y autónomos)\n\nBases reguladoras:\nBASES REGULADORAS PARA LA OCNCESIÓN DE SUBVENCIONES EN  MATERIA DE DESARROLLO ECONÓMICO, FOMENTO DEL EMPLEO Y COMERCIO\nURL bases reguladoras: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.alcobendas.org/sites/default/files/2021-01/Ordenanza%20de%20las%20bases%20reguladoras%20generales%20para%20la%20concesi%C3%B3n%20de%20subvenciones%20en%20materia%20de%20desarrollo%20econ%C3%B3mico%2C%20fomento%20del%20empleo%20y%20comercio.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901448",
+  "_raw": {
+    "id": 1103009,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "ALCOBENDAS",
+      "nivel3": "AYUNTAMIENTO DE ALCOBENDAS"
+    },
+    "sedeElectronica": "www.alcobendas.org",
+    "codigoBDNS": "901448",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 285000,
+    "mrr": false,
+    "descripcion": "Subvenciones en concurrencia competitiva para el Impulso del sector de turismo en Alcobendas. (comercio, pequeñas empresas y autónomos)",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades auxiliares del transporte",
+        "codigo": "52.2"
+      },
+      {
+        "descripcion": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+        "codigo": "91"
+      },
+      {
+        "descripcion": "Actividades de jardinería",
+        "codigo": "81.3"
+      },
+      {
+        "descripcion": "Actividades de limpieza",
+        "codigo": "81.2"
+      },
+      {
+        "descripcion": "Actividades de publicidad, estudios de mercado y relaciones públicas ",
+        "codigo": "73"
+      },
+      {
+        "descripcion": "Actividades deportivas, recreativas y de entretenimiento",
+        "codigo": "93"
+      },
+      {
+        "descripcion": "Alquiler de vehículos de motor",
+        "codigo": "77.1"
+      },
+      {
+        "descripcion": "Comercio al por menor",
+        "codigo": "47"
+      },
+      {
+        "descripcion": "Infraestructura informática, tratamiento de datos, alojamiento de datos y otras actividades de servicios de información",
+        "codigo": "63"
+      },
+      {
+        "descripcion": "Organización de convenciones y ferias de muestras",
+        "codigo": "82.3"
+      },
+      {
+        "descripcion": "Servicios de alojamiento",
+        "codigo": "55"
+      },
+      {
+        "descripcion": "Servicios de comidas y bebidas",
+        "codigo": "56"
+      },
+      {
+        "descripcion": "Servicios personales",
+        "codigo": "96"
+      },
+      {
+        "descripcion": "Telecomunicaciones",
+        "codigo": "61"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES30 - COMUNIDAD DE MADRID"
+      }
+    ],
+    "descripcionFinalidad": "Comercio, Turismo y Pymes",
+    "descripcionBasesReguladoras": "BASES REGULADORAS PARA LA OCNCESIÓN DE SUBVENCIONES EN  MATERIA DE DESARROLLO ECONÓMICO, FOMENTO DEL EMPLEO Y COMERCIO",
+    "urlBasesReguladoras": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.alcobendas.org/sites/default/files/2021-01/Ordenanza%20de%20las%20bases%20reguladoras%20generales%20para%20la%20concesi%C3%B3n%20de%20subvenciones%20en%20materia%20de%20desarrollo%20econ%C3%B3mico%2C%20fomento%20del%20empleo%20y%20comercio.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "El día siguiente de su publicación en el BOCAM",
+    "textFin": "20 días naturales desde el día siguiente a su publicación en el BOCAM",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442331,
+        "descripcion": "Modelo de Extracto de la convocatoria",
+        "nombreFic": "Modelo de Extracto de la convocatoria.PDF",
+        "long": 166804,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442330,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "DECRETO CONVOCATORIA.PDF",
+        "long": 1145667,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

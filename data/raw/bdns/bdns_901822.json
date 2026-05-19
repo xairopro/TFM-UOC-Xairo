@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-901822",
+  "id_interno": 1103383,
+  "numero_convocatoria": "901822",
+  "organismo": "LOCAL — NOÁIN (VALLE DE ELORZ)/NOAIN (ELORTZIBAR) — AYUNTAMIENTO DE NOÁIN (VALLE DE ELORZ)/NOAIN (ELORTZIBAR)",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "2026-04-21",
+  "fecha_fin_solicitud": "2026-12-31",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA DE SUBVENCIONES PARA FOMENTO DEL AUTOEMPLEO AÑO 2026 DEL AYUNTAMIENTO DEL VALLE DE ELORZ",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Prestación de servicios a la comunidad en general",
+  "regiones": "ES220 - Navarra",
+  "finalidad": "Fomento del Empleo",
+  "bases_reguladoras": "CONVOCATORIA DE SUBVENCIONES PARA FOMENTO DEL AUTOEMPLEO AÑO 2026 DEL AYUNTAMIENTO DEL VALLE DE ELORZ\n",
+  "url_bases_reguladoras": "www.noain.es",
+  "presupuesto": "14.000,00 €",
+  "presupuesto_total_num": 14000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901822",
+  "text": "CONVOCATORIA BDNS Nº 901822\nOrganismo: LOCAL — NOÁIN (VALLE DE ELORZ)/NOAIN (ELORTZIBAR) — AYUNTAMIENTO DE NOÁIN (VALLE DE ELORZ)/NOAIN (ELORTZIBAR)\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud: 2026-04-21 → 2026-12-31 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 14.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Prestación de servicios a la comunidad en general\nRegiones: ES220 - Navarra\nFinalidad: Fomento del Empleo\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA DE SUBVENCIONES PARA FOMENTO DEL AUTOEMPLEO AÑO 2026 DEL AYUNTAMIENTO DEL VALLE DE ELORZ\n\nBases reguladoras:\nCONVOCATORIA DE SUBVENCIONES PARA FOMENTO DEL AUTOEMPLEO AÑO 2026 DEL AYUNTAMIENTO DEL VALLE DE ELORZ\n\nURL bases reguladoras: www.noain.es\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901822",
+  "_raw": {
+    "id": 1103383,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "NOÁIN (VALLE DE ELORZ)/NOAIN (ELORTZIBAR)",
+      "nivel3": "AYUNTAMIENTO DE NOÁIN (VALLE DE ELORZ)/NOAIN (ELORTZIBAR)"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901822",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 14000,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA DE SUBVENCIONES PARA FOMENTO DEL AUTOEMPLEO AÑO 2026 DEL AYUNTAMIENTO DEL VALLE DE ELORZ\n",
+    "descripcionLeng": "CONVOCATORIA DE SUBVENCIONES PARA FOMENTO DEL AUTOEMPLEO AÑO 2026 DEL AYUNTAMIENTO DEL VALLE DE ELORZ",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Prestación de servicios a la comunidad en general",
+        "codigo": "84.2"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES220 - Navarra"
+      }
+    ],
+    "descripcionFinalidad": "Fomento del Empleo",
+    "descripcionBasesReguladoras": "CONVOCATORIA DE SUBVENCIONES PARA FOMENTO DEL AUTOEMPLEO AÑO 2026 DEL AYUNTAMIENTO DEL VALLE DE ELORZ\n",
+    "urlBasesReguladoras": "www.noain.es",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-04-21",
+    "fechaFinSolicitud": "2026-12-31",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443499,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "20260422_Otros_Publicación anuncio Convocatoria subvenciones fomento AUTOEMPLEO 2026-1.pdf",
+        "long": 437838,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

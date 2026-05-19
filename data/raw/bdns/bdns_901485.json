@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-901485",
+  "id_interno": 1103046,
+  "numero_convocatoria": "901485",
+  "organismo": "LOCAL — CALP — AYUNTAMIENTO DE CALP",
+  "sede_electronica": "https://calp.sedelectronica.es/dossier.0",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "2026-09-11",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA DE AYUDAS AL ALQUILER DE VIVIENDA HABITUAL A JÓVENES CON POCOS RECURSOS ECONÓMICOS (LLOGUER JOVE) EN CALP, ANUALIDAD 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+  "regiones": "ES521 - Alicante / Alacant",
+  "finalidad": "Servicios Sociales y Promoción Social",
+  "bases_reguladoras": "Bases reguladoras concesión ayudas alquiler vivienda habitual a jóvenes con pocos recursos económicos en Calp (LLOGUER JOVE) BOP nº 158 de 21 de agosto de 2025.",
+  "url_bases_reguladoras": "https://www.dip-alicante.es/bop2/pdftotal/2025/08/21_158/2025_006142.pdf",
+  "presupuesto": "34.715,94 €",
+  "presupuesto_total_num": 34715.94,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901485",
+  "text": "CONVOCATORIA BDNS Nº 901485\nOrganismo: LOCAL — CALP — AYUNTAMIENTO DE CALP\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  → 2026-09-11 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 34.715,94 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES\nRegiones: ES521 - Alicante / Alacant\nFinalidad: Servicios Sociales y Promoción Social\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA DE AYUDAS AL ALQUILER DE VIVIENDA HABITUAL A JÓVENES CON POCOS RECURSOS ECONÓMICOS (LLOGUER JOVE) EN CALP, ANUALIDAD 2026\n\nBases reguladoras:\nBases reguladoras concesión ayudas alquiler vivienda habitual a jóvenes con pocos recursos económicos en Calp (LLOGUER JOVE) BOP nº 158 de 21 de agosto de 2025.\nURL bases reguladoras: https://www.dip-alicante.es/bop2/pdftotal/2025/08/21_158/2025_006142.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901485",
+  "_raw": {
+    "id": 1103046,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "CALP",
+      "nivel3": "AYUNTAMIENTO DE CALP"
+    },
+    "sedeElectronica": "https://calp.sedelectronica.es/dossier.0",
+    "codigoBDNS": "901485",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 34715.94,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA DE AYUDAS AL ALQUILER DE VIVIENDA HABITUAL A JÓVENES CON POCOS RECURSOS ECONÓMICOS (LLOGUER JOVE) EN CALP, ANUALIDAD 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+        "codigo": "R"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES521 - Alicante / Alacant"
+      }
+    ],
+    "descripcionFinalidad": "Servicios Sociales y Promoción Social",
+    "descripcionBasesReguladoras": "Bases reguladoras concesión ayudas alquiler vivienda habitual a jóvenes con pocos recursos económicos en Calp (LLOGUER JOVE) BOP nº 158 de 21 de agosto de 2025.",
+    "urlBasesReguladoras": "https://www.dip-alicante.es/bop2/pdftotal/2025/08/21_158/2025_006142.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": "2026-09-11",
+    "textInicio": "Día posterior a la publicación de la convocatoria en el BOP",
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442374,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "DECRETO TA07 2026-0088.pdf",
+        "long": 1546389,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

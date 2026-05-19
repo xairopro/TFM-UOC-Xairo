@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-901602",
+  "id_interno": 1103163,
+  "numero_convocatoria": "901602",
+  "organismo": "LOCAL — PALMAS DE GRAN CANARIA, LAS — AYUNTAMIENTO DE LAS PALMAS DE GRAN CANARIA",
+  "sede_electronica": "GESTOR DE SUBVENCIONES DEL IMD: https://imdsubvenciones.laspalmasgc.es/portal_subvenciones/modules.php?mod=portal&file=index",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "2026-02-05",
+  "fecha_fin_solicitud": "2026-02-19",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "RES 174,23/04/26, DE LA PRESIDENCIA DEL IMD, POR LA QUE SE RESUELVE CONCEDER LA SUBV NOMINATIVA DESTINADA A LA ENTIDAD UNIÓN DEPORTIVA TABURIENTE POR SU PARTICIPACION EN COMPETICION O/ES OFICIALES",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades deportivas, recreativas y de entretenimiento",
+  "regiones": "ES705 - Gran Canaria",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "RES 174,23/04/26, DE LA PRESIDENCIA DEL IMD, POR LA QUE SE RESUELVE CONCEDER LA SUBV NOMINATIVA DESTINADA A LA ENTIDAD UNIÓN DEPORTIVA TABURIENTE POR SU PARTICIPACION EN COMPETICION O/ES OFICIALES",
+  "url_bases_reguladoras": "https://deporteslaspalmasgc.com",
+  "presupuesto": "100.000,00 €",
+  "presupuesto_total_num": 100000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901602",
+  "text": "CONVOCATORIA BDNS Nº 901602\nOrganismo: LOCAL — PALMAS DE GRAN CANARIA, LAS — AYUNTAMIENTO DE LAS PALMAS DE GRAN CANARIA\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud: 2026-02-05 → 2026-02-19 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 100.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades deportivas, recreativas y de entretenimiento\nRegiones: ES705 - Gran Canaria\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nRES 174,23/04/26, DE LA PRESIDENCIA DEL IMD, POR LA QUE SE RESUELVE CONCEDER LA SUBV NOMINATIVA DESTINADA A LA ENTIDAD UNIÓN DEPORTIVA TABURIENTE POR SU PARTICIPACION EN COMPETICION O/ES OFICIALES\n\nBases reguladoras:\nRES 174,23/04/26, DE LA PRESIDENCIA DEL IMD, POR LA QUE SE RESUELVE CONCEDER LA SUBV NOMINATIVA DESTINADA A LA ENTIDAD UNIÓN DEPORTIVA TABURIENTE POR SU PARTICIPACION EN COMPETICION O/ES OFICIALES\nURL bases reguladoras: https://deporteslaspalmasgc.com\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901602",
+  "_raw": {
+    "id": 1103163,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "PALMAS DE GRAN CANARIA, LAS",
+      "nivel3": "AYUNTAMIENTO DE LAS PALMAS DE GRAN CANARIA"
+    },
+    "sedeElectronica": "GESTOR DE SUBVENCIONES DEL IMD: https://imdsubvenciones.laspalmasgc.es/portal_subvenciones/modules.php?mod=portal&file=index",
+    "codigoBDNS": "901602",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 100000,
+    "mrr": false,
+    "descripcion": "RES 174,23/04/26, DE LA PRESIDENCIA DEL IMD, POR LA QUE SE RESUELVE CONCEDER LA SUBV NOMINATIVA DESTINADA A LA ENTIDAD UNIÓN DEPORTIVA TABURIENTE POR SU PARTICIPACION EN COMPETICION O/ES OFICIALES",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades deportivas, recreativas y de entretenimiento",
+        "codigo": "93"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES705 - Gran Canaria"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "RES 174,23/04/26, DE LA PRESIDENCIA DEL IMD, POR LA QUE SE RESUELVE CONCEDER LA SUBV NOMINATIVA DESTINADA A LA ENTIDAD UNIÓN DEPORTIVA TABURIENTE POR SU PARTICIPACION EN COMPETICION O/ES OFICIALES",
+    "urlBasesReguladoras": "https://deporteslaspalmasgc.com",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-02-05",
+    "fechaFinSolicitud": "2026-02-19",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442788,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "17 RES. CONC. 174-2026 UD TABURIENTE 23.04.2026.pdf",
+        "long": 558291,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

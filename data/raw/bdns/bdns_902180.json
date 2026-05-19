@@ -1,0 +1,114 @@
+{
+  "id": "BDNS-902180",
+  "id_interno": 1103741,
+  "numero_convocatoria": "902180",
+  "organismo": "LOCAL — DIPUTACIÓN PROV. DE OURENSE — DIPUTACIÓN PROVINCIAL DE OURENSE",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "2026-04-30",
+  "fecha_fin_solicitud": "2026-06-08",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA DEL CONCURSO PÚBLICO PARA LA CONCESIÓN DE SUBVENCIONES A AYUNTAMIENTOS DE LA PROVINCIA DE OURENSE DE MENOS DE 5.000 HABITANTES, PARA LA CONFECCIÓN DE CARTOGRAFÍA DIGITAL DEL CALLEJERO MUNICIPAL Y ELABORACIÓN Y COLOCACIÓN DE PLACAS DE IDENTIFI",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Fabricación de otros productos metálicos",
+  "regiones": "ES113 - Ourense",
+  "finalidad": "Acceso a la vivienda y fomento de la edificación",
+  "bases_reguladoras": "CONVOCATORIA DEL CONCURSO PÚBLICO PARA LA CONCESIÓN DE SUBVENCIONES A AYUNTAMIENTOS DE LA PROVINCIA DE OURENSE DE MENOS DE 5.000 HABITANTES, PARA LA CONFECCIÓN DE CARTOGRAFÍA DIGITAL DEL CALLEJERO MUNICIPAL Y ELABORACIÓN Y COLOC",
+  "url_bases_reguladoras": "https://www.depourense.gal/es/servizos/subvencions/relacion-concursos",
+  "presupuesto": "100.000,00 €",
+  "presupuesto_total_num": 100000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902180",
+  "text": "CONVOCATORIA BDNS Nº 902180\nOrganismo: LOCAL — DIPUTACIÓN PROV. DE OURENSE — DIPUTACIÓN PROVINCIAL DE OURENSE\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud: 2026-04-30 → 2026-06-08 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 100.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Fabricación de otros productos metálicos\nRegiones: ES113 - Ourense\nFinalidad: Acceso a la vivienda y fomento de la edificación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA DEL CONCURSO PÚBLICO PARA LA CONCESIÓN DE SUBVENCIONES A AYUNTAMIENTOS DE LA PROVINCIA DE OURENSE DE MENOS DE 5.000 HABITANTES, PARA LA CONFECCIÓN DE CARTOGRAFÍA DIGITAL DEL CALLEJERO MUNICIPAL Y ELABORACIÓN Y COLOCACIÓN DE PLACAS DE IDENTIFI\n\nBases reguladoras:\nCONVOCATORIA DEL CONCURSO PÚBLICO PARA LA CONCESIÓN DE SUBVENCIONES A AYUNTAMIENTOS DE LA PROVINCIA DE OURENSE DE MENOS DE 5.000 HABITANTES, PARA LA CONFECCIÓN DE CARTOGRAFÍA DIGITAL DEL CALLEJERO MUNICIPAL Y ELABORACIÓN Y COLOC\nURL bases reguladoras: https://www.depourense.gal/es/servizos/subvencions/relacion-concursos\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902180",
+  "_raw": {
+    "id": 1103741,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DIPUTACIÓN PROV. DE OURENSE",
+      "nivel3": "DIPUTACIÓN PROVINCIAL DE OURENSE"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902180",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 100000,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA DEL CONCURSO PÚBLICO PARA LA CONCESIÓN DE SUBVENCIONES A AYUNTAMIENTOS DE LA PROVINCIA DE OURENSE DE MENOS DE 5.000 HABITANTES, PARA LA CONFECCIÓN DE CARTOGRAFÍA DIGITAL DEL CALLEJERO MUNICIPAL Y ELABORACIÓN Y COLOCACIÓN DE PLACAS DE IDENTIFI",
+    "descripcionLeng": "CONVOCATORIA DO CONCURSO PÚBLICO PARA A CONCESIÓN DE SUBVENCIÓNS A CONCELLOS DA PROVINCIA DE OURENSE DE MENOS DE 5.000 HABITANTES, PARA A CONFECCIÓN DE CARTOGRAFÍA DIXITAL DO RUEIRO MUNICIPAL E ELABORACIÓN E COLOCACIÓN DE PLACAS DE IDENTIFICACIÓN, CORRESP",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Fabricación de otros productos metálicos",
+        "codigo": "25.9"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES113 - Ourense"
+      }
+    ],
+    "descripcionFinalidad": "Acceso a la vivienda y fomento de la edificación",
+    "descripcionBasesReguladoras": "CONVOCATORIA DEL CONCURSO PÚBLICO PARA LA CONCESIÓN DE SUBVENCIONES A AYUNTAMIENTOS DE LA PROVINCIA DE OURENSE DE MENOS DE 5.000 HABITANTES, PARA LA CONFECCIÓN DE CARTOGRAFÍA DIGITAL DEL CALLEJERO MUNICIPAL Y ELABORACIÓN Y COLOC",
+    "urlBasesReguladoras": "https://www.depourense.gal/es/servizos/subvencions/relacion-concursos",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-04-30",
+    "fechaFinSolicitud": "2026-06-08",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444388,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "Anuncio bases concurso rueiros municipais 2026 (galego).docx.DOCX",
+        "long": 41512,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444387,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Anuncio bases concurso rueiros municipais 2026 (castellano).docx.DOCX",
+        "long": 43359,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210360,
+        "titulo": "extracto de la convocatoria del concurso público para la concesión de subvenciones a ayuntamientos de la provincia de Ourense de menos de 5.000 habitantes, para la confección de cartografía digital del callejero municipal y elaboración y colocación de placas de identificación, correspondientes al ejercicio 2026",
+        "tituloLeng": "extracto da convocatoria do concurso público para a concesión de subvencións a concellos de menos de 5.000 habitantes, mediante convocatoria pública e a través do procedemento de concorrencia  non competitiva, coa finalidade de colaborar economicamente  na confección de cartografía dixital do rueiro municipal, así como a elaboración e colocación de placas de identificación coa numeración do rueiro, no exercicio 2026",
+        "texto": "<p>De conformidad con lo  previsto en los artículos 17.3.b e 20.8.a de la Ley 38/2003, de 17 de noviembre, General de Subvenciones,  se publica el extracto de la convocatoria del concurso público para la concesión de subvenciones a ayuntamientos de la provincia de Ourense de menos de 5.000 habitantes, para la confección de cartografía digital del callejero municipal y elaboración y colocación de placas de identificación, correspondientes al ejercicio 2026, cuyo texto completo se puede consultar en la Base de Datos Nacional de Subvenciones (http://www.pap.minhap.gob.es/bdnstrans/index):\nPrimero. Beneficiarios:\nPodrán ser beneficiarios de las subvenciones concedidas al amparo de esta convocatoria, los ayuntamientos de la provincia de Ourense de menos de 5.000 habitantes.\nSegundo. Objeto:\nEl objeto de estas bases es la regulación de la tramitación y concesión, por parte de la Diputación Provincial de Ourense, de subvenciones a ayuntamientos de menos de 5.000 habitantes, mediante convocatoria pública y a través del procedimiento de concurrencia  no competitiva, con la finalidad de colaborar económicamente  en la confección de cartografía digital del callejero municipal, así como la elaboración y colocación de placas de identificación con la numeración del callejero, en el ejercicio 2026.\nTercero. Bases reguladoras:\nAcuerdo de la Junta de Gobierno de 27 de abril de 2026 por el que  se establecen las bases reguladoras y se anuncia la convocatoria del concurso público para la concesión de subvenciones a ayuntamientos de la provincia de Ourense de menos de 5.000 habitantes, para la confección de cartografía digital del callejero municipal y elaboración y colocación de placas de identificación, correspondientes al ejercicio 2026.\nCuarto. Importe y partida presupuestaria:\nLa cuantía de las subvenciones objeto de esta convocatoria consistirá en un porcentaje del presupuesto del proyecto seleccionado, pudiendo alcanzar, como máximo, el 50% del coste total del proyecto. \nSin perjuicio del anterior, ningún beneficiario podrá obtener, al amparo de esta convocatoria, subvención por importe superior la 10.000,00 €.\nLa financiación de las subvenciones reguladas en esta convocatoria se realizará con cargo a la aplicación 45012/46221, hasta el agotamiento del crédito presupuestario.\nLa cuantía máxima disponible para la concesión de estas subvenciones es de cien mil euros (100.000,00 euros).\nQuinto. Plazo de presentación de solicitudes:\nO prazo improrrogable de presentación iniciarase o día 8 de maio de 2026, a partir das 08:00 horas, e rematará o 8 de xuño de 2026 ás 23:59 horas, sendo este o derradeiro día e hora no que poderán presentarse validamente as solicitudes. \nAs solicitudes presentadas antes ou despois das datas e horas indicadas nesta base, consideraranse presentadas de forma extemporánea e, en consecuencia, serán inadmitidas a trámite.</p>",
+        "textoLeng": "<p>De conformidade co  previsto nos artigos 17.3.b e 20.8.a da Lei 38/2003, de 17 de noviembro, xeral de subvencións,  publícase o extracto da convocatoria do concurso público para a concesión de subvencións a concellos de menos de 5.000 habitantes, mediante convocatoria pública e a través do procedemento de concorrencia  non competitiva, coa finalidade de colaborar economicamente  na confección de cartografía dixital do rueiro municipal, así como a elaboración e colocación de placas de identificación coa numeración do rueiro, no exercicio 2026, cuxo texto completo se pode consultar na Base de Datos Nacional de Subvencións (http://www.pap.minhap.gob.es/bdnstrans/index):\nPrimerio. Beneficiarios:\nPoderán ser beneficiarios das subvencións concedidas ao abeiro desta convocatoria,   os concellos da provincia de Ourense de menos de 5.000 habitantes .\nSegundo. Obxecto:\nO obxecto destas bases é a regulación da tramitación e concesión, por parte da Deputación Provincial de Ourense, de subvencións a concellos de menos de 5.000 habitantes, mediante convocatoria pública e a través do procedemento de concorrencia  non competitiva, coa finalidade de colaborar economicamente  na confección de cartografía dixital do rueiro municipal, así como a elaboración e colocación de placas de identificación coa numeración do rueiro, no exercicio 2026.\nTerceiro. Bases reguladoras:\nAcordo da Xunta de Goberno de 27 de abril de 2026 polo que  se establecen as bases reguladoras e se anuncia a convocatoria do concurso público para a concesión de subvencións a concellos da provincia de Ourense de menos de 5.000 habitantes, para a confección de cartografía dixital do Rueiro Municipal e elaboración e colocación de placas de identificación, correspondentes ao exercicio 2026.\nCuarto. Importe e dispoñibilidade orzamentaria:\nA contía das subvencións obxecto desta convocatoria consistirá nunha porcentaxe do orzamento dos proxectos seleccionados, podendo acadar, como máximo, o 50% do custo total de cada proxecto. \nSen prexuízo do anterior, ningún beneficiario poderá obter, ao abeiro desta convocatoria, subvención por importe superior a 10.000 €. \n\nO financiamento das subvencións reguladas nesta convocatoria realizarase con cargo á aplicación 45012/46221, ata o esgotamento do crédito orzamentario.\nA contía máxima dispoñible para a concesión destas subvencións é de cen mil euros (100.000,00 euros).\nQuinto. Prazo de presentación de solicitudes:\nO prazo improrrogable de presentación iniciarase o día 8 de maio de 2026, a partir das 08:00 horas, e rematará o 8 de xuño de 2026 ás 23:59 horas, sendo este o derradeiro día e hora no que poderán presentarse validamente as solicitudes. \nAs solicitudes presentadas antes ou despois das datas e horas indicadas nesta base, consideraranse presentadas de forma extemporánea e, en consecuencia, serán inadmitidas a trámite.</p>",
+        "url": null,
+        "cve": null,
+        "desDiarioOficial": "B.O.P. DE OURENSE",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

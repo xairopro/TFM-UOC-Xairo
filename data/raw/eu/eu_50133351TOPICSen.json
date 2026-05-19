@@ -1,0 +1,179 @@
+{
+  "id": "EU-50133351TOPICSen",
+  "topic_id": "50133351TOPICSen",
+  "titulo": "Hop-On Facility",
+  "descripcion": "Hop-On Facility",
+  "organismo": "43108390",
+  "fecha_publicacion": "2026-01-13",
+  "fecha_limite": "2026-09-24",
+  "deadlines_todas": "2026-09-24",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"112977\":[{\"action\":\"HORIZON-WIDERA-2026-03-WIDENING-01 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":60,\"minContribution\":200000,\"maxContribution\":600000,\"budgetYearMap\":{\"2026\":\"30000000\"},\"plannedOpeningDate\":\"2026-01-13\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-24\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "HORIZON  Research and Innovation Actions",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-WIDERA-2026-03-WIDENING-01",
+  "text": "EU FUNDING & TENDERS – Topic: 50133351TOPICSen\nProgramme/Organism: 43108390\nTitle: Hop-On Facility\nStatus: Open (31094502)\nType of action: HORIZON  Research and Innovation Actions\nOpening date: 2026-01-13\nDeadline: 2026-09-24\nAll deadlines: 2026-09-24\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"112977\":[{\"action\":\"HORIZON-WIDERA-2026-03-WIDENING-01 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":60,\"minContribution\":200000,\"maxContribution\":600000,\"budgetYearMap\":{\"2026\":\"30000000\"},\"plannedOpeningDate\":\"2026-01-13\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-24\"]}]}}\n\nDescription / Scope:\nHop-On Facility\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-WIDERA-2026-03-WIDENING-01",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "50133351TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-WIDERA-2026-03-WIDENING-01",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Hop-On Facility",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Hop-On Facility",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "AC99A279B793BC9AB2393F2FFE817DFA5D93257D112A99D4CE05A880FE410854",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-01-20T14:20:17.608\",\"content\":\"\\u003cp\\u003eAs defined in the Horizon Europe regulation the so-called \\u003cu\\u003ewidening countries Member States\\u0026#xa0;\\u003c/u\\u003eare Bulgaria, Croatia, Cyprus, Czechia, Estonia, Greece, Hungary, Latvia, Lithuania, Malta, Poland, Portugal, Romania, Slovakia and Slovenia.\\u003c/p\\u003e\\u003cp\\u003eThe\\u0026#xa0;\\u003cu\\u003ewidening Associated countries\\u003c/u\\u003e* (on condition of an association agreement) are\\u0026#xa0;Albania, Armenia, Bosnia and Herzegovina, Faroe Islands, Georgia, Kosovo, Moldova, Montenegro, Morocco, North Macedonia, Serbia, Tunisia, Turkey, Ukraine.\\u003c/p\\u003e\\u003cp\\u003eThe widening\\u0026#xa0;\\u003cu\\u003eoutermost regions\\u003c/u\\u003e\\u0026#xa0;are\\u0026#xa0;(as defined in\\u0026#xa0;\\u003ca href\\u003d\\\"https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri\\u003dCELEX:12012E/TXT\\u0026amp;from\\u003dEN\\\" rel\\u003d\\\"noopener noreferrer\\\" target\\u003d\\\"_blank\\\"\\u003eArt. 349 TFEU\\u003c/a\\u003e): Guadeloupe, French Guiana, Martinique, Réunion, Mayotte Saint-Martin, The Azores, Madeira, Canary Islands.\\u003c/p\\u003e\\u003cp\\u003e*For an updated list of widening Associated countries with applicable association agreements in place, please\\u0026#xa0;consider to regularly visit the official European Commission related page for\\u0026#xa0;\\u003ca href\\u003d\\\"https://ec.europa.eu/info/news/updates-association-third-countries-horizon-europe_en\\\" rel\\u003d\\\"noopener noreferrer\\\" target\\u003d\\\"_blank\\\"\\u003eUpdates on the association of third countries to Horizon Europe | European Commission (europa.eu)\\u003c/a\\u003e\\u003c/p\\u003e\\u003cp\\u003e*************\\u003c/p\\u003e\\u003cp\\u003ePlease, find below the link to the list of funded projects under Horizon Europe Pillar 2 and EIC Pathfinder.\\u003c/p\\u003e\\u003cp\\u003eThis list is purely indicative and does not give legally binding information on the eligibility for participation in the “Hop-on Facility call”.\\u003c/p\\u003e\\u003cp\\u003e\\u0026#xa0;\\u003ca href\\u003d\\\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/horizon/hop-on\\\" rel\\u003d\\\"noopener noreferrer\\\" target\\u003d\\\"_blank\\\"\\u003eList of funded projects under Horizon Europe pillar 2 and the EIC Pathfinder (europa.eu)\\u003c/a\\u003e\\u003c/p\\u003e\\u003cp\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-01-13T00:01:00.617\",\"content\":\"The submission session is now available for: HORIZON-WIDERA-2026-03-WIDENING-01\"}]"
+      ],
+      "es_SortDate": [
+        "2026-01-13T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "HORIZON-WIDERA-2026-03-WIDENING-01",
+        "HORIZON-WIDERA-2026-03"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p><strong><em>﻿</em></strong>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex A</a> and <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex E</a> of the Horizon Europe Work Programme General Annexes.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p>A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a>.</p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>The following additional eligibility criteria apply:</p><p>1. The proposal must include only:</p><ul level=\"0\"><li>One legal entity, as a beneficiary, established in a Widening country.</li><li>One legal entity which is the coordinator of an ‘eligible already funded action'.</li> </ul><p>2. The proposal must be submitted by the coordinator of the ‘eligible already funded action’. No more than 10% of the maximum grant amount can be allocated to the coordinator as a coordination fee for the integration of the new widening beneficiary. No less than 90% of the max grant amount must be allocated to the widening beneficiary.</p><p>An ‘eligible already funded action’ refers to an action stemming from a Horizon Europe grant agreement that also meets the following conditions:</p><ol level=\"0\">  <li>No legal entity established in a Widening country is already a beneficiary, affiliated entity or associated partner in the Horizon Europe grant agreement.</li><li>At the time of submission of the proposal (and for any grant agreement signature), the granting authority of the Horizon Europe grant agreement is the European Commission or an Executive Agency.</li><li>The Horizon Europe grant agreement was awarded to Horizon Pillar II ‘main’ Work Programme or EIC Pathfinder collaborative R&amp;I actions.</li><li>The first reporting period of the Horizon Europe grant agreement is ongoing at the submission deadline. Furthermore, the ongoing grant agreement is between 1 to 12 months from its starting date by the submission deadline.</li> </ol></div><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex C</a> of the Work Programme General Annexes.</p></div></div><div><h4>5a. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>In the first place, ex-aequo proposals will be prioritised according to geographical diversity criteria, defined as proposals with the additional beneficiary established in a Widening country, not otherwise represented as a beneficiary higher up the ranking list. The method described in Points 1), 2), 3) and 5) of General Annexes Part F (Procedure/Evaluation procedure and ranking) will then be applied to the remaining equally ranking proposals in the group. This rule establishing the priority order serves to better spread the impact of the action and to strengthen the efficiency of the ‘Widening participation and strengthening the European Research Area’ programme.</p><p>If the proposal is successful, the next stage of the procedure will be a grant agreement amendment preparation.</p><p>If the outcome of amendment preparations is an award decision, the coordinator of the consortium of the eligible already funded action will be invited to submit an amendment to the grant agreement, on behalf of the beneficiaries.</p></div><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex D</a> of the Work Programme General Annexes.</p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex G</a> of the Work Programme General Annexes.</p></div></div></div><div class=\"eui-u-mt-l\"><h4>Specific conditions</h4> <div class=\"eui-u-mt-s\"><p>described in the specific topic of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-11-widening-participation-and-strengthening-the-european-research-area_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Work Programme </a></p></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Application and evaluation forms and model grant agreement (MGA):</h4> <div class=\"eui-u-mt-s\"><p><strong>Application form templates</strong> <em>— the application form specific to this call is available in the Submission System</em></p><p><strong>Evaluation form templates</strong> <em>— will be used with the necessary adaptations</em> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/ef/ef_he-ria-ia_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard evaluation form (HE RIA, IA)</a>&#xa0;</p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a>&#xa0;</p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE MGA</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/agr-contr/unit-mga_he_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Unit MGA</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/ls-mga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Lump Sum MGA</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/og-mga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Operating Grants MGA</a>&#xa0;</p><p><strong>Call-specific instructions</strong>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/temp-form/af/detailed-budget-table_he-ls-euratom_en.xlsm\" rel=\"noopener noreferrer\" target=\"_blank\">Detailed budget table (HE LS)</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/information-on-financial-support-to-third-parties_he_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Information on financial support to third parties (HE)</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/information-on-clinical-studies_he_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Information on clinical studies (HE)</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-funding-what-do-i-need-to-know_he_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Guidance: \"Lump sums - what do I need to know?\"</a></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-1-general-introduction_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 1. General Introduction</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-2-marie-sklodowska-curie-actions_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 2. Marie Skłodowska-Curie Actions (MSCA)</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-3-research-infrastructures_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 3. Research Infrastructures</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-4-health_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 4. Health</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-5-culture-creativity-and-inclusive-society_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 5. Culture, Creativity and Inclusive Society</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-6-civil-security-for-society_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 6. Civil Security for Society</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 7. Digital, Industry and Space</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 8. Climate, Energy and Mobility</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 9. Food, Bioeconomy, Natural Resources, Agriculture and Environment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 10. European Innovation Ecosystems (EIE)</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-11-widening-participation-and-strengthening-the-european-research-area_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 11. Widening participation and strengthening the European Research Area</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-12-missions_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 12. Missions</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-13-new-european-bauhaus-facility_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 13. New European Bauhaus Facility (NEB)</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-14-horizontal-activities_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 14. Horizontal Activities</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 15. General Annexes</a></p><p><a href=\"https://eic.ec.europa.eu/eic-2026-work-programme_en\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026/wp_horizon-erc-2026_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">ERC Work Programme 2026</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0695\" rel=\"noopener noreferrer\" target=\"_blank\">HE Framework Programme 2021/695</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021D0764\" rel=\"noopener noreferrer\" target=\"_blank\">HE Specific Programme Decision 2021/764</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Decision authorising the use of lump sum contributions under the Horizon Europe Programme</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a>&#xa0;</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "Hop-On Facility"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "AC99A279B793BC9AB2393F2FFE817DFA5D93257D112A99D4CE05A880FE410854"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43027846"
+      ],
+      "callIdentifier": [
+        "HORIZON-WIDERA-2026-03"
+      ],
+      "ccm2Id": [
+        "50133351"
+      ],
+      "callccm2Id": [
+        "50133369"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50133351TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"HORIZON-WIDERA-2026-03\",\"criterionCode\":\"HORIZON-RIA\",\"criterionDescription\":\"HORIZON  Research and Innovation Actions\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43196?topic\\u003dHORIZON-WIDERA-2026-03-WIDENING-01\",\"startDate\":\"1768262400000\",\"endDate\":\"1790208000000\",\"mgaDescription\":\"HORIZON Action Grant Budget-Based\",\"mgaCode\":\"HORIZON-AG\"}]"
+      ],
+      "callTitle": [
+        "Hop-on Facility"
+      ],
+      "frameworkProgramme": [
+        "43108390"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Outcome:</p><p>The Hop-on Facility allows for legal entities from Widening countries to join already funded Horizon Pillar II ‘main’ work programme and EIC Pathfinder collaborative R&amp;I actions, subject to the agreement of the respective consortium and provided that legal entities from such countries are not yet participating as beneficiary, associated partner, or affiliated entity. The scheme aims to improve the inclusiveness of Horizon Europe. Selected consortia will be invited to submit a grant agreement amendment request of the eligible already funded action.</p><p>Project results are expected to contribute to the following outcomes:</p><ul level=\"0\"><li>At system level, mobilise excellence in the Widening countries, increase visibility of the beneficiaries from the widening countries, improve knowledge circulation, and boost their participation in specific thematic domains;</li><li>At consortium level, open up established networks to new connections and partnerships, improve research excellence of the Widening country’s institutions in specific fields, enlarge outreach of the participants’ R&amp;I actions and provides access to new talent pools;</li><li>At the level of the Widening beneficiary, develop new competencies and skills for working in transnational projects including research management and dissemination and exploitation.</li> </ul><p class=\"topicdescriptionkind\">Scope:</p><p>The Hop-on Facility integrates one additional beneficiary from a Widening country to an ongoing project under Pillar 2 or the EIC pathfinder scheme who contributes a relevant task, work package or another visible and distinguishable activity.</p><p>Applications must demonstrate the R&amp;I added value of the new beneficiary for the eligible already selected action. The proposal should include a detailed description of the profile of the new beneficiary and its R&amp;I role and complementarity in the existing project.</p><p>The additional beneficiary and activities should be presented in a dedicated proposal template with the Description of the Action (DOA) of the ongoing action uploaded as an annex. In case of a successful evaluation, the consortia (coordinator) of the eligible already funded action (i.e. relevant existing grant agreement) will be invited to submit an amendment request for accession of the Widening beneficiary, modification of the description of the action. If budget is reserved for the coordinator, the proposal should justify the amounts in terms of integration efforts for the new participant.</p>"
+      ],
+      "identifier": [
+        "HORIZON-WIDERA-2026-03-WIDENING-01"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43121707",
+        "43121702",
+        "43108390"
+      ],
+      "crossCuttingPriorities": [
+        "DigitalAgenda",
+        "AI"
+      ],
+      "esDA_FirstIngestDate": [
+        "2025-12-16T15:07:50.293+0100"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-09-24T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-03-02T09:27:08.914+0100"
+      ],
+      "typesOfAction": [
+        "HORIZON  Research and Innovation Actions"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-WIDERA-2026-03-WIDENING-01"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-WIDERA-2026-03-WIDENING-01"
+      ],
+      "tags": [],
+      "cenTagsA": [
+        "TOPICS-041288",
+        "TOPICS-041289",
+        "TOPICS-041290",
+        "TOPICS-041291",
+        "TOPICS-041292",
+        "TOPICS-041293"
+      ],
+      "esDA_QueueDate": [
+        "2026-03-02T09:27:08.904+0100"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"HORIZON-RIA HORIZON  Research and Innovation Actions\",\"typeOfMGA\":[{\"id\":43027846,\"abbreviation\":\"HORIZON-AG\",\"description\":\"HORIZON Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-01-13\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-09-24\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"112977\":[{\"action\":\"HORIZON-WIDERA-2026-03-WIDENING-01 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":60,\"minContribution\":200000,\"maxContribution\":600000,\"budgetYearMap\":{\"2026\":\"30000000\"},\"plannedOpeningDate\":\"2026-01-13\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-24\"]}]}}"
+      ],
+      "startDate": [
+        "2026-01-13T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> – find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> – ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> – get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (‘third-countries’).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> – contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> – the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> – consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Hop-On Facility. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-WIDERA-2026-03-WIDENING-01",
+    "score": 3.0
+  }
+}

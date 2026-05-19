@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902939",
+  "id_interno": 1104500,
+  "numero_convocatoria": "902939",
+  "organismo": "AUTONOMICA — EXTREMADURA — DIRECCIÓN GENERAL DE PLANIFICACIÓN, FORMACIÓN Y CALIDAD SANITARIAS Y SOCIOSANITARIAS",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Subv. Directa 2026. Fundación Magdalena Moriche Curso Hábitos Saludables",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Otras actividades asociativas",
+  "regiones": "ES431 - Badajoz",
+  "finalidad": "Sanidad",
+  "bases_reguladoras": "Art. 32.1.a) de la Ley 6/2011 de Subvenciones de Extremadura. Subv directas a Entidades Públicas o Entidades Privadas sin fines de lucro",
+  "url_bases_reguladoras": "https://www.boe.es/buscar/pdf/2011/BOE-A-2011-6649-consolidado.pdf",
+  "presupuesto": "8.000,00 €",
+  "presupuesto_total_num": 8000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902939",
+  "text": "CONVOCATORIA BDNS Nº 902939\nOrganismo: AUTONOMICA — EXTREMADURA — DIRECCIÓN GENERAL DE PLANIFICACIÓN, FORMACIÓN Y CALIDAD SANITARIAS Y SOCIOSANITARIAS\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 8.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Otras actividades asociativas\nRegiones: ES431 - Badajoz\nFinalidad: Sanidad\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSubv. Directa 2026. Fundación Magdalena Moriche Curso Hábitos Saludables\n\nBases reguladoras:\nArt. 32.1.a) de la Ley 6/2011 de Subvenciones de Extremadura. Subv directas a Entidades Públicas o Entidades Privadas sin fines de lucro\nURL bases reguladoras: https://www.boe.es/buscar/pdf/2011/BOE-A-2011-6649-consolidado.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902939",
+  "_raw": {
+    "id": 1104500,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "EXTREMADURA",
+      "nivel3": "DIRECCIÓN GENERAL DE PLANIFICACIÓN, FORMACIÓN Y CALIDAD SANITARIAS Y SOCIOSANITARIAS"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902939",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 8000,
+    "mrr": false,
+    "descripcion": "Subv. Directa 2026. Fundación Magdalena Moriche Curso Hábitos Saludables",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Otras actividades asociativas",
+        "codigo": "94.9"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES431 - Badajoz"
+      }
+    ],
+    "descripcionFinalidad": "Sanidad",
+    "descripcionBasesReguladoras": "Art. 32.1.a) de la Ley 6/2011 de Subvenciones de Extremadura. Subv directas a Entidades Públicas o Entidades Privadas sin fines de lucro",
+    "urlBasesReguladoras": "https://www.boe.es/buscar/pdf/2011/BOE-A-2011-6649-consolidado.pdf",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "NO PROCEDE",
+    "textFin": "NO PROCEDE",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446747,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Subv_ Directa 2026_ Fundación Magdalena Moriche Curso Hábitos Saludables.PDF",
+        "long": 248852,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

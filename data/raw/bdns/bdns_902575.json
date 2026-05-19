@@ -1,0 +1,174 @@
+{
+  "id": "BDNS-902575",
+  "id_interno": 1104136,
+  "numero_convocatoria": "902575",
+  "organismo": "ESTADO — MINISTERIO DE DEFENSA — SECRETARÍA GENERAL DE POLÍTICA DE DEFENSA",
+  "sede_electronica": "Sede electrónica central del Ministerio de Defensa",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Orden Ministerial 17/2026 de 29 de abril de 2026, por la que se convocan los Premios Defensa 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA",
+  "regiones": "ES - ESPAÑA",
+  "finalidad": "Defensa",
+  "bases_reguladoras": "Orden DEF/395/2019, de 1 de abril, por la que se establecen las bases reguladoras de la concesión de los Premios Defensa.",
+  "url_bases_reguladoras": "https://www.boe.es/eli/es/o/2019/04/01/def395",
+  "presupuesto": "35.000,00 €",
+  "presupuesto_total_num": 35000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902575",
+  "text": "CONVOCATORIA BDNS Nº 902575\nOrganismo: ESTADO — MINISTERIO DE DEFENSA — SECRETARÍA GENERAL DE POLÍTICA DE DEFENSA\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 35.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA\nRegiones: ES - ESPAÑA\nFinalidad: Defensa\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nOrden Ministerial 17/2026 de 29 de abril de 2026, por la que se convocan los Premios Defensa 2026\n\nBases reguladoras:\nOrden DEF/395/2019, de 1 de abril, por la que se establecen las bases reguladoras de la concesión de los Premios Defensa.\nURL bases reguladoras: https://www.boe.es/eli/es/o/2019/04/01/def395\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902575",
+  "_raw": {
+    "id": 1104136,
+    "organo": {
+      "nivel1": "ESTADO",
+      "nivel2": "MINISTERIO DE DEFENSA",
+      "nivel3": "SECRETARÍA GENERAL DE POLÍTICA DE DEFENSA"
+    },
+    "sedeElectronica": "Sede electrónica central del Ministerio de Defensa",
+    "codigoBDNS": "902575",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 35000,
+    "mrr": false,
+    "descripcion": "Orden Ministerial 17/2026 de 29 de abril de 2026, por la que se convocan los Premios Defensa 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA",
+        "codigo": "P"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES - ESPAÑA "
+      }
+    ],
+    "descripcionFinalidad": "Defensa",
+    "descripcionBasesReguladoras": "Orden DEF/395/2019, de 1 de abril, por la que se establecen las bases reguladoras de la concesión de los Premios Defensa.",
+    "urlBasesReguladoras": "https://www.boe.es/eli/es/o/2019/04/01/def395",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "A partir del día siguiente al de la publicación del extracto de esta convocatoria en BOE",
+    "textFin": "Dos meses contados a partir del día siguiente a la publicación del extracto en BOE",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445696,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "OM 17 de 29 de abril de convocatoria Premios 2026.pdf",
+        "long": 2180346,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445701,
+        "descripcion": "Instancia Querol y Lombardero",
+        "nombreFic": "Instancia Querol y Lombardero.pdf",
+        "long": 20610,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445705,
+        "descripcion": "Instancia audiovisual",
+        "nombreFic": "Instancia audiovisual.pdf",
+        "long": 20635,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445708,
+        "descripcion": "Instancia prensa escrita y digital",
+        "nombreFic": "Instancia prensa escrita y digital.pdf",
+        "long": 20352,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445711,
+        "descripcion": "Instancia radio",
+        "nombreFic": "Instancia radio.pdf",
+        "long": 20510,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445724,
+        "descripcion": "Declaración responsable FOTOGRAFÍA",
+        "nombreFic": "DECLARACIÓN RESPONSABLE fotografía.pdf",
+        "long": 10190,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445717,
+        "descripcion": "Instancia Docencia no universitaria",
+        "nombreFic": "Instancia Docencia no universitaria.pdf",
+        "long": 20190,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445718,
+        "descripcion": "Instancia Docencia Universitaria",
+        "nombreFic": "Instancia Docencia Universitaria.pdf",
+        "long": 20416,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445719,
+        "descripcion": "ANEXO 1 DNI y residencia",
+        "nombreFic": "ANEXO 1 DNI y residencia.pdf",
+        "long": 9070,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445721,
+        "descripcion": "Declaración responsable general",
+        "nombreFic": "DECLARACIÓN RESPONSABLE general.pdf",
+        "long": 9414,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445715,
+        "descripcion": "Instancia fotografía",
+        "nombreFic": "Instancia fotografía.pdf",
+        "long": 18717,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

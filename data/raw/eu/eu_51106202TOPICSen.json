@@ -1,0 +1,169 @@
+{
+  "id": "EU-51106202TOPICSen",
+  "topic_id": "51106202TOPICSen",
+  "titulo": "Climate Change Mitigation",
+  "descripcion": "Climate Change Mitigation",
+  "organismo": "43252405",
+  "fecha_publicacion": "2026-04-21",
+  "fecha_limite": "2026-09-22",
+  "deadlines_todas": "2026-09-22",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"114283\":[{\"action\":\"LIFE-2026-SAP-CLIMA-GOV - LIFE-PJG LIFE Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"4000000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-22\"]}],\"114285\":[{\"action\":\"LIFE-2026-SAP-CLIMA-CCM - LIFE-PJG LIFE Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"28000000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-22\"]}],\"114284\":[{\"action\":\"LIFE-2026-SAP-CLIMA-CCA - LIFE-PJG LIFE Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"28000000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-22\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "LIFE Project Grants",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-SAP-CLIMA-CCM",
+  "text": "EU FUNDING & TENDERS – Topic: 51106202TOPICSen\nProgramme/Organism: 43252405\nTitle: Climate Change Mitigation\nStatus: Open (31094502)\nType of action: LIFE Project Grants\nOpening date: 2026-04-21\nDeadline: 2026-09-22\nAll deadlines: 2026-09-22\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"114283\":[{\"action\":\"LIFE-2026-SAP-CLIMA-GOV - LIFE-PJG LIFE Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"4000000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-22\"]}],\"114285\":[{\"action\":\"LIFE-2026-SAP-CLIMA-CCM - LIFE-PJG LIFE Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"28000000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-22\"]}],\"114284\":[{\"action\":\"LIFE-2026-SAP-CLIMA-CCA - LIFE-PJG LIFE Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"28000000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-22\"]}]}}\n\nDescription / Scope:\nClimate Change Mitigation\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-SAP-CLIMA-CCM",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "51106202TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-SAP-CLIMA-CCM",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Climate Change Mitigation",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Climate Change Mitigation",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "12A7C3DB0C72542DDC4B604B9E369D80BFB112E8E21DA1F2230A39FAF0125E0A",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-04-21T00:01:07.602\",\"content\":\"The submission session is now available for: LIFE-2026-SAP-CLIMA-GOV, LIFE-2026-SAP-CLIMA-CCA, LIFE-2026-SAP-CLIMA-CCM\"}]"
+      ],
+      "es_SortDate": [
+        "2026-04-21T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "LIFE-2026-SAP-CLIMA-CCM",
+        "LIFE-2026-SAP-CLIMA"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>Conditions</h4><div><h4>1. Admissibility conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>described in section 5 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-sap-clima_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p></div></div><div><h4>2. Eligible countries</h4><div class=\"eui-u-mt-s\"><p>described in section 6 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-sap-clima_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>3. Other eligibility conditions</h4><div class=\"eui-u-mt-s\"><p>described in section 6 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-sap-clima_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in section 7 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-sap-clima_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>5a. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>described section 8 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-sap-clima_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u> and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5b. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>described in section 9 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-sap-clima_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in section 4 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-sap-clima_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>described in section 10 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-sap-clima_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Call document and annexes:</h4> <div class=\"eui-u-mt-s\"><p><u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-sap-clima_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Call document</a></u></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/temp-form/af/af_life-sap-oag_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form</a> — the application form specific to this call is available in the Submission System</p><p><br></br></p><p><strong>Mandatory Annexes to the application form:</strong></p><ol><li data-list=\"ordered\"><span class=\"ql-ui\" contenteditable=\"false\"></span><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/temp-form/af/detailed-budget-table_life_en.xlsx\" rel=\"noopener noreferrer\" target=\"_blank\">Detailed budget table (LIFE)</a></li><li data-list=\"ordered\"><span class=\"ql-ui\" contenteditable=\"false\"></span><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/temp-form/af/participant-information_life_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Participant information (LIFE)</a></li></ol><p><br></br></p><p><strong>Optional Annexes: </strong></p><ol><li data-list=\"ordered\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Letters of support</li><li data-list=\"ordered\"><span class=\"ql-ui\" contenteditable=\"false\"></span><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/temp-form/af/participant-information_life_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Maps (LIFE)</a></li><li data-list=\"ordered\"><span class=\"ql-ui\" contenteditable=\"false\"></span><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/temp-form/af/participant-information_life_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Description of sites (LIFE)</a></li><li data-list=\"ordered\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Other Annexes (for example: Lifecycle analysis, Business plans etc.</li></ol><p><br></br></p><p><strong>Additional documents:</strong></p><p><a href=\"https://cinea.ec.europa.eu/life/life-support-applicants_en#ecl-inpage-1377\" rel=\"noopener noreferrer\" target=\"_blank\">FAQs in LIFE website</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents;programCode=LIFE2027\" rel=\"noopener noreferrer\" target=\"_blank\">LIFE Reference Documents</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/agr-contr/mga_life_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">LIFE General MGA v1.0</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annotated Grant Agreement</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0783\" rel=\"noopener noreferrer\" target=\"_blank\">LIFE Regulation 2021/783</a></p><p><a href=\"https://circabc.europa.eu/ui/group/73d306c9-1ee6-4e70-81f0-56fecf4cd18c/library/ce976713-0506-4fd0-b19a-6f4dc6c23fe6\" rel=\"noopener noreferrer\" target=\"_blank\">LIFE Multiannual Work Programme 2025-2027</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div><div class=\"eui-u-mt-s\">\n</div></div>"
+      ],
+      "title": [
+        "Climate Change Mitigation"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "12A7C3DB0C72542DDC4B604B9E369D80BFB112E8E21DA1F2230A39FAF0125E0A"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43250283"
+      ],
+      "callIdentifier": [
+        "LIFE-2026-SAP-CLIMA"
+      ],
+      "ccm2Id": [
+        "51106202"
+      ],
+      "callccm2Id": [
+        "51106221"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "51106202TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"LIFE-2026-SAP-CLIMA\",\"criterionCode\":\"LIFE-PJG\",\"criterionDescription\":\"LIFE Project Grants\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43830?topic\\u003dLIFE-2026-SAP-CLIMA-CCM\",\"startDate\":\"1776729600000\",\"endDate\":\"1790035200000\",\"mgaDescription\":\"LIFE Action Grant Budget-Based\",\"mgaCode\":\"LIFE-AG\"}]"
+      ],
+      "callTitle": [
+        "LIFE Climate Action - Standard Action Projects (SAP)"
+      ],
+      "frameworkProgramme": [
+        "43252405"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Outcome:</p><p>Efficient delivery of the quantified objectives by the end of the project.</p><p class=\"topicdescriptionkind\">Objective:</p><p>Projects under the Climate Change Mitigation Priority Area will support the implementation of the European Green Deal by contributing to the objectives and targets set out in the EU Climate Law and to the intermediate Union climate target to reduce net greenhouse gas emissions by at least 55% compared to 1990 levels by 2030.</p><p class=\"topicdescriptionkind\">Scope:</p><p></p><table>  <tbody>   <tr>    <td> <p><strong>Areas of intervention:</strong></p>     <ul level=\"0\"><li>Recovery, recycle and reclamation of ozone-depleting substances in foams and suitability of alternatives to fluorinated greenhouse gases and their recovery, reclamation and recycling;</li><li>Actions to support the shift to zero-emission mobility in road transport;</li><li>Decarbonising other transport modes, fostering intermodality and modal shift;</li><li>Increase the generation and use of renewable energy and improvement of energy efficiency;</li><li>Actions which reduce energy use and greenhouse gas emissions in industrial production and waste management;</li><li>Development and implementation of land and coastal management practices which have an impact on emissions and carbon removals, including the conservation and enhancement of natural carbon sinks in soils and forests and the storage of carbon in long-lasting products;</li><li>Industrial solutions for carbon removal, carbon capture and use and/or storage.</li>     </ul> </td>   </tr>  </tbody> </table>"
+      ],
+      "identifier": [
+        "LIFE-2026-SAP-CLIMA-CCM"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "45288885"
+      ],
+      "crossCuttingPriorities": [],
+      "esDA_FirstIngestDate": [
+        "2026-04-21T00:09:31.914+0200"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-09-22T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-21T00:09:49.961+0200"
+      ],
+      "typesOfAction": [
+        "LIFE Project Grants"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-SAP-CLIMA-CCM"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-SAP-CLIMA-CCM"
+      ],
+      "tags": [],
+      "cenTagsA": [
+        "TOPICS-000382"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-21T00:09:49.938+0200"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"LIFE-PJG LIFE Project Grants\",\"typeOfMGA\":[{\"id\":43250283,\"abbreviation\":\"LIFE-AG\",\"description\":\"LIFE Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-04-21\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-09-22\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"114283\":[{\"action\":\"LIFE-2026-SAP-CLIMA-GOV - LIFE-PJG LIFE Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"4000000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-22\"]}],\"114285\":[{\"action\":\"LIFE-2026-SAP-CLIMA-CCM - LIFE-PJG LIFE Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"28000000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-22\"]}],\"114284\":[{\"action\":\"LIFE-2026-SAP-CLIMA-CCA - LIFE-PJG LIFE Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"28000000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-22\"]}]}}"
+      ],
+      "startDate": [
+        "2026-04-21T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p>Consult the <u><a href=\"https://cinea.ec.europa.eu/life/life-support-applicants_en#ecl-inpage-1377\" rel=\"noopener noreferrer\" target=\"_blank\">FAQs in LIFE website</a></u></p><p>Get in touch with your <u><a href=\"https://cinea.ec.europa.eu/life/life-european-countries_en\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Point (NCP)</a>. </u>We want also to draw your attention on the possibility to get support from your NCP. To facilitate such support, it would be beneficial to add your NCP under the “Participants” step of the application, by clicking on “Add contact”. Then, Under “Project role”, use the option “Contact person” and add your NCP’s data.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?order=DESC&amp;pageNumber=1&amp;pageSize=10&amp;sortBy=publicationDate&amp;isExactMatch=true&amp;type=1&amp;grantCategories=p_submission_eval\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ – Submission of proposals</a>.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> – Step-by-step online guide through the Portal processes from proposal preparation and evaluation to reporting on your ongoing project. Valid for all 2021-2027 programmes.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Climate Change Mitigation. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-SAP-CLIMA-CCM",
+    "score": 3.0
+  }
+}

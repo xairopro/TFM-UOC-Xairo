@@ -1,0 +1,98 @@
+{
+  "id": "BDNS-901559",
+  "id_interno": 1103120,
+  "numero_convocatoria": "901559",
+  "organismo": "ESTADO — MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA — SECRETARÍA DE ESTADO DE TELECOMUNICACIONES E INFRAESTRUCTURAS DIGITALES",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "2026-04-03",
+  "fecha_fin_solicitud": "2026-04-17",
+  "abierto": false,
+  "mrr": true,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Real Decreto 270/2026, de 1 de abril, de ayudas directas a proyectos de investigación seleccionados en convocatorias de la Empresa Común de Chips de la UE (Chips JU), programa «UNICO Chips JU-Líneas Piloto Cuánticas», en el marco del PRTR - Subp. Públicas",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Investigación y desarrollo",
+  "regiones": "ES - ESPAÑA",
+  "finalidad": "Investigación, desarrollo e innovación",
+  "bases_reguladoras": "Real Decreto 270/2026, de 1 de abril, de ayudas directas a proyectos de investigación seleccionados en convocatorias de la Empresa Común de Chips de la UE (Chips JU), programa «UNICO Chips JU-Líneas Piloto Cuánticas», en el marco del PRTR - Subp. Públicas",
+  "url_bases_reguladoras": "https://www.boe.es/eli/es/rd/2026/04/01/270",
+  "presupuesto": "5.800.832,51 €",
+  "presupuesto_total_num": 5800832.51,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "MRR - MECANISMO DE RECUPERACIÓN Y RESILIENCIA",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901559",
+  "text": "CONVOCATORIA BDNS Nº 901559\nOrganismo: ESTADO — MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA — SECRETARÍA DE ESTADO DE TELECOMUNICACIONES E INFRAESTRUCTURAS DIGITALES\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud: 2026-04-03 → 2026-04-17 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 5.800.832,51 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Investigación y desarrollo\nRegiones: ES - ESPAÑA\nFinalidad: Investigación, desarrollo e innovación\nFondos: MRR - MECANISMO DE RECUPERACIÓN Y RESILIENCIA\nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): sí\n\nObjeto / Descripción:\nReal Decreto 270/2026, de 1 de abril, de ayudas directas a proyectos de investigación seleccionados en convocatorias de la Empresa Común de Chips de la UE (Chips JU), programa «UNICO Chips JU-Líneas Piloto Cuánticas», en el marco del PRTR - Subp. Públicas\n\nBases reguladoras:\nReal Decreto 270/2026, de 1 de abril, de ayudas directas a proyectos de investigación seleccionados en convocatorias de la Empresa Común de Chips de la UE (Chips JU), programa «UNICO Chips JU-Líneas Piloto Cuánticas», en el marco del PRTR - Subp. Públicas\nURL bases reguladoras: https://www.boe.es/eli/es/rd/2026/04/01/270\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901559",
+  "_raw": {
+    "id": 1103120,
+    "organo": {
+      "nivel1": "ESTADO",
+      "nivel2": "MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA",
+      "nivel3": "SECRETARÍA DE ESTADO DE TELECOMUNICACIONES E INFRAESTRUCTURAS DIGITALES"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901559",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 5800832.51,
+    "mrr": true,
+    "descripcion": "Real Decreto 270/2026, de 1 de abril, de ayudas directas a proyectos de investigación seleccionados en convocatorias de la Empresa Común de Chips de la UE (Chips JU), programa «UNICO Chips JU-Líneas Piloto Cuánticas», en el marco del PRTR - Subp. Públicas",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Investigación y desarrollo",
+        "codigo": "72"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES - ESPAÑA "
+      }
+    ],
+    "descripcionFinalidad": "Investigación, desarrollo e innovación",
+    "descripcionBasesReguladoras": "Real Decreto 270/2026, de 1 de abril, de ayudas directas a proyectos de investigación seleccionados en convocatorias de la Empresa Común de Chips de la UE (Chips JU), programa «UNICO Chips JU-Líneas Piloto Cuánticas», en el marco del PRTR - Subp. Públicas",
+    "urlBasesReguladoras": "https://www.boe.es/eli/es/rd/2026/04/01/270",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-04-03",
+    "fechaFinSolicitud": "2026-04-17",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [
+      {
+        "descripcion": "MRR - MECANISMO DE RECUPERACIÓN Y RESILIENCIA"
+      }
+    ],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442606,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Real Decreto BOE-A-2026-7448.pdf",
+        "long": 457452,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "BDNS-902346",
+  "id_interno": 1103907,
+  "numero_convocatoria": "902346",
+  "organismo": "LOCAL — SIERO — AYUNTAMIENTO DE SIERO",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Convocatoria de subvenciones de la Fundación Municipal de Cultura de Siero destinadas a la Formación artística. Ejercicio 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de apoyo a la creación artística y a las artes escénicas, Administración pública y de la política económica, social y medioambiental",
+  "regiones": "ES12 - PRINCIPADO DE ASTURIAS",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "BASES ESPECIFICAS REGULADORAS DE LAS SUBVENCIONES DE LA FUNDACIÓN MUNICIPAL DE CULTURA DE SIERO DESTINADAS A LA CREACIÓN Y PRODUCCIÓN ARTÍSTICA",
+  "url_bases_reguladoras": "https://sede.asturias.es/bopa/2023/05/17/2023-04008.pdf",
+  "presupuesto": "4.000,00 €",
+  "presupuesto_total_num": 4000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902346",
+  "text": "CONVOCATORIA BDNS Nº 902346\nOrganismo: LOCAL — SIERO — AYUNTAMIENTO DE SIERO\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 4.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de apoyo a la creación artística y a las artes escénicas, Administración pública y de la política económica, social y medioambiental\nRegiones: ES12 - PRINCIPADO DE ASTURIAS\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria de subvenciones de la Fundación Municipal de Cultura de Siero destinadas a la Formación artística. Ejercicio 2026\n\nBases reguladoras:\nBASES ESPECIFICAS REGULADORAS DE LAS SUBVENCIONES DE LA FUNDACIÓN MUNICIPAL DE CULTURA DE SIERO DESTINADAS A LA CREACIÓN Y PRODUCCIÓN ARTÍSTICA\nURL bases reguladoras: https://sede.asturias.es/bopa/2023/05/17/2023-04008.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902346",
+  "_raw": {
+    "id": 1103907,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "SIERO",
+      "nivel3": "AYUNTAMIENTO DE SIERO"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902346",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 4000,
+    "mrr": false,
+    "descripcion": "Convocatoria de subvenciones de la Fundación Municipal de Cultura de Siero destinadas a la Formación artística. Ejercicio 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de apoyo a la creación artística y a las artes escénicas",
+        "codigo": "90.3"
+      },
+      {
+        "descripcion": "Administración pública y de la política económica, social y medioambiental",
+        "codigo": "84.1"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES12 - PRINCIPADO DE ASTURIAS"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "BASES ESPECIFICAS REGULADORAS DE LAS SUBVENCIONES DE LA FUNDACIÓN MUNICIPAL DE CULTURA DE SIERO DESTINADAS A LA CREACIÓN Y PRODUCCIÓN ARTÍSTICA",
+    "urlBasesReguladoras": "https://sede.asturias.es/bopa/2023/05/17/2023-04008.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Al día siguiente de la publicación del extracto de la convocatoria  en el BOPA  ",
+    "textFin": "Quince días hábiles contados desde el siguiente al de publicación del extracto de la convocatoria",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445125,
+        "descripcion": "Bases especificas",
+        "nombreFic": "Bases especificas de formación artistica publicadas en el BOPA.PDF",
+        "long": 1597075,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445124,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Convocatoria formación artística diligenciada.pdf",
+        "long": 228105,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "BDNS-901993",
+  "id_interno": 1103554,
+  "numero_convocatoria": "901993",
+  "organismo": "LOCAL — BENIDORM — AYUNTAMIENTO DE BENIDORM",
+  "sede_electronica": "sede.benidorm.org",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "2026-06-15",
+  "fecha_fin_solicitud": "2026-08-03",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Ayudas complementarias para la movilidad internacional de estudiantes benidormenses, curso 2026/2027",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Educación secundaria y educación postsecundaria no terciaria, Educación terciaria",
+  "regiones": "ES521 - Alicante / Alacant",
+  "finalidad": "Educación",
+  "bases_reguladoras": "Ley 38/2003, de 17 de noviembre, General de Subvenciones",
+  "url_bases_reguladoras": "https://www.boe.es/boe/dias/2003/11/18/pdfs/A40505-40532.pdf",
+  "presupuesto": "22.000,00 €",
+  "presupuesto_total_num": 22000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901993",
+  "text": "CONVOCATORIA BDNS Nº 901993\nOrganismo: LOCAL — BENIDORM — AYUNTAMIENTO DE BENIDORM\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud: 2026-06-15 → 2026-08-03 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 22.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Educación secundaria y educación postsecundaria no terciaria, Educación terciaria\nRegiones: ES521 - Alicante / Alacant\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nAyudas complementarias para la movilidad internacional de estudiantes benidormenses, curso 2026/2027\n\nBases reguladoras:\nLey 38/2003, de 17 de noviembre, General de Subvenciones\nURL bases reguladoras: https://www.boe.es/boe/dias/2003/11/18/pdfs/A40505-40532.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901993",
+  "_raw": {
+    "id": 1103554,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "BENIDORM",
+      "nivel3": "AYUNTAMIENTO DE BENIDORM"
+    },
+    "sedeElectronica": "sede.benidorm.org",
+    "codigoBDNS": "901993",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 22000,
+    "mrr": false,
+    "descripcion": "Ayudas complementarias para la movilidad internacional de estudiantes benidormenses, curso 2026/2027",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Educación secundaria y educación postsecundaria no terciaria",
+        "codigo": "85.3"
+      },
+      {
+        "descripcion": "Educación terciaria",
+        "codigo": "85.4"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES521 - Alicante / Alacant"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "Ley 38/2003, de 17 de noviembre, General de Subvenciones",
+    "urlBasesReguladoras": "https://www.boe.es/boe/dias/2003/11/18/pdfs/A40505-40532.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-06-15",
+    "fechaFinSolicitud": "2026-08-03",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443877,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "BASESMOVILIDAD2627.pdf",
+        "long": 231175,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210264,
+        "titulo": "EXTRACTO DEL ACUERDO DE 20 DE ABRIL DE 2026, DE LA JUNTA DE GOBIERNO LOCAL DEL AYUNTAMIENTO DE BENIDORM, POR EL QUE SE CONVOCAN AYUDAS A ESTUDIANTES DE CICLOS FORMATIVOS DE GRADO SUPERIOR DE 2º CURSO O UNIVERSITARIOS DE GRADO QUE REALICEN ESTANCIAS A TRAVÉS DEL PROGRAMA ERASMUS+, U OTROS PROGRAMAS DE MOVILIDAD INTERNACIONAL EN EL AÑO ACADÉMICO 2026-2027.",
+        "tituloLeng": null,
+        "texto": "<p>Primero.- Benefciarios</p><p>-Estudiantes empadronados/as en Benidorm con una antigüedad ininterrumpida de 1 año. La fecha de cómputo para establecer la antigüedad será la del día de adopción de la resolución de Alcaldía aprobando las presentes bases.</p><p> -Acreditar haber sido seleccionado para participar en un programa de movilidad internacional en el curso 2026/2027.</p><p>-Estar al corriente de las obligaciones fiscales con este Ayuntamiento y no ser deudores por cualquier otro concepto tributario.</p><p>-Presentar la solicitud y documentación requerida en el plazo y forma establecidos en estas bases.</p><p>Segundo.- Presentación de solicitudes</p><p>Las personas interesadas deberán presentar la solicitud de forma telemática: Será necesario disponer de certificado digital o firma electrónica.</p><p>A través de la Sede Electrónica del Ayuntamiento de Benidorm: sede.benidorm.org, Catálogo de servicios, EDUCACIÓN, seleccionar trámite: “Ayudas Movilidad Internacional curso 2026/2027”.</p><p>Tercero.- Plazos de solicitud</p><p>a. 1er turno:  del 15 al 29 de junio de 2026.</p><p>b.- 2º turno:  del 23 de julio al 3 de agosto de 2026.</p><p>Podrán participar los solicitantes de becas Erasmus + 2º turno, así como aquellos solicitantes que en el primer turno no conociera y no dispusiera de su condición de becario del programa de movilidad internacional solicitado a la publicación de estas bases.</p><p>Cuarto.- Documentación</p><p>-Solicitud debidamente cumplimentada y firmada.</p><p>-Fotocopia del DNI del solicitante. Cuando la persona solicitante de la ayuda sea el tutor legal deberá presentar el documento que lo acredite.</p><p>-Certificación del centro educativo español en el que cursa sus estudios, que acredite que el alumno/a ha sido seleccionado para plaza del programa de movilidad, situación académica y la duración de su estancia en el extranjero.</p><p>- Certificado de titularidad de su cuenta bancaria validado digitalmente. El titular del certificado bancario debe de ser el solicitante de la ayuda y no otra persona.</p><p>-Finalizada la estancia: Certificación del centro educativo español o del centro o empresa de acogida donde conste la duración de la estancia y el país de destino. En todo caso, antes del 16 de julio de 2027 se deberá presentar este documento.</p><p>Lugar y presentación del certificado de estancia antes del 16 de julio.</p><p>De forma telemática: Será necesario disponer de certificado digital o firma electrónica.</p><p>A través de la Sede Electrónica del Ayuntamiento de Benidorm: sede.benidorm.org, Carpeta Ciudadana- Expedientes -Buscar el que corresponde a la solicitud enviada, abrirla y al final ir a Presentar documentación adicional o alegación a este expediente-Ir al trámite-. Seguir los 4 pasos.</p><p>Quinto.- Cuantía de la ayuda</p><p>Se aplicará un pago de 100 euros por cada mes completo, con un límite máximo de 9 meses.</p>",
+        "textoLeng": null,
+        "url": "https://www.dip-alicante.es/bop2/pdftotal/2026/04/30_80/2026_003113.pdf",
+        "cve": null,
+        "desDiarioOficial": "B.O.P. DE ALICANTE",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "BDNS-902117",
+  "id_interno": 1103678,
+  "numero_convocatoria": "902117",
+  "organismo": "AUTONOMICA — COMUNITAT VALENCIANA — SECRETARÍA AUTONÓMICA DE CULTURA Y DEPORTE",
+  "sede_electronica": "https://www.gva.es/va/inicio/procedimientos?id_proc=97405",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Convocatoria para el año 2026 de las subvenciones de la Modalidad 1 de las subvenciones para la Conservación y Protección de los Bienes Inmuebles del Patrimonio Cultural de la Comunitat Valenciana, las subvenciones para la recuperación de las Construccion",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+  "regiones": "ES52 - COMUNIDAD VALENCIANA",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "RESOLUCIÓN de 25 de junio de 2025, por la que se establecen las bases reguladoras de la concesión de las subvenciones para la conservación y protección de los bienes inmuebles del patrimonio cultural de la Comunitat Valenciana...",
+  "url_bases_reguladoras": "https://dogv.gva.es/es/resultat-dogv?signatura=2025/24469",
+  "presupuesto": "2.786.910,00 €",
+  "presupuesto_total_num": 2786910,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902117",
+  "text": "CONVOCATORIA BDNS Nº 902117\nOrganismo: AUTONOMICA — COMUNITAT VALENCIANA — SECRETARÍA AUTONÓMICA DE CULTURA Y DEPORTE\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 2.786.910,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de bibliotecas, archivos, museos y otras actividades culturales\nRegiones: ES52 - COMUNIDAD VALENCIANA\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria para el año 2026 de las subvenciones de la Modalidad 1 de las subvenciones para la Conservación y Protección de los Bienes Inmuebles del Patrimonio Cultural de la Comunitat Valenciana, las subvenciones para la recuperación de las Construccion\n\nBases reguladoras:\nRESOLUCIÓN de 25 de junio de 2025, por la que se establecen las bases reguladoras de la concesión de las subvenciones para la conservación y protección de los bienes inmuebles del patrimonio cultural de la Comunitat Valenciana...\nURL bases reguladoras: https://dogv.gva.es/es/resultat-dogv?signatura=2025/24469\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902117",
+  "_raw": {
+    "id": 1103678,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "COMUNITAT VALENCIANA",
+      "nivel3": "SECRETARÍA AUTONÓMICA DE CULTURA Y DEPORTE"
+    },
+    "sedeElectronica": "https://www.gva.es/va/inicio/procedimientos?id_proc=97405",
+    "codigoBDNS": "902117",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 2786910,
+    "mrr": false,
+    "descripcion": "Convocatoria para el año 2026 de las subvenciones de la Modalidad 1 de las subvenciones para la Conservación y Protección de los Bienes Inmuebles del Patrimonio Cultural de la Comunitat Valenciana, las subvenciones para la recuperación de las Construccion",
+    "descripcionLeng": "Convocatòria per a l'any 2026  de les subvencions de la Mdalitat 1 de les subvencions per a la Conservació i Protecció dels Béns immobles del Patrimoni Cultural de la Comunitat Valenciana, les subvencions per a la recuperació de les Construccions de pe",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+        "codigo": "91"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES52 - COMUNIDAD VALENCIANA"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "RESOLUCIÓN de 25 de junio de 2025, por la que se establecen las bases reguladoras de la concesión de las subvenciones para la conservación y protección de los bienes inmuebles del patrimonio cultural de la Comunitat Valenciana...",
+    "urlBasesReguladoras": "https://dogv.gva.es/es/resultat-dogv?signatura=2025/24469",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Desde el día siguiente a la publicación en el DOGV",
+    "textFin": "Des de l'endemà de la publicació al DOGV",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444225,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "03_Extracte convocatòria 2026 Val_firmado.pdf",
+        "long": 347473,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444224,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "05_Extracto convocatoria 2026 Cast_firmado.pdf",
+        "long": 348542,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210321,
+        "titulo": "Extracto de la convocatoria para el año 2026 de las subvenciones de la Modalidad 1 de las Subvenciones reguladas en la Resolución de 25 de junio de 2025 de la Conselleria de Educación, Cultura, Universidades y Empleo. Plan Restaura",
+        "tituloLeng": "Extracte de la convocatòria per a l'any 2026 de les subvencions de la modalitat 1 de les subvencions regulades en la Resolució de 25 de juny de 2025, de la Conselleria d'Educació, Cultura, Universitats i Ocupació. Pla Restaura",
+        "texto": "<p>De conformidad con lo previsto en los artículos 17.3.b y 20.8.a de la Ley 38/2003, de 17 de noviembre, general de subvenciones (en lo sucesivo, LGS), se publica el extracto de la convocatoria cuyo texto completo puede consultarse en la Base de Datos Nacional de Subvenciones.\n</p><p>\n</p><p>\n</p><p>Primero. Objeto y finalidad \n</p><p>\n</p><p>1. Las presentes subvenciones financiarán aquellas actuaciones que tengan por objeto los trabajos de conservación, mantenimiento, restauración y rehabilitación, respecto de bienes incluidos o que se pretendan incluir en el Inventario General del Patrimonio Cultural Valenciano y de las actuaciones arqueológicas y paleontológicas.\n</p><p>No obstante, no podrán obtener financiación con cargo a las subvenciones convocadas mediante esta Resolución, aquellas entidades que se encuentren ejecutando una actuación subvencionada mediante esta línea de ayudas para la intervención en bienes inmuebles integrantes del patrimonio cultural hasta la conclusión de ésta.\n</p><p>\n</p><p>2. Las actuaciones que se acojan a esta convocatoria podrán realizarse desde el 1 de enero de 2026 hasta el 30 de octubre de 2027\n</p><p>\n</p><p>\n</p><p>Segundo. Entidades beneficiarias.\n</p><p>\n</p><p>1. Podrán obtener la condición de entidad beneficiaria de estas subvenciones las siguientes: \n</p><p>\n</p><p>i) los ayuntamientos de la Comunitat Valenciana, en cuyo término municipal se encuentre el bien sobre el que se vayan a realizar las actuaciones subvencionables. \n</p><p>\n</p><p>ii) las entidades locales menores y mancomunidades, para aquellos bienes sobre los que se prevean las actuaciones subvencionables que se encuentren en su ámbito territorial. \n</p><p>\n</p><p>iii) las fundaciones, asociaciones y entidades sin ánimo de lucro no incluidas en el ámbito subjetivo previsto en el artículo 2 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público que ostenten la titularidad dominical de los bienes inmuebles incluidos en el Inventario General del Patrimonio Cultural Valenciano o, en su caso, aquellos para los que sea de aplicación el régimen de protección previsto para los bienes ya declarados conforme a lo dispuesto en los artículos 27. 4, y 47.5 ambos de la Ley 4/1998, de 11 de junio, del Patrimonio Cultural Valenciano.\n</p><p>\n</p><p>2. Las entidades solicitantes, por el solo hecho de solicitar las subvenciones, aceptan el contenido de las bases reguladoras y de esta convocatoria y se comprometen a cumplir las obligaciones que se establecen en el artículo 14 de la LGS.\n</p><p>\n</p><p>\n</p><p>Tercero. Bases reguladoras\n</p><p>\n</p><p>Resolución de 25 de junio de 2025 de la Conselleria de Educación, Cultura, Universidades y Empleo, por la que se establecen las bases reguladoras de la concesión de las subvenciones para la conservación y protección de los bienes inmuebles del patrimonio cultural de la Comunitat Valenciana, y de las subvenciones para la recuperación de las construcciones de piedra en seco y para la redacción de catálogos y planes directores de bienes de interés cultural de la Comunitat Valenciana. Plan «Restaura»\n</p><p>\n</p><p>\n</p><p>Cuarto. Financiación de las ayudas\n</p><p>\n</p><p>Las subvenciones contempladas en la presente convocatoria se concederán con cargo a los créditos de la línea S0375, “Ayudas para la Conservación y Protección de los Bienes inmuebles del Patrimonio Cultural de la CV”, prevista en el “Detalle de transferencias y subvenciones” de los Presupuestos de la Generalitat para el ejercicio 2025 prorrogados para 2026 o, en su caso, de la equivalente que figure en los Presupuestos que se aprueben para el ejercicio 2026, y su equivalente en los presupuestos para el ejercicio 2027, concretamente en la Sección G0109, Servicio G010905, Centro Gestor G01090502, Subprograma 454A00, Capítulo 7, fondos propios no condicionados de la Generalitat.\n</p><p>\n</p><p>2. El importe global máximo de las subvenciones convocadas es 3.981.300 euros y se distribuye de la siguiente forma por anualidades:\n</p><p>\n</p><p>\n</p><p>LÍNEA\tMODALIDAD\t2026\t2027\n</p><p>\t\t\n</p><p>S0375\t1 inmuebles\t1.194.390 €\t2.786.910 €\n</p><p>\n</p><p>\n</p><p>Quinto. Solicitud, plazos y tramitación\n</p><p>\n</p><p>1. El plazo de presentación de las solicitudes será de diez días hábiles a contar desde el día siguiente de la publicación de esta resolución en el Diari Oficial de la Generalitat Valenciana.\n</p><p>\n</p><p>2. La solicitud deberá presentarse por medios electrónicos, de acuerdo con el artículo 14.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, que obliga a las personas jurídicas a relacionarse a través de medios electrónicos con las Administraciones Públicas para la realización de cualquier trámite de un procedimiento administrativo. La solicitud se presentará exclusivamente a través de la sede electrónica de la Generalitat, accesible en la siguiente dirección electrónica: \n</p><p>\n</p><p>https://www.gva.es/va/inicio/procedimientos?id_proc=97405\n</p><p>\n</p><p>Para ello, será necesario disponer de alguno de los sistemas de firma electrónica admitidos y que figuran en la sede electrónica de la Generalitat a nombre de la entidad solicitante https://sede.gva.es/va/sede_verificacion_firma.\n</p><p>\n</p><p>Tanto la solicitud como el resto de los documentos a presentar tendrán que firmarse electrónicamente con el certificado de persona jurídica, emitido por cualquiera de las entidades certificadoras admitidas por la sede de la Generalitat, o con el certificado digital de la persona que represente a la persona jurídica, que tendrá que haberse registrado previamente en el Registro de representantes de la Generalitat.\n</p><p>\n</p><p>No se tendrán por presentadas las solicitudes realizadas por vía diferente de la indicada, en virtud de lo dispuesto en el artículo 16.8 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.\n</p><p>\n</p><p>La solicitud expresará el consentimiento u oposición para que el órgano instructor pueda comprobar o recabar de otros órganos, administraciones o proveedores de información, por medios electrónicos, la información sobre el cumplimiento de las obligaciones tributarias y con la Seguridad Social o sobre otras circunstancias de las entidades solicitantes o de las solicitudes que sean pertinentes para la instrucción del procedimiento. En caso de oposición, la entidad solicitante deberá aportar los certificados o pruebas que al efecto le exige esta convocatoria. La firma de la solicitud alcanza también a las declaraciones responsables contendidas en la misma.\n</p><p>\n</p><p>3. Solo se admitirá una solicitud por entidad peticionaria y bien inmueble integrante del Patrimonio Cultural de la Comunitat Valenciana. En el caso de que la misma entidad solicitante presente varias solicitudes, únicamente se considerará válida la última presentada en plazo.\n</p><p>\n</p><p>4. Las notificaciones y comunicaciones se practicarán a través de los medios previstos en los artículos 14, 41 y siguientes de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.\n</p><p>\n</p><p>\n</p><p>La convocatoria a la que hace referencia el presente extracto puede consultarse en el DOGV y en la página web: https://cultura.gva.es/va/web/patrimonio-cultural-y-museos/convocatorias-de-ayudas\n</p>",
+        "textoLeng": "<p>De conformitat amb el que preveuen els articles 17.3.b i 20.8.a de la Llei 38/2003, de 17 de novembre, general de subvencions (d'ara en avant, LGS), es publica l'extracte de la convocatòria el text complet de la qual pot consultar-se en la Base de dades nacional de subvencions.\n</p><p>\n</p><p>\n</p><p>Primer. Objecte i finalitat \n</p><p>\n</p><p>11. Les presents subvencions finançaran les actuacions que tinguen per objecte els treballs de conservació, manteniment, restauració i rehabilitació, respecte de béns inclosos o que es pretenguen incloure en l'Inventari general del patrimoni cultural valencià i les actuacions arqueològiques i paleontològiques.\n</p><p>No obstant això, no podran obtindre finançament amb càrrec a les subvencions convocades mitjançant esta resolució aquelles entitats que es troben executant una actuació subvencionada mitjançant esta línia d'ajudes per a la intervenció en béns immobles integrants del patrimoni cultural fins a la conclusió d'esta.\n</p><p>\n</p><p>2. Les actuacions que s'acullen a esta convocatòria podran realitzar-se des de l'1 de gener de 2026 fins al 30 d'octubre de 2027.\n</p><p>\n</p><p>\n</p><p>Segon. Entitats beneficiàries\n</p><p>\n</p><p>1. Podran obtindre la condició d'entitat beneficiària d'estes subvencions les següents: \n</p><p>\n</p><p>i) els ajuntaments de la Comunitat Valenciana, en el terme municipal dels quals es trobe el bé sobre el qual es realitzaran les actuacions subvencionables; \n</p><p>\n</p><p>ii) les entitats locals menors i mancomunitats, per als béns sobre els quals es prevegen les actuacions subvencionables que es troben en el seu àmbit territorial; \n</p><p>\n</p><p>iii) les fundacions, associacions i entitats sense ànim de lucre no incloses en l'àmbit subjectiu previst en l'article 2 de la Llei 40/2015, d'1 d'octubre, de règim jurídic del sector públic, que tinguen la titularitat dominical dels béns immobles inclosos en l'Inventari general del patrimoni cultural valencià o, si és el cas, aquells als quals s'aplique el règim de protecció previst per als béns ja declarats conforme al que es disposa en els articles 27. 4, i 47.5, els dos de la Llei 4/1998, d'11 de juny, del patrimoni cultural valencià.\n</p><p>\n</p><p>2. Les entitats sol·licitants, només pel fet de sol·licitar les subvencions, accepten el contingut de les bases reguladores i d'esta convocatòria i es comprometen a complir les obligacions que s'establixen en l'article 14 de l'LGS.\n</p><p>\n</p><p>\n</p><p>Tercer. Bases reguladores\n</p><p>\n</p><p>Resolució de 25 de juny de 2025, de la Conselleria d'Educació, Cultura, Universitats i Ocupació, per la qual s'establixen les bases reguladores de la concessió de les subvencions per a la conservació i protecció dels béns immobles del patrimoni cultural de la Comunitat Valenciana, i de les subvencions per a la recuperació de les construccions de pedra seca i per a la redacció de catàlegs i plans directors de béns d'interés cultural de la Comunitat Valenciana. \"Pla Restaura\".\n</p><p>\n</p><p>\n</p><p>Quart. Finançament de les ajudes\n</p><p>\n</p><p>1. Les subvencions previstes en la present convocatòria es concediran amb càrrec als crèdits de la línia S0375, \"Ajudes per a la conservació i protecció dels béns immobles del patrimoni cultural de la CV\", prevista en el \"Detall de transferències i subvencions\" dels pressupostos de la Generalitat per a l'exercici 2025 prorrogats per a 2026 o, si és el cas, de l'equivalent que figure en els pressupostos que s'aproven per a l'exercici 2026, i el seu equivalent en els pressupostos per a l'exercici 2027, concretament en la secció G0109, servici G010905, centre gestor G01090502, subprograma 454A00, capítol 7, fons propis no condicionats de la Generalitat.\n</p><p>\n</p><p>2. L'import global màxim de les subvencions convocades és de 3.981.300 euros i es distribuïx de la manera següent per anualitats:\n</p><p>\n</p><p>\n</p><p>LÍNIA\tMODALITAT\t2026\t2027\n</p><p>\t\t\n</p><p>S0375\t1 immoble\t1.194.390 €\t2.786.910 €\n</p><p>\n</p><p>\n</p><p>Quint. Sol·licitud, terminis i tramitació\n</p><p>\n</p><p>1. El termini de presentació de les sol·licituds serà de deu dies hàbils a comptar de l'endemà de la publicació d'esta resolució en el Diari Oficial de la Generalitat Valenciana.\n</p><p>\n</p><p>2. La sol·licitud haurà de presentar-se per mitjans electrònics, d'acord amb l'article 14.2 de la Llei 39/2015, d'1 d'octubre, del procediment administratiu comú de les administracions públiques, que obliga les persones jurídiques a relacionar-se a través de mitjans electrònics amb les administracions públiques per a la realització de qualsevol tràmit d'un procediment administratiu. La sol·licitud es presentarà exclusivament a través de la Seu electrònica de la Generalitat, accessible en l'adreça electrònica següent: \n</p><p>\n</p><p>https://www.gva.es/va/inicio/procedimientos?id_proc=97405\n</p><p>\n</p><p>Per a fer-ho, serà necessari disposar d'algun dels sistemes de firma electrònica admesos i que figuren en la Seu electrònica de la Generalitat a nom de l'entitat sol·licitant https://sede.gva.es/va/sede_verificacion_firma.\n</p><p>\n</p><p>Tant la sol·licitud com la resta dels documents que calga presentar s'hauran de firmar electrònicament amb el certificat de persona jurídica, emés per qualsevol de les entitats certificadores admeses per la seu de la Generalitat o amb el certificat digital de la persona que represente la persona jurídica, que haurà d'haver-se registrat prèviament en el Registre de representants de la Generalitat.\n</p><p>\n</p><p>No es consideraran presentades les sol·licituds realitzades per via diferent de la indicada, en virtut del que es disposa en l'article 16.8 de la Llei 39/2015, d'1 d'octubre, del procediment administratiu comú de les administracions públiques.\n</p><p>\n</p><p>La sol·licitud expressarà el consentiment o l'oposició perquè l'òrgan instructor puga comprovar o obtindre d'altres òrgans, administracions o proveïdors d'informació, per mitjans electrònics, la informació sobre el compliment de les obligacions tributàries i amb la Seguretat Social o sobre altres circumstàncies de les entitats sol·licitants o de les sol·licituds que siguen pertinents per a la instrucció del procediment. En cas d'oposició, l'entitat sol·licitant haurà d'aportar els certificats o proves que a este efecte li exigix esta convocatòria. La firma de la sol·licitud arriba també a les declaracions responsables que conté esta.\n</p><p>\n</p><p>3. Només s'admetrà una sol·licitud per entitat peticionària i bé immoble integrant del patrimoni cultural de la Comunitat Valenciana. En el cas que la mateixa entitat sol·licitant presente diverses sol·licituds, únicament es considerarà vàlida l'última presentada en termini.\n</p><p>\n</p><p>4. Les notificacions i comunicacions es practicaran a través dels mitjans previstos en els articles 14, 41 i següents de la Llei 39/2015, d'1 d'octubre, del procediment administratiu comú de les administracions públiques.\n</p><p>\n</p><p>\n</p><p>La convocatòria a la qual fa referència el present extracte pot consultar-se en el DOGV i en la pàgina web: https://cultura.gva.es/va/web/patrimonio-cultural-y-museos/convocatorias-de-ayudas\n</p><p>\n</p>",
+        "url": "https://dogv.gva.es/va/resultat-dogv?signatura=2026/12436",
+        "cve": "DOGV-V-2026-12436",
+        "desDiarioOficial": "DOCV. D.O. DE LA COMUNITAT VALENCIANA",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

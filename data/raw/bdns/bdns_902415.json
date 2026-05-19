@@ -1,0 +1,106 @@
+{
+  "id": "BDNS-902415",
+  "id_interno": 1103976,
+  "numero_convocatoria": "902415",
+  "organismo": "ESTADO — MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL — DIRECCIÓN PROVINCIAL DEL SEPE DE CÁCERES",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Programa de Fomento de Empleo Agrario en Andalucía y Extremadura. Proyectos de Generadores de Empleo Estable 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA",
+  "regiones": "ES432 - Cáceres",
+  "finalidad": "Fomento del Empleo",
+  "bases_reguladoras": "Programa de Fomento de Empleo Agrario",
+  "url_bases_reguladoras": "https://www.boe.es/buscar/doc.php?id=BOE-A-1997-13739",
+  "presupuesto": "2.106.076,21 €",
+  "presupuesto_total_num": 2106076.21,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902415",
+  "text": "CONVOCATORIA BDNS Nº 902415\nOrganismo: ESTADO — MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL — DIRECCIÓN PROVINCIAL DEL SEPE DE CÁCERES\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 2.106.076,21 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA\nRegiones: ES432 - Cáceres\nFinalidad: Fomento del Empleo\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nPrograma de Fomento de Empleo Agrario en Andalucía y Extremadura. Proyectos de Generadores de Empleo Estable 2026\n\nBases reguladoras:\nPrograma de Fomento de Empleo Agrario\nURL bases reguladoras: https://www.boe.es/buscar/doc.php?id=BOE-A-1997-13739\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902415",
+  "_raw": {
+    "id": 1103976,
+    "organo": {
+      "nivel1": "ESTADO",
+      "nivel2": "MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL",
+      "nivel3": "DIRECCIÓN PROVINCIAL DEL SEPE DE CÁCERES"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902415",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 2106076.21,
+    "mrr": false,
+    "descripcion": "Programa de Fomento de Empleo Agrario en Andalucía y Extremadura. Proyectos de Generadores de Empleo Estable 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA",
+        "codigo": "A"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES432 - Cáceres"
+      }
+    ],
+    "descripcionFinalidad": "Fomento del Empleo",
+    "descripcionBasesReguladoras": "Programa de Fomento de Empleo Agrario",
+    "urlBasesReguladoras": "https://www.boe.es/buscar/doc.php?id=BOE-A-1997-13739",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Dia siguiente a la publicación del Extracto en BOE",
+    "textFin": "Un mes natural desde día siguiente a publicación",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445333,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "12-Resolución Convocatoria GEE 202.pdf",
+        "long": 567264,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210429,
+        "titulo": "Extracto de la Resolución de la Dirección Provincial del Servicio Público de Empleo Estatal en Cáceres, por la que se efectúa convocatoria de subvenciones a las Corporaciones Locales, en procedimiento de concurrencia competitiva, para la realización de proyectos de interés general y social, generadores de empleo estable, dentro del programa de fomento de empleo agrario, ejercicio 2026.",
+        "tituloLeng": null,
+        "texto": "<p><p>Primero. Beneficiarios: </p></p><p><p>Corporaciones Locales o Entidades dependientes o vinculadas a una Administración Local de la provincia de Cáceres. </p></p><p><p>Segundo. Objeto: </p></p><p><p>Subvencionar los costes laborales para la contratación de personas desempleadas, preferentemente eventuales incluidas en el Sistema Especial para Trabajadores por Cuenta Ajena Agrarios de la Seguridad Social, para la ejecución de obras de interés general y social generadoras de empleo estable en el ámbito de la colaboración con la Corporaciones Locales, dentro del programa de fomento de empleo agrario. </p></p><p><p>Tercero. Bases Reguladoras: </p></p><p><p>Ley 38/2003, de 17 de noviembre, General de Subvenciones (LGS).</p></p><p><p>Real Decreto 939/1997, de 20 de junio, por el que se regula la afectación al programa de fomento de empleo agrario de créditos para inversiones de las Administraciones Públicas en las Comunidades Autónomas de Andalucía y Extremadura y en las zonas rurales deprimidas.</p></p><p><p>Resolución de 12 de abril de 2004, del Servicio Público de Empleo Estatal, sobre el procedimiento de reintegro de subvenciones concedidas por el Organismo y las actuaciones administrativas derivadas de la recaudación en período voluntario de los ingresos de derecho público de naturaleza no tributaria derivados de los reintegros.</p></p><p><p>Real Decreto 818/2021, de 28 de septiembre, por el que se regulan los programas comunes de activación para el empleo del Sistema Nacional de Empleo.</p></p><p><p>Orden TES/1077/2023, de 28 de septiembre, establece, en el ámbito competencial del Servicio Público de Empleo Estatal, las bases reguladoras para la concesión de subvenciones destinadas a la financiación de programas de políticas activas de empleo previstos en el Real Decreto 818/2021, de 28 de septiembre, por el que se regulan los programas comunes de activación para el empleo del Sistema Nacional de Empleo.</p></p><p><p></p></p><p><p>Cuarto. Importe: 2.106.076,21 €.</p></p><p><p>Quinto. Plazo de presentación de solicitudes: </p></p><p><p>Un mes natural desde el día siguiente a la publicación del presente extracto de esta convocatoria en el BOE. </p></p><p><p>Sexto. Otros datos: </p></p><p><p>El expediente tendrá formato electrónico para todos los trámites del procedimiento.</p></p>",
+        "textoLeng": null,
+        "url": "http://www.boe.es/diario_boe/verifica.php?acc=Verificar&c=BOE-B-2026-13596",
+        "cve": "BOE-B-2026-13596",
+        "desDiarioOficial": "BOE. BOLETÍN OFICIAL DEL ESTADO",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

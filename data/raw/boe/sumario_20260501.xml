@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <sumario>
+      <metadatos>
+        <publicacion>BOE</publicacion>
+        <fecha_publicacion>20260501</fecha_publicacion>
+      </metadatos>
+      <diario numero="106">
+        <sumario_diario>
+          <identificador>BOE-S-2026-106</identificador>
+          <url_pdf szBytes="294076" szKBytes="287">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-S-2026-106.pdf</url_pdf>
+        </sumario_diario>
+        <seccion codigo="1" nombre="I. Disposiciones generales">
+          <departamento codigo="3120" nombre="MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN">
+            <epigrafe nombre="Pesca marítima">
+              <item>
+                <identificador>BOE-A-2026-9436</identificador>
+                <control>2026/7176</control>
+                <titulo>Real Decreto 362/2026, de 29 de abril, por el que se modifica el Real Decreto 46/2019, de 8 de febrero, por el que se regula la pesquería de atún rojo en el Atlántico Oriental y el Mediterráneo.</titulo>
+                <url_pdf szBytes="282513" szKBytes="276" pagina_inicial="60426" pagina_final="60440">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9436.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9436</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9436</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="2A" nombre="II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias">
+          <departamento codigo="9585" nombre="MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES">
+            <epigrafe nombre="Ceses">
+              <item>
+                <identificador>BOE-A-2026-9437</identificador>
+                <control>2026/7177</control>
+                <titulo>Real Decreto 363/2026, de 29 de abril, por el que se dispone el cese de don Juan Ramón Calparsoro Damián como Fiscal Jefe de la Fiscalía Provincial de Gipuzkoa.</titulo>
+                <url_pdf szBytes="191994" szKBytes="187" pagina_inicial="60441" pagina_final="60441">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9437.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9437</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9437</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="7320" nombre="MINISTERIO DEL INTERIOR">
+            <epigrafe nombre="Destinos">
+              <item>
+                <identificador>BOE-A-2026-9438</identificador>
+                <control>2026/7255</control>
+                <titulo>Resolución de 29 de abril de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 30 de marzo de 2026.</titulo>
+                <url_pdf szBytes="219465" szKBytes="214" pagina_inicial="60442" pagina_final="60443">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9438.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9438</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9438</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="1310" nombre="JUNTA ELECTORAL CENTRAL">
+            <epigrafe nombre="Designaciones">
+              <item>
+                <identificador>BOE-A-2026-9439</identificador>
+                <control>2026/7256</control>
+                <titulo>Resolución de 30 de abril de 2026, de la Presidencia de la Junta Electoral Central, de designación de los Vocales no judiciales de las Juntas Electorales Provinciales a los que se refiere el artículo 10.1.b) de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, en relación con las elecciones al Parlamento de Andalucía de 17 de mayo de 2026.</titulo>
+                <url_pdf szBytes="198567" szKBytes="194" pagina_inicial="60444" pagina_final="60445">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9439.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9439</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9439</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="1420" nombre="TRIBUNAL DE CUENTAS">
+            <epigrafe nombre="Destinos">
+              <item>
+                <identificador>BOE-A-2026-9440</identificador>
+                <control>2026/7037</control>
+                <titulo>Corrección de errores de la Resolución de 13 de abril de 2026, de la Presidencia del Tribunal de Cuentas, por la que se publica el Acuerdo de la Comisión de Gobierno, por el que se resuelve el concurso específico, convocado por Resolución de 18 de septiembre de 2025.</titulo>
+                <url_pdf szBytes="191068" szKBytes="187" pagina_inicial="60446" pagina_final="60446">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9440.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9440</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9440</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="310" nombre="UNIVERSIDADES">
+            <epigrafe nombre="Nombramientos">
+              <item>
+                <identificador>BOE-A-2026-9441</identificador>
+                <control>2026/6759</control>
+                <titulo>Resolución de 13 de abril de 2026, de la Universidad Jaume I, por la que se nombra Profesor Titular de Universidad a don Luis Vicente Lizán Tudela.</titulo>
+                <url_pdf szBytes="195635" szKBytes="191" pagina_inicial="60447" pagina_final="60447">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9441.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9441</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9441</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9442</identificador>
+                <control>2026/6761</control>
+                <titulo>Resolución de 20 de abril de 2026, de la Universidad de Almería, por la que se nombra Catedrático de Universidad a don Agustín Javier Simonelli Muñoz.</titulo>
+                <url_pdf szBytes="192104" szKBytes="188" pagina_inicial="60448" pagina_final="60448">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9442.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9442</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9442</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9443</identificador>
+                <control>2026/6762</control>
+                <titulo>Resolución de 20 de abril de 2026, de la Universidad de Almería, por la que se nombra Profesora Titular de Universidad a doña Carmen Capel Salinas.</titulo>
+                <url_pdf szBytes="191835" szKBytes="187" pagina_inicial="60449" pagina_final="60449">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9443.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9443</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9443</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9444</identificador>
+                <control>2026/6763</control>
+                <titulo>Resolución de 20 de abril de 2026, de la Universidad de Córdoba, por la que se nombra Catedrática de Universidad a doña Ana Belén Martínez López.</titulo>
+                <url_pdf szBytes="191896" szKBytes="187" pagina_inicial="60450" pagina_final="60450">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9444.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9444</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9444</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9445</identificador>
+                <control>2026/6764</control>
+                <titulo>Resolución de 20 de abril de 2026, de la Universidad de La Laguna, por la que se nombra Profesor Titular de Universidad a don Niels Janssen.</titulo>
+                <url_pdf szBytes="191805" szKBytes="187" pagina_inicial="60451" pagina_final="60451">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9445.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9445</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9445</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9446</identificador>
+                <control>2026/6766</control>
+                <titulo>Resolución de 20 de abril de 2026, de la Universidad del País Vasco/Euskal Herriko Unibertsitatea, por la que se nombra Profesora Titular de Universidad a doña Ana Picallo Pérez.</titulo>
+                <url_pdf szBytes="191874" szKBytes="187" pagina_inicial="60452" pagina_final="60452">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9446.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9446</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9446</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9447</identificador>
+                <control>2026/6767</control>
+                <titulo>Resolución de 20 de abril de 2026, de la Universidad Nacional de Educación a Distancia, por la que se nombra Catedrático de Universidad a don Juan Antonio Gómez García.</titulo>
+                <url_pdf szBytes="191035" szKBytes="187" pagina_inicial="60453" pagina_final="60453">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9447.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9447</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9447</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="2B" nombre="II. Autoridades y personal. - B. Oposiciones y concursos">
+          <departamento codigo="9585" nombre="MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES">
+            <epigrafe nombre="Personal funcionario. Concursos">
+              <item>
+                <identificador>BOE-A-2026-9448</identificador>
+                <control>2026/7205</control>
+                <titulo>Resolución de 29 de abril de 2026, de la Subsecretaría, por la que se convoca concurso específico para la provisión de puestos de trabajo.</titulo>
+                <url_pdf szBytes="740392" szKBytes="723" pagina_inicial="60454" pagina_final="60484">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9448.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9448</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9448</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="5140" nombre="MINISTERIO DE HACIENDA">
+            <epigrafe nombre="Procedimientos de libre designación">
+              <item>
+                <identificador>BOE-A-2026-9449</identificador>
+                <control>2026/6908</control>
+                <titulo>Resolución de 22 de abril de 2026, de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="551047" szKBytes="538" pagina_inicial="60485" pagina_final="60501">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9449.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9449</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9449</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="7320" nombre="MINISTERIO DEL INTERIOR">
+            <epigrafe nombre="Procedimientos de libre designación">
+              <item>
+                <identificador>BOE-A-2026-9450</identificador>
+                <control>2026/7051</control>
+                <titulo>Resolución de 21 de abril de 2026, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="242380" szKBytes="237" pagina_inicial="60502" pagina_final="60504">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9450.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9450</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9450</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9565" nombre="MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES">
+            <epigrafe nombre="Escala de Personal Investigador Científico de los Organismos Públicos de Investigación">
+              <item>
+                <identificador>BOE-A-2026-9451</identificador>
+                <control>2026/7059</control>
+                <titulo>Resolución de 22 de abril de 2026, de la Subsecretaría, por la que se modifica la de 22 de mayo de 2025, por la que se publica la relación de aspirantes que han superado el proceso selectivo para ingreso, por el sistema de promoción interna, en la Escala de Personal Investigador Científico de los Organismos Públicos de Investigación, convocado por Resolución de 23 de marzo de 2023.</titulo>
+                <url_pdf szBytes="207987" szKBytes="203" pagina_inicial="60505" pagina_final="60508">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9451.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9451</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9451</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="4620" nombre="MINISTERIO DE IGUALDAD">
+            <epigrafe nombre="Procedimientos de libre designación">
+              <item>
+                <identificador>BOE-A-2026-9452</identificador>
+                <control>2026/7000</control>
+                <titulo>Resolución de 23 de abril de 2026, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="251897" szKBytes="246" pagina_inicial="60509" pagina_final="60512">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9452.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9452</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9452</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9579" nombre="MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES">
+            <epigrafe nombre="Procedimientos de libre designación">
+              <item>
+                <identificador>BOE-A-2026-9453</identificador>
+                <control>2026/7001</control>
+                <titulo>Resolución de 21 de abril de 2026, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="352507" szKBytes="344" pagina_inicial="60513" pagina_final="60516">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9453.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9453</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9453</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9454</identificador>
+                <control>2026/7210</control>
+                <titulo>Resolución de 28 de abril de 2026, de la Secretaría de Estado de Migraciones, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="260476" szKBytes="254" pagina_inicial="60517" pagina_final="60521">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9454.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9454</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9454</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9525" nombre="ADMINISTRACIÓN LOCAL">
+            <epigrafe nombre="Personal funcionario">
+              <item>
+                <identificador>BOE-A-2026-9455</identificador>
+                <control>2026/102237</control>
+                <titulo>Resolución de 21 de abril de 2026, de la Ciudad de Ceuta, referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.</titulo>
+                <url_pdf szBytes="190056" szKBytes="186" pagina_inicial="60522" pagina_final="60522">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9455.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9455</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9455</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9456</identificador>
+                <control>2026/102239</control>
+                <titulo>Resolución de 21 de abril de 2026, de la Diputación Provincial de Valencia/València, referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.</titulo>
+                <url_pdf szBytes="190401" szKBytes="186" pagina_inicial="60523" pagina_final="60523">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9456.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9456</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9456</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9457</identificador>
+                <control>2026/102238</control>
+                <titulo>Resolución de 22 de abril de 2026, del Ayuntamiento de San Sebastián de los Reyes (Madrid), referente a la convocatoria para proveer puesto de trabajo por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="191435" szKBytes="187" pagina_inicial="60524" pagina_final="60524">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9457.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9457</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9457</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9458</identificador>
+                <control>2026/102240</control>
+                <titulo>Resolución de 22 de abril de 2026, del Ayuntamiento de Marbella (Málaga), referente a la convocatoria para proveer puesto de trabajo por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="190547" szKBytes="186" pagina_inicial="60525" pagina_final="60525">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9458.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9458</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9458</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9459</identificador>
+                <control>2026/102274</control>
+                <titulo>Resolución de 23 de abril de 2026, del Ayuntamiento de Majadahonda (Madrid), referente a la convocatoria para proveer puesto de trabajo por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="190726" szKBytes="186" pagina_inicial="60526" pagina_final="60526">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9459.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9459</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9459</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9460</identificador>
+                <control>2026/102304</control>
+                <titulo>Resolución de 24 de abril de 2026, del Ayuntamiento de Pozuelo de Alarcón (Madrid), referente a la convocatoria para proveer puesto de trabajo por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="190854" szKBytes="186" pagina_inicial="60527" pagina_final="60527">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9460.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9460</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9460</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9461</identificador>
+                <control>2026/102405</control>
+                <titulo>Resolución de 24 de abril de 2026, del Cabildo Insular de Tenerife (Santa Cruz de Tenerife), referente a la convocatoria para proveer puesto de trabajo por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="190691" szKBytes="186" pagina_inicial="60528" pagina_final="60528">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9461.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9461</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9461</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9462</identificador>
+                <control>2026/102330</control>
+                <titulo>Resolución de 27 de abril de 2026, del Ayuntamiento de Valladolid, referente a la convocatoria para proveer puesto de trabajo por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="190539" szKBytes="186" pagina_inicial="60529" pagina_final="60529">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9462.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9462</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9462</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9463</identificador>
+                <control>2026/102402</control>
+                <titulo>Resolución de 28 de abril de 2026, de la Ciudad de Ceuta, referente a la convocatoria para proveer puesto de trabajo por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="190559" szKBytes="186" pagina_inicial="60530" pagina_final="60530">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9463.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9463</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9463</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9464</identificador>
+                <control>2026/102403</control>
+                <titulo>Resolución de 28 de abril de 2026, del Ayuntamiento de Alcobendas (Madrid), referente a la convocatoria para proveer puesto de trabajo por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="190530" szKBytes="186" pagina_inicial="60531" pagina_final="60531">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9464.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9464</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9464</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9465</identificador>
+                <control>2026/102401</control>
+                <titulo>Resolución de 29 de abril de 2026, del Ayuntamiento de Siero (Asturias), referente a la convocatoria para proveer puesto de trabajo por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="190731" szKBytes="186" pagina_inicial="60532" pagina_final="60532">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9465.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9465</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9465</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9466</identificador>
+                <control>2026/102406</control>
+                <titulo>Resolución de 29 de abril de 2026, del Cabildo Insular de Tenerife (Santa Cruz de Tenerife), referente a la convocatoria para proveer puesto de trabajo por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="191246" szKBytes="187" pagina_inicial="60533" pagina_final="60533">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9466.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9466</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9466</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Personal funcionario y laboral">
+              <item>
+                <identificador>BOE-A-2026-9467</identificador>
+                <control>2026/102241</control>
+                <titulo>Resolución de 14 de abril de 2026, del Ayuntamiento de Moraleja (Cáceres), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="191370" szKBytes="187" pagina_inicial="60534" pagina_final="60534">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9467.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9467</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9467</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9468</identificador>
+                <control>2026/102245</control>
+                <titulo>Resolución de 17 de abril de 2026, del Ayuntamiento de Níjar (Almería), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="191406" szKBytes="187" pagina_inicial="60535" pagina_final="60535">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9468.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9468</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9468</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9469</identificador>
+                <control>2026/102244</control>
+                <titulo>Resolución de 20 de abril de 2026, del Ayuntamiento de Íllora (Granada), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190686" szKBytes="186" pagina_inicial="60536" pagina_final="60536">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9469.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9469</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9469</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9470</identificador>
+                <control>2026/102246</control>
+                <titulo>Resolución de 20 de abril de 2026, del Ayuntamiento de Puertollano (Ciudad Real), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190496" szKBytes="186" pagina_inicial="60537" pagina_final="60537">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9470.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9470</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9470</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9471</identificador>
+                <control>2026/102258</control>
+                <titulo>Resolución de 20 de abril de 2026, del Ayuntamiento de Sevilla, Patronato del Real Alcázar y Casa Consistorial, referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190493" szKBytes="186" pagina_inicial="60538" pagina_final="60538">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9471.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9471</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9471</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9472</identificador>
+                <control>2026/102242</control>
+                <titulo>Resolución de 21 de abril de 2026, del Cabildo Insular de Tenerife (Santa Cruz de Tenerife), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190310" szKBytes="186" pagina_inicial="60539" pagina_final="60539">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9472.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9472</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9472</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9473</identificador>
+                <control>2026/102243</control>
+                <titulo>Resolución de 21 de abril de 2026, del Ayuntamiento de Segovia, referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190364" szKBytes="186" pagina_inicial="60540" pagina_final="60540">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9473.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9473</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9473</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9474</identificador>
+                <control>2026/102247</control>
+                <titulo>Resolución de 21 de abril de 2026, del Ayuntamiento de Rioseco de Tapia (León), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190094" szKBytes="186" pagina_inicial="60541" pagina_final="60541">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9474.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9474</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9474</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9475</identificador>
+                <control>2026/102248</control>
+                <titulo>Resolución de 21 de abril de 2026, del Ayuntamiento de Benicàssim/Benicasim (Castellón/Castelló), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="191371" szKBytes="187" pagina_inicial="60542" pagina_final="60542">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9475.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9475</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9475</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9476</identificador>
+                <control>2026/102249</control>
+                <titulo>Resolución de 21 de abril de 2026, del Ayuntamiento de Beniel (Murcia), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190877" szKBytes="186" pagina_inicial="60543" pagina_final="60543">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9476.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9476</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9476</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9477</identificador>
+                <control>2026/102251</control>
+                <titulo>Resolución de 21 de abril de 2026, del Ayuntamiento de Anguciana (La Rioja), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190287" szKBytes="186" pagina_inicial="60544" pagina_final="60544">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9477.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9477</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9477</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9478</identificador>
+                <control>2026/102252</control>
+                <titulo>Resolución de 21 de abril de 2026, de la Ciudad de Ceuta, referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190240" szKBytes="186" pagina_inicial="60545" pagina_final="60545">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9478.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9478</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9478</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9479</identificador>
+                <control>2026/102250</control>
+                <titulo>Resolución de 22 de abril de 2026, del Ayuntamiento de Campezo/Kanpezu (Araba/Álava), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190586" szKBytes="186" pagina_inicial="60546" pagina_final="60546">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9479.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9479</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9479</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9480</identificador>
+                <control>2026/102253</control>
+                <titulo>Resolución de 22 de abril de 2026, del Ayuntamiento de Motril (Granada), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="191019" szKBytes="187" pagina_inicial="60547" pagina_final="60547">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9480.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9480</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9480</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9481</identificador>
+                <control>2026/102254</control>
+                <titulo>Resolución de 22 de abril de 2026, del Ayuntamiento de Motril (Granada), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190647" szKBytes="186" pagina_inicial="60548" pagina_final="60548">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9481.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9481</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9481</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9482</identificador>
+                <control>2026/102255</control>
+                <titulo>Resolución de 22 de abril de 2026, del Ayuntamiento de Zizurkil (Gipuzkoa), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190182" szKBytes="186" pagina_inicial="60549" pagina_final="60549">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9482.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9482</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9482</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9483</identificador>
+                <control>2026/102256</control>
+                <titulo>Resolución de 22 de abril de 2026, del Ayuntamiento de Roquetes (Tarragona), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190915" szKBytes="186" pagina_inicial="60550" pagina_final="60550">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9483.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9483</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9483</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9484</identificador>
+                <control>2026/102257</control>
+                <titulo>Resolución de 22 de abril de 2026, del Ayuntamiento de Sabiñánigo (Huesca), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190983" szKBytes="187" pagina_inicial="60551" pagina_final="60551">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9484.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9484</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9484</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9485</identificador>
+                <control>2026/102259</control>
+                <titulo>Resolución de 22 de abril de 2026, del Ayuntamiento de Ayerbe (Huesca), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190347" szKBytes="186" pagina_inicial="60552" pagina_final="60552">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9485.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9485</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9485</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9486</identificador>
+                <control>2026/102262</control>
+                <titulo>Resolución de 22 de abril de 2026, del Ayuntamiento de Masegoso de Tajuña (Guadalajara), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="191557" szKBytes="187" pagina_inicial="60553" pagina_final="60553">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9486.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9486</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9486</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9487</identificador>
+                <control>2026/102263</control>
+                <titulo>Resolución de 22 de abril de 2026, del Ayuntamiento de Ferrol (A Coruña), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="191019" szKBytes="187" pagina_inicial="60554" pagina_final="60554">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9487.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9487</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9487</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9488</identificador>
+                <control>2026/102264</control>
+                <titulo>Resolución de 22 de abril de 2026, del Ayuntamiento de Ubrique (Cádiz), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190733" szKBytes="186" pagina_inicial="60555" pagina_final="60555">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9488.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9488</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9488</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9489</identificador>
+                <control>2026/102265</control>
+                <titulo>Resolución de 22 de abril de 2026, del Ayuntamiento de Cartagena (Murcia), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="191025" szKBytes="187" pagina_inicial="60556" pagina_final="60556">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9489.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9489</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9489</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9490</identificador>
+                <control>2026/102266</control>
+                <titulo>Resolución de 22 de abril de 2026, del Ayuntamiento de Caniles (Granada), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190988" szKBytes="187" pagina_inicial="60557" pagina_final="60557">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9490.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9490</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9490</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9491</identificador>
+                <control>2026/102268</control>
+                <titulo>Resolución de 22 de abril de 2026, del Ayuntamiento de Villarrobledo (Albacete), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190168" szKBytes="186" pagina_inicial="60558" pagina_final="60558">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9491.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9491</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9491</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="310" nombre="UNIVERSIDADES">
+            <epigrafe nombre="Personal técnico, de gestión y de administración y servicios">
+              <item>
+                <identificador>BOE-A-2026-9492</identificador>
+                <control>2026/7068</control>
+                <titulo>Resolución de 24 de abril de 2026, de la Universidad de Cantabria, por la que se convocan pruebas selectivas para ingreso, por el sistema general de acceso libre, en la Escala de Ayudantes de Archivos y Bibliotecas.</titulo>
+                <url_pdf szBytes="287390" szKBytes="281" pagina_inicial="60559" pagina_final="60573">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9492.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9492</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9492</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="3" nombre="III. Otras disposiciones">
+          <departamento codigo="9585" nombre="MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES">
+            <epigrafe nombre="Contratación administrativa">
+              <item>
+                <identificador>BOE-A-2026-9493</identificador>
+                <control>2026/7071</control>
+                <titulo>Resolución de 23 de abril de 2026, del Centro de Investigaciones Sociológicas, por la que se designa la composición de la Mesa de Contratación.</titulo>
+                <url_pdf szBytes="204200" szKBytes="199" pagina_inicial="60574" pagina_final="60576">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9493.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9493</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9493</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Nacionalidad española">
+              <item>
+                <identificador>BOE-A-2026-9494</identificador>
+                <control>2026/7178</control>
+                <titulo>Real Decreto 364/2026, de 29 de abril, por el que se concede la nacionalidad española por carta de naturaleza a don Rodrigue Kwizera.</titulo>
+                <url_pdf szBytes="191031" szKBytes="187" pagina_inicial="60577" pagina_final="60577">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9494.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9494</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9494</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Títulos nobiliarios">
+              <item>
+                <identificador>BOE-A-2026-9495</identificador>
+                <control>2026/6923</control>
+                <titulo>Orden PJC/408/2026, de 22 de abril, por la que se manda expedir, sin perjuicio de tercero de mejor derecho, Real Carta de Sucesión como Baronesa de Benedrís, a favor de doña María del Carmen Muguiro Serrano-Suñer.</titulo>
+                <url_pdf szBytes="191486" szKBytes="187" pagina_inicial="60578" pagina_final="60578">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9495.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9495</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9495</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9496</identificador>
+                <control>2026/6924</control>
+                <titulo>Orden PJC/409/2026, de 22 de abril, por la que se manda expedir, sin perjuicio de tercero de mejor derecho, Real Carta de Sucesión como Marqués de Tenorio, a favor de don Miguel de las Bárcenas y Fitz-James-Stuart.</titulo>
+                <url_pdf szBytes="192044" szKBytes="188" pagina_inicial="60579" pagina_final="60579">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9496.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9496</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9496</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9497</identificador>
+                <control>2026/6925</control>
+                <titulo>Orden PJC/410/2026, de 22 de abril, por la que se manda expedir, sin perjuicio de tercero de mejor derecho, Real Carta de Sucesión como Vizconde de Miranda, a favor de don Enrique Puigmoltó Sánchez de León.</titulo>
+                <url_pdf szBytes="191221" szKBytes="187" pagina_inicial="60580" pagina_final="60580">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9497.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9497</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9497</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="7320" nombre="MINISTERIO DEL INTERIOR">
+            <epigrafe nombre="Convenios">
+              <item>
+                <identificador>BOE-A-2026-9498</identificador>
+                <control>2026/6932</control>
+                <titulo>Resolución de 22 de abril de 2026, de la Secretaría General Técnica, por la que se publica el Convenio entre la Secretaría de Estado de Seguridad y el Ayuntamiento de Cáceres, para la incorporación del Cuerpo de Policía Local al Sistema de Seguimiento Integral de los casos de Violencia de Género.</titulo>
+                <url_pdf szBytes="233723" szKBytes="228" pagina_inicial="60581" pagina_final="60587">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9498.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9498</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9498</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9499</identificador>
+                <control>2026/6934</control>
+                <titulo>Resolución de 22 de abril de 2026, de la Secretaría General Técnica, por la que se publica el Convenio entre la Secretaría de Estado de Seguridad y el Ayuntamiento de Níjar, para la incorporación del Cuerpo de Policía Local al Sistema de Seguimiento Integral de los casos de Violencia de Género.</titulo>
+                <url_pdf szBytes="234890" szKBytes="229" pagina_inicial="60588" pagina_final="60594">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9499.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9499</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9499</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9586" nombre="MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE">
+            <epigrafe nombre="Sellos de correos">
+              <item>
+                <identificador>BOE-A-2026-9500</identificador>
+                <control>2026/7078</control>
+                <titulo>Resolución de 20 de abril de 2026, de las Subsecretarías de Transportes y Movilidad Sostenible y de Hacienda, sobre emisión y puesta en circulación de una serie de sellos de correo denominada «EUROPA.-2026. 70è aniversari dels segells Europa. Principat d'Andorra».</titulo>
+                <url_pdf szBytes="199641" szKBytes="195" pagina_inicial="60595" pagina_final="60596">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9500.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9500</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9500</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9573" nombre="MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL">
+            <epigrafe nombre="Convenios colectivos de trabajo">
+              <item>
+                <identificador>BOE-A-2026-9501</identificador>
+                <control>2026/6786</control>
+                <titulo>Resolución de 20 de abril de 2026, de la Dirección General de Trabajo, por la que se registra y publica el Acuerdo parcial sobre revisión y aprobación de las tablas salariales para el año 2026 del Convenio colectivo estatal para las empresas de publicidad.</titulo>
+                <url_pdf szBytes="217692" szKBytes="213" pagina_inicial="60597" pagina_final="60599">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9501.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9501</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9501</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9502</identificador>
+                <control>2026/6787</control>
+                <titulo>Resolución de 20 de abril de 2026, de la Dirección General de Trabajo, por la que se registra y publica el Acuerdo por el que se aprueban las tablas salariales de 2024 y 2025 para el personal docente en niveles concertados y las tablas de 2025 para el personal docente en niveles no concertados y del personal de administración y servicios, del VII Convenio colectivo de empresas de enseñanza privada sostenidas total o parcialmente con fondos públicos.</titulo>
+                <url_pdf szBytes="691912" szKBytes="676" pagina_inicial="60600" pagina_final="60629">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9502.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9502</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9502</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9503</identificador>
+                <control>2026/6788</control>
+                <titulo>Resolución de 20 de abril de 2026, de la Dirección General de Trabajo, por la que se registra y publica el IX Convenio colectivo de Santa Bárbara Sistemas, SA.</titulo>
+                <url_pdf szBytes="880011" szKBytes="859" pagina_inicial="60630" pagina_final="60687">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9503.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9503</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9503</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9504</identificador>
+                <control>2026/6789</control>
+                <titulo>Resolución de 20 de abril de 2026, de la Dirección General de Trabajo, por la que se registra y publica el X Convenio colectivo del grupo de empresas Unide.</titulo>
+                <url_pdf szBytes="429163" szKBytes="419" pagina_inicial="60688" pagina_final="60722">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9504.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9504</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9504</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9505</identificador>
+                <control>2026/6942</control>
+                <titulo>Resolución de 23 de abril de 2026, de la Dirección General de Trabajo, por la que se registra y publica el XII Convenio colectivo nacional para las industrias de pastas alimenticias para los años 2025 a 2026.</titulo>
+                <url_pdf szBytes="769379" szKBytes="751" pagina_inicial="60723" pagina_final="60783">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9505.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9505</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9505</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9593" nombre="MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA">
+            <epigrafe nombre="Comunidad Autónoma de Canarias. Convenio">
+              <item>
+                <identificador>BOE-A-2026-9506</identificador>
+                <control>2026/6947</control>
+                <titulo>Resolución de 16 de abril de 2026, de la Dirección General de la Administración General del Estado en el Territorio, por la que se publica la Adenda de prórroga del Convenio con el Servicio Canario de la Salud, para la realización de rotaciones de la especialidad de Medicina Preventiva y Salud Pública en los Centros de Vacunación Internacional y los Servicios de Sanidad Exterior integrados en las Subdelegaciones del Gobierno en Las Palmas y Santa Cruz de Tenerife.</titulo>
+                <url_pdf szBytes="204636" szKBytes="200" pagina_inicial="60784" pagina_final="60786">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9506.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9506</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9506</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="4110" nombre="MINISTERIO DE CULTURA">
+            <epigrafe nombre="Patrimonio histórico. Derecho de tanteo">
+              <item>
+                <identificador>BOE-A-2026-9507</identificador>
+                <control>2026/6858</control>
+                <titulo>Orden CLT/411/2026, de 15 de abril, por la que se ejercita el derecho de tanteo sobre el lote n.º 1551, subastado por la sala Ibercoin, en Madrid.</titulo>
+                <url_pdf szBytes="192225" szKBytes="188" pagina_inicial="60787" pagina_final="60787">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9507.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9507</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9507</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9508</identificador>
+                <control>2026/6859</control>
+                <titulo>Orden CLT/412/2026, de 15 de abril, por la que se ejercita el derecho de tanteo sobre el lote n.º 620, subastado por la sala Ansorena, en Madrid.</titulo>
+                <url_pdf szBytes="192901" szKBytes="188" pagina_inicial="60788" pagina_final="60788">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9508.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9508</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9508</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9509</identificador>
+                <control>2026/6957</control>
+                <titulo>Orden CLT/413/2026, de 15 de abril, por la que se ejercita el derecho de tanteo sobre el lote n.º 709, subastado por la sala Ansorena, en Madrid.</titulo>
+                <url_pdf szBytes="192655" szKBytes="188" pagina_inicial="60789" pagina_final="60789">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9509.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9509</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9509</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9510</identificador>
+                <control>2026/6862</control>
+                <titulo>Orden CLT/414/2026, de 21 de abril, por la que se ejercita el derecho de tanteo sobre el lote n.º 806, subastado en la sala Alcalá, en Madrid.</titulo>
+                <url_pdf szBytes="192720" szKBytes="188" pagina_inicial="60790" pagina_final="60790">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9510.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9510</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9510</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9511</identificador>
+                <control>2026/6959</control>
+                <titulo>Orden CLT/415/2026, de 21 de abril, por la que se ejercita el derecho de tanteo sobre el lote n.º 856, subastado en la sala Fernando Durán, en Madrid.</titulo>
+                <url_pdf szBytes="192886" szKBytes="188" pagina_inicial="60791" pagina_final="60791">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9511.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9511</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9511</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9512</identificador>
+                <control>2026/6961</control>
+                <titulo>Orden CLT/416/2026, de 21 de abril, por la que se ejercita el derecho de tanteo sobre los lotes n.º 1495 y 1498, subastados en la sala Segre, en Madrid.</titulo>
+                <url_pdf szBytes="193888" szKBytes="189" pagina_inicial="60792" pagina_final="60792">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9512.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9512</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9512</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9589" nombre="MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA">
+            <epigrafe nombre="Deuda del Estado">
+              <item>
+                <identificador>BOE-A-2026-9513</identificador>
+                <control>2026/7234</control>
+                <titulo>Resolución de 30 de abril de 2026, de la Dirección General del Tesoro y Política Financiera, por la que se disponen determinadas emisiones de Bonos y Obligaciones del Estado en el mes de mayo de 2026 y se convocan las correspondientes subastas.</titulo>
+                <url_pdf szBytes="339935" szKBytes="332" pagina_inicial="60793" pagina_final="60801">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9513.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9513</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9513</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="4620" nombre="MINISTERIO DE IGUALDAD">
+            <epigrafe nombre="Ayudas">
+              <item>
+                <identificador>BOE-A-2026-9514</identificador>
+                <control>2026/6799</control>
+                <titulo>Resolución de 20 de abril de 2026, de la Secretaría de Estado de Igualdad y para la Erradicación de la Violencia contra las Mujeres, por la que se publica el Acuerdo de la Conferencia Sectorial de Igualdad, de 15 de abril de 2026, por el que se fijan los criterios de distribución y la distribución resultante para el ejercicio 2026 de los créditos asignados a: desarrollo de programas y la prestación de servicios que garanticen el derecho a la asistencia social integral a las mujeres víctimas de violencia de género y otras formas de violencia contra las mujeres y la atención a las hijas e hijos menores de edad; implementar la propuesta común para la mejora de la coordinación y desarrollo de planes personalizados; programas para el apoyo a víctimas de agresiones y/o abusos sexuales y programas de prevención de abusos sexuales en menores tutelados.</titulo>
+                <url_pdf szBytes="416677" szKBytes="407" pagina_inicial="60802" pagina_final="60815">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9514.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9514</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9514</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Contratación administrativa">
+              <item>
+                <identificador>BOE-A-2026-9515</identificador>
+                <control>2026/6963</control>
+                <titulo>Orden IGD/417/2026, de 20 de abril, por la que se modifica la Orden IGD/319/2021, de 25 de marzo, por la que se crea y regula la Mesa de Contratación del Ministerio de Igualdad.</titulo>
+                <url_pdf szBytes="196833" szKBytes="192" pagina_inicial="60816" pagina_final="60817">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9515.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9515</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9515</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9579" nombre="MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES">
+            <epigrafe nombre="Delegación de competencias">
+              <item>
+                <identificador>BOE-A-2026-9516</identificador>
+                <control>2026/6966</control>
+                <titulo>Resolución de 23 de abril de 2026, de la Tesorería General de la Seguridad Social, por la que se modifica la de 23 de julio de 2020, sobre delegación de competencias en sus órganos centrales y provinciales y en el Servicio Jurídico de la Administración de la Seguridad Social.</titulo>
+                <url_pdf szBytes="213824" szKBytes="209" pagina_inicial="60818" pagina_final="60822">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9516.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9516</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9516</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9592" nombre="MINISTERIO DE JUVENTUD E INFANCIA">
+            <epigrafe nombre="Premios">
+              <item>
+                <identificador>BOE-A-2026-9517</identificador>
+                <control>2026/6871</control>
+                <titulo>Orden JUI/418/2026, de 21 de abril, por la que se establecen las bases reguladoras para la concesión de los Premios Nacionales de Juventud.</titulo>
+                <url_pdf szBytes="238665" szKBytes="233" pagina_inicial="60823" pagina_final="60830">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9517.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9517</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9517</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="1310" nombre="JUNTA ELECTORAL CENTRAL">
+            <epigrafe nombre="Cargos representativos locales">
+              <item>
+                <identificador>BOE-A-2026-9518</identificador>
+                <control>2026/7257</control>
+                <titulo>Resolución de 30 de abril de 2026, de la Presidencia de la Junta Electoral Central, por la que se anuncia propuesta de designación de concejal del Ayuntamiento de Sos del Rey Católico (Zaragoza), en aplicación de lo previsto en el artículo 182.2 de la Ley Orgánica del Régimen Electoral General, de conformidad con lo dispuesto en el número 2 del apartado segundo de la Instrucción 1/2025, de 30 de enero, de la Junta Electoral Central, sobre sustitución de cargos representativos locales.</titulo>
+                <url_pdf szBytes="193430" szKBytes="189" pagina_inicial="60831" pagina_final="60831">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9518.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9518</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9518</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="1020" nombre="BANCO DE ESPAÑA">
+            <epigrafe nombre="Mercado de divisas">
+              <item>
+                <identificador>BOE-A-2026-9519</identificador>
+                <control>2026/7238</control>
+                <titulo>Resolución de 30 de abril de 2026, del Banco de España, por la que se publican los cambios del euro correspondientes al día 30 de abril de 2026, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.</titulo>
+                <url_pdf szBytes="216357" szKBytes="211" pagina_inicial="60832" pagina_final="60833">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9519.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9519</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9519</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="1040" nombre="COMISIÓN NACIONAL DEL MERCADO DE VALORES">
+            <epigrafe nombre="Empresas de asesoramiento financiero">
+              <item>
+                <identificador>BOE-A-2026-9520</identificador>
+                <control>2026/6803</control>
+                <titulo>Resolución de 17 de abril de 2026, de la Comisión Nacional del Mercado de Valores, por la que se publica la baja de la empresa de asesoramiento financiero en régimen nacional, Empodering Eafn, SL, en el correspondiente registro.</titulo>
+                <url_pdf szBytes="189647" szKBytes="185" pagina_inicial="60834" pagina_final="60834">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9520.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9520</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9520</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="8090" nombre="COMUNIDAD AUTÓNOMA DE GALICIA">
+            <epigrafe nombre="Homologaciones">
+              <item>
+                <identificador>BOE-A-2026-9521</identificador>
+                <control>2026/6804</control>
+                <titulo>Resolución de 1 de abril de 2026, de la Secretaría General de Industria y Desarrollo Energético, de la Consejería de Economía e Industria, por la que se modifica la autorización del modelo para su uso e instalación en la red de un transformador de medida de tensión, en alta tensión, fabricado por Alce Electrik, modelo 4MR12, variante F.</titulo>
+                <url_pdf szBytes="223004" szKBytes="218" pagina_inicial="60835" pagina_final="60838">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9521.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9521</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9521</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-9522</identificador>
+                <control>2026/6805</control>
+                <titulo>Resolución de 1 de abril de 2026, de la Secretaría General de Industria y Desarrollo Energético, de la Consejería de Economía e Industria, por la que se modifica la autorización del modelo para su uso e instalación en la red de un transformador de medida de intensidad, en alta tensión, fabricado por Alce Electrik, modelo 4MA72, variante Size 4.</titulo>
+                <url_pdf szBytes="222293" szKBytes="217" pagina_inicial="60839" pagina_final="60842">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-A-2026-9522.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9522</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-9522</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="5B" nombre="V. Anuncios. - B. Otros anuncios oficiales">
+          <departamento codigo="9562" nombre="MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN">
+            <item>
+              <identificador>BOE-B-2026-13660</identificador>
+              <titulo>Corrección de errores del extracto de la resolución de la Dirección de la Agencia Española de Cooperación Internacional para el Desarrollo (AECID) por la que se convoca la décimo quinta edición del Premio Nacional de Educación para la Solidaridad Global Vicente Ferrer en centros docentes sostenidos con fondos públicos correspondientes al año 2026</titulo>
+              <url_pdf szBytes="204519" szKBytes="200" pagina_inicial="21667" pagina_final="21667">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-B-2026-13660.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-13660</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-13660</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="6110" nombre="MINISTERIO DE DEFENSA">
+            <item>
+              <identificador>BOE-B-2026-13661</identificador>
+              <titulo>Extracto de la Resolución de 29 de abril de 2026 del Mando de Adiestramiento y Doctrina por la que se convocan ayudas para realización del Máster en Derecho Militar.</titulo>
+              <url_pdf szBytes="207815" szKBytes="203" pagina_inicial="21668" pagina_final="21669">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-B-2026-13661.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-13661</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-13661</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-13662</identificador>
+              <titulo>Extracto de la Orden Ministerial 17/2026 de 29 de abril de 2026, por la que se convocan los Premios Defensa 2026</titulo>
+              <url_pdf szBytes="207948" szKBytes="203" pagina_inicial="21670" pagina_final="21671">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-B-2026-13662.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-13662</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-13662</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9593" nombre="MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA">
+            <item>
+              <identificador>BOE-B-2026-13663</identificador>
+              <titulo>Anuncio de la Dependencia del Área de Industria y Energía de la Subdelegación del Gobierno en Alicante de por el que se somete a información pública la solicitud de Autorización Administrativa Previa y Autorización Administrativa de Construcción del Proyecto Técnico Administrativo del Compensador Síncrono de Rocamora de 400 kV y de ampliación de la subestación mediante el equipamiento de una nueva posición, en el término municipal de Granja de Rocamora, en la provincia de Alicante, cuyo peticionario es Red Eléctrica de España, Sociedad Anónima Unipersonal Expediente 2026/01.</titulo>
+              <url_pdf szBytes="215965" szKBytes="211" pagina_inicial="21672" pagina_final="21674">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-B-2026-13663.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-13663</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-13663</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9536" nombre="OTROS ENTES">
+            <item>
+              <identificador>BOE-B-2026-13664</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes del Sasillo de Ejea y Erla sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="202067" szKBytes="197" pagina_inicial="21675" pagina_final="21675">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-B-2026-13664.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-13664</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-13664</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-13665</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes Liar Carboniel de Alfamen sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="201475" szKBytes="197" pagina_inicial="21676" pagina_final="21676">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-B-2026-13665.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-13665</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-13665</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-13666</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes de la ciudad de Borja sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="201519" szKBytes="197" pagina_inicial="21677" pagina_final="21677">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-B-2026-13666.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-13666</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-13666</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-13667</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes Del Canal de Almazán sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="202192" szKBytes="197" pagina_inicial="21678" pagina_final="21678">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-B-2026-13667.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-13667</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-13667</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-13668</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes de Vera de Moncayo sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="202036" szKBytes="197" pagina_inicial="21679" pagina_final="21679">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-B-2026-13668.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-13668</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-13668</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-13669</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes Añón de Moncayo sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="202003" szKBytes="197" pagina_inicial="21680" pagina_final="21680">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-B-2026-13669.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-13669</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-13669</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-13670</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes Canal de los Fogariles y Acequia del Marinete sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="203433" szKBytes="199" pagina_inicial="21681" pagina_final="21681">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-B-2026-13670.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-13670</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-13670</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-13671</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes de Arandilla sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="201891" szKBytes="197" pagina_inicial="21682" pagina_final="21682">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-B-2026-13671.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-13671</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-13671</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-13672</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes Pont de Suert sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="202862" szKBytes="198" pagina_inicial="21683" pagina_final="21683">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-B-2026-13672.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-13672</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-13672</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-13673</identificador>
+              <titulo>Anuncio de la Comunidad de Usuarios de Santa Eulalia de Donas sobre convocatoria de Asamblea General Ordinaria.</titulo>
+              <url_pdf szBytes="203523" szKBytes="199" pagina_inicial="21684" pagina_final="21684">https://www.boe.es/boe/dias/2026/05/01/pdfs/BOE-B-2026-13673.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-13673</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-13673</url_xml>
+            </item>
+          </departamento>
+        </seccion>
+      </diario>
+    </sumario>
+  </data>
+</response>

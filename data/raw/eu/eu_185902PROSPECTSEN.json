@@ -1,0 +1,136 @@
+{
+  "id": "EU-185902PROSPECTSEN",
+  "topic_id": "185902PROSPECTSEN",
+  "titulo": "Promotion of inclusive access to public and private digital services",
+  "descripcion": "Promotion of inclusive access to public and private digital services",
+  "organismo": "111111",
+  "fecha_publicacion": "2026-04-06",
+  "fecha_limite": "2026-06-02",
+  "deadlines_todas": "2026-06-02",
+  "presupuesto": "1500000",
+  "duracion": "",
+  "tipo_accion": "",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185902",
+  "text": "EU FUNDING & TENDERS – Topic: 185902PROSPECTSEN\nProgramme/Organism: 111111\nTitle: Promotion of inclusive access to public and private digital services\nStatus: Open (31094502)\nType of action: \nOpening date: 2026-04-06\nDeadline: 2026-06-02\nAll deadlines: 2026-06-02\nDuration: \nBudget overview: 1500000\n\nDescription / Scope:\nPromotion of inclusive access to public and private digital services\n\nMore info: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185902",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "185902PROSPECTSEN",
+    "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185902",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Promotion of inclusive access to public and private digital services",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Promotion of inclusive access to public and private digital services",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "E5533A776D8D04CF304157665FFCF1BAFF08271B7B9581E0DE77FB25BA1B82FE",
+    "metadata": {
+      "updateDate": [
+        "2026-04-03T10:37:49.000+0000"
+      ],
+      "es_SortDate": [
+        "2026-04-06T10:00:31.000+0000"
+      ],
+      "beneficiaryAdministration": [],
+      "sortStatus": [
+        "1"
+      ],
+      "contractType": [
+        "42893160"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Promotion of inclusive access to public and private digital services"
+      ],
+      "type": [
+        "2"
+      ],
+      "esST_checksum": [
+        "E5533A776D8D04CF304157665FFCF1BAFF08271B7B9581E0DE77FB25BA1B82FE"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "callIdentifier": [
+        "185902"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "185902PROSPECTSEN"
+      ],
+      "currency": [
+        "EUR"
+      ],
+      "frameworkProgramme": [
+        "111111"
+      ],
+      "budget": [
+        "1500000"
+      ],
+      "identifier": [
+        "EuropeAid/185902/DD/ACT/KG"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "geographicalZones": [
+        "20000927"
+      ],
+      "publicationDocuments": [
+        "[{\"nameDoc\":\"Concept Note\",\"typeDoc\":\"rtf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-06 12:00:02.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2149112&lang=EN\"},{\"nameDoc\":\"Guidelines (restricted call)\",\"typeDoc\":\"rtf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-06 12:00:56.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2149111&lang=EN\"},{\"nameDoc\":\"Full application\",\"typeDoc\":\"rtf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-06 12:00:06.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2149110&lang=EN\"},{\"nameDoc\":\"Annex B - Budget\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-06 12:00:56.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2113269&lang=EN\"},{\"nameDoc\":\"Annex C - Logical framework\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-06 12:00:01.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2113272&lang=EN\"},{\"nameDoc\":\"Annex D - Identification Form (public law bodies)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-06 12:00:39.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2113276&lang=EN\"},{\"nameDoc\":\"Annex D - Identification Form (private or public with legal form)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-06 12:00:26.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2113273&lang=EN\"},{\"nameDoc\":\"Annex D - Identification Form (natural person)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-06 12:00:54.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2113271&lang=EN\"},{\"nameDoc\":\"Annex F - PADOR offline registration form\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-06 12:00:44.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2113270&lang=EN\"},{\"nameDoc\":\"Annex G - Standard grant contract\",\"typeDoc\":\"zip\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-06 12:00:26.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2113274&lang=EN\"},{\"nameDoc\":\"Annex H - Declaration of honour on exclusion and selection criteria\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-06 12:00:55.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2113267&lang=EN\"},{\"nameDoc\":\"Annex K - Clarifications on financing not linked to costs\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-06 12:00:21.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2113266&lang=EN\"},{\"nameDoc\":\"Annex J - Information on the tax regime applicable to grant contracts\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-06 12:00:36.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2113275&lang=EN\"},{\"nameDoc\":\"Appendix - Derogations international organisations\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-06 12:00:26.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2113268&lang=EN\"},{\"nameDoc\":\"Annex L - Self-evaluation questionnaire on SEA-H\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-06 12:00:49.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2113265&lang=EN\"},{\"nameDoc\":\"e-Calls PADOR privacy statement\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-06 12:00:32.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2113277&lang=EN\"}]"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-04-06T12:01:00.269+0200"
+      ],
+      "programmePeriod": [
+        "2014 - 2020",
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-06-02T10:00:27.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-06T12:01:00.269+0200"
+      ],
+      "url": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185902"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185902"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-06T12:01:00.256+0200"
+      ],
+      "programmeDivisionProspect": [
+        "44995882"
+      ],
+      "geographicalZone": [
+        "20000927"
+      ],
+      "startDate": [
+        "2026-04-06T10:00:31.000+0000"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Promotion of inclusive access to public and private digital services. Available at: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185902",
+    "score": 3.0
+  }
+}

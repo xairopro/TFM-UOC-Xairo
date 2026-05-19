@@ -1,0 +1,134 @@
+{
+  "id": "BDNS-902561",
+  "id_interno": 1104122,
+  "numero_convocatoria": "902561",
+  "organismo": "LOCAL — CALATAYUD — AYUNTAMIENTO DE CALATAYUD",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Convocatoria para la concesión de subvenciones en materia de ayudas a la natalidad 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "OTROS SERVICIOS",
+  "regiones": "ES243 - Zaragoza",
+  "finalidad": "Otras Prestaciones económicas",
+  "bases_reguladoras": "Ordenanza municipal reguladora de subvenciones",
+  "url_bases_reguladoras": "https://bop.dpz.es/BOPZ/UploadServlet?ruta=Boletines\\2024\\142\\Edictos\\bop_4443_2024.pdf",
+  "presupuesto": "90.000,00 €",
+  "presupuesto_total_num": 90000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902561",
+  "text": "CONVOCATORIA BDNS Nº 902561\nOrganismo: LOCAL — CALATAYUD — AYUNTAMIENTO DE CALATAYUD\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 90.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: OTROS SERVICIOS\nRegiones: ES243 - Zaragoza\nFinalidad: Otras Prestaciones económicas\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria para la concesión de subvenciones en materia de ayudas a la natalidad 2026\n\nBases reguladoras:\nOrdenanza municipal reguladora de subvenciones\nURL bases reguladoras: https://bop.dpz.es/BOPZ/UploadServlet?ruta=Boletines\\2024\\142\\Edictos\\bop_4443_2024.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902561",
+  "_raw": {
+    "id": 1104122,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "CALATAYUD",
+      "nivel3": "AYUNTAMIENTO DE CALATAYUD"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902561",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 90000,
+    "mrr": false,
+    "descripcion": "Convocatoria para la concesión de subvenciones en materia de ayudas a la natalidad 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES243 - Zaragoza"
+      }
+    ],
+    "descripcionFinalidad": "Otras Prestaciones económicas",
+    "descripcionBasesReguladoras": "Ordenanza municipal reguladora de subvenciones",
+    "urlBasesReguladoras": "https://bop.dpz.es/BOPZ/UploadServlet?ruta=Boletines\\2024\\142\\Edictos\\bop_4443_2024.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Día hábil siguiente a la publicación extracto convocatoria BOPZ ",
+    "textFin": "15/11/2026",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445671,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "CONVOCATORIA SUBVENCIONES AYUDAS A LA NATALIDAD Aprobada por JGL 20_04_2026.pdf",
+        "long": 265574,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445676,
+        "descripcion": "SOLICITUD DE SUBVENCIÓN",
+        "nombreFic": "SOLICITUD AYUDAS A LA NATALIDAD 2026.pdf",
+        "long": 224622,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445683,
+        "descripcion": "FICHA DE TERCEROS",
+        "nombreFic": "FICHA DE TERCEROS PDF RELLENABLE.pdf",
+        "long": 213752,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445680,
+        "descripcion": "ANEXO 2 ACREDITACIÓN PAGO EN EFECTIVO",
+        "nombreFic": "Anexo 2 ACREDITACIÓN PAGO EN EFECTIVO.pdf",
+        "long": 171423,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445685,
+        "descripcion": "EXTRACTO PUBLICACIÓN BOPZ",
+        "nombreFic": "Extracto ayudas a la natalidad para BDNS 2026.pdf",
+        "long": 191086,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445677,
+        "descripcion": "ANEXO 1 RELACIÓN DE FACTURAS",
+        "nombreFic": "Anexo 1 RELACIÓN DE FACTURAS.pdf",
+        "long": 182723,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

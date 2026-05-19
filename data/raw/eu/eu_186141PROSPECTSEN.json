@@ -1,0 +1,136 @@
+{
+  "id": "EU-186141PROSPECTSEN",
+  "topic_id": "186141PROSPECTSEN",
+  "titulo": "Support to the African Governance, Peace & Security Architectures – grant component",
+  "descripcion": "Support to the African Governance, Peace &amp; Security Architectures – grant component",
+  "organismo": "111111",
+  "fecha_publicacion": "2026-03-16",
+  "fecha_limite": "2026-05-07",
+  "deadlines_todas": "2026-05-07",
+  "presupuesto": "4000000",
+  "duracion": "",
+  "tipo_accion": "",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186141",
+  "text": "EU FUNDING & TENDERS – Topic: 186141PROSPECTSEN\nProgramme/Organism: 111111\nTitle: Support to the African Governance, Peace & Security Architectures – grant component\nStatus: Open (31094502)\nType of action: \nOpening date: 2026-03-16\nDeadline: 2026-05-07\nAll deadlines: 2026-05-07\nDuration: \nBudget overview: 4000000\n\nDescription / Scope:\nSupport to the African Governance, Peace &amp; Security Architectures – grant component\n\nMore info: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186141",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "186141PROSPECTSEN",
+    "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186141",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Support to the African Governance, Peace &amp; Security Architectures – grant component",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Support to the African Governance, Peace &amp; Security Architectures – grant component",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "BBB9E82C07C4FCF14EC566813F585648637B09543C97C2D11D69B0B334C2F2F8",
+    "metadata": {
+      "updateDate": [
+        "2026-04-24T06:06:57.000+0000"
+      ],
+      "es_SortDate": [
+        "2026-03-16T11:00:00.000+0000"
+      ],
+      "beneficiaryAdministration": [],
+      "sortStatus": [
+        "1"
+      ],
+      "contractType": [
+        "42893160"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Support to the African Governance, Peace & Security Architectures – grant component"
+      ],
+      "type": [
+        "2"
+      ],
+      "esST_checksum": [
+        "BBB9E82C07C4FCF14EC566813F585648637B09543C97C2D11D69B0B334C2F2F8"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "callIdentifier": [
+        "186141"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "186141PROSPECTSEN"
+      ],
+      "currency": [
+        "EUR"
+      ],
+      "frameworkProgramme": [
+        "111111"
+      ],
+      "budget": [
+        "4000000"
+      ],
+      "identifier": [
+        "EuropeAid/186141/DD/ACT/Multi"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "geographicalZones": [
+        "31085489"
+      ],
+      "publicationDocuments": [
+        "[{\"nameDoc\":\"PPT presentation_info session\",\"typeDoc\":\"pptx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-24 12:00:17.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160284&lang=EN\"},{\"nameDoc\":\"Clarifications\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-24 12:00:50.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160283&lang=EN\"},{\"nameDoc\":\"CORRIGENDUM N.1\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-28 18:00:21.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160256&lang=EN\"},{\"nameDoc\":\"IDENTIFICATION FORM PUBLIC LAW BODY\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-16 12:00:13.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160261&lang=EN\"},{\"nameDoc\":\"Standard template for transfer of ownership of assets\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-16 12:00:36.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160260&lang=EN\"},{\"nameDoc\":\"Model financial guarantee\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-16 12:00:42.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160259&lang=EN\"},{\"nameDoc\":\"Tax regime info\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-16 12:00:45.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160269&lang=EN\"},{\"nameDoc\":\"Model report of factual findings and terms of reference for an expenditure verification\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-16 12:00:01.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160264&lang=EN\"},{\"nameDoc\":\"Model report of factual findings and terms of reference for an expenditure verification\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-16 12:00:21.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160267&lang=EN\"},{\"nameDoc\":\"Model financial report\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-16 12:00:32.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160278&lang=EN\"},{\"nameDoc\":\"Model narrative final report\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-16 12:00:22.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160275&lang=EN\"},{\"nameDoc\":\"Model narrative inter report\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-16 12:00:58.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160271&lang=EN\"},{\"nameDoc\":\"Standard request for payment\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-16 12:00:11.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160257&lang=EN\"},{\"nameDoc\":\"Contract award rules\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-16 12:00:04.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160276&lang=EN\"},{\"nameDoc\":\"General conditions\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-16 12:00:48.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160277&lang=EN\"},{\"nameDoc\":\"Standard grant contract\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-16 12:00:56.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160270&lang=EN\"},{\"nameDoc\":\"Self evaluation questionnaire SEAH\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-16 12:00:56.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160265&lang=EN\"},{\"nameDoc\":\"Declaration on honour\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-16 12:00:52.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160263&lang=EN\"},{\"nameDoc\":\"PADOR registration form\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-16 12:00:12.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160262&lang=EN\"},{\"nameDoc\":\"Legal Entity Sheet\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-16 12:00:31.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160258&lang=EN\"},{\"nameDoc\":\"LogFrame\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-16 12:00:30.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160273&lang=EN\"},{\"nameDoc\":\"Budget\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-16 12:00:07.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160272&lang=EN\"},{\"nameDoc\":\"Grant Application Form_Full Application\",\"typeDoc\":\"rtf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-16 12:00:02.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160274&lang=EN\"},{\"nameDoc\":\"Grant Application form_Concept Note\",\"typeDoc\":\"rtf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-16 12:00:55.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160266&lang=EN\"},{\"nameDoc\":\"Guidelines\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-16 12:00:36.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160268&lang=EN\"}]"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-03-23T12:28:00.408+0100"
+      ],
+      "programmePeriod": [
+        "2014 - 2020",
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-05-07T14:00:32.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-24T12:01:05.858+0200"
+      ],
+      "url": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186141"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186141"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-24T12:01:05.818+0200"
+      ],
+      "programmeDivisionProspect": [
+        "44995760"
+      ],
+      "geographicalZone": [
+        "31085489"
+      ],
+      "startDate": [
+        "2026-03-16T11:00:00.000+0000"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Support to the African Governance, Peace & Security Architectures – grant component. Available at: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186141",
+    "score": 3.0
+  }
+}

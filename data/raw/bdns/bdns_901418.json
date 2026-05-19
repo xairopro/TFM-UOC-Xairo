@@ -1,0 +1,136 @@
+{
+  "id": "BDNS-901418",
+  "id_interno": 1102979,
+  "numero_convocatoria": "901418",
+  "organismo": "AUTONOMICA — CASTILLA-LA MANCHA — INSTITUTO DE PROMOCIÓN EXTERIOR DE CASTILLA-LA MANCHA",
+  "sede_electronica": "https://www.jccm.es/tramites",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "2026-05-22",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Convocatoria Accede al mercado Sudeste Asiático",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "GRAN EMPRESA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, Comercio al por mayor, Comercio al por menor",
+  "regiones": "ES42 - CASTILLA LA MANCHA",
+  "finalidad": "Comercio, Turismo y Pymes",
+  "bases_reguladoras": "Orden 152/2022, de 29 de julio, de la Consejería de Economía, Empresas y Empleo, de bases reguladoras de ayudas para participación agrupada en acciones de internacionalización convocadas por IPEX",
+  "url_bases_reguladoras": "https://docm.jccm.es/docm/descargarArchivo.do?ruta=2022/08/05/pdf/2022_7238.pdf&tipo=rutaDocm",
+  "presupuesto": "15.400,00 €",
+  "presupuesto_total_num": 15400,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "REG (UE) 2023/2831 de minimis, General",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901418",
+  "text": "CONVOCATORIA BDNS Nº 901418\nOrganismo: AUTONOMICA — CASTILLA-LA MANCHA — INSTITUTO DE PROMOCIÓN EXTERIOR DE CASTILLA-LA MANCHA\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  → 2026-05-22 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 15.400,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: GRAN EMPRESA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, Comercio al por mayor, Comercio al por menor\nRegiones: ES42 - CASTILLA LA MANCHA\nFinalidad: Comercio, Turismo y Pymes\nFondos: \nReglamento: REG (UE) 2023/2831 de minimis, General\nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria Accede al mercado Sudeste Asiático\n\nBases reguladoras:\nOrden 152/2022, de 29 de julio, de la Consejería de Economía, Empresas y Empleo, de bases reguladoras de ayudas para participación agrupada en acciones de internacionalización convocadas por IPEX\nURL bases reguladoras: https://docm.jccm.es/docm/descargarArchivo.do?ruta=2022/08/05/pdf/2022_7238.pdf&tipo=rutaDocm\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901418",
+  "_raw": {
+    "id": 1102979,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "CASTILLA-LA MANCHA",
+      "nivel3": "INSTITUTO DE PROMOCIÓN EXTERIOR DE CASTILLA-LA MANCHA"
+    },
+    "sedeElectronica": "https://www.jccm.es/tramites",
+    "codigoBDNS": "901418",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 15400,
+    "mrr": false,
+    "descripcion": "Convocatoria Accede al mercado Sudeste Asiático",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "GRAN EMPRESA"
+      },
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      },
+      {
+        "descripcion": "Comercio al por mayor",
+        "codigo": "46"
+      },
+      {
+        "descripcion": "Comercio al por menor",
+        "codigo": "47"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES42 - CASTILLA LA MANCHA"
+      }
+    ],
+    "descripcionFinalidad": "Comercio, Turismo y Pymes",
+    "descripcionBasesReguladoras": "Orden 152/2022, de 29 de julio, de la Consejería de Economía, Empresas y Empleo, de bases reguladoras de ayudas para participación agrupada en acciones de internacionalización convocadas por IPEX",
+    "urlBasesReguladoras": "https://docm.jccm.es/docm/descargarArchivo.do?ruta=2022/08/05/pdf/2022_7238.pdf&tipo=rutaDocm",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": "2026-05-22",
+    "textInicio": "Desde el día siguiente de su publicación en el DOCM",
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": {
+      "descripcion": "REG (UE) 2023/2831 de minimis, General",
+      "orden": null
+    },
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442241,
+        "descripcion": "Anexos 1 y 2",
+        "nombreFic": "ANEXO 1 Y 2_085120.PDF",
+        "long": 193342,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442242,
+        "descripcion": "Resolución corregida importe ayuda en especie",
+        "nombreFic": "CONVOCATORIA ACCEDE AL MERCADO SUDESTE ASIÁTICO 2026_102906.PDF",
+        "long": 139354,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442240,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "CONVOCATORIA ACCEDE AL MERCADO SUDESTE ASIÁTICO 2026_085053.PDF",
+        "long": 153911,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 209982,
+        "titulo": "Extracto de la Resolución de 24/04/2026 del Instituto de Promoción Exterior de Castilla-La Mancha, por la que se aprueba la convocatoria de concesión de subvenciones para la participación en la acción Accede al mercado Sudeste Asiático 2026",
+        "tituloLeng": null,
+        "texto": "<p></p><p> Primero. Beneficiarios</p><p> </p><p> Podrán ser beneficiarios las empresas, las personas físicas que se encuentren en alta en el Régimen Especial de Trabajadores Autónomos (RETA), los clústeres, las comunidades de bienes, las cooperativas, las agrupaciones y asociaciones de empresas con ánimo de lucro, o cualquier otro tipo de unidad económica con patrimonio separado, excepto las fundaciones, empresas u organismos públicos y las administraciones públicas.</p><p> </p><p> Podrán ser también beneficiarios los órganos de gestión y de representación de las indicaciones geográficas protegidas y denominacio nes de origen protegidas, cualquiera que sea su forma jurídica, así como sus asociaciones y fundaciones.</p><p> </p><p> Segundo. Objeto</p><p> </p><p> El objeto es convocar la concesión de ayudas para la participación agrupada de empresas en la acción Accede al mercado Sudeste asiático 2026, que se realizará del 25 de mayo al 30 de septiembre de 2026.</p><p> </p><p> La convocatoria va dirigida a empresas del sector bienes industriales que desarrollen su actividad económica en Castilla-La Mancha.</p><p> </p><p> Tercero. Bases reguladoras</p><p> </p><p> Orden 152/2022, de 29 de julio, de la Consejería de Economía, Empresas y Empleo, por la que se establecen las bases reguladoras de las ayudas para la participación agrupada en acciones de internacionalización convocadas por el Instituto de Promoción Exterior de Castilla-La Mancha.</p><p> </p><p> Cuarto. Cuantía de la ayuda.</p><p> </p><p> El número máximo de beneficiarios para esta convocatoria será de 5 empresas.</p><p> </p><p> Se otorgarán dos ayudas: una en especie, estimada en 1.470,00 euros por empresa, en concepto de consultoría y asistencia técnica; y otra ayuda dineraria por la participación en la acción, según el concepto y el importe máximo que se establecen a continuación:</p><p> </p><p> </p><p> Concepto de gasto Coste máximo subvencionable % Ayuda Ayuda IPEX</p><p> Viaje de una persona 2.300,00 70 %  1.610,00</p><p> </p><p> </p><p> El importe máximo del crédito destinado a la financiación de las subvenciones previsto para esta convocatoria asciende a 8.050,00 euros, que se realizará con cargo al presupuesto del IPEX 2026, programa 751B, partida 47573, y 7.350,00 euros, que se realizará con cargo al presupuesto del IPEX 2026, programa 751B, partida 47590, PEP OOAA/¬3000000138</p><p> En caso de superar las solicitudes el número previsto, se realizará selección, entre las solicitudes recibidas, en función de los criterios de valoración establecidos en el apartado 6 de la Convocatoria.</p><p> </p><p> Quinto. Plazo de presentación de solicitudes</p><p> </p><p> El plazo de presentación de solicitudes se extenderá desde el día siguiente de la publicación de la convocatoria en el Diario Oficial de Castilla-La Mancha hasta el día 22 de mayo de 2026.</p><p> </p><p> Sexto. Otros datos</p><p> </p><p> Las solicitudes se presentarán de forma telemática con firma electrónica, a través del formulario, que se encontrará disponible en la sede electrónica de la Administración de la Junta de Comunidades de Castilla-La Mancha (https://www.jccm.es)</p><p> </p>",
+        "textoLeng": null,
+        "url": "https://docm.jccm.es/docm/descargarArchivo.do?ruta=2026/04/30/pdf/2026_3191.pdf&tipo=rutaDocm",
+        "cve": null,
+        "desDiarioOficial": "DOCM. D.O. DE CASTILLA-LA MANCHA",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

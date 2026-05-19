@@ -1,0 +1,212 @@
+{
+  "id": "EU-50871369TOPICSen",
+  "topic_id": "50871369TOPICSen",
+  "titulo": "Apply AI: Piloting AI-based image screening in medical centres",
+  "descripcion": "Apply AI: Piloting AI-based image screening in medical centres",
+  "organismo": "43152860",
+  "fecha_publicacion": "2026-04-21",
+  "fecha_limite": "2026-10-01",
+  "deadlines_todas": "2026-10-01",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2027\"],\"budgetTopicActionMap\":{\"113940\":[{\"action\":\"DIGITAL-2026-AI-PILOTING-10-SCREENING - DIGITAL-SIMPLE DIGITAL Simple Grants\",\"expectedGrants\":2,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2027\":\"9000000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "DIGITAL Simple Grants",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-AI-PILOTING-10-SCREENING",
+  "text": "EU FUNDING & TENDERS – Topic: 50871369TOPICSen\nProgramme/Organism: 43152860\nTitle: Apply AI: Piloting AI-based image screening in medical centres\nStatus: Open (31094502)\nType of action: DIGITAL Simple Grants\nOpening date: 2026-04-21\nDeadline: 2026-10-01\nAll deadlines: 2026-10-01\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2027\"],\"budgetTopicActionMap\":{\"113940\":[{\"action\":\"DIGITAL-2026-AI-PILOTING-10-SCREENING - DIGITAL-SIMPLE DIGITAL Simple Grants\",\"expectedGrants\":2,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2027\":\"9000000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]}]}}\n\nDescription / Scope:\nApply AI: Piloting AI-based image screening in medical centres\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-AI-PILOTING-10-SCREENING",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "50871369TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-AI-PILOTING-10-SCREENING",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Apply AI: Piloting AI-based image screening in medical centres",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Apply AI: Piloting AI-based image screening in medical centres",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "75AB7C182955832823CC81240764EEA00E15FE77E5521D00AE4D2F5995E5391F",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-04-21T12:02:51.312\",\"content\":\"The submission session is now available for: DIGITAL-2026-AI-PILOTING-10-SCREENING\"}]"
+      ],
+      "es_SortDate": [
+        "2026-04-21T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "DIGITAL-2026-AI-PILOTING-10-SCREENING",
+        "DIGITAL-2026-AI-PILOTING-10",
+        "Artificial Intelligence & Decision support",
+        "Artificial intelligence",
+        "Artificial intelligence, intelligent systems, multi agent systems",
+        "Biomedical software",
+        "Cloud Services",
+        "Cloud, Edge and Virtualisation",
+        "Health and Ecosystem Services",
+        "Health care",
+        "Health data",
+        "Health information",
+        "Health sciences",
+        "Healthy lifestyle",
+        "Technological innovation",
+        "eHealth"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>Conditions</h4><div><h4>1. Admissibility conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>described in section 5 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-ai-piloting-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-ai-piloting-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">.</a></p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p><p><br></br></p></div></div><div><h4>2. Eligible countries</h4><div class=\"eui-u-mt-s\"><p>described in section 6 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-ai-piloting-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>3. Other eligibility conditions</h4><div class=\"eui-u-mt-s\"><p>described in section 6 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-ai-piloting-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in section 7 of the<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-ai-piloting-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\"> </a><u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-ai-piloting-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>5a. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>described section 8 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-ai-piloting-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u> and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5b. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>described in section 9 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-ai-piloting-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in section 4 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-ai-piloting-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>described in section 10 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-ai-piloting-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Call document and annexes:</h4> <div class=\"eui-u-mt-s\"><p><strong><u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-ai-piloting-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Call document</a></u></strong></p><p><strong>Application form templates</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/temp-form/af/af_dep_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (DEP)</a> — the application form specific to this call is available in the Submission System</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/temp-form/af/ownership-control-declaration_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Ownership control declaration</a></p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/agr-contr/mga_dep_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">DEP MGA</a></p><p><br></br></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://digital-strategy.ec.europa.eu/en/activities/work-programmes-digital\" rel=\"noopener noreferrer\" target=\"_blank\">DEP Work Programmes</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0694\" rel=\"noopener noreferrer\" target=\"_blank\">DEP Regulation 2021/964</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a>&#xa0;</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "Apply AI: Piloting AI-based image screening in medical centres"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "75AB7C182955832823CC81240764EEA00E15FE77E5521D00AE4D2F5995E5391F"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43140990"
+      ],
+      "callIdentifier": [
+        "DIGITAL-2026-AI-PILOTING-10"
+      ],
+      "ccm2Id": [
+        "50871369"
+      ],
+      "callccm2Id": [
+        "50871398"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50871369TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"DIGITAL-2026-AI-PILOTING-10\",\"criterionCode\":\"DIGITAL-SIMPLE\",\"criterionDescription\":\"DIGITAL Simple Grants\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43863?topic\\u003dDIGITAL-2026-AI-PILOTING-10-SCREENING\",\"startDate\":\"1776729600000\",\"endDate\":\"1790812800000\",\"mgaDescription\":\"DIGITAL Action Grant Budget-Based\",\"mgaCode\":\"DIGITAL-AG\"}]"
+      ],
+      "callTitle": [
+        "AI Continent"
+      ],
+      "frameworkProgramme": [
+        "43152860"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Impact:</p>na<p class=\"topicdescriptionkind\">Expected Outcome:</p><p>Outcomes and deliverables</p><ul level=\"0\"><li>One or more proofs-of-concept of replicable, scalable cloud-based AI/GenAI systems for analysis of medical imaging data in a healthcare setting, with demonstration of the role of the clinicians in validating AI/GenAI findings and reports showcasing seamless integration of the system into clinical workflows.</li><li>Evidence-based analysis of (cost-)efficiency of the piloted solutions for healthcare systems for regulatory and HTA purposes.</li><li>Two or more events or workshops organised per year and per project for the European network of AI-powered advanced screening centres. The agenda should include lessons learned from the project activities, as well as other items relevant to the network. Participant satisfaction rates should be measured for the events and workshops.</li><li>Medical centres in the consortium joined the European network of AI-powered advanced screening centres under the Apply AI Strategy.</li><li>A plan for obtaining regulatory approval for application of the AI/GenAI solutions in real life scenarios and clinical settings. This includes the required risk management and compliance activities, as well as clinical evaluation plans and post-market clinical follow-up.</li><li>Detailed data protection and cybersecurity plan, with measures to secure sensitive health data, mitigate cybersecurity risks, and comply with EU legal and ethical frameworks.</li><li>Sustainability plan for the uptake of the systems across the EU.</li><li>Stakeholder engagement and dissemination report with measurable actions (KPIs).</li> </ul><p class=\"topicdescriptionkind\">Scope:</p><p>Each project awarded in this action should implement a scalable cloud-based AI/GenAI system running European trustworthy and safe AI/GenAI algorithms that were developed, trained and validated using very large sets of patient data. They should put in place a secure, privacy-preserving cloud environment required for the health data analysis tasks, with appropriate access and identification tools for authorised use only, and implement the whole system as described under this topic, seamlessly integrated in regular clinical workflows of the care settings involved. Interoperability and the need to communicate with the health IT infrastructure (e.g. the electronic health record (EHR) of the patient, Picture archiving and communication systems (PACS), Radiological Information Systems (RIS), etc.) need to be addressed.</p><p>The projects should demonstrate the integration and large-scale validation of cloud-based AI/GenAI systems, following a thorough assessment and testing over a large number of patient test cases in real healthcare settings. The proposers are expected to choose the types of health data, the AI/GenAI algorithms that are trustworthy and secure, and the medical use cases, with the focus disease areas being cancer and cardiovascular. The projects should perform technical and clinical validation of the systems, generating evidence on AI systems’ performance and usability in different clinical settings. They shall use the AI systems for screening in clinical settings, perform local performance evaluation and post-deployment monitoring of the solutions, including evidence generation on cost-efficiency in view of regulatory requirements and health technology assessment (HTA). Whenever relevant, each project should deploy AI/GenAI solutions already tested and validated within the TEF for Health. </p>"
+      ],
+      "identifier": [
+        "DIGITAL-2026-AI-PILOTING-10-SCREENING"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43152869"
+      ],
+      "crossCuttingPriorities": [],
+      "esDA_FirstIngestDate": [
+        "2026-02-16T12:15:02.424+0100"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-10-01T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-21T12:03:29.884+0200"
+      ],
+      "typesOfAction": [
+        "DIGITAL Simple Grants"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-AI-PILOTING-10-SCREENING"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-AI-PILOTING-10-SCREENING"
+      ],
+      "tags": [
+        "Digital",
+        "Digital Europe",
+        "GenAI",
+        "Medical",
+        "Medical imaging devices"
+      ],
+      "cenTagsA": [
+        "TOPICS-036148",
+        "TOPICS-036149",
+        "TOPICS-036150",
+        "TOPICS-036151",
+        "TOPICS-036152",
+        "TOPICS-003304",
+        "TOPICS-022636",
+        "TOPICS-007316",
+        "TOPICS-004139",
+        "TOPICS-007204",
+        "TOPICS-004704",
+        "TOPICS-000404",
+        "TOPICS-010218",
+        "TOPICS-007861",
+        "TOPICS-002194",
+        "TOPICS-002768",
+        "TOPICS-007863",
+        "TOPICS-000380",
+        "TOPICS-007601",
+        "TOPICS-008418",
+        "TOPICS-007858",
+        "TOPICS-004681"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-21T12:03:29.865+0200"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"DIGITAL-SIMPLE DIGITAL Simple Grants\",\"typeOfMGA\":[{\"id\":43140990,\"abbreviation\":\"DIGITAL-AG\",\"description\":\"DIGITAL Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-04-21\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-10-01\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2027\"],\"budgetTopicActionMap\":{\"113940\":[{\"action\":\"DIGITAL-2026-AI-PILOTING-10-SCREENING - DIGITAL-SIMPLE DIGITAL Simple Grants\",\"expectedGrants\":2,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2027\":\"9000000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]}]}}"
+      ],
+      "startDate": [
+        "2026-04-21T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [
+        "SO2"
+      ],
+      "supportInfo": [
+        "<p>For help related to this call, please contact <a href=\"mailto:CNECT-A6@EC.EUROPA.EU\" rel=\"noopener noreferrer\" target=\"_blank\">CNECT-A6@EC.EUROPA.EU</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?order=DESC&amp;pageNumber=1&amp;pageSize=10&amp;sortBy=publicationDate&amp;isExactMatch=true&amp;type=1&amp;grantCategories=p_submission_eval\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ – Submission of proposals</a>.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> – Step-by-step online guide through the Portal processes from proposal preparation and evaluation to reporting on your ongoing project. Valid for all 2021-2027 programmes.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Apply AI: Piloting AI-based image screening in medical centres. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-AI-PILOTING-10-SCREENING",
+    "score": 3.0
+  }
+}

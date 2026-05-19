@@ -1,0 +1,114 @@
+{
+  "id": "BDNS-901741",
+  "id_interno": 1103302,
+  "numero_convocatoria": "901741",
+  "organismo": "OTROS — UNIVERSIDAD DE ALICANTE",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "2026-05-18",
+  "fecha_fin_solicitud": "2026-06-07",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "AYUDAS PARA EL DUODÉCIMO PROGRAMA DE RESIDENCIAS DE CREACIÓN E INVESTIGACIÓN ARTÍSTICA DEL MUSEO DE LA UNIVERSIDAD DE ALICANTE 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Educación terciaria",
+  "regiones": "ES - ESPAÑA",
+  "finalidad": "Educación",
+  "bases_reguladoras": "AYUDAS PARA EL DUODÉCIMO PROGRAMA DE RESIDENCIAS DE CREACIÓN E INVESTIGACIÓN ARTÍSTICA DEL MUSEO DE LA UNIVERSIDAD DE ALICANTE 2026",
+  "url_bases_reguladoras": "https://www.boua.ua.es/Acuerdos/DescargarAcuerdo/66881",
+  "presupuesto": "4.500,00 €",
+  "presupuesto_total_num": 4500,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901741",
+  "text": "CONVOCATORIA BDNS Nº 901741\nOrganismo: OTROS — UNIVERSIDAD DE ALICANTE\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud: 2026-05-18 → 2026-06-07 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 4.500,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Educación terciaria\nRegiones: ES - ESPAÑA\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nAYUDAS PARA EL DUODÉCIMO PROGRAMA DE RESIDENCIAS DE CREACIÓN E INVESTIGACIÓN ARTÍSTICA DEL MUSEO DE LA UNIVERSIDAD DE ALICANTE 2026\n\nBases reguladoras:\nAYUDAS PARA EL DUODÉCIMO PROGRAMA DE RESIDENCIAS DE CREACIÓN E INVESTIGACIÓN ARTÍSTICA DEL MUSEO DE LA UNIVERSIDAD DE ALICANTE 2026\nURL bases reguladoras: https://www.boua.ua.es/Acuerdos/DescargarAcuerdo/66881\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901741",
+  "_raw": {
+    "id": 1103302,
+    "organo": {
+      "nivel1": "OTROS",
+      "nivel2": "UNIVERSIDAD DE ALICANTE",
+      "nivel3": null
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901741",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 4500,
+    "mrr": false,
+    "descripcion": "AYUDAS PARA EL DUODÉCIMO PROGRAMA DE RESIDENCIAS DE CREACIÓN E INVESTIGACIÓN ARTÍSTICA DEL MUSEO DE LA UNIVERSIDAD DE ALICANTE 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Educación terciaria",
+        "codigo": "85.4"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES - ESPAÑA "
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "AYUDAS PARA EL DUODÉCIMO PROGRAMA DE RESIDENCIAS DE CREACIÓN E INVESTIGACIÓN ARTÍSTICA DEL MUSEO DE LA UNIVERSIDAD DE ALICANTE 2026",
+    "urlBasesReguladoras": "https://www.boua.ua.es/Acuerdos/DescargarAcuerdo/66881",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-05-18",
+    "fechaFinSolicitud": "2026-06-07",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443132,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "2026SBV115_conv.pdf",
+        "long": 244616,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443131,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "2026SBV115_conv.pdf",
+        "long": 244616,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210136,
+        "titulo": "Extracto de la Resolución de 24 de abril de 2026, de la rectora de la Universidad de Alicante, por la que se convoca AYUDAS PARA EL DUODÉCIMO PROGRAMA DE RESIDENCIAS DE CREACIÓN E INVESTIGACIÓN ARTÍSTICA DEL MUSEO DE LA UNIVERSIDAD DE ALICANTE 2026",
+        "tituloLeng": "Extracte de la Resolució de 24 d'abril de 2026, de la rectora de la Universitat d'Alacant, per la qual es convoca AJUDES PER AL DOTZÉ PROGRAMA DE RESIDÈNCIES DE CREACIÓ I INVESTIGACIÓ ARTÍSTICA DEL MUSEU DE LA UNIVERSITAT D'ALACANT 2026",
+        "texto": "<p>Primero. Objeto:\n</p><p>Promover la investigación y la creación artística, la búsqueda de nuevos talentos, la producción de eventos expositivos, dinamizar la actividad cultural y contribuir a la promoción del arte contemporáneo.\n</p><p>\n</p><p>\n</p><p>Segundo. Beneficiarios:\n</p><p>Podrán solicitar esta ayuda las personas artistas, o colectivos artísticos, mayores de 18 años, de cualquier nacionalidad.\n</p><p>\n</p><p>\n</p><p>Tercero. Bases reguladoras:\n</p><p>Las bases reguladoras y convocatoria están publicadas de manera conjunta en el Boletín Oficial de la Universidad de Alicante de día 27 de abril de 2026 , en la siguiente URL:\n</p><p>https://www.boua.ua.es/Acuerdos/DescargarAcuerdo/66881\n</p><p>\n</p><p>Cuarto. Cuantía:\n</p><p>La dotación de esta convocatoria es de un máximo de 4500  euros.\n</p><p>\n</p><p>Quinto. Plazo de presentación de solicitudes:\n</p><p>La convocatoria se publicará en BOUA con carácter informativo previamente a la publicación de su extracto en el DOGV.\n</p><p>El plazo para solicitar la ayuda se inicia el día 18 de mayo de 2026 y finaliza el día 7 de junio de 2026 a las 23:59.\n</p>",
+        "textoLeng": "<p>Primer. Objecte:\n</p><p>Promoure la investigació i la creació artística, la busca de nous talents, la producció d'esdeveniments expositius, dinamitzar l'activitat cultural i contribuir a la promoció de l'art contemporani.\n</p><p>\n</p><p>\n</p><p>Segon. Beneficiaris:\n</p><p>Podran sol·licitar esta ajuda les persones artistes, o col·lectius artístics, majors de 18 anys, de qualsevol nacionalitat.\n</p><p>\n</p><p>\n</p><p>Tercer. Bases reguladores:\n</p><p>Les bases reguladores i convocatòria estan publicades de manera conjunta en el Butlletí Oficial de la Universitat d'Alacant de dia 27 d'abril de 2026 , en la següent URL:\n</p><p>https://www.boua.ua.es/acuerdos/descargaracuerdo/66881\n</p><p>\n</p><p>Quart. Quantia:\n</p><p>La dotació d'esta convocatòria és d'un màxim de 4500 euros.\n</p><p>\n</p><p>Quint. Termini de presentació de sol·licituds:\n</p><p>La convocatòria es publicarà en BOUA amb caràcter informatiu prèviament a la publicació del seu extracte en el DOGV.\n</p><p>El termini per a sol·licitar l'ajuda s'inicia el dia 18 de maig de 2026 i finalitza el dia 7 de juny de 2026 a les 23.59.\n</p>",
+        "url": "https://dogv.gva.es/va/resultat-dogv?signatura=2026/12244",
+        "cve": "DOGV-V-2026-12244",
+        "desDiarioOficial": "DOCV. D.O. DE LA COMUNITAT VALENCIANA",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

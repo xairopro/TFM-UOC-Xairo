@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-901674",
+  "id_interno": 1103235,
+  "numero_convocatoria": "901674",
+  "organismo": "OTROS — UNIVERSIDAD DE OVIEDO",
+  "sede_electronica": "Contratos proyectos I+D - Universidad de Oviedo - uniovi.es",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "” Resolución de la Vicerrectora de Investigación de la Universidad de Oviedo para la contratación de personal investigador y técnico de apoyo, según artículo 23.bis de la Ley 14/2011 de la Ciencia, la Tecnología y la Innovación ( Marzo - 2026)",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "EDUCACIÓN",
+  "regiones": "ES12 - PRINCIPADO DE ASTURIAS",
+  "finalidad": "Investigación, desarrollo e innovación",
+  "bases_reguladoras": "“Acuerdo de 28 de julio de 2023, del Consejo de Gobierno de la Universidad de Oviedo, por el que se aprueba el Reglamento para la contratación de personal investigador y técnico de apoyo  conforme a las modalidades de la Ley 14/2011, de la C.T.I”",
+  "url_bases_reguladoras": "https://sede.asturias.es/bopa/2023/09/29/2023-08547.pdf",
+  "presupuesto": "56.346,20 €",
+  "presupuesto_total_num": 56346.2,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901674",
+  "text": "CONVOCATORIA BDNS Nº 901674\nOrganismo: OTROS — UNIVERSIDAD DE OVIEDO\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 56.346,20 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: EDUCACIÓN\nRegiones: ES12 - PRINCIPADO DE ASTURIAS\nFinalidad: Investigación, desarrollo e innovación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\n” Resolución de la Vicerrectora de Investigación de la Universidad de Oviedo para la contratación de personal investigador y técnico de apoyo, según artículo 23.bis de la Ley 14/2011 de la Ciencia, la Tecnología y la Innovación ( Marzo - 2026)\n\nBases reguladoras:\n“Acuerdo de 28 de julio de 2023, del Consejo de Gobierno de la Universidad de Oviedo, por el que se aprueba el Reglamento para la contratación de personal investigador y técnico de apoyo  conforme a las modalidades de la Ley 14/2011, de la C.T.I”\nURL bases reguladoras: https://sede.asturias.es/bopa/2023/09/29/2023-08547.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901674",
+  "_raw": {
+    "id": 1103235,
+    "organo": {
+      "nivel1": "OTROS",
+      "nivel2": "UNIVERSIDAD DE OVIEDO",
+      "nivel3": null
+    },
+    "sedeElectronica": "Contratos proyectos I+D - Universidad de Oviedo - uniovi.es",
+    "codigoBDNS": "901674",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 56346.2,
+    "mrr": false,
+    "descripcion": "” Resolución de la Vicerrectora de Investigación de la Universidad de Oviedo para la contratación de personal investigador y técnico de apoyo, según artículo 23.bis de la Ley 14/2011 de la Ciencia, la Tecnología y la Innovación ( Marzo - 2026)",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES12 - PRINCIPADO DE ASTURIAS"
+      }
+    ],
+    "descripcionFinalidad": "Investigación, desarrollo e innovación",
+    "descripcionBasesReguladoras": "“Acuerdo de 28 de julio de 2023, del Consejo de Gobierno de la Universidad de Oviedo, por el que se aprueba el Reglamento para la contratación de personal investigador y técnico de apoyo  conforme a las modalidades de la Ley 14/2011, de la C.T.I”",
+    "urlBasesReguladoras": "https://sede.asturias.es/bopa/2023/09/29/2023-08547.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Primer día hábil siguiente a la publicación en el BOPA",
+    "textFin": "10  días hábiles a partir del siguiente de la publicación en el BOPA",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443000,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Resolucion Marzo+2026_firmado.pdf",
+        "long": 467159,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

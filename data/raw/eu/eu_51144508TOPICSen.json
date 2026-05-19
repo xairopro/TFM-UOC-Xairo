@@ -1,0 +1,338 @@
+{
+  "id": "EU-51144508TOPICSen",
+  "topic_id": "51144508TOPICSen",
+  "titulo": "Ensuring comprehensive geographical coverage of the Network of Safer Internet Centres (SICs)",
+  "descripcion": "Ensuring comprehensive geographical coverage of the Network of Safer Internet Centres (SICs)",
+  "organismo": "43152860",
+  "fecha_publicacion": "2026-04-21",
+  "fecha_limite": "2026-10-01",
+  "deadlines_todas": "2026-10-01",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"114382\":[{\"action\":\"DIGITAL-2026-BESTUSE-10-EHDS - DIGITAL-GFS DIGITAL Grants for Financial Support\",\"expectedGrants\":1,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"24400000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]},{\"action\":\"DIGITAL-2026-BESTUSE-10-NETWORKSICs - DIGITAL-SIMPLE DIGITAL Simple Grants\",\"expectedGrants\":15,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"24400000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "DIGITAL Simple Grants",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-BESTUSE-10-NETWORKSICs",
+  "text": "EU FUNDING & TENDERS – Topic: 51144508TOPICSen\nProgramme/Organism: 43152860\nTitle: Ensuring comprehensive geographical coverage of the Network of Safer Internet Centres (SICs)\nStatus: Open (31094502)\nType of action: DIGITAL Simple Grants\nOpening date: 2026-04-21\nDeadline: 2026-10-01\nAll deadlines: 2026-10-01\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"114382\":[{\"action\":\"DIGITAL-2026-BESTUSE-10-EHDS - DIGITAL-GFS DIGITAL Grants for Financial Support\",\"expectedGrants\":1,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"24400000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]},{\"action\":\"DIGITAL-2026-BESTUSE-10-NETWORKSICs - DIGITAL-SIMPLE DIGITAL Simple Grants\",\"expectedGrants\":15,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"24400000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]}]}}\n\nDescription / Scope:\nEnsuring comprehensive geographical coverage of the Network of Safer Internet Centres (SICs)\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-BESTUSE-10-NETWORKSICs",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "51144508TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-BESTUSE-10-NETWORKSICs",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Ensuring comprehensive geographical coverage of the Network of Safer Internet Centres (SICs)",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Ensuring comprehensive geographical coverage of the Network of Safer Internet Centres (SICs)",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "4F199DE22C03D4C8D230ED311C024305E3CA9597598AA086B6D338491758BC19",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-04-15T11:53:24.151\",\"content\":\"\\u003cp\\u003e\\u003cem\\u003eAn information session for interested stakeholders will take place on 29 April from 10:00 to 12:00 (CEST). The session will include a presentation of the call and offer participants the opportunity to ask questions.\\u003c/em\\u003e\\u003c/p\\u003e\\u003cp\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003cp\\u003e\\u003cem\\u003eIf you wish to attend, you can find the agenda and access link here:\\u003c/em\\u003e \\u003cem\\u003e\\u003ca href\\u003d\\\"https://hadea.ec.europa.eu/events/digital-info-session-accelerating-best-use-technologies-2026-04-29_en\\\" rel\\u003d\\\"noopener noreferrer\\\" target\\u003d\\\"_blank\\\"\\u003ehttps://hadea.ec.europa.eu/events/digital-info-session-accelerating-best-use-technologies-2026-04-29_en\\u003c/a\\u003e\\u003c/em\\u003e\\u003c/p\\u003e\\u003cp\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003cp\\u003e\\u003cem\\u003eFollowing the information session, all presentations will be published on the HaDEA webpage. Participants’ questions will also be published in the Questions and Answers section of the same page.\\u003c/em\\u003e\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-04-01T15:49:39.182\",\"content\":\"\\u003cp\\u003eThe available budget for topic DIGITAL-2026-BESTUSE-10-NETWORKSICs is 10,000,000.00 €. The indicative number of grants is 15.\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-04-21T11:53:32.013\",\"content\":\"The submission session is now available for: DIGITAL-2026-BESTUSE-10-EHDS, DIGITAL-2026-BESTUSE-10-NETWORKSICs\"}]"
+      ],
+      "es_SortDate": [
+        "2026-04-21T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "DIGITAL-2026-BESTUSE-10-NETWORKSICs",
+        "DIGITAL-2026-BESTUSE-10",
+        "Artificial intelligence, intelligent systems, multi agent systems",
+        "Civil society organisations",
+        "Combating violence against children,  young people and women",
+        "Communication",
+        "Communication network",
+        "Computer and information sciences",
+        "Computer sciences - Operating systems (software development only)",
+        "Computing",
+        "Continuing professional training",
+        "Curriculum design and development",
+        "Cybersecurity",
+        "Cybersecurity Domains",
+        "Cybersecurity-aware culture (e.g. including children education)",
+        "Data Security and Privacy",
+        "Data protection",
+        "Digital Rights Management (DRM)",
+        "Education",
+        "Education and Training",
+        "Education-enterprises partnerships",
+        "Enhancing personal skills",
+        "Europe's innovation potential",
+        "Gamification",
+        "Gaming technology",
+        "Higher education",
+        "IT skills and competence",
+        "Identification of skills needs",
+        "Inclusive Education",
+        "Innovation",
+        "Involvement of children",
+        "Knowledge triangle between education",
+        "Learning outcomes",
+        "Media literacy",
+        "Network technologies / Internetworking",
+        "Networks (communication networks, sensor networks, networks of robots, etc.)",
+        "New skills and competences for teachers",
+        "New technologies for Audio-Visual sector - Media",
+        "Personal development",
+        "Personalised prevention",
+        "Privacy",
+        "Privacy by design",
+        "Quality of education/educational products",
+        "Rights of the child",
+        "Social Media",
+        "Teaching materials",
+        "Telecommunications",
+        "Theories, techniques and tools for the identification, collection, attribution, acquisition, analysis and preservation of digital evidence",
+        "Training",
+        "Training of trainers (multiplication)",
+        "Trust",
+        "Trust management architectures, mechanisms and policies",
+        "Trustworthy ICT",
+        "Virtual Reality",
+        "Vocational training",
+        "Youth policy"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>Conditions</h4><div><h4>1. Admissibility conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>described in section 5 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-bestuse-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p></div></div><div><h4>2. Eligible countries</h4><div class=\"eui-u-mt-s\"><p>described in section 6 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-bestuse-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>3. Other eligibility conditions</h4><div class=\"eui-u-mt-s\"><p>described in section 6 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-bestuse-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in section 7 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-bestuse-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>5a. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>described section 8 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-bestuse-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u> and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5b. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>described in section 9 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-bestuse-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in section 4 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-bestuse-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>described in section 10 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-bestuse-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Call document and annexes:</h4> <div class=\"eui-u-mt-s\"><p><u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-bestuse-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Call document</a></u></p><p><strong>Application form templates</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/temp-form/af/af_dep_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (DEP)</a> — the application form specific to this call is available in the Submission System</p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/agr-contr/mga_dep_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">DEP MGA</a></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://digital-strategy.ec.europa.eu/en/activities/work-programmes-digital\" rel=\"noopener noreferrer\" target=\"_blank\">DEP Work Programmes</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0694\" rel=\"noopener noreferrer\" target=\"_blank\">DEP Regulation 2021/964</a> </p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a>&#xa0;</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "Ensuring comprehensive geographical coverage of the Network of Safer Internet Centres (SICs)"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "4F199DE22C03D4C8D230ED311C024305E3CA9597598AA086B6D338491758BC19"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43140990"
+      ],
+      "callIdentifier": [
+        "DIGITAL-2026-BESTUSE-10"
+      ],
+      "ccm2Id": [
+        "51144508"
+      ],
+      "callccm2Id": [
+        "51144600"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "51144508TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"DIGITAL-2026-BESTUSE-10\",\"criterionCode\":\"DIGITAL-SIMPLE\",\"criterionDescription\":\"DIGITAL Simple Grants\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43862?topic\\u003dDIGITAL-2026-BESTUSE-10-NETWORKSICs\",\"startDate\":\"1776729600000\",\"endDate\":\"1790812800000\",\"mgaDescription\":\"DIGITAL Action Grant Budget-Based\",\"mgaCode\":\"DIGITAL-AG\"}]"
+      ],
+      "callTitle": [
+        "Accelerating Best Use of Technologies"
+      ],
+      "frameworkProgramme": [
+        "43152860"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Outcome:</p><p>Deliverables:</p><p>Provision of the four key elements required of a Safer Internet Centre, namely:</p><ul level=\"0\"><li>A <strong>centre for raising awareness</strong> among children, parents/carers, teachers and educators as well as other relevant professionals working with children about online opportunities and risks for the under 18s, producing and promoting localised age-appropriate resources to address current and emerging risks and opportunities.</li><li>A <strong>helpline</strong> to give advice and support to parents and children on issues related to children's use of digital technologies and services; to provide assistance on mental health issues relating to the exposure to age-inappropriate content online, including pornographic and violent content; to strengthen support to victims of cyberbullying, close cooperation with the national Child Helpline 116111 service is required.</li><li>A <strong>hotline</strong> for tackling the spread of online CSAM (i.e., receiving, analysing, and processing reports of such material). Closer cooperation with law enforcement and the private sector should be further explored in the context of the EU strategy for a more effective fight against child sexual abuse and the proposed Regulation to prevent and combat child sexual abuse and recast of the Directive 2011/93/EU on child sexual abuse.</li><li>A <strong>youth panel</strong> to engage directly with children from different demographic groups, including the organisation of regular youth participation activities, allowing them to express their views and pool their knowledge and experience of using online technologies. Adequate turnover, geographic balance and an open selection of participants is required.</li> </ul><p class=\"topicdescriptionkind\">Objective:</p><p>The objective of the topic is to contribute to protection and empowerment of children online, a key EU priority, through comprehensive geographical coverage of national Safer Internet Centres (SICs) network in the EU. Notably: It seeks to enhance geographical coverage by engaging Safer Internet Centres that have not received EU funding under the previous call DIGITAL-2025-BESTUSE-08-NETWORKSICs. Only one Safer Internet Centre will be co-funded per country. SICs may be composed of one or more NGOs, government bodies/agencies, and/or private sector organisations and they provide online safety information, educational resources, public awareness tools and counselling and reporting services (through dedicated helplines and hotlines) for young people, teachers/educators, and parents/carers. The activities performed by the SICs help minors tackle online risks and become media-literate, resilient, digital citizens. The hotline work strand allows the public to anonymously report suspected online child sexual abuse material (CSAM) for assessment and takedown. The Safer Internet Centres also address the needs of children with specific or special needs, including those with disabilities and those hailing from disadvantaged and vulnerable backgrounds, to ensure no child is left behind.</p><p>Considering the new role for the Commission as an enforcement body for the Digital Services Act (DSA) and the Digital Services Coordinators (DSCs), the Safer Internet Centres will strategically assist the Commission and cooperate with the DSCs in this role, in particular through data collection in the EU member states.</p><p class=\"topicdescriptionkind\">Scope:</p><p>The funding will ensure the continuation of the well-established European network of national SICs, by enabling the awarded consortia to provide at least:</p><ul level=\"0\"><li>A centre for raising awareness among children, parents/carers, teachers and educators as well as other relevant professionals working with children about online opportunities and risks for the under 18s. The focus will be to identify and address:   <ul level=\"1\"><li>     <ul level=\"2\"><li>specific and general known risks (e.g. harmful and illegal content, cyberbullying, age-inappropriate content; sexual extortion, addictive design and manipulation, disinformation); </li><li>specific and general emerging risks (e.g. new apps, games, online challenges and trends; AI and generative AI, including AI generated pornographic and violent content such as CSAM; virtual, augmented and extended reality; the internet of things and other technological changes raising new social and ethical challenges that impact children);</li><li>issues such as mental and physical health risks related to the use of technologies (e.g. self-harm, cyberbullying, risky online challenges, promotion of eating disorders, screen addiction, social isolation, exposure to age-inappropriate content online, including pornographic and violent content, and sexual extortion);</li><li>risks facing children as young consumers (e.g. nudges to spend money, aggressive marketing strategies, lootboxes).</li>     </ul> </li>   </ul> </li><li>A helpline to give advice and support to children and adults around them on issues related to children's use of digital technologies and services; to provide assistance on mental health issues relating to the exposure to age-inappropriate content online, including pornographic and violent content; to strengthen support to victims of cyberbullying, close cooperation with the national Child Helpline 116111 service is required.</li><li>A hotline for tackling the spread of online CSAM (i.e., receiving, analysing, and processing reports of such material). Closer cooperation with law enforcement and the private sector should be further explored in the context of the EU strategy for a more effective fight against child sexual abuse, proposed Regulation to prevent and combat child sexual abuse and recast of the Directive 2011/93/EU on child sexual abuse.</li><li>A youth panel to engage directly with children from different demographic groups, including the organisation of regular youth participation activities, allowing them to express their views and pool their knowledge and experience of using online technologies. Adequate turnover, geographic balance and an open selection of participants is required.</li> </ul><p>SICs shall strengthen their support to children in vulnerable situations (such as children with disabilities, children from a minority, racial or ethnic background, refugee children, children in care, LGBTQI+ children, as well as children from a disadvantaged socio-economic background, who all may face additional challenges in the digital environment). For example, to address the digital divide, they should offer non-formal education and training to these groups and communities.</p><p>In addition, SICs will:</p><ul level=\"0\"><li>support the monitoring of the impact of the digital transformation on children’s well-being in cooperation with the BIK platform;</li><li>support the implementation of relevant EU strategies and legislation;</li><li>promote the distribution of relevant online training modules (MOOCs) for teachers;</li><li>expand the role of BIK Youth Ambassadors and BIK Youth Panels to support peer-to-peer activities at national, regional and local level;</li><li>provide trustworthy resources for and carry out campaigns targeting children, parents, carers and teachers, educators and other relevant contacts working with children (e.g. sports coaches, club leaders). Training on children’s rights online should also be included in these initiatives to create a stronger awareness that children’s rights online are the same as offline, as stipulated by UN General Comment No. 25 (2021) on children’s rights in relation to the digital environment (CRC/C/GC/25), and as protected under the DSA, as well as awareness of help and reporting resources and pathways;</li><li>act as a one-stop-shop for reliable and age-appropriate information;</li><li>provide digital literacy training in formal and informal education settings (e.g., youth participation activities, workshops, classroom visits, competitions, peer to peer activities).</li><li>support parents, carers, teachers, educators and other professionals working with children to better understand the risks and opportunities of children accessing digital content and services (e.g., information sessions, train the trainers programmes, and online and offline material);</li><li>identify emerging risks through the helpline service, and communicate this promptly to local, national, and European actors;</li><li>support access to resources and services by public authorities, including law enforcement agencies, and exchanges with hotline analysts to develop better preventive measures and to remove online child sexual abuse material (CSAM);</li><li>cooperate with popular platforms and digital services to assist the public, in particular children, when confronted with harmful and illegal content. This will include, but not be limited to, SICs formally recognised as “trusted flaggers” under the DSA.</li> </ul>"
+      ],
+      "identifier": [
+        "DIGITAL-2026-BESTUSE-10-NETWORKSICs"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43152869"
+      ],
+      "crossCuttingPriorities": [],
+      "esDA_FirstIngestDate": [
+        "2026-04-01T00:01:12.659+0200"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-10-01T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-21T11:54:04.585+0200"
+      ],
+      "typesOfAction": [
+        "DIGITAL Simple Grants"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-BESTUSE-10-NETWORKSICs"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-BESTUSE-10-NETWORKSICs"
+      ],
+      "tags": [
+        "BIK+",
+        "Better Internet for Kids",
+        "CSAM",
+        "Digital Services Act",
+        "Network of safer Internet Centres",
+        "SICs",
+        "Safer Internet Centres",
+        "UN General Comment No. 25",
+        "awareness centre",
+        "carers",
+        "children",
+        "counsellingcyberbullying",
+        "educational resources",
+        "helpline",
+        "hotline",
+        "online child sexual abuse material",
+        "online safety",
+        "parents",
+        "professionals working with children",
+        "public awareness tools",
+        "special needs",
+        "special or specific needs",
+        "teachers and educators",
+        "victims of cyberbullying",
+        "xenophobia",
+        "youth"
+      ],
+      "cenTagsA": [
+        "TOPICS-064054",
+        "TOPICS-060300",
+        "TOPICS-060301",
+        "TOPICS-060302",
+        "TOPICS-030681",
+        "TOPICS-049367",
+        "TOPICS-060303",
+        "TOPICS-030664",
+        "TOPICS-064055",
+        "TOPICS-030669",
+        "TOPICS-024925",
+        "TOPICS-030670",
+        "TOPICS-000113",
+        "TOPICS-030671",
+        "TOPICS-030672",
+        "TOPICS-064056",
+        "TOPICS-030675",
+        "TOPICS-030676",
+        "TOPICS-007521",
+        "TOPICS-030679",
+        "TOPICS-030680",
+        "TOPICS-030682",
+        "TOPICS-030685",
+        "TOPICS-030686",
+        "TOPICS-064057",
+        "TOPICS-064058",
+        "TOPICS-030688",
+        "TOPICS-001656",
+        "TOPICS-030689",
+        "TOPICS-030691",
+        "TOPICS-007160",
+        "TOPICS-030692",
+        "TOPICS-030693",
+        "TOPICS-003685",
+        "TOPICS-002680",
+        "TOPICS-003294",
+        "TOPICS-000689",
+        "TOPICS-030694",
+        "TOPICS-011740",
+        "TOPICS-000955",
+        "TOPICS-005414",
+        "TOPICS-000850",
+        "TOPICS-001418",
+        "TOPICS-002688",
+        "TOPICS-006527",
+        "TOPICS-008326",
+        "TOPICS-000947",
+        "TOPICS-015838",
+        "TOPICS-000372",
+        "TOPICS-000036",
+        "TOPICS-003839",
+        "TOPICS-007332",
+        "TOPICS-007081",
+        "TOPICS-006529",
+        "TOPICS-003951",
+        "TOPICS-000374",
+        "TOPICS-003072",
+        "TOPICS-000618",
+        "TOPICS-000619",
+        "TOPICS-003491",
+        "TOPICS-009710",
+        "TOPICS-024588",
+        "TOPICS-007241",
+        "TOPICS-007335",
+        "TOPICS-003055",
+        "TOPICS-002702",
+        "TOPICS-003593",
+        "TOPICS-007338",
+        "TOPICS-000120",
+        "TOPICS-003668",
+        "TOPICS-003421",
+        "TOPICS-003667",
+        "TOPICS-007340",
+        "TOPICS-003687",
+        "TOPICS-009167",
+        "TOPICS-003111",
+        "TOPICS-000964",
+        "TOPICS-000369",
+        "TOPICS-000380",
+        "TOPICS-002712",
+        "TOPICS-000952",
+        "TOPICS-002535",
+        "TOPICS-002719",
+        "TOPICS-000628",
+        "TOPICS-002041",
+        "TOPICS-013094",
+        "TOPICS-009168"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-21T11:54:04.556+0200"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"DIGITAL-SIMPLE DIGITAL Simple Grants\",\"typeOfMGA\":[{\"id\":43140990,\"abbreviation\":\"DIGITAL-AG\",\"description\":\"DIGITAL Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-04-21\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-10-01\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"114382\":[{\"action\":\"DIGITAL-2026-BESTUSE-10-EHDS - DIGITAL-GFS DIGITAL Grants for Financial Support\",\"expectedGrants\":1,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"24400000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]},{\"action\":\"DIGITAL-2026-BESTUSE-10-NETWORKSICs - DIGITAL-SIMPLE DIGITAL Simple Grants\",\"expectedGrants\":15,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"24400000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]}]}}"
+      ],
+      "startDate": [
+        "2026-04-21T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [
+        "SO5"
+      ],
+      "supportInfo": [
+        "<p>For help related to this call, please <a href=\"https://european-union.europa.eu/contact-eu/write-us_en\" rel=\"noopener noreferrer\" target=\"_blank\">Write to us</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?order=DESC&amp;pageNumber=1&amp;pageSize=10&amp;sortBy=publicationDate&amp;isExactMatch=true&amp;type=1&amp;grantCategories=p_submission_eval\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ – Submission of proposals</a>.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> – Step-by-step online guide through the Portal processes from proposal preparation and evaluation to reporting on your ongoing project. Valid for all 2021-2027 programmes.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Ensuring comprehensive geographical coverage of the Network of Safer Internet Centres (SICs). Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-BESTUSE-10-NETWORKSICs",
+    "score": 3.0
+  }
+}

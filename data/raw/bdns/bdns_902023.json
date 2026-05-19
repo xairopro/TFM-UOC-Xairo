@@ -1,0 +1,114 @@
+{
+  "id": "BDNS-902023",
+  "id_interno": 1103584,
+  "numero_convocatoria": "902023",
+  "organismo": "OTROS — UNIVERSIDAD JAUME I DE CASTELLÓN",
+  "sede_electronica": "ujiapps.uji.es/seu/info-adm/tao/convocatoriesRH?pArId=85641",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Premios a los mejores trabajos de final de grado (TFG) en el ámbito de la Promoción de la Salud en el curso 2025/2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Educación terciaria",
+  "regiones": "ES52 - COMUNIDAD VALENCIANA",
+  "finalidad": "Educación",
+  "bases_reguladoras": "Premios a los mejores trabajos de final de grado (TFG) en el ámbito de la Promoción de la Salud en el curso 2025/2026",
+  "url_bases_reguladoras": "ujiapps.uji.es/seu/info-adm/tao/convocatoriesRH?pArId=85641",
+  "presupuesto": "4.000,00 €",
+  "presupuesto_total_num": 4000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902023",
+  "text": "CONVOCATORIA BDNS Nº 902023\nOrganismo: OTROS — UNIVERSIDAD JAUME I DE CASTELLÓN\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 4.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Educación terciaria\nRegiones: ES52 - COMUNIDAD VALENCIANA\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nPremios a los mejores trabajos de final de grado (TFG) en el ámbito de la Promoción de la Salud en el curso 2025/2026\n\nBases reguladoras:\nPremios a los mejores trabajos de final de grado (TFG) en el ámbito de la Promoción de la Salud en el curso 2025/2026\nURL bases reguladoras: ujiapps.uji.es/seu/info-adm/tao/convocatoriesRH?pArId=85641\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902023",
+  "_raw": {
+    "id": 1103584,
+    "organo": {
+      "nivel1": "OTROS",
+      "nivel2": "UNIVERSIDAD JAUME I DE CASTELLÓN",
+      "nivel3": null
+    },
+    "sedeElectronica": "ujiapps.uji.es/seu/info-adm/tao/convocatoriesRH?pArId=85641",
+    "codigoBDNS": "902023",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 4000,
+    "mrr": false,
+    "descripcion": "Premios a los mejores trabajos de final de grado (TFG) en el ámbito de la Promoción de la Salud en el curso 2025/2026",
+    "descripcionLeng": "Premis als millors treballs de final de grau (TFG) en l'àmbit de la Promoció de la Salut en el curs 2025/2026",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Educación terciaria",
+        "codigo": "85.4"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES52 - COMUNIDAD VALENCIANA"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "Premios a los mejores trabajos de final de grado (TFG) en el ámbito de la Promoción de la Salud en el curso 2025/2026",
+    "urlBasesReguladoras": "ujiapps.uji.es/seu/info-adm/tao/convocatoriesRH?pArId=85641",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Periodo de entrega de solicitudes abierto desde  hasta .",
+    "textFin": "Periodo de de entrega de solicitudes cerrado el dia .",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443998,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "BASES_PREMIS_TFG_SALUT_CURS2025_26_CAS_compl.pdf",
+        "long": 733811,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1443999,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "BASES_PREMIS_TFG_SALUT_CURS2025_26_VALcomp.pdf",
+        "long": 696428,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210285,
+        "titulo": "Premios a los mejores trabajos de final de grado (TFG) en el ámbito de la Promoción de la Salud en el curso 2025/2026",
+        "tituloLeng": "Premis als millors treballs de final de grau (TFG) en l'àmbit de la Promoció de la Salut en el curs 2025/2026",
+        "texto": "<p>Universitat Jaume I\n</p><p>\n</p><p>Extracto de la Resolución Castellón de la Plana, 27 de abril de 2026, de la Vicerrector/a de Estudiantado y Vida Saludable de la Universitat Jaume I de Castellón por la que se convoca Premios a los mejores trabajos de final de grado (TFG) en el ámbito de la Promoción de la Salud en el curso 2025/2026.\n</p><p>BDNS (902023):\n</p><p>\n</p><p>De conformidad con lo previsto en los artículos 17.3.b y 20.8.a de la Ley 38/2003, de 17 de noviembre, \n</p><p>                  General de Subvenciones, se publica el extracto de la convocatoria cuyo texto completo puede consultarse \n</p><p>                  en la Base de Datos Nacional de Subvenciones:\n</p><p>http://www.pap.minhap.gob.es/bdnstrans/index\n</p><p>\n</p><p>Primero. Beneficiarios\n</p><p>Pueden beneficiarse de estos premios las personas físicas que cumplan los siguientes requisitos:\n</p><p>- Estar matriculada en la asignatura de Trabajo de Final de Grado (TFG) durante el curso 2025/26 en la Universitat Jaume I.\n</p><p>- Contar con la conformidad del profesorado que tutoriza el trabajo de fin de grado.\n</p><p>- Estar al corriente de pagos con la Universitat Jaume I en el momento de realizar la solicitud de esta convocatoria, y hasta el momento del pago de la ayuda.\n</p><p>Cada persona solo puede optar a un premio, con un único trabajo original y del cual sea el autor o autora.\n</p><p>\n</p><p>Segundo. Finalidad\n</p><p>Estas bases tienen por objeto regular la concesión de los premios a los mejores Trabajos de Final de Grado (TFG) de los estudios de grado de la Universitat Jaume I, enmarcados en los objetivos del Plan UJI-Salud Integral 2023-2026, para que contribuyan a la mejora de la promoción de la salud en el marco de las diferentes disciplinas.\n</p><p>\n</p><p>Tercero. Bases reguladoras\n</p><p>Accesibles en:. http://www.uji.es/seu/info-adm/tao/\n</p><p>\n</p><p>Cuarto. Importe\n</p><p>El importe global destinado a la concesión de estos premios es de 4000 €. \n</p><p>\n</p><p>Quinto. Plazo de presentación de solicitudes\n</p><p>El plazo de presentación de solicitudes es de diez días hábiles contadores a partir del día siguiente a la publicación del extracto de la convocatoria en el DOGV.</p>",
+        "textoLeng": "<p>Universitat Jaume I\n</p><p>\n</p><p>Extracte de la Resolució del 27 d'abril de 2026, de la Vicerector/a d'Estudiantat i Vida Saludable de la Universitat Jaume I de Castelló per la que es convoca Premis als millors treballs de final de grau (TFG) en l'àmbit de la Promoció de la Salut en el curs 2025/2026.\n</p><p>BDNS (902023):\n</p><p>\n</p><p>De conformitat amb el que preveuen els articles 17.3.b i 20.8.a de la Llei 38/2003, de 17 de novembre, \n</p><p>                 general de subvencions, es publica l’extracte de la convocatòria, \n</p><p>                  el text complet dels quals pot consultar-se en la Base de Dades Nacionals de Subvencions:\n</p><p>http://www.pap.minhap.gob.es/bdnstrans/index\n</p><p>\n</p><p>Primer. Beneficiaris\n</p><p>Poden beneficiar-se d'estos premis les persones físiques que complisquen els següents requisits:\n</p><p>• Estar matriculada en l’assignatura de Treball Fional de Grau (TFG) durant el curs 2025/26 a la Universitat Jaume I.\n</p><p>• Comptar amb la conformitat del professorat que tutoritza el treball de fi de grau.\n</p><p>• Estar al corrent de pagaments amb la Universitat Jaume I en el moment de realitzar la sol·licitud d’aquesta convocatòria, i fins el moment del pagament de l’ajuda.\n</p><p>Cada persona només pot optar a un premi, amb un únic treball original i del qual siga l’autor o autora.\n</p><p>\n</p><p>Segon. Finalitat\n</p><p>Aquestes bases tenen per objecte regular la concessió dels premis als millors Treballs de Final de Grau (TFG) dels estudis de grau de la Universitat Jaume I, emmarcats en els objectius del Pla UJI-Salut Integral 2023-2026, perquè contribuïsquen a la millora de la promoció de la salut en el marc de les diferents disciplines.\n</p><p>\n</p><p>Tercer. Bases reguladores\n</p><p>Accessibles en: http://www.uji.es/seu/info-adm/tao/\n</p><p>\n</p><p>Quart. Import\n</p><p>L'import global destinat a la concessió d'aquests premis és de 4000 €.\n</p><p>\n</p><p>Cinquè. Termini de presentació de sol·licituds\n</p><p>El termini de presentació de sol·licituds és de deu dies hàbils comptadors a partir de l'endemà de la publicació de l'extracte de la convocatòria en el DOGV.</p>",
+        "url": "https://dogv.gva.es/va/resultat-dogv?signatura=2026/12405",
+        "cve": "DOGV-V-2026-12405",
+        "desDiarioOficial": "DOCV. D.O. DE LA COMUNITAT VALENCIANA",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

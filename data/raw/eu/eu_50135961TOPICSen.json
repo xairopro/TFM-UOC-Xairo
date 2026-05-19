@@ -1,0 +1,194 @@
+{
+  "id": "EU-50135961TOPICSen",
+  "topic_id": "50135961TOPICSen",
+  "titulo": "Virtual Human Twin (VHT) Models for Cancer Research",
+  "descripcion": "Virtual Human Twin (VHT) Models for Cancer Research",
+  "organismo": "43108390",
+  "fecha_publicacion": "2026-02-10",
+  "fecha_limite": "2026-09-15",
+  "deadlines_todas": "2026-09-15",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113063\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-04 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":3,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"15000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113065\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-05 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":1,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2026\":\"7000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113064\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-01 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":4,\"minContribution\":8000000,\"maxContribution\":9000000,\"budgetYearMap\":{\"2026\":\"35000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113067\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-02 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":1,\"minContribution\":15000000,\"maxContribution\":15000000,\"budgetYearMap\":{\"2026\":\"15000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113066\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-03 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":3,\"minContribution\":7000000,\"maxContribution\":8000000,\"budgetYearMap\":{\"2026\":\"22186000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113069\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-07 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":5,\"minContribution\":5000000,\"maxContribution\":6000000,\"budgetYearMap\":{\"2026\":\"25000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113068\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-06 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"5000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "HORIZON  Research and Innovation Actions",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-02-CANCER-01",
+  "text": "EU FUNDING & TENDERS – Topic: 50135961TOPICSen\nProgramme/Organism: 43108390\nTitle: Virtual Human Twin (VHT) Models for Cancer Research\nStatus: Open (31094502)\nType of action: HORIZON  Research and Innovation Actions\nOpening date: 2026-02-10\nDeadline: 2026-09-15\nAll deadlines: 2026-09-15\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113063\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-04 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":3,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"15000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113065\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-05 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":1,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2026\":\"7000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113064\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-01 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":4,\"minContribution\":8000000,\"maxContribution\":9000000,\"budgetYearMap\":{\"2026\":\"35000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113067\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-02 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":1,\"minContribution\":15000000,\"maxContribution\":15000000,\"budgetYearMap\":{\"2026\":\"15000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113066\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-03 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":3,\"minContribution\":7000000,\"maxContribution\":8000000,\"budgetYearMap\":{\"2026\":\"22186000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113069\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-07 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":5,\"minContribution\":5000000,\"maxContribution\":6000000,\"budgetYearMap\":{\"2026\":\"25000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113068\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-06 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"5000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}]}}\n\nDescription / Scope:\nVirtual Human Twin (VHT) Models for Cancer Research\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-02-CANCER-01",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "50135961TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-02-CANCER-01",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Virtual Human Twin (VHT) Models for Cancer Research",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Virtual Human Twin (VHT) Models for Cancer Research",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "D7DF7EF279A812AA8A5A777B7DC2C783785412862A0687C065081EA5240A3DC9",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-02-12T10:49:10.128\",\"content\":\"The submission session is now available for: HORIZON-MISS-2026-02-CANCER-04, HORIZON-MISS-2026-02-CANCER-01, HORIZON-MISS-2026-02-CANCER-05, HORIZON-MISS-2026-02-CANCER-03, HORIZON-MISS-2026-02-CANCER-02, HORIZON-MISS-2026-02-CANCER-06, HORIZON-MISS-2026-02-CANCER-07\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-02-11T16:39:36.377\",\"content\":\"\\u003cp\\u003ePlease note that the call opening is delayed as we are experiencing technical issues.\\u003c/p\\u003e\"}]"
+      ],
+      "es_SortDate": [
+        "2026-02-10T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "HORIZON-MISS-2026-02-CANCER-01",
+        "HORIZON-MISS-2026-02",
+        "Cancer and its biological basis",
+        "Medical engineering and technology",
+        "Quantitative genetics"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p><strong><em>﻿</em></strong>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex A</a> and <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex E</a> of the Horizon Europe Work Programme General Annexes.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p>A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a>.</p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>Subject to restrictions for the protection of European communication networks.</p></div><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex C</a> of the Work Programme General Annexes.</p></div></div><div><h4>5a. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex D</a> of the Work Programme General Annexes.</p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>The thresholds for each criterion will be 4 (Excellence), 4 (Impact) and 4 (Implementation). The cumulative threshold is 12.</p></div><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>The granting authority may, up to 4 years after the end of the action, object to a transfer of ownership or to the exclusive licensing of results, as set out in the specific provision of Annex 5.</p></div><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex G</a> of the Work Programme General Annexes.</p></div></div></div><div class=\"eui-u-mt-l\"><h4>Specific conditions</h4> <div class=\"eui-u-mt-s\"><p>described in the [specific topic of the Work Programme]</p></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Application and evaluation forms and model grant agreement (MGA):</h4> <div class=\"eui-u-mt-s\"><p><strong>Application form templates</strong> <em>— the application form specific to this call is available in the Submission System</em></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (HE RIA, IA)</a></p><p><strong>Evaluation form templates</strong> <em>— will be used with the necessary adaptations</em> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/ef/ef_he-ria-ia_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard evaluation form (HE RIA, IA)</a>&#xa0;</p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a>&#xa0;</p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE MGA</a>&#xa0;</p><p><strong>Call-specific instructions</strong>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/information-on-clinical-studies_he_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Information on clinical studies (HE)</a>&#xa0;</p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-1-general-introduction_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 1. General Introduction</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-12-missions_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 12. Missions</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 15. General Annexes</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0695\" rel=\"noopener noreferrer\" target=\"_blank\">HE Framework Programme 2021/695</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021D0764\" rel=\"noopener noreferrer\" target=\"_blank\">HE Specific Programme Decision 2021/764</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a> </p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "Virtual Human Twin (VHT) Models for Cancer Research"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "D7DF7EF279A812AA8A5A777B7DC2C783785412862A0687C065081EA5240A3DC9"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43027846"
+      ],
+      "callIdentifier": [
+        "HORIZON-MISS-2026-02"
+      ],
+      "ccm2Id": [
+        "50135961"
+      ],
+      "callccm2Id": [
+        "50137823"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50135961TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"HORIZON-MISS-2026-02\",\"criterionCode\":\"HORIZON-RIA\",\"criterionDescription\":\"HORIZON  Research and Innovation Actions\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43448?topic\\u003dHORIZON-MISS-2026-02-CANCER-01\",\"startDate\":\"1770681600000\",\"endDate\":\"1789430400000\",\"mgaDescription\":\"HORIZON Action Grant Budget-Based\",\"mgaCode\":\"HORIZON-AG\"}]"
+      ],
+      "callTitle": [
+        "Supporting the implementation of the Cancer Mission"
+      ],
+      "frameworkProgramme": [
+        "43108390"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Outcome:</p><p>Proposals under this topic should aim to deliver results that are directed and tailored towards and contribute to all of the following expected outcomes:</p><ul level=\"0\"><li>Researchers of different disciplines use advanced multiscale Virtual Human Twins (VHTs) to expand the knowledge and understanding of cancer onset and progression</li><li>Healthcare professionals and researchers have access to advanced VHT-based solutions that model cancer onset and progression over time, contributing to improve personalised treatments</li><li>Researchers, healthcare professionals, innovators and citizens have access to cancer VHTs through the UNCAN.eu and the advanced Virtual Human Twin platforms</li> </ul><p class=\"topicdescriptionkind\">Scope:</p><p>Virtual human twins (VHTs) are digital representations and in-silico models of an individual’s health and disease at different levels of the human anatomy (e.g. cells, tissues, organs or organ systems) for the prevention, prediction, screening, diagnosis and treatment of a disease, as well as the selection and personalisation of intervention options<sup>[1]</sup>.</p><p>The proposed topic will contribute to the EU Cancer Mission objectives by improving the accuracy of dynamic and multiscale VHTs to better understand cancer onset, predict progression and develop personalized treatments. Of particular interest for this topic are cancers with limited treatment options or unclear biological mechanisms, refractory cancers, rare cancers, early-onset cancers, cancer types with low five-year survival rates, or paediatric and adolescent cancers<sup>[2]</sup>.</p><p>Applicants should take advantage of technological advances in AI tools which open new opportunities to collect, combine and analyse large datasets of diverse types, including multi-omics patient data, tumour molecular profiles, immune profiles, medical images and real word data. Age, sex and gender differences should be duly considered. When relevant, proposals should build on current approaches, standards, data repositories and use modelling assets including but not limited to those provided by the future Advanced VHT Platform<sup>[3]</sup>, the European Open Science Cloud<sup>[4]</sup>, the European 1M+ Genomes<sup>[5]</sup> and the European Cancer Imaging initiatives<sup>[6]</sup>.</p><p>The applicants should address all of the following activities:</p><ul level=\"0\"><li>To develop innovative, dynamic multiscale VHTs for advancing the mechanistic knowledge and understanding of cancer onset and progression and develop or improve innovative personalised treatments. VHTs should integrate AI tools for the analysis of large volumes of FAIR (Findable, Accessible, Interoperable, Reusable) multimodal data, increasing their predictive capability and, when appropriate, utilise IT solutions for model visualisation via Augmented Reality/Virtual Reality.</li><li>To update and validate VHTs with longitudinal newly collected or existing FAIR patient data and generate evidence that VHT models can deliver clinically meaningful observations to improve treatment of the studied cancer type, demonstrating VHT accessibility and usability for clinical uptake. The use of data and services provided by ESFRI research infrastructures in the life science domain<sup>[7]</sup> should be considered when appropriate.</li><li>To enrich and make available data and model assets in the UNCAN.eu research platform and in the Advanced VHT Platform following the principles of open science. Newly collected patient datasets must be described with metadata records in the EU dataset catalogue of the European Health Data Space.</li><li>Collaboration among different scientific disciplines, including healthcare professionals and patients throughout all stages of VHTs development is envisaged<sup>[8]</sup>.</li> </ul><p>Successful proposals will be asked to join the 'Understanding' project cluster of the EU Cancer Mission<sup>[9]</sup> and should include a budget for networking, attendance at meetings and joint activities<sup>[10]</sup>. The Commission will facilitate coordination of this activity. Collaboration is encouraged also with Horizon Europe projects supporting the VHT initiative<sup>[11]</sup>, as appropriate.</p><p>Applicants envisaging to include clinical studies should provide details in the dedicated annex using the template provided in the submission system.</p><p class=\"eui-u-font-s\">[1] See the ‘European Virtual Human Twin’ Coordination and Support Action, EDITH, funded under the DIGITAL programme <a href=\"https://www.edith-csa.eu/\">https://www.edith-csa.eu/</a></p><p class=\"eui-u-font-s\">[2] Age at first diagnosis 0-19 years</p><p class=\"eui-u-font-s\">[3] <a href=\"https://digital-strategy.ec.europa.eu/en/funding/platform-advanced-virtual-human-twin-vht-models\">https://digital-strategy.ec.europa.eu/en/funding/platform-advanced-virtual-human-twin-vht-models</a></p><p class=\"eui-u-font-s\">[4] https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/open-science/european-open-science-cloud-eosc_en</p><p class=\"eui-u-font-s\">[5] <a href=\"https://digital-strategy.ec.europa.eu/en/policies/1-million-genomes\">European '1+ Million Genomes' Initiative | Shaping Europe’s digital future</a></p><p class=\"eui-u-font-s\">[6] E<a href=\"https://digital-strategy.ec.europa.eu/en/policies/cancer-imaging\">uropean Cancer Imaging Initiative | Shaping Europe’s digital future</a></p><p class=\"eui-u-font-s\">[7] https://lifescience-ri.eu/home.html</p><p class=\"eui-u-font-s\">[8] Proposals should include an appropriate mix of stakeholders from various disciplines and sectors, including but not limited to medical doctors, patient representatives, health-IT experts, researchers, AI-experts, solution providers, academia and research institutes, EU research infrastructures, and SMEs</p><p class=\"eui-u-font-s\">[9] In order to address the objectives of the Cancer Mission, participants will collaborate in project clusters to leverage EU-funding, increase networking across sectors and disciplines, and establish a portfolio of Cancer Mission R&amp;I and policy actions</p><p class=\"eui-u-font-s\">[10] Examples of those activities are organising joint workshops, establishing best practices, joint communication or citizen engagement activities with projects funded under other clusters and pillars of Horizon Europe, or other EU programmes, as appropriate. Proposals are not required to include details of these activities, as they will be defined during the grant agreement preparation and during the life of the project</p><p class=\"eui-u-font-s\">[11] Including the projects funded under call HORIZON-HLTH-2023-TOOL-05-03, https://hadea.ec.europa.eu/calls-proposals/horizon-europe-health-calls-2023-destination-5-unlocking-full-potential-new-tools-technologies-and_en</p>"
+      ],
+      "identifier": [
+        "HORIZON-MISS-2026-02-CANCER-01"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43108390",
+        "43108541",
+        "43108557"
+      ],
+      "crossCuttingPriorities": [
+        "AI",
+        "DigitalAgenda"
+      ],
+      "esDA_FirstIngestDate": [
+        "2025-12-12T00:01:13.116+0100"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-09-15T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-03-02T09:27:11.254+0100"
+      ],
+      "typesOfAction": [
+        "HORIZON  Research and Innovation Actions"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-02-CANCER-01"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-02-CANCER-01"
+      ],
+      "tags": [
+        "Cancer onset",
+        "Cancer progression",
+        "Numerical Models",
+        "Personalised treatment"
+      ],
+      "cenTagsA": [
+        "TOPICS-003526",
+        "TOPICS-003527",
+        "TOPICS-003528",
+        "TOPICS-003529",
+        "TOPICS-003530",
+        "TOPICS-003531",
+        "TOPICS-003107",
+        "TOPICS-003532",
+        "TOPICS-000257",
+        "TOPICS-003533",
+        "TOPICS-003534",
+        "TOPICS-003535",
+        "TOPICS-003536"
+      ],
+      "esDA_QueueDate": [
+        "2026-03-02T09:27:11.241+0100"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"HORIZON-RIA HORIZON  Research and Innovation Actions\",\"typeOfMGA\":[{\"id\":43027846,\"abbreviation\":\"HORIZON-AG\",\"description\":\"HORIZON Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-02-10\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-09-15\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113063\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-04 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":3,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"15000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113065\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-05 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":1,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2026\":\"7000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113064\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-01 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":4,\"minContribution\":8000000,\"maxContribution\":9000000,\"budgetYearMap\":{\"2026\":\"35000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113067\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-02 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":1,\"minContribution\":15000000,\"maxContribution\":15000000,\"budgetYearMap\":{\"2026\":\"15000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113066\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-03 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":3,\"minContribution\":7000000,\"maxContribution\":8000000,\"budgetYearMap\":{\"2026\":\"22186000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113069\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-07 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":5,\"minContribution\":5000000,\"maxContribution\":6000000,\"budgetYearMap\":{\"2026\":\"25000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113068\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-06 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"5000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}]}}"
+      ],
+      "startDate": [
+        "2026-02-10T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> – find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> – ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> – get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (‘third-countries’).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> – contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> – the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> – consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Virtual Human Twin (VHT) Models for Cancer Research. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-02-CANCER-01",
+    "score": 3.0
+  }
+}

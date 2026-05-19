@@ -1,0 +1,136 @@
+{
+  "id": "EU-186297PROSPECTSEN",
+  "topic_id": "186297PROSPECTSEN",
+  "titulo": "Convocatoria conjunta de Propuestas 2026 en Honduras en el marco del Programa Temático de Derechos Humanos y Democracia y el Programa Temático para Organizaciones de Sociedad Civil",
+  "descripcion": "Convocatoria conjunta de Propuestas 2026 en Honduras en el marco del Programa Temático de Derechos Humanos y Democracia y el Programa Temático para Organizaciones de Sociedad Civil",
+  "organismo": "111111",
+  "fecha_publicacion": "2026-04-15",
+  "fecha_limite": "2026-06-01",
+  "deadlines_todas": "2026-06-01",
+  "presupuesto": "4841000",
+  "duracion": "",
+  "tipo_accion": "",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186297",
+  "text": "EU FUNDING & TENDERS – Topic: 186297PROSPECTSEN\nProgramme/Organism: 111111\nTitle: Convocatoria conjunta de Propuestas 2026 en Honduras en el marco del Programa Temático de Derechos Humanos y Democracia y el Programa Temático para Organizaciones de Sociedad Civil\nStatus: Open (31094502)\nType of action: \nOpening date: 2026-04-15\nDeadline: 2026-06-01\nAll deadlines: 2026-06-01\nDuration: \nBudget overview: 4841000\n\nDescription / Scope:\nConvocatoria conjunta de Propuestas 2026 en Honduras en el marco del Programa Temático de Derechos Humanos y Democracia y el Programa Temático para Organizaciones de Sociedad Civil\n\nMore info: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186297",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "186297PROSPECTSEN",
+    "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186297",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Convocatoria conjunta de Propuestas 2026 en Honduras en el marco del Programa Temático de Derechos Humanos y Democracia y el Programa Temático para Organizaciones de Sociedad Civil",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Convocatoria conjunta de Propuestas 2026 en Honduras en el marco del Programa Temático de Derechos Humanos y Democracia y el Programa Temático para Organizaciones de Sociedad Civil",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "B0080C7E87C73DDAAF17CA078C013179218370FA7479A8F81268B1F540F8AB00",
+    "metadata": {
+      "updateDate": [
+        "2026-04-14T17:34:36.000+0000"
+      ],
+      "es_SortDate": [
+        "2026-04-15T21:59:11.000+0000"
+      ],
+      "beneficiaryAdministration": [],
+      "sortStatus": [
+        "1"
+      ],
+      "contractType": [
+        "42893160"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Convocatoria conjunta de Propuestas 2026 en Honduras en el marco del Programa Temático de Derechos Humanos y Democracia y el Programa Temático para Organizaciones de Sociedad Civil"
+      ],
+      "type": [
+        "2"
+      ],
+      "esST_checksum": [
+        "B0080C7E87C73DDAAF17CA078C013179218370FA7479A8F81268B1F540F8AB00"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "callIdentifier": [
+        "186297"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "186297PROSPECTSEN"
+      ],
+      "currency": [
+        "EUR"
+      ],
+      "frameworkProgramme": [
+        "111111"
+      ],
+      "budget": [
+        "4841000"
+      ],
+      "identifier": [
+        "EuropeAid/186297/DD/ACT/HN"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "geographicalZones": [
+        "20000910"
+      ],
+      "publicationDocuments": [
+        "[{\"nameDoc\":\"Guía para solicitantes\",\"typeDoc\":\"pdf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 23:59:35.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2155547&lang=ES\"},{\"nameDoc\":\"Anexo A.1 Documento de síntesis\",\"typeDoc\":\"rtf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 23:59:33.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2142815&lang=ES\"},{\"nameDoc\":\"Anexo A.2 Formulario de solicitud completa\",\"typeDoc\":\"rtf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 23:59:25.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2142814&lang=ES\"},{\"nameDoc\":\"Anexo B - Presupuesto (formato Excel)\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 23:59:39.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2135087&lang=ES\"},{\"nameDoc\":\"Anexo C - Marco Lógico (formato Excel)\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 23:59:50.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2135090&lang=ES\"},{\"nameDoc\":\"Anexo F - Formulario de inscripción en PADOR\",\"typeDoc\":\"pdf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 23:59:13.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2135088&lang=ES\"},{\"nameDoc\":\"Anexo H - Declaración jurada sobre los criterios de exclusión\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 23:59:01.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2154820&lang=ES\"},{\"nameDoc\":\"Anexo L - Cuestionario de autoevaluación sobre la explotación, el acoso y los abusos sexuales\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 23:59:30.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2135083&lang=ES\"},{\"nameDoc\":\"Anexo G - Modelo de contrato de subvención\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 23:59:16.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2142816&lang=ES\"},{\"nameDoc\":\"Anexo G - Anexo II - Condiciones generales\",\"typeDoc\":\"pdf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 23:59:15.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2147869&lang=ES\"},{\"nameDoc\":\"Anexo G - Anexo IV - Normas de adjudicación de contratos\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 23:59:26.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2147870&lang=ES\"},{\"nameDoc\":\"Anexo G - Anexo V - Modelo de solicitud de pago\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 23:59:49.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2154679&lang=ES\"},{\"nameDoc\":\"Anexo G - Anexo VI (1) - Modelo de informe financiero y descriptivo (informe descriptivo intermedio)\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 23:59:39.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2154680&lang=ES\"},{\"nameDoc\":\"Anexo G - Anexo VI (2) - Modelo de informe financiero y descriptivo (informe descriptivo final)\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 23:59:02.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2154681&lang=ES\"},{\"nameDoc\":\"Anexo G - Anexo VI (3) - Modelo de informe financiero y descriptivo para las acciones híbridas (informe financiero)\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 23:59:12.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2154819&lang=ES\"},{\"nameDoc\":\"Anexo G - Anexo VII-A - Modelo de informe de constataciones factuales y pliegos de condiciones para la comprobación de los gastos de un contrato de subvenciones para acciones exteriores financiado por la UE\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 23:59:18.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2154682&lang=ES\"},{\"nameDoc\":\"Anexo G - Anexo VII-A - Comprobación de los gastos. Cuadro de transacciones y cuadro de errores\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 23:59:11.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2154822&lang=ES\"},{\"nameDoc\":\"Anexo G - Anexo VIII - Modelo de garantía financiera\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 23:59:20.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2154683&lang=ES\"},{\"nameDoc\":\"Anexo G - Anexo IX - Modelo normalizado para la cesión de la titularidad de activos\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 23:59:57.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2154697&lang=ES\"},{\"nameDoc\":\"Anexo J - Información sobre el régimen fiscal aplicable a los contratos de subvención firmados en el marco de la convocatoria\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 23:59:39.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2135093&lang=ES\"}]"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-04-16T00:00:00.393+0200"
+      ],
+      "programmePeriod": [
+        "2014 - 2020",
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-06-01T21:59:02.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-16T00:00:00.393+0200"
+      ],
+      "url": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186297"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186297"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-16T00:00:00.374+0200"
+      ],
+      "programmeDivisionProspect": [
+        "43072409"
+      ],
+      "geographicalZone": [
+        "20000910"
+      ],
+      "startDate": [
+        "2026-04-15T21:59:11.000+0000"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Convocatoria conjunta de Propuestas 2026 en Honduras en el marco del Programa Temático de Derechos Humanos y Democracia y el Programa Temático para Organizaciones de Sociedad Civil. Available at: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186297",
+    "score": 3.0
+  }
+}

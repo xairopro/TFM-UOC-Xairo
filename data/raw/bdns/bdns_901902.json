@@ -1,0 +1,106 @@
+{
+  "id": "BDNS-901902",
+  "id_interno": 1103463,
+  "numero_convocatoria": "901902",
+  "organismo": "LOCAL — CONSELL COMARCAL DE TARRAGONÈS — CONSELL COMARCAL DE TARRAGONÈS",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "2026-05-11",
+  "fecha_fin_solicitud": "2026-06-26",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Ayudas individuales de comedor, curso 2026/27.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, EDUCACIÓN",
+  "regiones": "ES514 - Tarragona",
+  "finalidad": "Educación",
+  "bases_reguladoras": "Bases para la concesión de ayudas económicas de carácter individual para los comedores escolares, curso 2026/27",
+  "url_bases_reguladoras": "https://dogc.gencat.cat/es/document-del-dogc/?documentId=1039844",
+  "presupuesto": "8.922.873,35 €",
+  "presupuesto_total_num": 8922873.35,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901902",
+  "text": "CONVOCATORIA BDNS Nº 901902\nOrganismo: LOCAL — CONSELL COMARCAL DE TARRAGONÈS — CONSELL COMARCAL DE TARRAGONÈS\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud: 2026-05-11 → 2026-06-26 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 8.922.873,35 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, EDUCACIÓN\nRegiones: ES514 - Tarragona\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nAyudas individuales de comedor, curso 2026/27.\n\nBases reguladoras:\nBases para la concesión de ayudas económicas de carácter individual para los comedores escolares, curso 2026/27\nURL bases reguladoras: https://dogc.gencat.cat/es/document-del-dogc/?documentId=1039844\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901902",
+  "_raw": {
+    "id": 1103463,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "CONSELL COMARCAL DE TARRAGONÈS",
+      "nivel3": "CONSELL COMARCAL DE TARRAGONÈS"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901902",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 8922873.35,
+    "mrr": false,
+    "descripcion": "Ayudas individuales de comedor, curso 2026/27.",
+    "descripcionLeng": "Ajuts individuals de menjador (AIM), curs 2026/27.",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      },
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES514 - Tarragona"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "Bases para la concesión de ayudas económicas de carácter individual para los comedores escolares, curso 2026/27",
+    "urlBasesReguladoras": "https://dogc.gencat.cat/es/document-del-dogc/?documentId=1039844",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-05-11",
+    "fechaFinSolicitud": "2026-06-26",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443699,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "Extracte convocatoria AIM 25-26 (catala) SIGNAT.pdf",
+        "long": 271310,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443698,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Extracto convocatoria AIM 26-27 (castellano) SIGNAT.pdf",
+        "long": 243106,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

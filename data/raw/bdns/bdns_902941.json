@@ -1,0 +1,110 @@
+{
+  "id": "BDNS-902941",
+  "id_interno": 1104502,
+  "numero_convocatoria": "902941",
+  "organismo": "LOCAL — CANALS — AYUNTAMIENTO DE CANALS",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Resolución Alcaldía núm 973 de 24 abril de 2026 aprobación de las bases concurso de disfraces Fira de setembre 2026.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+  "regiones": "ES523 - Valencia / València",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Resolución Alcaldía núm 973 de 24 abril de 2026 aprobación de las bases concurso de disfraces Fira de setembre 2026.",
+  "url_bases_reguladoras": "https://transparencia.canals.es/contractacio/subvencions",
+  "presupuesto": "2.815,00 €",
+  "presupuesto_total_num": 2815,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902941",
+  "text": "CONVOCATORIA BDNS Nº 902941\nOrganismo: LOCAL — CANALS — AYUNTAMIENTO DE CANALS\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 2.815,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de bibliotecas, archivos, museos y otras actividades culturales\nRegiones: ES523 - Valencia / València\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nResolución Alcaldía núm 973 de 24 abril de 2026 aprobación de las bases concurso de disfraces Fira de setembre 2026.\n\nBases reguladoras:\nResolución Alcaldía núm 973 de 24 abril de 2026 aprobación de las bases concurso de disfraces Fira de setembre 2026.\nURL bases reguladoras: https://transparencia.canals.es/contractacio/subvencions\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902941",
+  "_raw": {
+    "id": 1104502,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "CANALS",
+      "nivel3": "AYUNTAMIENTO DE CANALS"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902941",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 2815,
+    "mrr": false,
+    "descripcion": "Resolución Alcaldía núm 973 de 24 abril de 2026 aprobación de las bases concurso de disfraces Fira de setembre 2026.",
+    "descripcionLeng": "Resolució Alcaldia núm 973 de 24 abril de 2026 aprovació de les bases concurse de disfresses Fira de setembre 2026.",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+        "codigo": "91"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES523 - Valencia / València"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Resolución Alcaldía núm 973 de 24 abril de 2026 aprobación de las bases concurso de disfraces Fira de setembre 2026.",
+    "urlBasesReguladoras": "https://transparencia.canals.es/contractacio/subvencions",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Tendrá lugar el día 19 de septiembre desde las 22:00 horas",
+    "textFin": "Hasta las 23:00 horas",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446744,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Decreto Nº 973 de 27_04_2026 _05 01 Resolució bases Ball Disfresses Fira 2026.pdf",
+        "long": 471111,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446746,
+        "descripcion": "Bases",
+        "nombreFic": "Bases concurso baile disfraces fira setembre 2026.pdf",
+        "long": 690442,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446745,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "Decreto Nº 973 de 27_04_2026 _05 01 Resolució bases Ball Disfresses Fira 2026.pdf",
+        "long": 471111,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

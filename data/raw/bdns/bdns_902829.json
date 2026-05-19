@@ -1,0 +1,98 @@
+{
+  "id": "BDNS-902829",
+  "id_interno": 1104390,
+  "numero_convocatoria": "902829",
+  "organismo": "AUTONOMICA — CANTABRIA — CONSEJERÍA DE CULTURA, TURISMO Y DEPORTE",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "2025-01-01",
+  "fecha_fin_solicitud": "2025-12-31",
+  "abierto": false,
+  "mrr": true,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "CONCESIÓN DIRECTA  A FUNDACIÓN PATRONATO MONTAÑES DE ENSEÑANZA PARA PLAN DE COMPETENCIAS DIGITALES EN TURISMO PRTR",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades auxiliares a la educación",
+  "regiones": "ES130 - Cantabria",
+  "finalidad": "Comercio, Turismo y Pymes",
+  "bases_reguladoras": "Decreto xx/2026, de xxx , de concesión directa de subvención a la ESCUELA UNIVERSITARIA DE TURISMO ALTAMIRA – FUNDACIÓN PATRONATO MONTAÑÉS DE ENSEÑANZA- PLAN DE COMPETENCIAS DIGITALES EN TURISMO durante 2026, PRTR",
+  "url_bases_reguladoras": "A COMPLETAR",
+  "presupuesto": "29.999,70 €",
+  "presupuesto_total_num": 29999.7,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "MRR - MECANISMO DE RECUPERACIÓN Y RESILIENCIA",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902829",
+  "text": "CONVOCATORIA BDNS Nº 902829\nOrganismo: AUTONOMICA — CANTABRIA — CONSEJERÍA DE CULTURA, TURISMO Y DEPORTE\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud: 2025-01-01 → 2025-12-31 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 29.999,70 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades auxiliares a la educación\nRegiones: ES130 - Cantabria\nFinalidad: Comercio, Turismo y Pymes\nFondos: MRR - MECANISMO DE RECUPERACIÓN Y RESILIENCIA\nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): sí\n\nObjeto / Descripción:\nCONCESIÓN DIRECTA  A FUNDACIÓN PATRONATO MONTAÑES DE ENSEÑANZA PARA PLAN DE COMPETENCIAS DIGITALES EN TURISMO PRTR\n\nBases reguladoras:\nDecreto xx/2026, de xxx , de concesión directa de subvención a la ESCUELA UNIVERSITARIA DE TURISMO ALTAMIRA – FUNDACIÓN PATRONATO MONTAÑÉS DE ENSEÑANZA- PLAN DE COMPETENCIAS DIGITALES EN TURISMO durante 2026, PRTR\nURL bases reguladoras: A COMPLETAR\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902829",
+  "_raw": {
+    "id": 1104390,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "CANTABRIA",
+      "nivel3": "CONSEJERÍA DE CULTURA, TURISMO Y DEPORTE"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902829",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 29999.7,
+    "mrr": true,
+    "descripcion": "CONCESIÓN DIRECTA  A FUNDACIÓN PATRONATO MONTAÑES DE ENSEÑANZA PARA PLAN DE COMPETENCIAS DIGITALES EN TURISMO PRTR",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades auxiliares a la educación",
+        "codigo": "85.6"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES130 - Cantabria"
+      }
+    ],
+    "descripcionFinalidad": "Comercio, Turismo y Pymes",
+    "descripcionBasesReguladoras": "Decreto xx/2026, de xxx , de concesión directa de subvención a la ESCUELA UNIVERSITARIA DE TURISMO ALTAMIRA – FUNDACIÓN PATRONATO MONTAÑÉS DE ENSEÑANZA- PLAN DE COMPETENCIAS DIGITALES EN TURISMO durante 2026, PRTR",
+    "urlBasesReguladoras": "A COMPLETAR",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2025-01-01",
+    "fechaFinSolicitud": "2025-12-31",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [
+      {
+        "descripcion": "MRR - MECANISMO DE RECUPERACIÓN Y RESILIENCIA"
+      }
+    ],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446598,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "ecreto_concesión_EU_Turismo_Altami.pdf",
+        "long": 415478,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

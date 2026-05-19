@@ -1,0 +1,111 @@
+{
+  "id": "BDNS-902911",
+  "id_interno": 1104472,
+  "numero_convocatoria": "902911",
+  "organismo": "LOCAL — OVIEDO — AYUNTAMIENTO DE OVIEDO",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "2026-01-01",
+  "fecha_fin_solicitud": "2026-12-31",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "CONVENIO DE COLABORACIÓN CON LA JUNTA DE HERMANDADES Y COFRADIAS DE LA SEMANA SANTA PARA LA CELEBRACIÓN DE LA SEMANA SANTA 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "GRAN EMPRESA, PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de creación artística y artes escénicas",
+  "regiones": "ES12 - PRINCIPADO DE ASTURIAS",
+  "finalidad": "Comercio, Turismo y Pymes",
+  "bases_reguladoras": "Ordenanza General de Subvenciones del Ayuntamiento de Oviedo",
+  "url_bases_reguladoras": "https://www.oviedo.es/documents/25047/1519956/Ordenanza+General+de+Subvenciones+texto+consolidado.pdf/6e6ad8f0-dfa6-4a12-83c3-fe37053050cb",
+  "presupuesto": "25.000,00 €",
+  "presupuesto_total_num": 25000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902911",
+  "text": "CONVOCATORIA BDNS Nº 902911\nOrganismo: LOCAL — OVIEDO — AYUNTAMIENTO DE OVIEDO\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud: 2026-01-01 → 2026-12-31 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 25.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: GRAN EMPRESA, PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de creación artística y artes escénicas\nRegiones: ES12 - PRINCIPADO DE ASTURIAS\nFinalidad: Comercio, Turismo y Pymes\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVENIO DE COLABORACIÓN CON LA JUNTA DE HERMANDADES Y COFRADIAS DE LA SEMANA SANTA PARA LA CELEBRACIÓN DE LA SEMANA SANTA 2026\n\nBases reguladoras:\nOrdenanza General de Subvenciones del Ayuntamiento de Oviedo\nURL bases reguladoras: https://www.oviedo.es/documents/25047/1519956/Ordenanza+General+de+Subvenciones+texto+consolidado.pdf/6e6ad8f0-dfa6-4a12-83c3-fe37053050cb\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902911",
+  "_raw": {
+    "id": 1104472,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "OVIEDO",
+      "nivel3": "AYUNTAMIENTO DE OVIEDO"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902911",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 25000,
+    "mrr": false,
+    "descripcion": "CONVENIO DE COLABORACIÓN CON LA JUNTA DE HERMANDADES Y COFRADIAS DE LA SEMANA SANTA PARA LA CELEBRACIÓN DE LA SEMANA SANTA 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "GRAN EMPRESA"
+      },
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de creación artística y artes escénicas",
+        "codigo": "90"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES12 - PRINCIPADO DE ASTURIAS"
+      }
+    ],
+    "descripcionFinalidad": "Comercio, Turismo y Pymes",
+    "descripcionBasesReguladoras": "Ordenanza General de Subvenciones del Ayuntamiento de Oviedo",
+    "urlBasesReguladoras": "https://www.oviedo.es/documents/25047/1519956/Ordenanza+General+de+Subvenciones+texto+consolidado.pdf/6e6ad8f0-dfa6-4a12-83c3-fe37053050cb",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-01-01",
+    "fechaFinSolicitud": "2026-12-31",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446674,
+        "descripcion": "JUNTA DE GOBIERNO LOCAL",
+        "nombreFic": "Aprobación_en_JGL_y_notificación.CERTIFICADO_ACUERDO_JUNTA_DE_GOBIERNO_LOCAL_EXTRA.PDF",
+        "long": 233446,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446673,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "CONVENIO_SEMANA_SANTA_2026.PDF",
+        "long": 410885,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

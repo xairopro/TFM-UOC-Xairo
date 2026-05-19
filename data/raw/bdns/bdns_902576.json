@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-902576",
+  "id_interno": 1104137,
+  "numero_convocatoria": "902576",
+  "organismo": "LOCAL — HOSPITALET DE LLOBREGAT, L' — AYUNTAMIENTO DE HOSPITALET DE LLOBREGAT, L'",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "2026-01-01",
+  "fecha_fin_solicitud": "2026-12-31",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "OTORGAR UNA SUBVENCIÓN NOMINATIVA, POR IMPORTE DE 175.624 EUROS, A LA FUNDACIÓN PRIVADA EL LLINDAR PARA LA EJECUCIÓN DEL PROYECTO \"PROGRAMA DE ADAPTACIÓN CURRICULAR\".",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "EDUCACIÓN",
+  "regiones": "ES511 - Barcelona",
+  "finalidad": "Educación",
+  "bases_reguladoras": "El dia 27 de enero de 2026 queda aprobado definitivamente el Presupuesto General Municipal para el año 2026 según anuncio publicado en el BOPBCN el 28 de Enero de 2026",
+  "url_bases_reguladoras": "https://seu-e.cat/ca/web/hospitaletdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions",
+  "presupuesto": "175.624,00 €",
+  "presupuesto_total_num": 175624,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902576",
+  "text": "CONVOCATORIA BDNS Nº 902576\nOrganismo: LOCAL — HOSPITALET DE LLOBREGAT, L' — AYUNTAMIENTO DE HOSPITALET DE LLOBREGAT, L'\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud: 2026-01-01 → 2026-12-31 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 175.624,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: EDUCACIÓN\nRegiones: ES511 - Barcelona\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nOTORGAR UNA SUBVENCIÓN NOMINATIVA, POR IMPORTE DE 175.624 EUROS, A LA FUNDACIÓN PRIVADA EL LLINDAR PARA LA EJECUCIÓN DEL PROYECTO \"PROGRAMA DE ADAPTACIÓN CURRICULAR\".\n\nBases reguladoras:\nEl dia 27 de enero de 2026 queda aprobado definitivamente el Presupuesto General Municipal para el año 2026 según anuncio publicado en el BOPBCN el 28 de Enero de 2026\nURL bases reguladoras: https://seu-e.cat/ca/web/hospitaletdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902576",
+  "_raw": {
+    "id": 1104137,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "HOSPITALET DE LLOBREGAT, L'",
+      "nivel3": "AYUNTAMIENTO DE HOSPITALET DE LLOBREGAT, L'"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902576",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 175624,
+    "mrr": false,
+    "descripcion": "OTORGAR UNA SUBVENCIÓN NOMINATIVA, POR IMPORTE DE 175.624 EUROS, A LA FUNDACIÓN PRIVADA EL LLINDAR PARA LA EJECUCIÓN DEL PROYECTO \"PROGRAMA DE ADAPTACIÓN CURRICULAR\".",
+    "descripcionLeng": "ATORGAR UNA SUBVENCIÓ NOMINATIVA, PER IMPORT DE 175.624 EUROS, A LA FUNDACIÓ PRIVADA EL LLINDAR PER A L’EXECUCIÓ DEL PROJECTE \"PROGRAMA D'ADAPTACIÓ CURRICULAR\".",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES511 - Barcelona"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "El dia 27 de enero de 2026 queda aprobado definitivamente el Presupuesto General Municipal para el año 2026 según anuncio publicado en el BOPBCN el 28 de Enero de 2026",
+    "urlBasesReguladoras": "https://seu-e.cat/ca/web/hospitaletdellobregat/govern-obert-i-transparencia/contractes-convenis-i-subvencions",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-01-01",
+    "fechaFinSolicitud": "2026-12-31",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445731,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "20260429_FUNDACION EL LLINDAR_Acord Catala.pdf",
+        "long": 439532,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445730,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "20260429_FUNDACION EL LLINDAR_Acuerdo Castellano.pdf",
+        "long": 340625,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

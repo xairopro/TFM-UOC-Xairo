@@ -1,0 +1,206 @@
+{
+  "id": "EU-50071491TOPICSen",
+  "topic_id": "50071491TOPICSen",
+  "titulo": "Cross-Border Cyber Hubs",
+  "descripcion": "Cross-Border Cyber Hubs",
+  "organismo": "43152860",
+  "fecha_publicacion": "2025-12-09",
+  "fecha_limite": "2026-05-28",
+  "deadlines_todas": "2026-05-28",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2025\"],\"budgetTopicActionMap\":{\"112725\":[{\"action\":\"DIGITAL-ECCC-2026-DEPLOY-CYBER-10-NCH - DIGITAL-JU-SIMPLE DIGITAL JU Simple Grants\",\"expectedGrants\":1,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2025\":\"2000000\"},\"plannedOpeningDate\":\"2025-12-09\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-05-28\"]}],\"112726\":[{\"action\":\"DIGITAL-ECCC-2026-DEPLOY-CYBER-10-CBCH - DIGITAL-JU-SIMPLE DIGITAL JU Simple Grants\",\"expectedGrants\":1,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2025\":\"2000000\"},\"plannedOpeningDate\":\"2025-12-09\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-05-28\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "DIGITAL JU Simple Grants",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-ECCC-2026-DEPLOY-CYBER-10-CBCH",
+  "text": "EU FUNDING & TENDERS – Topic: 50071491TOPICSen\nProgramme/Organism: 43152860\nTitle: Cross-Border Cyber Hubs\nStatus: Open (31094502)\nType of action: DIGITAL JU Simple Grants\nOpening date: 2025-12-09\nDeadline: 2026-05-28\nAll deadlines: 2026-05-28\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2025\"],\"budgetTopicActionMap\":{\"112725\":[{\"action\":\"DIGITAL-ECCC-2026-DEPLOY-CYBER-10-NCH - DIGITAL-JU-SIMPLE DIGITAL JU Simple Grants\",\"expectedGrants\":1,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2025\":\"2000000\"},\"plannedOpeningDate\":\"2025-12-09\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-05-28\"]}],\"112726\":[{\"action\":\"DIGITAL-ECCC-2026-DEPLOY-CYBER-10-CBCH - DIGITAL-JU-SIMPLE DIGITAL JU Simple Grants\",\"expectedGrants\":1,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2025\":\"2000000\"},\"plannedOpeningDate\":\"2025-12-09\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-05-28\"]}]}}\n\nDescription / Scope:\nCross-Border Cyber Hubs\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-ECCC-2026-DEPLOY-CYBER-10-CBCH",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "50071491TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-ECCC-2026-DEPLOY-CYBER-10-CBCH",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Cross-Border Cyber Hubs",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Cross-Border Cyber Hubs",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "AB81483254A5ECA468EA8F2FAB551801EEF50ECDFC22E768AF3B8DC81162C6C8",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2025-12-10T13:24:30.509\",\"content\":\"\\u003cp\\u003eTo support the activities of a Cyber Hub, two workstreams are foreseen:\\u003c/p\\u003e\\u003cul\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003e\\u003cstrong\\u003eA Joint Procurement Action \\u003c/strong\\u003ewith the Member State(s) participating in the action.\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eBuilding up and running the National/Cross-Border Cyber Hub, supported by \\u003cstrong\\u003ea grant\\u003c/strong\\u003e covering preparatory activities, cooperation with stakeholders, and other operational needs.\\u003c/li\\u003e\\u003c/ul\\u003e\\u003cp\\u003eApplications must cover both workstreams and will be subject to an evaluation procedure. Grants will be awarded only to applicants that successfully pass the evaluation of the Joint Procurement Action. The related Calls for Expression of Interest\\u0026#xa0;(CfEIs) will be published around mid-December 2025 on the \\u003ca href\\u003d\\\"https://cybersecurity-centre.europa.eu/funding-opportunities/call-expressions-interest_en\\\" rel\\u003d\\\"noopener noreferrer\\\" target\\u003d\\\"_blank\\\"\\u003eECCC\\u0026#xa0;website\\u003c/a\\u003e.\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2025-12-10T00:30:58.526\",\"content\":\"The submission session is now available for: DIGITAL-ECCC-2026-DEPLOY-CYBER-10-NCH, DIGITAL-ECCC-2026-DEPLOY-CYBER-10-CBCH\"}]"
+      ],
+      "es_SortDate": [
+        "2025-12-09T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "DIGITAL-ECCC-2026-DEPLOY-CYBER-10-CBCH",
+        "DIGITAL-ECCC-2026-DEPLOY-CYBER-10",
+        "Artificial intelligence",
+        "Capacity building",
+        "Cyber-physical systems",
+        "Cybersecurity",
+        "Cybersecurity Domains",
+        "Defence",
+        "Real time data analytics",
+        "TSI (Technical Specifications for Interoperability)"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>Conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>described in section 5 of the <u><a href=\"https://cybersecurity-centre.europa.eu/document/d3dec6b2-4b27-4a52-adca-57c4efe1b789_en\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>described in section 6 of the <u><a href=\"https://cybersecurity-centre.europa.eu/document/d3dec6b2-4b27-4a52-adca-57c4efe1b789_en\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>described in section 6 of the <u><a href=\"https://cybersecurity-centre.europa.eu/document/d3dec6b2-4b27-4a52-adca-57c4efe1b789_en\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in section 7 of the <u><a href=\"https://cybersecurity-centre.europa.eu/document/d3dec6b2-4b27-4a52-adca-57c4efe1b789_en\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>5a. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>described section 8 of the <u><a href=\"https://cybersecurity-centre.europa.eu/document/d3dec6b2-4b27-4a52-adca-57c4efe1b789_en\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u> and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5b. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>described in section 9 of the <u><a href=\"https://cybersecurity-centre.europa.eu/document/d3dec6b2-4b27-4a52-adca-57c4efe1b789_en\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in section 4 of the <u><a href=\"https://cybersecurity-centre.europa.eu/document/d3dec6b2-4b27-4a52-adca-57c4efe1b789_en\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>described in section 10 of the <u><a href=\"https://cybersecurity-centre.europa.eu/document/d3dec6b2-4b27-4a52-adca-57c4efe1b789_en\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\"><p><a href=\"https://cybersecurity-centre.europa.eu/document/a35f7be2-4464-43d3-a40f-6ec942036f48_en\" rel=\"noopener noreferrer\" target=\"_blank\">Digital Europe Cybersecurity Work Programme 2025-2027</a></p><p><a href=\"https://eur-lex.europa.eu/eli/reg/2021/887/oj/eng\" rel=\"noopener noreferrer\" target=\"_blank\">Regulation (EU) 2021/887 of the European Parliament and of the Council of 20 May 2021 establishing the European Cybersecurity Industrial, Technology and Research Competence Centre and the Network of National Coordination Centres</a></p><p><br></br></p></div><h4>Call document and annexes:</h4> <div class=\"eui-u-mt-s\"><p><u><a href=\"https://cybersecurity-centre.europa.eu/document/d3dec6b2-4b27-4a52-adca-57c4efe1b789_en\" rel=\"noopener noreferrer\" target=\"_blank\">Call document</a></u></p><p><strong>Application form templates</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/temp-form/af/af_dep_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (DEP)</a> — the application form specific to this call is available in the Submission System</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/temp-form/af/ownership-control-declaration_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Ownership control declaration</a></p><p>The appointment decision from the Member State designating the entity to act as National CyberHUB (<em>no form template available; country specific format accepted</em>)</p><p><br></br></p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/agr-contr/mga_dep_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">DEP MGA</a></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://cybersecurity-centre.europa.eu/document/a35f7be2-4464-43d3-a40f-6ec942036f48_en\" rel=\"noopener noreferrer\" target=\"_blank\">ECCC Digital Europe Cybersecurity Work Programme 2025-2027 - Consolidated Amendment 2, October 2025</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0694\" rel=\"noopener noreferrer\" target=\"_blank\">DEP Regulation 2021/964</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a> </p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "Cross-Border Cyber Hubs"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "AB81483254A5ECA468EA8F2FAB551801EEF50ECDFC22E768AF3B8DC81162C6C8"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43140990"
+      ],
+      "callIdentifier": [
+        "DIGITAL-ECCC-2026-DEPLOY-CYBER-10"
+      ],
+      "ccm2Id": [
+        "50071491"
+      ],
+      "callccm2Id": [
+        "50071502"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50071491TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"DIGITAL-ECCC-2026-DEPLOY-CYBER-10\",\"criterionCode\":\"DIGITAL-JU-SIMPLE\",\"criterionDescription\":\"DIGITAL JU Simple Grants\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/42965?topic\\u003dDIGITAL-ECCC-2026-DEPLOY-CYBER-10-CBCH\",\"startDate\":\"1765238400000\",\"endDate\":\"1779926400000\",\"mgaDescription\":\"DIGITAL Action Grant Budget-Based\",\"mgaCode\":\"DIGITAL-AG\"}]"
+      ],
+      "callTitle": [
+        "CyberHUBs Capacity Building"
+      ],
+      "frameworkProgramme": [
+        "43152860"
+      ],
+      "descriptionByte": [
+        "<span class=\"topicdescriptionkind\">Expected Outcome:</span><ul level=\"0\"><li>World-class Cross-Border Cyber Hubs across the Union for pooling data on cybersecurity threats between several Member States, equipped with a highly secure infrastructures and advanced data analytics tools for detecting, gathering and storing data on cybersecurity threats, analysing this data, and sharing and reporting CTI, reviews and analyses.</li><li>Sharing of Threat Intelligence between National Cyber Hubs, and information sharing agreements with competent authorities and networks, including CSIRTs.</li> </ul><span class=\"topicdescriptionkind\">Objective:</span><p>The former Cross-border SOC platforms were financed during previous calls and such collaboration is envisaged for the Cross-Border Cyber Hubs. They should provide new additional capacity building upon and complementing existing SOCs/Cyber Hubs, Computer Security Incident Response Teams (CSIRTs), ISACs and other relevant actors.</p><p>This action is aimed mainly at new Cross-Border Cyber Hubs. Supporting activities for the SOCs that were already launched under the previous DIGITAL work programmes (2021-2022 and 2023-2024)<sup>1</sup> could also be included when relevant to ensure collaboration with the Cross-Border Cyber Hubs.</p><p>In addition to setting up processes, tools and services for prevention, detection and analysis of emerging cyberattacks, the scope also covers the acquisition and/or adoption of common (automation) tools, processes and shared data infrastructures for the management and sharing of contextualised and actionable cybersecurity operational information across the EU. Well-established open standards for CTI sharing (e.g. MISP Standard<sup>2</sup>) or automation of advisory information (e.g. CSAF<sup>3</sup>) and cybersecurity related messages (e.g. by IntelMQ) should be considered. Cross-Border Cyber Hubs could also foresee the possibility to monitor undersea infrastructure, such as submarine cables.</p><p><em><sup>1 </sup>ENSOC and ATHENA consortia are already financed. </em></p><p><em><sup>2</sup> MISP Standard: https://www.misp-standard.org/. </em></p><p><em><sup>3</sup> Common Security Advisory Framework (CSAF): Machine-processable format enables automated database reconciliation - https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Informationen-und Empfehlungen/Empfehlungen-nach-Angriffszielen/Industrielle-Steuerungs-und Automatisierungssysteme/CSAF/CSAF_node.html.</em></p><span class=\"topicdescriptionkind\">Scope:</span><p>The Cross-Border Cyber Hubs platforms will contribute to enhancing and consolidating collective situational awareness and capabilities in detection and CTI, supporting the development of better performing data analytics, detection, and response tools, through the pooling of large amounts of data, including new data generated internally by the consortia members.</p><p>The platforms should act as a central point allowing for broader pooling of relevant data and CTI, enabling the dissemination of threat information on a large scale and among a large and diverse set of actors (e.g. CERTs/CSIRTs, ISACs, operators of critical infrastructures).</p><p>According to the Cyber Solidarity Act, the Cross-Border Cyber Hubs and the CSIRTs Network shall cooperate closely, in particular for the purpose of sharing information. To that end, they shall agree procedural arrangements on cooperation and sharing of relevant information and on the types of information to be shared.</p><p>Furthermore, Cross-Border Cyber Hubs could also deploy solutions for the surveillance and protection of critical undersea infrastructure, such as submarine cables, and the detection of malicious activities around them, to improve the resilience and security of this infrastructure, which is critical for global communications. The response to such hybrid threats could also include situational awareness performed through the collection and analysis of in-situ, sea based sensor data as well as relevant satellite imagery. For this activity, operational synergies with the EU Copernicus Space Programme and in particular with its Security Service are required.</p><p>Where the Cross-Border Cyber Hubs obtain information relating to a potential or ongoing large-scale cybersecurity incident, they shall ensure, for the purpose of common situational awareness, that relevant information as well as early warnings are provided to the authorities in the Member States and to the Commission through the EU-CyCLONe and the CSIRTs network61, without undue delay. A call for expression of interest will be launched to select entities in Member States that provide the necessary facilities to host and operate Cross-Border Cyber Hubs for pooling data on cybersecurity threats between several Member States. Applicants to the call for expressions of interest should describe the aims and objectives of the Cross-Border Cyber Hub, describe its role and how such role relates to other cybersecurity actors, and its potential cooperation with other public or private cybersecurity stakeholders. Applicants should also provide the detailed planning of the activities and tasks of the Cross-Border Cyber Hub, the services it will offer, the way they will operate and be operationalised, as well as the main milestones and deliverables. They should also specify what equipment, tools and services need to be procured and integrated to build up the Cross-Border Cyber Hub, its services and its infrastructure.</p><p>To support the above activities of a Cross-Border Cyber Hub, the following two workstreams of activities are foreseen:</p><ul level=\"0\"><li> <strong>[Procurement] A Joint Procurement Action </strong>with the Member Stat<strong>e </strong>participating in the Cross-Border Cyber Hub: this will cover the procurement of the infrastructure, tools and services needed to build up the Cross-Border Cyber Hub.</li><li><strong>[Building up and running the Cross-Border Cyber Hub] </strong>A grant will also be available to cover, among others, the preparatory activities for setting up the Cross-Border Cyber Hub, its interaction and cooperation with other stakeholders, as well as the running/operating costs involved, enabling the effective operation of the Cross-Border Cyber Hub, e.g. using the infrastructure, tools and services purchased through the joint procurement, personnel. These will also indicate milestones and deliverables to monitor progress.</li> </ul><p>Applications shall be made to both workstreams. The applications will be subject to an evaluation procedure. Grants will only be awarded to applicants that have succeeded in the evaluation of the joint procurement action.</p><p>These actions aim at creating or strengthening Cross-Border Cyber Hubs, which occupy a central role in ensuring the cybersecurity of national authorities, providers of critical infrastructures and essential services. As previously noted, Cyber Hubs will have a crucial operative role in ensuring cybersecurity in the Union and will handle sensitive information.</p><p>Pursuant to Article 12(5a) of the Cyber Solidarity Act amending Article 12 of Regulation (EU) 2021/694, Article 12(5) of the Regulation (EU) 2021/694 shall not apply if the conditions stipulated in Article 12(5a) are cumulatively met. The assessment of these conditions should take into account the results of the mapping of the availability of tools, infrastructure and services for the Cross-Border Cyber Hubs to be carried out by the ECCC pursuant to Article 9(4) of the Cyber Solidarity Act.</p><p>The first mapping exercise is ongoing. Until the mapping is completed and in line with the relevant provisions of the Cyber Solidarity Act, participation to the calls funded under this topic will be therefore subject to the restrictions of Article 12(5), as specified in Appendix 3 of this Work Programme. These security conditions may be later amended taking into account the results of the final mapping of services carried out by the ECCC pursuant to Article 9(4) of the Cyber Solidarity Act.</p>"
+      ],
+      "identifier": [
+        "DIGITAL-ECCC-2026-DEPLOY-CYBER-10-CBCH"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43152869"
+      ],
+      "crossCuttingPriorities": [],
+      "esDA_FirstIngestDate": [
+        "2025-12-09T00:02:30.352+0100"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-05-28T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2025-12-10T13:25:49.464+0100"
+      ],
+      "typesOfAction": [
+        "DIGITAL JU Simple Grants"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-ECCC-2026-DEPLOY-CYBER-10-CBCH"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-ECCC-2026-DEPLOY-CYBER-10-CBCH"
+      ],
+      "tags": [
+        "Cross-Border Cyber Hubs",
+        "cyber threats detection",
+        "information sharing",
+        "preparedness and resilience of critical infrastructures",
+        "response to cyber threats",
+        "submarine cable security"
+      ],
+      "cenTagsA": [
+        "TOPICS-005213",
+        "TOPICS-005214",
+        "TOPICS-005215",
+        "TOPICS-005216",
+        "TOPICS-005217",
+        "TOPICS-005218",
+        "TOPICS-005219",
+        "TOPICS-005094",
+        "TOPICS-005220",
+        "TOPICS-005095",
+        "TOPICS-005097",
+        "TOPICS-005098",
+        "TOPICS-005099",
+        "TOPICS-005100",
+        "TOPICS-005101",
+        "TOPICS-000404",
+        "TOPICS-003668",
+        "TOPICS-003667",
+        "TOPICS-000507",
+        "TOPICS-005102",
+        "TOPICS-005014"
+      ],
+      "esDA_QueueDate": [
+        "2025-12-10T13:25:49.455+0100"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"DIGITAL-JU-SIMPLE DIGITAL JU Simple Grants\",\"typeOfMGA\":[{\"id\":43140990,\"abbreviation\":\"DIGITAL-AG\",\"description\":\"DIGITAL Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2025-12-09\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-05-28\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2025\"],\"budgetTopicActionMap\":{\"112725\":[{\"action\":\"DIGITAL-ECCC-2026-DEPLOY-CYBER-10-NCH - DIGITAL-JU-SIMPLE DIGITAL JU Simple Grants\",\"expectedGrants\":1,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2025\":\"2000000\"},\"plannedOpeningDate\":\"2025-12-09\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-05-28\"]}],\"112726\":[{\"action\":\"DIGITAL-ECCC-2026-DEPLOY-CYBER-10-CBCH - DIGITAL-JU-SIMPLE DIGITAL JU Simple Grants\",\"expectedGrants\":1,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2025\":\"2000000\"},\"plannedOpeningDate\":\"2025-12-09\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-05-28\"]}]}}"
+      ],
+      "startDate": [
+        "2025-12-09T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [
+        "SO3"
+      ],
+      "supportInfo": [
+        "<p>For guidance and support related to this call, we recommend that you first contact the <u><a href=\"https://cybersecurity-centre.europa.eu/nccs-0_en\" rel=\"noopener noreferrer\" target=\"_blank\">National Cybersecurity Coordination Centres</a></u> (NCC) in your country, where available. The Network of NCCs includes one national centre from each of the 27 EU Member States plus Iceland and Norway. You may also address your questions to the ECCC Applicants Direct Contact Centre at <u><a href=\"mailto:applicants@eccc.europa.eu\" rel=\"noopener noreferrer\" target=\"_blank\">applicants@eccc.europa.eu</a></u> .</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?order=DESC&amp;pageNumber=1&amp;pageSize=10&amp;sortBy=publicationDate&amp;isExactMatch=true&amp;type=1&amp;grantCategories=p_submission_eval\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ – Submission of proposals</a>.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> – Step-by-step online guide through the Portal processes from proposal preparation and evaluation to reporting on your ongoing project. Valid for all 2021-2027 programmes.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Cross-Border Cyber Hubs. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-ECCC-2026-DEPLOY-CYBER-10-CBCH",
+    "score": 3.0
+  }
+}

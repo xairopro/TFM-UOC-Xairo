@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902816",
+  "id_interno": 1104377,
+  "numero_convocatoria": "902816",
+  "organismo": "LOCAL — TOLEDO — AYUNTAMIENTO DE TOLEDO",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": true,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Subvención nominativa a la Universidad de Castilla La Mancha",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+  "regiones": "ES425 - Toledo",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Bases reguladoras de Subvenciones del Ayuntamiento de Toledo",
+  "url_bases_reguladoras": "https://www.toledo.es/toledo-abierto/transparencia-economico-financiera-contratacion-publica-convenios-y-subvenciones/subvenciones-y-ayudas-publicas/",
+  "presupuesto": "30.000,00 €",
+  "presupuesto_total_num": 30000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902816",
+  "text": "CONVOCATORIA BDNS Nº 902816\nOrganismo: LOCAL — TOLEDO — AYUNTAMIENTO DE TOLEDO\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud:  →  (abierto: sí)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 30.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO\nRegiones: ES425 - Toledo\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSubvención nominativa a la Universidad de Castilla La Mancha\n\nBases reguladoras:\nBases reguladoras de Subvenciones del Ayuntamiento de Toledo\nURL bases reguladoras: https://www.toledo.es/toledo-abierto/transparencia-economico-financiera-contratacion-publica-convenios-y-subvenciones/subvenciones-y-ayudas-publicas/\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902816",
+  "_raw": {
+    "id": 1104377,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "TOLEDO",
+      "nivel3": "AYUNTAMIENTO DE TOLEDO"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902816",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 30000,
+    "mrr": false,
+    "descripcion": "Subvención nominativa a la Universidad de Castilla La Mancha",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES425 - Toledo"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Bases reguladoras de Subvenciones del Ayuntamiento de Toledo",
+    "urlBasesReguladoras": "https://www.toledo.es/toledo-abierto/transparencia-economico-financiera-contratacion-publica-convenios-y-subvenciones/subvenciones-y-ayudas-publicas/",
+    "sePublicaDiarioOficial": false,
+    "abierto": true,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446349,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "F4688C10_Convenio.pdf",
+        "long": 299566,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

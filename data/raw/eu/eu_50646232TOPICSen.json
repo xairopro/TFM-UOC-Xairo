@@ -1,0 +1,166 @@
+{
+  "id": "EU-50646232TOPICSen",
+  "topic_id": "50646232TOPICSen",
+  "titulo": "Safety of operating nuclear power plants and research reactors",
+  "descripcion": "Safety of operating nuclear power plants and research reactors",
+  "organismo": "43298916",
+  "fecha_publicacion": "2026-04-23",
+  "fecha_limite": "2026-09-15",
+  "deadlines_todas": "2026-09-15",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2027\",\"2026\"],\"budgetTopicActionMap\":{\"113825\":[{\"action\":\"HORIZON-EURATOM-2026-01-05 - EURATOM-IA EURATOM Innovation Actions\",\"expectedGrants\":1,\"minContribution\":2000000,\"maxContribution\":2000000,\"budgetYearMap\":{\"2026\":\"1000000\",\"2027\":\"1000000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113827\":[{\"action\":\"HORIZON-EURATOM-2026-01-01 - EURATOM-RIA EURATOM Research and Innovation Actions\",\"expectedGrants\":5,\"minContribution\":3000000,\"maxContribution\":3000000,\"budgetYearMap\":{\"2026\":\"7000000\",\"2027\":\"8000000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113826\":[{\"action\":\"HORIZON-EURATOM-2026-01-03 - EURATOM-CSA EURATOM Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"2500000\",\"2027\":\"2500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113829\":[{\"action\":\"HORIZON-EURATOM-2026-01-02 - EURATOM-IA EURATOM Innovation Actions\",\"expectedGrants\":5,\"minContribution\":3000000,\"maxContribution\":3000000,\"budgetYearMap\":{\"2026\":\"6500000\",\"2027\":\"8500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113828\":[{\"action\":\"HORIZON-EURATOM-2026-01-09 - EURATOM-COFUND EURATOM Cofund Actions\",\"expectedGrants\":1,\"minContribution\":15000000,\"maxContribution\":15000000,\"budgetYearMap\":{\"2026\":\"7500000\",\"2027\":\"7500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113821\":[{\"action\":\"HORIZON-EURATOM-2026-01-04 - EURATOM-CSA EURATOM Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2026\":\"3500000\",\"2027\":\"3500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113823\":[{\"action\":\"HORIZON-EURATOM-2026-01-06 - EURATOM-CSA EURATOM Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":500000,\"maxContribution\":500000,\"budgetYearMap\":{\"2026\":\"250000\",\"2027\":\"250000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113822\":[{\"action\":\"HORIZON-EURATOM-2026-01-08 - EURATOM-COFUND EURATOM Cofund Actions\",\"expectedGrants\":1,\"minContribution\":15000000,\"maxContribution\":15000000,\"budgetYearMap\":{\"2026\":\"7500000\",\"2027\":\"7500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "EURATOM Research and Innovation Actions",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EURATOM-2026-01-01",
+  "text": "EU FUNDING & TENDERS – Topic: 50646232TOPICSen\nProgramme/Organism: 43298916\nTitle: Safety of operating nuclear power plants and research reactors\nStatus: Open (31094502)\nType of action: EURATOM Research and Innovation Actions\nOpening date: 2026-04-23\nDeadline: 2026-09-15\nAll deadlines: 2026-09-15\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2027\",\"2026\"],\"budgetTopicActionMap\":{\"113825\":[{\"action\":\"HORIZON-EURATOM-2026-01-05 - EURATOM-IA EURATOM Innovation Actions\",\"expectedGrants\":1,\"minContribution\":2000000,\"maxContribution\":2000000,\"budgetYearMap\":{\"2026\":\"1000000\",\"2027\":\"1000000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113827\":[{\"action\":\"HORIZON-EURATOM-2026-01-01 - EURATOM-RIA EURATOM Research and Innovation Actions\",\"expectedGrants\":5,\"minContribution\":3000000,\"maxContribution\":3000000,\"budgetYearMap\":{\"2026\":\"7000000\",\"2027\":\"8000000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113826\":[{\"action\":\"HORIZON-EURATOM-2026-01-03 - EURATOM-CSA EURATOM Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"2500000\",\"2027\":\"2500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113829\":[{\"action\":\"HORIZON-EURATOM-2026-01-02 - EURATOM-IA EURATOM Innovation Actions\",\"expectedGrants\":5,\"minContribution\":3000000,\"maxContribution\":3000000,\"budgetYearMap\":{\"2026\":\"6500000\",\"2027\":\"8500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113828\":[{\"action\":\"HORIZON-EURATOM-2026-01-09 - EURATOM-COFUND EURATOM Cofund Actions\",\"expectedGrants\":1,\"minContribution\":15000000,\"maxContribution\":15000000,\"budgetYearMap\":{\"2026\":\"7500000\",\"2027\":\"7500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113821\":[{\"action\":\"HORIZON-EURATOM-2026-01-04 - EURATOM-CSA EURATOM Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2026\":\"3500000\",\"2027\":\"3500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113823\":[{\"action\":\"HORIZON-EURATOM-2026-01-06 - EURATOM-CSA EURATOM Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":500000,\"maxContribution\":500000,\"budgetYearMap\":{\"2026\":\"250000\",\"2027\":\"250000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113822\":[{\"action\":\"HORIZON-EURATOM-2026-01-08 - EURATOM-COFUND EURATOM Cofund Actions\",\"expectedGrants\":1,\"minContribution\":15000000,\"maxContribution\":15000000,\"budgetYearMap\":{\"2026\":\"7500000\",\"2027\":\"7500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}]}}\n\nDescription / Scope:\nSafety of operating nuclear power plants and research reactors\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EURATOM-2026-01-01",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "50646232TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EURATOM-2026-01-01",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Safety of operating nuclear power plants and research reactors",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Safety of operating nuclear power plants and research reactors",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "99D79E730257BB212F9386875E11D736C04048AE8BAC97ED5057F24FA9AC80BB",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-04-24T17:37:12.345\",\"content\":\"\\u003cp\\u003eDue to technical reasons the submission session is currently\\u003cstrong\\u003e UNAVAILABLE\\u003c/strong\\u003e for all topics: HORIZON-EURATOM-2026-01-01, HORIZON-EURATOM-2026-01-02, HORIZON-EURATOM-2026-01-03, HORIZON-EURATOM-2026-01-04, HORIZON-EURATOM-2026-01-05, HORIZON-EURATOM-2026-01-06, HORIZON-EURATOM-2026-01-08, HORIZON-EURATOM-2026-01-09\\u003c/p\\u003e\"}]"
+      ],
+      "es_SortDate": [
+        "2026-04-23T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "HORIZON-EURATOM-2026-01-01",
+        "HORIZON-EURATOM-2026-01"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>Conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>Described in General Annexes to the Euratom Work Programme 2026-2027, General Conditions, A - Admissibility</p><p><strong>Proposal page limits and layout:</strong> layout described in Part B of the Application Form. For RIA &amp; IA using lump sum the page limit of Part B is <strong>45 pages. </strong></p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>Described in General Annexes to the Euratom Work Programme 2026-2027, General Conditions, B - Eligibility.</p><p>See the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/list-3rd-country-participation_horizon-euratom_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">List of Participating Countries in Horizon Europe </a>(including Euratom) for up-to-date information on the current list of and the position for Associated Countries.</p><p>Please note that as of the date of the publication of this call, Ukraine and Switzerland are the only countries associated to the Euratom Programme, therefore eligible for funding.</p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>The Joint Research Centre (JRC) may participate as member of the consortium selected for funding.</p></div><div class=\"eui-u-mt-s\"><p>Other eligible conditions are described in General Annexes to the Euratom Work Programme 2026-2027, General Conditions, B - Eligibility.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>Described in General Annexes to the Euratom Work Programme 2026-2027, General Conditions, C — Financial and operational capacity and exclusion.</p></div></div><div><h4>5a. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>Described in General Annexes to the Euratom Work Programme 2026-2027, General Conditions, E — Documents and F — Procedure; and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5b. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>Described in General Annexes to the Euratom Work Programme 2026-2027, General Conditions, D — Award criteria.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>Described in General Annexes to the Euratom Work Programme 2026-2027, General Conditions, F — Procedure.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme – the Framework Programme for Research and Innovation (2021-2027) – and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025) [[This <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\"><u>decision</u></a> is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under ‘Simplified costs decisions’ or through this link: <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\"><u>https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf</u></a>]].</p></div><div class=\"eui-u-mt-s\"><p>General legal and financial set-up described in General Annexes to the Euratom Work Programme 2026-2027, General Conditions, G — Legal and financial set-up of the grant agreements.</p></div></div></div><div class=\"eui-u-mt-l\"><h4>Euratom WP 2026-2027</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://research-and-innovation.ec.europa.eu/document/download/f0264b61-7f2a-4e30-8f97-1056c8e30b97_en?filename=C_2026_1787_F1_ANNEX_EN_V4_P1_4651371.PDF\" rel=\"noopener noreferrer\" target=\"_blank\">Euratom Work Programme 2026-2027 for nuclear research and training </a></p></div><h4>Call document and annexes:</h4> <div class=\"eui-u-mt-s\"><p><strong>Application form templates</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (HE RIA IA)</a> — the application form specific to this call is available in the Submission System</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/temp-form/af/detailed-budget-table_he-ls-euratom_en.xlsm\" rel=\"noopener noreferrer\" target=\"_blank\">Detailed budget table (HE LS)</a></p><p><strong>Evaluation forms</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/ef/ef_he-ria-ia_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard evaluation form (HE RIA IA)</a> — will be used with the necessary adaptations</p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe MGA</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/ls-mga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Lump Sum MGA</a></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R1304\" rel=\"noopener noreferrer\" target=\"_blank\">Euratom Research &amp; Training Programme 2026-2027 (Council Regulation 2025/1304)</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a></p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "Safety of operating nuclear power plants and research reactors"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "99D79E730257BB212F9386875E11D736C04048AE8BAC97ED5057F24FA9AC80BB"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43252184"
+      ],
+      "callIdentifier": [
+        "HORIZON-EURATOM-2026-01"
+      ],
+      "ccm2Id": [
+        "50646232"
+      ],
+      "callccm2Id": [
+        "50646298"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50646232TOPICSen"
+      ],
+      "links": [
+        "[]"
+      ],
+      "callTitle": [
+        "Nuclear research and training"
+      ],
+      "frameworkProgramme": [
+        "43298916"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Outcome:</p><p>the project’s results are expected to contribute to some of the following expected outcomes.</p><ul level=\"0\"><li>Continuing safety assessment and long-term operation compliance that address technical challenges, regulatory expectations and economic competitiveness goals. Licence-holders and regulators will ensure the successful implementation of the requirements of the Nuclear Safety Directive <sup>[1]</sup>, Basic Safety Standards Directive <sup>[2]</sup>, Radioactive Waste Management Directive <sup>[3]</sup> and topical peer reviews <sup>[4]</sup> for current and planned nuclear power plants and research reactors.</li><li>Safety assessment of ageing management programmes and optimisation of safety solutions; as well as the development and validation of advanced tools for ageing management and evaluation of reactors’ safety margins. The aim is to prevent and mitigate risks (including those associated with severe accidents) by using innovative cross-cutting technologies (applicable to multiple reactor technologies), digital upgrades, digital twins, AI/ML-assisted defect detection, advanced multi-physics (including fluid structure interaction) and/or multiscale modelling and simulation, as well as PSA updates for extended operations.</li><li>Safety assessment of internal and external hazards in order to evaluate nuclear installations’ safety (applicable to multiple reactor technologies and nuclear fuel cycle facilities), prevent and mitigate accidental situations, and improve and validate advanced modelling tools (including AI-based approaches).</li><li>Further development and validation of advanced materials testing as well as of component and structural integrity assessment methods to quantify material degradation (including concrete structures, metal fatigue, corrosion, irradiation embrittlement, defect tolerance, advanced NDE techniques and safety margins in aged and potentially degraded plants).</li><li>Reactor Long-Term Operation (LTO) fuel and core safety management, to evaluate ‑‑high burnup fuel and cladding integrity; and assessment of alternative fuels, core physics and neutron flux redistribution effects, and impacts of LTO on spent fuel inventory and interim storage.</li><li>Ensuring the highest nuclear safety standards for the deployment of alternative nuclear fuel in Soviet-designed research reactors in EU Member States and Ukraine. This could encourage consistent approaches to the licensing and deployment of this alternative fuel.</li><li>Drawing up best practice guidance for developed assessment methods, identifying knowledge gaps in safety margins, disseminating project outputs and providing appropriate training in the use of developed assessment methods. The sharing of examples of LTO strategies to facilitate learning and exchange.</li><li>Support for the establishment of international collaboration benchmarks; the sharing of consistent and harmonised approaches between regulators to safety assessments of different nuclear technologies (for example, through regular exchanges between licensees and regulatory bodies and/or their technical support organisations); further improving safety across the Community, EU Member States and Associated Countries. Such action should ensure complementarities with the recently launched grant scheme in support of competent national regulatory authorities in coordinated approaches to new regulatory challenges in nuclear safety.<sup>[5]</sup></li><li>Development of competences and ensuring continuity in short-term to long-term research. This will support the energy and climate strategies of interested Member States, highlighting LTO’s role in making their energy production more climate-neutral (in accordance with and respecting the EU’s technology neutrality principle), thereby increasing the energy security of both the EU and Member States.</li> </ul><p class=\"topicdescriptionkind\">Scope:</p><p>Euratom research will be driven by the increasing importance of long-term operation (LTO) and by the fact that the current and planned innovative fleet will consist mainly of light water-cooled reactors.</p><p>Proposals should address challenges related to ageing management and/or the evaluation of the safety margins of the current and planned reactors fleet. Such challenges relate to a number of points, including the development and validation of methods and tools to increase safety and the availability of systems, as well as structures and components needed for reliable and safe operation and management. Other areas of focus include the ageing of concrete structures, core physics and thermal hydraulics, internal and external hazards (e.g. fires and explosions phenomena), inspections, condition and structural health monitoring, digitalisation (including AI), machine learning, the Internet of Things and digital twins, modelling and simulation (e.g. by using a combination of high-performance computing and engineering modelling), as well as prevention and mitigation strategies for intended LTO.</p><p>Adequate safety margins, the early detection of degradation and the prevention of failures in pressure boundary components are of high priority in order to ensure the important third physical barrier in light water reactors. During the long operating life of nuclear power plants (40 to 80 years), their steel pressure boundary components are subject to threats from non-linear processes such as ageing, different degradation mechanisms and load history effects. This highlights the importance of research activities (including experimental efforts in ensuring the proper analysis of damage tolerance, degradation, improvement of replaceable components by material and fuel development, loads and safety margins) as well as the development of appropriate programmes for inspections, repairs, component replacement (including advanced manufacturing technologies for producing these components) and continuous tailored alignment with safety regulatory standards (even those resulting from climate change).</p><p>The scope of this topic also includes the safety of alternative nuclear fuel in cases where security of the fuel supply is under threat (e.g. Soviet-designed research reactors).</p><p>Where appropriate, the Commission recommends that consortia should use the JRC’s services. The JRC may participate in the preparation and submission of the proposal. It would bear the operational costs for its own staff as well as research infrastructure operational costs. The JRC’s facilities and expertise are listed in General Annex H to this work programme.</p><p class=\"eui-u-font-s\">[1] <sup> </sup>Council Directive 2009/71/Euratom of 25 June 2009 establishing a Community framework for the nuclear safety of nuclear installations (OJ L 219, 25.7.2014, p. 42) as amended by Council Directive 2014/87/Euratom of 8 July 2014.</p><p class=\"eui-u-font-s\">[2] <sup> </sup>Council Directive 2013/59/Euratom of 5 December 2013 laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation, and repealing Directives 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom and 2003/122/Euratom, OJ L 13, 17.1.2014, p. 1.</p><p class=\"eui-u-font-s\">[3] <sup> </sup>Council Directive 2011/70/Euratom of 19 July 2011 on establishing a Community framework for the responsible and safe management of spent fuel and radioactive waste, OJ L199, 2.8.2011, p. 48.</p><p class=\"eui-u-font-s\">[4] <sup> </sup><a href=\"https://www.ensreg.eu/\">https://www.ensreg.eu/</a>.</p><p class=\"eui-u-font-s\">[5] Granted under decision C(2024)8345 published on <a href=\"https://energy.ec.europa.eu/topics/funding-and-financing/financing-decisions_en\">https://energy.ec.europa.eu/topics/funding-and-financing/financing-decisions_en</a></p>"
+      ],
+      "identifier": [
+        "HORIZON-EURATOM-2026-01-01"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43549410"
+      ],
+      "crossCuttingPriorities": [],
+      "esDA_FirstIngestDate": [
+        "2026-03-20T00:01:12.036+0100"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-09-15T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-24T17:49:53.992+0200"
+      ],
+      "typesOfAction": [
+        "EURATOM Research and Innovation Actions"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EURATOM-2026-01-01"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EURATOM-2026-01-01"
+      ],
+      "tags": [],
+      "esDA_QueueDate": [
+        "2026-04-24T17:49:53.977+0200"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"EURATOM-RIA EURATOM Research and Innovation Actions\",\"typeOfMGA\":[{\"id\":43252184,\"abbreviation\":\"EURATOM-AG\",\"description\":\"EURATOM Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-04-23\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-09-15\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2027\",\"2026\"],\"budgetTopicActionMap\":{\"113825\":[{\"action\":\"HORIZON-EURATOM-2026-01-05 - EURATOM-IA EURATOM Innovation Actions\",\"expectedGrants\":1,\"minContribution\":2000000,\"maxContribution\":2000000,\"budgetYearMap\":{\"2026\":\"1000000\",\"2027\":\"1000000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113827\":[{\"action\":\"HORIZON-EURATOM-2026-01-01 - EURATOM-RIA EURATOM Research and Innovation Actions\",\"expectedGrants\":5,\"minContribution\":3000000,\"maxContribution\":3000000,\"budgetYearMap\":{\"2026\":\"7000000\",\"2027\":\"8000000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113826\":[{\"action\":\"HORIZON-EURATOM-2026-01-03 - EURATOM-CSA EURATOM Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"2500000\",\"2027\":\"2500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113829\":[{\"action\":\"HORIZON-EURATOM-2026-01-02 - EURATOM-IA EURATOM Innovation Actions\",\"expectedGrants\":5,\"minContribution\":3000000,\"maxContribution\":3000000,\"budgetYearMap\":{\"2026\":\"6500000\",\"2027\":\"8500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113828\":[{\"action\":\"HORIZON-EURATOM-2026-01-09 - EURATOM-COFUND EURATOM Cofund Actions\",\"expectedGrants\":1,\"minContribution\":15000000,\"maxContribution\":15000000,\"budgetYearMap\":{\"2026\":\"7500000\",\"2027\":\"7500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113821\":[{\"action\":\"HORIZON-EURATOM-2026-01-04 - EURATOM-CSA EURATOM Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2026\":\"3500000\",\"2027\":\"3500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113823\":[{\"action\":\"HORIZON-EURATOM-2026-01-06 - EURATOM-CSA EURATOM Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":500000,\"maxContribution\":500000,\"budgetYearMap\":{\"2026\":\"250000\",\"2027\":\"250000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113822\":[{\"action\":\"HORIZON-EURATOM-2026-01-08 - EURATOM-COFUND EURATOM Cofund Actions\",\"expectedGrants\":1,\"minContribution\":15000000,\"maxContribution\":15000000,\"budgetYearMap\":{\"2026\":\"7500000\",\"2027\":\"7500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}]}}"
+      ],
+      "startDate": [
+        "2026-04-23T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p>For help related to this call, please contact <u>please add a contact e-mail or url</u></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?order=DESC&amp;pageNumber=1&amp;pageSize=10&amp;sortBy=publicationDate&amp;isExactMatch=true&amp;type=1&amp;grantCategories=p_submission_eval\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ – Submission of proposals</a>.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> – Step-by-step online guide through the Portal processes from proposal preparation and evaluation to reporting on your ongoing project. Valid for all 2021-2027 programmes.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Safety of operating nuclear power plants and research reactors. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EURATOM-2026-01-01",
+    "score": 3.0
+  }
+}

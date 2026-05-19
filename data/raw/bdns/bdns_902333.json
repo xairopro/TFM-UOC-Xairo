@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902333",
+  "id_interno": 1103894,
+  "numero_convocatoria": "902333",
+  "organismo": "LOCAL — CABILDO INSULAR DE TENERIFE — INSTITUTO INSULAR DE ATENCIÓN SOCIAL Y SOCIO-SANITARIA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "2026-01-01",
+  "fecha_fin_solicitud": "2026-12-31",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "SUBVENCIÓN NOMINATIVA 2026 PROYECTO HOMBRE. FUNDACIÓN CANARIA CENTRO DE SOLIDARIDAD ISLAS CANARIAS CESICA (PROGRAMAS DE PREVENCIÓN DROGODEPENDENCIAS)",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+  "regiones": "ES709 - Tenerife",
+  "finalidad": "Servicios Sociales y Promoción Social",
+  "bases_reguladoras": "SUBVENCIÓN NOMINATIVA 2026 PROYECTO HOMBRE. FUNDACIÓN CANARIA CENTRO DE SOLIDARIDAD ISLAS CANARIAS CESICA (PROGRAMAS DE PREVENCIÓN DROGODEPENDENCIAS)",
+  "url_bases_reguladoras": "https://www.bopsantacruzdetenerife.es/bopsc2/index.php",
+  "presupuesto": "65.000,00 €",
+  "presupuesto_total_num": 65000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902333",
+  "text": "CONVOCATORIA BDNS Nº 902333\nOrganismo: LOCAL — CABILDO INSULAR DE TENERIFE — INSTITUTO INSULAR DE ATENCIÓN SOCIAL Y SOCIO-SANITARIA\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud: 2026-01-01 → 2026-12-31 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 65.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES\nRegiones: ES709 - Tenerife\nFinalidad: Servicios Sociales y Promoción Social\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSUBVENCIÓN NOMINATIVA 2026 PROYECTO HOMBRE. FUNDACIÓN CANARIA CENTRO DE SOLIDARIDAD ISLAS CANARIAS CESICA (PROGRAMAS DE PREVENCIÓN DROGODEPENDENCIAS)\n\nBases reguladoras:\nSUBVENCIÓN NOMINATIVA 2026 PROYECTO HOMBRE. FUNDACIÓN CANARIA CENTRO DE SOLIDARIDAD ISLAS CANARIAS CESICA (PROGRAMAS DE PREVENCIÓN DROGODEPENDENCIAS)\nURL bases reguladoras: https://www.bopsantacruzdetenerife.es/bopsc2/index.php\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902333",
+  "_raw": {
+    "id": 1103894,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "CABILDO INSULAR DE TENERIFE",
+      "nivel3": "INSTITUTO INSULAR DE ATENCIÓN SOCIAL Y SOCIO-SANITARIA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902333",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 65000,
+    "mrr": false,
+    "descripcion": "SUBVENCIÓN NOMINATIVA 2026 PROYECTO HOMBRE. FUNDACIÓN CANARIA CENTRO DE SOLIDARIDAD ISLAS CANARIAS CESICA (PROGRAMAS DE PREVENCIÓN DROGODEPENDENCIAS)",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+        "codigo": "R"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES709 - Tenerife"
+      }
+    ],
+    "descripcionFinalidad": "Servicios Sociales y Promoción Social",
+    "descripcionBasesReguladoras": "SUBVENCIÓN NOMINATIVA 2026 PROYECTO HOMBRE. FUNDACIÓN CANARIA CENTRO DE SOLIDARIDAD ISLAS CANARIAS CESICA (PROGRAMAS DE PREVENCIÓN DROGODEPENDENCIAS)",
+    "urlBasesReguladoras": "https://www.bopsantacruzdetenerife.es/bopsc2/index.php",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-01-01",
+    "fechaFinSolicitud": "2026-12-31",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445071,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "R14121_Conceder_ProyHombre_CESICA_SUBV9_2026.pdf",
+        "long": 593719,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

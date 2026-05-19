@@ -1,0 +1,118 @@
+{
+  "id": "BDNS-901836",
+  "id_interno": 1103397,
+  "numero_convocatoria": "901836",
+  "organismo": "LOCAL — SANT PERE DE RIBES — AYUNTAMIENTO DE SANT PERE DE RIBES",
+  "sede_electronica": "http://www.santperederibes.cat/seuelectronica ",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Bases reguladoras y convocatoria para la concesión de ayudas para la matrícula de Estudios Universitarios y Ciclos Formativos de Grado Superior y para los gastos de transporte de los jóvenes que están cursando enseñanzas de educación Post Obligatoria para",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Educación terciaria",
+  "regiones": "ES511 - Barcelona",
+  "finalidad": "Educación",
+  "bases_reguladoras": "Bases reguladoras y convocatoria para la concesión de ayudas para la matrícula de Estudios Universitarios y Ciclos Formativos de Grado Superior y para los gastos de transporte de los jóvenes que están cursando enseñanzas de educación Post Obligatoria para",
+  "url_bases_reguladoras": "https://www.santperederibes.cat/municipi/educacio/beques-i-ajuts",
+  "presupuesto": "20.000,00 €",
+  "presupuesto_total_num": 20000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901836",
+  "text": "CONVOCATORIA BDNS Nº 901836\nOrganismo: LOCAL — SANT PERE DE RIBES — AYUNTAMIENTO DE SANT PERE DE RIBES\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 20.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Educación terciaria\nRegiones: ES511 - Barcelona\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nBases reguladoras y convocatoria para la concesión de ayudas para la matrícula de Estudios Universitarios y Ciclos Formativos de Grado Superior y para los gastos de transporte de los jóvenes que están cursando enseñanzas de educación Post Obligatoria para\n\nBases reguladoras:\nBases reguladoras y convocatoria para la concesión de ayudas para la matrícula de Estudios Universitarios y Ciclos Formativos de Grado Superior y para los gastos de transporte de los jóvenes que están cursando enseñanzas de educación Post Obligatoria para\nURL bases reguladoras: https://www.santperederibes.cat/municipi/educacio/beques-i-ajuts\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901836",
+  "_raw": {
+    "id": 1103397,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "SANT PERE DE RIBES",
+      "nivel3": "AYUNTAMIENTO DE SANT PERE DE RIBES"
+    },
+    "sedeElectronica": "http://www.santperederibes.cat/seuelectronica ",
+    "codigoBDNS": "901836",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 20000,
+    "mrr": false,
+    "descripcion": "Bases reguladoras y convocatoria para la concesión de ayudas para la matrícula de Estudios Universitarios y Ciclos Formativos de Grado Superior y para los gastos de transporte de los jóvenes que están cursando enseñanzas de educación Post Obligatoria para",
+    "descripcionLeng": "Bases reguladores i convocatòria per la concessió d'Ajuts per la matrícula d'Estudis Universitaris i Cicles Formatius de Grau Superior i per les despeses de transport dels joves que estan cursant ensenyaments d'educació Post Obligatòria pels cursos escola",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Educación terciaria",
+        "codigo": "85.4"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES511 - Barcelona"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "Bases reguladoras y convocatoria para la concesión de ayudas para la matrícula de Estudios Universitarios y Ciclos Formativos de Grado Superior y para los gastos de transporte de los jóvenes que están cursando enseñanzas de educación Post Obligatoria para",
+    "urlBasesReguladoras": "https://www.santperederibes.cat/municipi/educacio/beques-i-ajuts",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Día siguiente publicación BOPB",
+    "textFin": "21 días naturales a contar a partir del día siguiente a la publicación del anuncio en el BOPB",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443522,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Bases_curs_2025-2026_i_2026-2027_Estudis_Post_Obligatoris_EN_CASTELLA_DILIGENCIADES.pdf",
+        "long": 299679,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443523,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "Bases_curs_2025-2026_i_2026_2027_Estudis_Post_Obligatoris_en_CATALA_DILIGENCIADES.pdf",
+        "long": 381680,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443528,
+        "descripcion": "EXTRACTE en CASTELLÀ_Bases i convo Sub Post Obligatoris",
+        "nombreFic": "EXTRACTE en CASTELLÀ_Bases i convo Sub Post Obligatoris_SIGNAT ALCALDESSA.pdf",
+        "long": 180784,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443531,
+        "descripcion": "EXTRACTE en CATALÀ_Bases i convo sub Post Obligatoris",
+        "nombreFic": "EXTRACTE en CATALÀ_Bases i convo sub Post Obligatoris_SIGNAT ALCALDESSA.pdf",
+        "long": 177088,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "id": "EU-186494PROSPECTSEN",
+  "topic_id": "186494PROSPECTSEN",
+  "titulo": "Observation electorale et éducation civique, politique, média relative à l'élection",
+  "descripcion": "Observation electorale et éducation civique, politique, média relative à l'élection",
+  "organismo": "111111",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_limite": "2026-07-28",
+  "deadlines_todas": "2026-07-28",
+  "presupuesto": "2060000",
+  "duracion": "",
+  "tipo_accion": "",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186494",
+  "text": "EU FUNDING & TENDERS – Topic: 186494PROSPECTSEN\nProgramme/Organism: 111111\nTitle: Observation electorale et éducation civique, politique, média relative à l'élection\nStatus: Open (31094502)\nType of action: \nOpening date: 2026-04-27\nDeadline: 2026-07-28\nAll deadlines: 2026-07-28\nDuration: \nBudget overview: 2060000\n\nDescription / Scope:\nObservation electorale et éducation civique, politique, média relative à l'élection\n\nMore info: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186494",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "186494PROSPECTSEN",
+    "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186494",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Observation electorale et éducation civique, politique, média relative à l'élection",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Observation electorale et éducation civique, politique, média relative à l'élection",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "6693BB334022E487D075671A82205933E7A06B6FA949885A972AB1E6D6FFA96D",
+    "metadata": {
+      "updateDate": [
+        "2026-04-01T13:24:57.000+0000"
+      ],
+      "es_SortDate": [
+        "2026-04-27T13:00:35.000+0000"
+      ],
+      "beneficiaryAdministration": [],
+      "sortStatus": [
+        "1"
+      ],
+      "contractType": [
+        "42893160"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Observation electorale et éducation civique, politique, média relative à l'élection"
+      ],
+      "type": [
+        "2"
+      ],
+      "esST_checksum": [
+        "6693BB334022E487D075671A82205933E7A06B6FA949885A972AB1E6D6FFA96D"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "callIdentifier": [
+        "186494"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "186494PROSPECTSEN"
+      ],
+      "currency": [
+        "EUR"
+      ],
+      "frameworkProgramme": [
+        "111111"
+      ],
+      "budget": [
+        "2060000"
+      ],
+      "identifier": [
+        "EuropeAid/186494/DD/ACT/Multi"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "geographicalZones": [
+        "31085485"
+      ],
+      "publicationDocuments": [
+        "[{\"nameDoc\":\"Lignes directrices AàP ouvert\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-27 15:00:51.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2151351&lang=EN\"},{\"nameDoc\":\"Annex B - Budget\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-27 15:00:35.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2148356&lang=EN\"},{\"nameDoc\":\"Annex C - Logical framework\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-27 15:00:10.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2148354&lang=EN\"},{\"nameDoc\":\"Annex D - Identification Form (public law body)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-27 15:00:24.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2148355&lang=EN\"},{\"nameDoc\":\"Annex D - Identification Form (private or public law body with legal form)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-27 15:00:36.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2148361&lang=EN\"},{\"nameDoc\":\"Annex D - Identification Form (natural person)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-27 15:00:15.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2148360&lang=EN\"},{\"nameDoc\":\"Annex F - PADOR offline registration form\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-27 15:00:18.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2148357&lang=EN\"},{\"nameDoc\":\"Annex G - Standard Grant Contract\",\"typeDoc\":\"zip\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-27 15:00:12.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2148350&lang=EN\"},{\"nameDoc\":\"Annex J - Information on the tax regime applicable to grant contracts\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-27 15:00:54.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2148352&lang=EN\"},{\"nameDoc\":\"Appendix - Derogations international organisation\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-27 15:00:36.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2148358&lang=EN\"},{\"nameDoc\":\"Annex H - Declaration of honour on exclusion and selection criteria\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-27 15:00:17.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2148359&lang=EN\"},{\"nameDoc\":\"Annex K - Clarifications on financing not linked to costs\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-27 15:00:22.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2148349&lang=EN\"},{\"nameDoc\":\"Annex L - Self-evaluation questionnaire on SEA-H\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-27 15:00:25.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2148353&lang=EN\"},{\"nameDoc\":\"e-Calls PADOR privacy statement\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-27 15:00:56.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2148351&lang=EN\"}]"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-04-27T15:01:00.533+0200"
+      ],
+      "programmePeriod": [
+        "2014 - 2020",
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-07-28T13:00:02.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-27T15:01:00.533+0200"
+      ],
+      "url": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186494"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186494"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-27T15:01:00.518+0200"
+      ],
+      "programmeDivisionProspect": [
+        "44996037"
+      ],
+      "geographicalZone": [
+        "31085485"
+      ],
+      "startDate": [
+        "2026-04-27T13:00:35.000+0000"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Observation electorale et éducation civique, politique, média relative à l'élection. Available at: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186494",
+    "score": 3.0
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "BDNS-901826",
+  "id_interno": 1103387,
+  "numero_convocatoria": "901826",
+  "organismo": "LOCAL — TERUEL — AYUNTAMIENTO DE TERUEL",
+  "sede_electronica": "https://sede.teruel.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=PTS2_HOME",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "2026-04-30",
+  "fecha_fin_solicitud": "2026-05-28",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA PARA LA CONCESIÓN DE SUBVENCIONES PARA LA CELEBRACIÓN DE COMPETICIONES Y EVENTOS DEPORTIVOS DE INTERÉS MUNICIPAL. ANUALIDAD 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades deportivas",
+  "regiones": "ES242 - Teruel",
+  "finalidad": "Otras actuaciones de carácter económico",
+  "bases_reguladoras": "ORDENANZA GENERAL REGULADORA DE LAS BASES DE CONCESIÓN DE SUBVENCIONES POR EL AYUNTAMIENTO DE TERUEL.",
+  "url_bases_reguladoras": "https://www.teruel.es/wp-content/uploads/documentos/Ordenanza-General-de-Subvenciones.pdf",
+  "presupuesto": "15.000,00 €",
+  "presupuesto_total_num": 15000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901826",
+  "text": "CONVOCATORIA BDNS Nº 901826\nOrganismo: LOCAL — TERUEL — AYUNTAMIENTO DE TERUEL\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud: 2026-04-30 → 2026-05-28 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 15.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades deportivas\nRegiones: ES242 - Teruel\nFinalidad: Otras actuaciones de carácter económico\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA PARA LA CONCESIÓN DE SUBVENCIONES PARA LA CELEBRACIÓN DE COMPETICIONES Y EVENTOS DEPORTIVOS DE INTERÉS MUNICIPAL. ANUALIDAD 2026\n\nBases reguladoras:\nORDENANZA GENERAL REGULADORA DE LAS BASES DE CONCESIÓN DE SUBVENCIONES POR EL AYUNTAMIENTO DE TERUEL.\nURL bases reguladoras: https://www.teruel.es/wp-content/uploads/documentos/Ordenanza-General-de-Subvenciones.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901826",
+  "_raw": {
+    "id": 1103387,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "TERUEL",
+      "nivel3": "AYUNTAMIENTO DE TERUEL"
+    },
+    "sedeElectronica": "https://sede.teruel.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=PTS2_HOME",
+    "codigoBDNS": "901826",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 15000,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA PARA LA CONCESIÓN DE SUBVENCIONES PARA LA CELEBRACIÓN DE COMPETICIONES Y EVENTOS DEPORTIVOS DE INTERÉS MUNICIPAL. ANUALIDAD 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades deportivas",
+        "codigo": "93.1"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES242 - Teruel"
+      }
+    ],
+    "descripcionFinalidad": "Otras actuaciones de carácter económico",
+    "descripcionBasesReguladoras": "ORDENANZA GENERAL REGULADORA DE LAS BASES DE CONCESIÓN DE SUBVENCIONES POR EL AYUNTAMIENTO DE TERUEL.",
+    "urlBasesReguladoras": "https://www.teruel.es/wp-content/uploads/documentos/Ordenanza-General-de-Subvenciones.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-04-30",
+    "fechaFinSolicitud": "2026-05-28",
+    "textInicio": "A partir del día siguiente al de la publicación del extracto de la convocatoria en el B.O.P.",
+    "textFin": "20 días hábiles desde el siguiente a la publicación del extracto de la convocatoria en el B.O.P.",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443501,
+        "descripcion": "Acuerdo aprobación Convocatoria",
+        "nombreFic": "Acuerdo Convocatoria Eventos Deportivos.pdf",
+        "long": 346090,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443498,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Convocatoria Eventos Deportivos.pdf",
+        "long": 312776,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210193,
+        "titulo": "CONVOCATORIA PARA LA CONCESIÓN DE SUBVENCIONES PARA LA CELEBRACIÓN DE COMPETICIONES Y EVENTOS DEPORTIVOS DE INTERÉS MUNICIPAL. ANUALIDAD 2026",
+        "tituloLeng": null,
+        "texto": "<p>Primero. Beneficiarios:</p><p>Estas subvenciones están destinadas exclusivamente a Asociaciones Deportivas y Clubes Deportivos legalmente establecidos y reconocidos e inscritos en el Registro Municipal de Asociaciones con carácter previo a la publicación de la presente convocatoria de subvenciones en el Boletín Oficial de la Provincia y que se mantengan inscritas, al menos desde el inicio del proyecto hasta la presentación de la justificación del mismo.</p><p>Además de la inscripción en el Registro Municipal de Asociaciones, los Clubes y Asociaciones Deportivas deberán estar legalmente reconocidos e inscritos conforme a lo estipulado en el Título III (capítulo I) de la Ley 16/2018 de la actividad física y el deporte de Aragón.</p><p>Segundo. Finalidad</p><p>Las subvenciones tendrán como finalidad el desarrollo de eventos o competiciones deportivas puntuales de especial interés para la ciudad de acuerdo con los objetivos siguientes:</p><p>- Promocionar la práctica de la actividad física y deportiva entre la ciudadanía.</p><p>- Contribuir a la celebración de pruebas deportivas de carácter supramunicipal y competiciones deportivas de carácter autonómico o nacional dentro de la ciudad.</p><p>- Promocionar la ciudad a través de la celebración de eventos y pruebas deportivas.</p><p>Tercero. Bases reguladoras</p><p>La Ordenanza General Reguladora de las Bases de Concesión de Subvenciones por el Ayuntamiento de Teruel, fue aprobada inicialmente por el Ayuntamiento Pleno el día 7 de julio de 2025 y publicada su aprobación definitiva en el Boletín Oficial de la Provincia de Teruel n.º 168 del día 5 de septiembre de 2025, entrando en vigor el 29 de septiembre de 2025.</p><p>Las subvenciones a las que se refieren la presente convocatoria están contempladas en el Plan Estratégico de Subvenciones del ayuntamiento de Teruel 2024-2027, dentro de la línea estratégica nº4. fomento del deporte.</p><p>Cuarto. Importe</p><p>La cuantía máxima total de las subvenciones convocadas es de 15.000,00 euros.</p><p>Quinto. Forma, lugar y plazo de presentación de solicitudes</p><p>Al resultar los interesados destinatarios de esta convocatoria sujetos obligados a relacionarse exclusivamente por medios electrónicos con la Administración, las solicitudes de subvención deberán ser presentadas exclusivamente por medios electrónicos a través de la Sede Electrónica del Ayuntamiento de Teruel, cuyo catálogo de trámites recoge la “Solicitud de subvención para la celebración de competiciones y eventos deportivos de interés municipal”. Será igualmente válida su presentación telemática a través de las sedes electrónicas del resto de Administraciones Públicas o entidades dependientes del Sector Público, o del Portal de Registro Electrónico Común de la Administración General del Estado.</p><p>La presentación de la solicitud con la correspondiente documentación deberá hacerse dentro del plazo de veinte días hábiles a contar a partir del siguiente al de la publicación de la presente convocatoria en el Boletín Oficial de la Provincia de Teruel (sección oficial del Boletín Oficial de Aragón). Si el último día del referido plazo coincidiera con día inhábil, se entenderá prorrogado al siguiente hábil.</p>",
+        "textoLeng": null,
+        "url": "https://236ws.dpteruel.es/DPT/bopt.nsf/0/DC5B1806C362D19AC1258DE7003E7F61",
+        "cve": null,
+        "desDiarioOficial": "B.O.P. DE TERUEL",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

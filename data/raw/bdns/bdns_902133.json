@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902133",
+  "id_interno": 1103694,
+  "numero_convocatoria": "902133",
+  "organismo": "AUTONOMICA — EXTREMADURA — DIRECCIÓN GENERAL DE PLANIFICACIÓN, FORMACIÓN Y CALIDAD SANITARIAS Y SOCIOSANITARIAS",
+  "sede_electronica": "https://www.juntaex.es/w/0683524",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Subvenciones 2026 de equipamiento a consultorios locales de titularidad o disponibilidad municipal en el ámbito de la CA. de Extremadura según Resolución de 21 de Abril de 2026 que convoca",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Otras actividades sanitarias",
+  "regiones": "ES43 - EXTREMADURA",
+  "finalidad": "Sanidad",
+  "bases_reguladoras": "Decreto 57/2024, de 26 de junio, de bases reguladoras de las subvenciones para obras o equipamiento de consultorios locales o de helisuperficies de titularidad o disponibilidad municipal, en Extremadura y se aprueba la primera convocatoria",
+  "url_bases_reguladoras": "https://doe.juntaex.es/",
+  "presupuesto": "200.000,00 €",
+  "presupuesto_total_num": 200000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902133",
+  "text": "CONVOCATORIA BDNS Nº 902133\nOrganismo: AUTONOMICA — EXTREMADURA — DIRECCIÓN GENERAL DE PLANIFICACIÓN, FORMACIÓN Y CALIDAD SANITARIAS Y SOCIOSANITARIAS\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 200.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Otras actividades sanitarias\nRegiones: ES43 - EXTREMADURA\nFinalidad: Sanidad\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSubvenciones 2026 de equipamiento a consultorios locales de titularidad o disponibilidad municipal en el ámbito de la CA. de Extremadura según Resolución de 21 de Abril de 2026 que convoca\n\nBases reguladoras:\nDecreto 57/2024, de 26 de junio, de bases reguladoras de las subvenciones para obras o equipamiento de consultorios locales o de helisuperficies de titularidad o disponibilidad municipal, en Extremadura y se aprueba la primera convocatoria\nURL bases reguladoras: https://doe.juntaex.es/\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902133",
+  "_raw": {
+    "id": 1103694,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "EXTREMADURA",
+      "nivel3": "DIRECCIÓN GENERAL DE PLANIFICACIÓN, FORMACIÓN Y CALIDAD SANITARIAS Y SOCIOSANITARIAS"
+    },
+    "sedeElectronica": "https://www.juntaex.es/w/0683524",
+    "codigoBDNS": "902133",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 200000,
+    "mrr": false,
+    "descripcion": "Subvenciones 2026 de equipamiento a consultorios locales de titularidad o disponibilidad municipal en el ámbito de la CA. de Extremadura según Resolución de 21 de Abril de 2026 que convoca",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Otras actividades sanitarias",
+        "codigo": "86.9"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES43 - EXTREMADURA"
+      }
+    ],
+    "descripcionFinalidad": "Sanidad",
+    "descripcionBasesReguladoras": "Decreto 57/2024, de 26 de junio, de bases reguladoras de las subvenciones para obras o equipamiento de consultorios locales o de helisuperficies de titularidad o disponibilidad municipal, en Extremadura y se aprueba la primera convocatoria",
+    "urlBasesReguladoras": "https://doe.juntaex.es/",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Al día siguiente de la publicación de la Resolución y el Extracto en el DOE",
+    "textFin": "7 días hábiles a contar desde el día siguiente al de la publicación de la Convocatoria",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444255,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Subvenciones 2026 de equipamiento a consultorios locales de titularidad o disponibilidad municipal en el ámbito de la CA_ de Extremadura según Resolución de 21 de Abril de 2026 que convoca.PDF",
+        "long": 293529,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "id": "EU-50633485TOPICSen",
+  "topic_id": "50633485TOPICSen",
+  "titulo": "HORIZON-EIC-2026-BAS-02-SCLATEUP",
+  "descripcion": "HORIZON-EIC-2026-BAS-02-SCLATEUP",
+  "organismo": "43108390",
+  "fecha_publicacion": "2026-03-03",
+  "fecha_limite": "2026-06-25",
+  "deadlines_todas": "2026-06-25",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113951\":[{\"action\":\"HORIZON-EIC-2026-BAS-02-SCALEUP - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":4000000,\"maxContribution\":4000000,\"budgetYearMap\":{\"2026\":\"4000000\"},\"plannedOpeningDate\":\"2026-03-03\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-06-25\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "HORIZON Coordination and Support Actions",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-BAS-02-SCALEUP",
+  "text": "EU FUNDING & TENDERS – Topic: 50633485TOPICSen\nProgramme/Organism: 43108390\nTitle: HORIZON-EIC-2026-BAS-02-SCLATEUP\nStatus: Open (31094502)\nType of action: HORIZON Coordination and Support Actions\nOpening date: 2026-03-03\nDeadline: 2026-06-25\nAll deadlines: 2026-06-25\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113951\":[{\"action\":\"HORIZON-EIC-2026-BAS-02-SCALEUP - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":4000000,\"maxContribution\":4000000,\"budgetYearMap\":{\"2026\":\"4000000\"},\"plannedOpeningDate\":\"2026-03-03\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-06-25\"]}]}}\n\nDescription / Scope:\nHORIZON-EIC-2026-BAS-02-SCLATEUP\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-BAS-02-SCALEUP",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "50633485TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-BAS-02-SCALEUP",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "HORIZON-EIC-2026-BAS-02-SCLATEUP",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "HORIZON-EIC-2026-BAS-02-SCLATEUP",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "C7E0EE89DA0C62520AFFF3CD3B6D6F320D1309A4E63871AEC04357E5C2032136",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-03-20T16:01:22.692\",\"content\":\"The submission session is now available for: HORIZON-EIC-2026-BAS-02-SCALEUP\"}]"
+      ],
+      "es_SortDate": [
+        "2026-03-03T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "HORIZON-EIC-2026-BAS-02-SCALEUP",
+        "HORIZON-EIC-2026-BAS-02",
+        "Angel investment",
+        "Business model innovation",
+        "Crowdfunding",
+        "Gender in innovation development",
+        "Innovation Fund",
+        "Innovation strategies",
+        "Innovation systems",
+        "Market-creating innovation",
+        "Private equity",
+        "Seed capital",
+        "Training and support",
+        "Venture operator"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p><strong><em>﻿</em></strong>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex A</a> and <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex E</a> of the Horizon Europe Work Programme General Annexes.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p></div></div><div><h4>2. Eligible countries</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p>A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a>.</p></div></div><div><h4>3. Other Eligibility Conditions</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex C</a> of the Work Programme General Annexes.</p></div></div><div><h4>5a. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex D</a> of the Work Programme General Annexes.</p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex G</a> of the Work Programme General Annexes.</p></div></div></div><div class=\"eui-u-mt-l\"><h4>Specific conditions</h4> <div class=\"eui-u-mt-s\"><p>described in the [specific topic of the Work Programme]</p></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Application and evaluation forms and model grant agreement (MGA):</h4> <div class=\"eui-u-mt-s\"><p><strong>Application form templates</strong></p><p>Please use the application form that you will find in the Submission System. You can find examples of standard application forms in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?programmePeriod=2021-2027&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Reference Documents page</a>.</p><p><strong>Evaluation form templates</strong> <em>— will be used with the necessary adaptations</em></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/ef/ef_he-csa_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard evaluation form (HE CSA)</a></p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a> </p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE MGA</a>&#xa0;</p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-1-general-introduction_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 1. General Introduction</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 15. General Annexes</a> </p><p><a href=\"https://eic.ec.europa.eu/eic-2026-work-programme_en\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0695\" rel=\"noopener noreferrer\" target=\"_blank\">HE Framework Programme and Rules for Participation Regulation 2021/695</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021D0764\" rel=\"noopener noreferrer\" target=\"_blank\">HE Specific Programme Decision 2021/764</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a></p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "HORIZON-EIC-2026-BAS-02-SCLATEUP"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "C7E0EE89DA0C62520AFFF3CD3B6D6F320D1309A4E63871AEC04357E5C2032136"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43027846"
+      ],
+      "callIdentifier": [
+        "HORIZON-EIC-2026-BAS-02"
+      ],
+      "ccm2Id": [
+        "50633485"
+      ],
+      "callccm2Id": [
+        "50633518"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50633485TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"HORIZON-EIC-2026-BAS-02\",\"criterionCode\":\"HORIZON-CSA\",\"criterionDescription\":\"HORIZON Coordination and Support Actions\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43712?topic\\u003dHORIZON-EIC-2026-BAS-02-SCALEUP\",\"startDate\":\"1772496000000\",\"endDate\":\"1782345600000\",\"mgaDescription\":\"HORIZON Action Grant Budget-Based\",\"mgaCode\":\"HORIZON-AG\"}]"
+      ],
+      "callTitle": [
+        "EIC Scaling Club 2.0"
+      ],
+      "frameworkProgramme": [
+        "43108390"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Impact:</p><p>The action is expected to generate the following impact:</p><ul level=\"0\"><li><strong>Strengthening growth skills</strong> through mentoring and curated peer learning on fundamental growth barriers such as inclusive work culture, organisation, talent attraction, international expansion, and funding.</li><li><strong>Increase the number and value of investments deals</strong> from strategic European and non-European, co-investments partners, such as public and private investors (including National Promotional Banks and Institutions or/and Regional Banks that provide late-stage investment), including funding through initial public offerings (IPOs) and acquisitions of the participating companies.</li><li><strong>Increase the number and value of commercial deals </strong>from customers and through strategic partners, e.g. corporates, buyers, infrastructure and service providers, within EU as well as in foreign markets.</li><li>Strengthening attractiveness to <strong>attract highly skilled talents.</strong></li><li><strong>Building a strong peer-network</strong> of Europe’s top-performing deep tech founders and key mentors.</li><li><strong>Strengthen visibility of supported companies</strong> and the image of the European deep tech scaleup scene.</li></ul><p class=\"topicdescriptionkind\">Objective:</p><p>The focus for EIC Scaling Club 2.0 is to increase success and support the growth of the top deep tech companies in Europe, by strengthen the skills, knowledge and network of peers, investors and customers needed for growth.</p><p class=\"topicdescriptionkind\">Scope:</p><p>EIC Scaling Club 2.0 should support a minimum of 70 deep tech companies with the potential to scale up as global leaders or potential unicorns. 196 Minimum 35 of these companies should come from the EIC portfolio (primarily EIC Fund portfolio) and the remaining deep tech companies should come from similar programmes at Member State and Associated Country level.</p><p>The identified companies, ready for series B+ funding rounds, should demonstrate credible high-growth potential and should develop cutting-edge solutions in key technological areas, contributing to Europe’s technological autonomy and supporting EU’s strategic priorities, e.g. AI, advanced materials, quantum, biotech, robotics and space technologies, energy and decarbonisation, as specified in the Competitive Compass for the EU.<sup>[1]</sup> The cohort of supported companies, active in diverse sectors, should be geographically and gender diverse, engaging companies from across the EU and Horizon Europe Associated countries and a balanced portfolio of women-led companies.</p><p>The initiative should provide a package of growth-focused capability building support through bespoke networking and learning among peers and partners, as well as facilitating outreach. The initiative should also enhance visibility of the selected companies and the European scaleup scene.</p><p><strong>The activities</strong></p><p>The package of growth-focused support to the identified companies, should focus on:</p><ul level=\"0\"><li>strengthening investment readiness</li><li>strengthening operational excellence</li><li>facilitate outreach to new customers, business partners and market (e.g. within EU as well as expansion to foreign markets)</li><li>facilitate access to (late-stage) financing</li><li>facilitate access to talents.</li></ul><p>The initiative should leverage the existing networks and build on the success and methodologies of its predecessor action, <a href=\"https://eicscalingclub.eu/\">the EIC Scaling Club</a>.</p><p>For the implementation, the action should:</p><ul level=\"0\"><li>be tailored to the specific needs of Europe’s deep tech companies in various sectors. It should be delivered in an agile way while, properly balancing companies’ engagement and the action’s added value.</li><li>be implemented in strong conjunction with the EIC Business Acceleration Services, and the network of EIC ecosystem partners, exploiting synergies and cross-promoting relevant actions, such as the international trade fairs, matchmaking with corporates, innovation procurement, investor outreach, etc.</li><li>support participating companies’ engagement in relevant scale-up schemes at EU level (EIC Step Scale Up, InvestEU initiative, EU Innovation Fund, etc.) and national levels (soft-landing schemes).</li><li>play a proactive role in helping EIC build growth, expertise and leadership in the field of scaling up companies, by contributing to a better understanding of concrete challenges and needs of Europe’s deep tech scale-ups and knowledge on the most efficient interventions to overcome the challenges.</li><li>engage the EIC Scaling Club alumni companies, leveraging their scale-up experience, insights, and networks to strengthen the ecosystem for new cohorts. Alumni companies can act as mentors or peer advisors, providing real-world perspectives and fostering a culture of collaboration. An ongoing engagement of alumni companies would not only reinforce community ties but also support the alumni’s own continued growth through visibility and access to new opportunities.</li><li>should effectively promote the participating companies as Europe’s most promising tech champions and global leaders. The action’s branding and visual identity should be closely linked with the EIC, contributing to reinforcement of respective actions and all communication activities should be closely coordinated with EIC communication actions.</li></ul><p>The proposal must describe the suggested methodology, both for identifying the supported companies and for scaling them up. The proposal should include the concrete set of proposed scale-up support actions, strengthened by the rationale for their implementation and added-value. It should also suggest a methodology for alumni engagement and visibility enhancement.</p><p>The implementing consortium should:</p><ul level=\"0\"><li>demonstrate expertise, experience and means to foster substantial growth of European Deeptech scale-ups.</li><li>suggest a suitable set of KPIs to measure and report impact. The results should be reported twice a year to the EU commission and the Agency.</li><li>establish systematic data gathering, that ensures full respect of the data protection regulations, in order to evaluate impact and refine future actions.</li><li>establish a steering group. The members of the steering group should be selected in collaboration with the commission and include representatives from all part of the ecosystem, as well as the commission.</li><li>decure that all communication is clearly branded as EIC actions and approved by the EIC communication teams.</li><li>ensure synergies with:   <ul level=\"1\"><li>other EIC activities (e.g., EIC Innovation Procurement, EIC ecosystem partnership, Corporate Partnership programme 4.0 and Co-investment Support).</li><li>relevant EU industry alliances, missions, and innovation ecosystems.</li>   </ul></li></ul><p class=\"eui-u-font-s\">[1] A Competitiveness Compass for the EU, Communication from the Commission to the European Parliament, the European Council, the Council, the European Economic and Social Committee and the Committee of the regions, COM(2025) 30 final. January 2025.</p>"
+      ],
+      "identifier": [
+        "HORIZON-EIC-2026-BAS-02-SCALEUP"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43121687",
+        "43121666",
+        "43121633",
+        "43108390"
+      ],
+      "crossCuttingPriorities": [
+        "DigitalAgenda",
+        "AI"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-03-03T00:01:32.462+0100"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-06-25T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-03-31T11:24:18.123+0200"
+      ],
+      "typesOfAction": [
+        "HORIZON Coordination and Support Actions"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-BAS-02-SCALEUP"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-BAS-02-SCALEUP"
+      ],
+      "tags": [
+        "Scaling",
+        "deeptech",
+        "high-growth",
+        "technological autonomy",
+        "unicorns"
+      ],
+      "cenTagsA": [
+        "TOPICS-017676",
+        "TOPICS-017677",
+        "TOPICS-017678",
+        "TOPICS-017679",
+        "TOPICS-017680",
+        "TOPICS-017681",
+        "TOPICS-017682",
+        "TOPICS-017683",
+        "TOPICS-017684",
+        "TOPICS-006219",
+        "TOPICS-016669",
+        "TOPICS-017685",
+        "TOPICS-007801",
+        "TOPICS-007802",
+        "TOPICS-009965",
+        "TOPICS-004146",
+        "TOPICS-004135",
+        "TOPICS-007805",
+        "TOPICS-002505",
+        "TOPICS-013714",
+        "TOPICS-004137",
+        "TOPICS-002115",
+        "TOPICS-007807",
+        "TOPICS-007771"
+      ],
+      "esDA_QueueDate": [
+        "2026-03-31T11:24:18.110+0200"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"HORIZON-CSA HORIZON Coordination and Support Actions\",\"typeOfMGA\":[{\"id\":43027846,\"abbreviation\":\"HORIZON-AG\",\"description\":\"HORIZON Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-03-03\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-06-25\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113951\":[{\"action\":\"HORIZON-EIC-2026-BAS-02-SCALEUP - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":4000000,\"maxContribution\":4000000,\"budgetYearMap\":{\"2026\":\"4000000\"},\"plannedOpeningDate\":\"2026-03-03\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-06-25\"]}]}}"
+      ],
+      "startDate": [
+        "2026-03-03T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> – find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> – ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> – get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (‘third-countries’).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> – contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> – the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> – consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "HORIZON-EIC-2026-BAS-02-SCLATEUP. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-BAS-02-SCALEUP",
+    "score": 3.0
+  }
+}

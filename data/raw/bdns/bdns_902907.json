@@ -1,0 +1,118 @@
+{
+  "id": "BDNS-902907",
+  "id_interno": 1104468,
+  "numero_convocatoria": "902907",
+  "organismo": "LOCAL — CONSELL COMARCAL DE ALT EMPORDÀ — CONSELL COMARCAL DE ALT EMPORDÀ",
+  "sede_electronica": "www.altemporda.org",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "2026-04-29",
+  "fecha_fin_solicitud": "2026-05-13",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - canónica",
+  "descripcion": "Convocatoria de las ayudas individuales de transporte escolar dirigida al alumnado de enseñanza obligatoria y de segundo ciclo de\neducación infantil escolarizado en centros educativos sufragados con fondos públicos para el curso 2025-2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, EDUCACIÓN",
+  "regiones": "ES512 - Girona",
+  "finalidad": "Educación",
+  "bases_reguladoras": "Convocatoria de las ayudas individuales de transporte escolar dirigida al alumnado de enseñanza obligatoria y de segundo ciclo de\neducación infantil escolarizado en centros educativos sufragados con fondos públicos para el curso 2025-2026",
+  "url_bases_reguladoras": "https://ssl4.ddgi.cat/bopV1/pdf/2021/188/202118808057.pd f",
+  "presupuesto": "17.989,20 €",
+  "presupuesto_total_num": 17989.2,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902907",
+  "text": "CONVOCATORIA BDNS Nº 902907\nOrganismo: LOCAL — CONSELL COMARCAL DE ALT EMPORDÀ — CONSELL COMARCAL DE ALT EMPORDÀ\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud: 2026-04-29 → 2026-05-13 (abierto: no)\nTipo de convocatoria: Concesión directa - canónica\nPresupuesto total: 17.989,20 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, EDUCACIÓN\nRegiones: ES512 - Girona\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria de las ayudas individuales de transporte escolar dirigida al alumnado de enseñanza obligatoria y de segundo ciclo de\neducación infantil escolarizado en centros educativos sufragados con fondos públicos para el curso 2025-2026\n\nBases reguladoras:\nConvocatoria de las ayudas individuales de transporte escolar dirigida al alumnado de enseñanza obligatoria y de segundo ciclo de\neducación infantil escolarizado en centros educativos sufragados con fondos públicos para el curso 2025-2026\nURL bases reguladoras: https://ssl4.ddgi.cat/bopV1/pdf/2021/188/202118808057.pd f\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902907",
+  "_raw": {
+    "id": 1104468,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "CONSELL COMARCAL DE ALT EMPORDÀ",
+      "nivel3": "CONSELL COMARCAL DE ALT EMPORDÀ"
+    },
+    "sedeElectronica": "www.altemporda.org",
+    "codigoBDNS": "902907",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - canónica",
+    "presupuestoTotal": 17989.2,
+    "mrr": false,
+    "descripcion": "Convocatoria de las ayudas individuales de transporte escolar dirigida al alumnado de enseñanza obligatoria y de segundo ciclo de\neducación infantil escolarizado en centros educativos sufragados con fondos públicos para el curso 2025-2026",
+    "descripcionLeng": "Convocatòria dels ajuts individuals de transport escolar adreçats a l’alumnat d’ensenyaments obligatoris i de segon cicle d’educació\ninfantil de centres educatius sufragats amb fons públics per al curs 2025-2026",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      },
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES512 - Girona"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "Convocatoria de las ayudas individuales de transporte escolar dirigida al alumnado de enseñanza obligatoria y de segundo ciclo de\neducación infantil escolarizado en centros educativos sufragados con fondos públicos para el curso 2025-2026",
+    "urlBasesReguladoras": "https://ssl4.ddgi.cat/bopV1/pdf/2021/188/202118808057.pd f",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-04-29",
+    "fechaFinSolicitud": "2026-05-13",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446644,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "EXTRACTE.pdf",
+        "long": 47778,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446642,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "EXTRACTO.pdf",
+        "long": 47854,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210655,
+        "titulo": "Convocatoria de las ayudas individuales de transporte escolar dirigida al alumnado de enseñanza obligatoria y de segundo ciclo de educación infantil escolarizado en centros educativos sufragados con fondos públicos para el curso 2025-2026.",
+        "tituloLeng": "Convocatòria dels ajuts individuals de transport escolar adreçats a l’alumnat d’ensenyaments obligatoris i de segon cicle d’educació infantil de centres educatius sufragats amb fons públics per al curs 2025-2026",
+        "texto": "<p>Extracto de la Junta de Gobierno, de 28 de abril de 2026, del Consell Comarcal del Alt Empordà, correspondiente a la convocatoria de las ayudas individuales de transporte escolar dirigida al alumnado de enseñanza obligatoria y de segundo ciclo de educación infantil escolarizado en centros educativos sufragados con fondos públicos para el curso 2025-2026.</p><p> </p><p>De conformidad con lo previsto en los artículos 17.3 b) y 20.8 a) de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, se publica el extracto de la convocatoria cuyo texto completo se puede consultar en la Base de Datos Nacional de Subvenciones</p><p>(http://www.pap.minhap.gob.es/bdnstrans/index)</p><p> </p><p>Primero.- Beneficiario</p><p>Podrá solicitar la ayuda de transporte escolar el alumnado de enseñanza obligatorias y de segundo ciclo de educación infantil de centres educativos sufragados con fondos públicos.</p><p> </p><p>Segundo.- Finalidad</p><p>La finalidad de la presente convocatoria es fomentar que las familias de los alumnos con dificultades económicas que tengan su domicilio a más de tres kilómetros del centro de Enseñanza donde está escolarizado y no exista el servicio de transporte escolar colectivo de las escuelas de Alt Empordà, los días lectivos del curso que se concrete en la convocatoria.</p><p>Las subvenciones van destinadas a la financiación de los kilómetros que la familia del alumnado debe realizar para desplazarse desde su lugar de residencia al centro educativo público propuesto por el Departament d'Ensenyament siempre que el recorrido sea de más de tres kilómetros entre el domicilio y el centro educativo.</p><p> </p><p>Tercero:- Importe</p><p>Se destina de la partida presupuestaria 35.3262.48005 el importe correspondiente de 17.989,20€ para la concesión de dichas ayudas</p><p> </p><p>Quarto.- Bases reguladoras</p><p>BOP de Girona Nº. 188 de 29 de septiembre de 2021</p><p> </p><p>Quinto.- Plazo</p><p>El plazo de presentación será hasta el 13 de mayo de 2026</p><p> </p><p>Sexto.- Otros datos</p><p>Las solicitudes se formalizarán mediante el modelo de normalizado que el Consell Comarcal del Alt Empordà facilitará a los centros docentes de la comarca. Estos impresos también se podrán solicitar a la web de el Consell Comarcal de l’Alt Empordà o presencialmente al Consell Comarcal de l’Alt Empordà.</p><p> </p>",
+        "textoLeng": "<p>Extracte de la Junta de Govern, de 28 d’abril de 2026, del Consell Comarcal de l'Alt Empordà, corresponent a la convocatòria dels ajuts individuals de transport escolar adreçats a l’alumnat d’ensenyaments obligatoris i de segon cicle d’educació infantil de centres educatius sufragats amb fons públics per al curs 2025-2026.</p><p> </p><p>De conformitat amb el previst en els articles 17.3 b) i 20.8 a) de la Llei 38/2003, de 17 de novembre, General de Subvencions, es publica l'extracte de la convocatòria el text complet del qual es pot consultar en la Base de Dades Nacional de Subvencions</p><p>(http://www.pap.minhap.gob.es/bdnstrans/index)</p><p> </p><p>Primer.- Beneficiari</p><p>Podrà sol·licitar l’ajut de transport escolar l’alumnat d’ensenyaments obligatoris i de segon cicle d’educació infantil de centres educatius sufragats amb fons públics</p><p> </p><p>Segon.- Finalitat</p><p>La finalitat de la present convocatòria és fomentar que les famílies dels alumnes amb dificultats econòmiques que tinguin el seu domicili a més de tres quilòmetres del centre d’Ensenyament on està escolaritzat i no existeixi el servei de transport escolar col·lectiu de les escoles de l’Alt Empordà, els dies lectius del curs que es concreti a la convocatòria.</p><p>Les subvencions van destinades al finançament dels quilòmetres que la família de l’alumnat ha de realitzar per desplaçar-se des del seu lloc de residència al centre educatiu públic proposat pel Departament d’Ensenyament sempre que el recorregut sigui de més de tres quilòmetres entre el domicili i el centre educatiu.</p><p> </p><p>Tercer.- Import</p><p>Es destina de la partida pressupostària 35.3262.48005 l’import corresponent de 17.989,20€ per a la concessió de les esmentades ajudes.</p><p> </p><p>Quart.- Bases reguladores</p><p>BOP de Girona Núm. 188 de 29 de setembre de 2021</p><p> </p><p>Cinquè.- Termini</p><p>El termini de presentació serà fins al 13 de maig de 2026.</p><p> </p><p>Sisè.- Altres dades</p><p>Les sol·licituds es formalitzaran mitjançant el model normalitzat que el Consell Comarcal de l'Alt Empordà facilitarà als centres docents de la comarca. Aquests impresos també es podran sol·licitar a la web del Consell Comarcal de l’Alt Empordà o presencialment al Consell Comarcal de l’Alt Empordà.</p>",
+        "url": "https://ssl4.ddgi.cat/bopV1/pdf/2026/85/20268503684.pdf",
+        "cve": null,
+        "desDiarioOficial": "B.O.P. DE GIRONA",
+        "datPublicacion": "2026-05-06"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

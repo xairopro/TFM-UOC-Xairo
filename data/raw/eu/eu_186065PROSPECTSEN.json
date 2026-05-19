@@ -1,0 +1,136 @@
+{
+  "id": "EU-186065PROSPECTSEN",
+  "topic_id": "186065PROSPECTSEN",
+  "titulo": "EU NDICI Global Europe - Thematic Programme for Civil Society Organisations & Thematic Programme for Human Rights and Democracy – Israel 2026",
+  "descripcion": "EU NDICI Global Europe - Thematic Programme for Civil Society Organisations &amp; Thematic Programme for Human Rights and Democracy – Israel 2026",
+  "organismo": "111111",
+  "fecha_publicacion": "2026-03-26",
+  "fecha_limite": "2026-05-26",
+  "deadlines_todas": "2026-05-26",
+  "presupuesto": "3850000",
+  "duracion": "",
+  "tipo_accion": "",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186065",
+  "text": "EU FUNDING & TENDERS – Topic: 186065PROSPECTSEN\nProgramme/Organism: 111111\nTitle: EU NDICI Global Europe - Thematic Programme for Civil Society Organisations & Thematic Programme for Human Rights and Democracy – Israel 2026\nStatus: Open (31094502)\nType of action: \nOpening date: 2026-03-26\nDeadline: 2026-05-26\nAll deadlines: 2026-05-26\nDuration: \nBudget overview: 3850000\n\nDescription / Scope:\nEU NDICI Global Europe - Thematic Programme for Civil Society Organisations &amp; Thematic Programme for Human Rights and Democracy – Israel 2026\n\nMore info: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186065",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "186065PROSPECTSEN",
+    "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186065",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "EU NDICI Global Europe - Thematic Programme for Civil Society Organisations &amp; Thematic Programme for Human Rights and Democracy – Israel 2026",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "EU NDICI Global Europe - Thematic Programme for Civil Society Organisations &amp; Thematic Programme for Human Rights and Democracy – Israel 2026",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "7BFDF0D54FC8371DB36C019B074B9082A17B980F33E7E90CFEA6BEF3281E27C2",
+    "metadata": {
+      "updateDate": [
+        "2026-04-28T10:02:47.000+0000"
+      ],
+      "es_SortDate": [
+        "2026-03-26T09:00:45.000+0000"
+      ],
+      "beneficiaryAdministration": [],
+      "sortStatus": [
+        "1"
+      ],
+      "contractType": [
+        "42893160"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "EU NDICI Global Europe - Thematic Programme for Civil Society Organisations & Thematic Programme for Human Rights and Democracy – Israel 2026"
+      ],
+      "type": [
+        "2"
+      ],
+      "esST_checksum": [
+        "7BFDF0D54FC8371DB36C019B074B9082A17B980F33E7E90CFEA6BEF3281E27C2"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "callIdentifier": [
+        "186065"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "186065PROSPECTSEN"
+      ],
+      "currency": [
+        "EUR"
+      ],
+      "frameworkProgramme": [
+        "111111"
+      ],
+      "budget": [
+        "3850000"
+      ],
+      "identifier": [
+        "EuropeAid/186065/DD/ACT/IL"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "geographicalZones": [
+        "20000916"
+      ],
+      "publicationDocuments": [
+        "[{\"nameDoc\":\"Presentation.InformationDay15.04.2026\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-28 16:00:57.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2161734&lang=EN\"},{\"nameDoc\":\"Annex B - Budget\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-26 10:00:10.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2161701&lang=EN\"},{\"nameDoc\":\"Annex G - Standard Grant Contract\",\"typeDoc\":\"zip\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-26 10:00:38.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2161696&lang=EN\"},{\"nameDoc\":\"Guidelines for grant applicant\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-26 10:00:43.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2161698&lang=EN\"},{\"nameDoc\":\"Annex A2 - Grant application form-Full application\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-26 10:00:23.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2161693&lang=EN\"},{\"nameDoc\":\"Annex A1 - Grant Application Form-Concept Note\",\"typeDoc\":\"rtf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-26 10:00:52.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2161695&lang=EN\"},{\"nameDoc\":\"Privacy Statement\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-26 10:00:31.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2161702&lang=EN\"},{\"nameDoc\":\"Annex L - Self-evaluation questionnaire on SEA-H\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-26 10:00:52.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2161699&lang=EN\"},{\"nameDoc\":\"Annex J - Information on the tax regime applicable to grant contracts\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-26 10:00:41.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2161700&lang=EN\"},{\"nameDoc\":\"Annex H - Declaration of honour\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-26 10:00:56.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2161697&lang=EN\"},{\"nameDoc\":\"Annex C - Logical framework\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-26 10:00:33.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2161694&lang=EN\"}]"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-03-26T10:01:01.308+0100"
+      ],
+      "programmePeriod": [
+        "2014 - 2020",
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-05-26T20:00:20.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-28T16:01:05.609+0200"
+      ],
+      "url": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186065"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186065"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-28T16:01:05.591+0200"
+      ],
+      "programmeDivisionProspect": [
+        "43072409"
+      ],
+      "geographicalZone": [
+        "20000916"
+      ],
+      "startDate": [
+        "2026-03-26T09:00:45.000+0000"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "EU NDICI Global Europe - Thematic Programme for Civil Society Organisations & Thematic Programme for Human Rights and Democracy – Israel 2026. Available at: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186065",
+    "score": 3.0
+  }
+}

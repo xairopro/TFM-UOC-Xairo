@@ -1,0 +1,100 @@
+{
+  "id": "BDNS-902522",
+  "id_interno": 1104083,
+  "numero_convocatoria": "902522",
+  "organismo": "AUTONOMICA — COMUNIDAD DE MADRID — CONSEJERÍA DE EDUCACIÓN, CIENCIA Y UNIVERSIDADES",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "2023-05-29",
+  "fecha_fin_solicitud": "2023-06-21",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "LÍNEA EMPRESAS MÍNIMIS CONV AYUDAS PARA LA REALIZACIÓN DE DOCT IND 2023-25",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "GRAN EMPRESA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Investigación y desarrollo experimental en ciencias naturales y técnicas",
+  "regiones": "ES3 - COMUNIDAD DE MADRID",
+  "finalidad": "Investigación, desarrollo e innovación",
+  "bases_reguladoras": "ORDEN 3109/2017, DE 29 DE AGOSTO, DEL CONSEJERO DE EDUCACIÓN, JUVENTUD Y DEPORTE POR LA QUE SE ESTABLECEN LAS BASES REGULADORAS DE AYUDAS PARA LA REALIZACIÓN DE DOCTORADOS INDUSTRIALES DE LA COMUNIDAD DE MADRID",
+  "url_bases_reguladoras": "https://www.bocm.es/boletin/CM_Orden_BOCM/2017/09/01/BOCM-20170901-11.PDF",
+  "presupuesto": "6.874.410,55 €",
+  "presupuesto_total_num": 6874410.55,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "REG (UE) 2023/2831 de minimis, General",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902522",
+  "text": "CONVOCATORIA BDNS Nº 902522\nOrganismo: AUTONOMICA — COMUNIDAD DE MADRID — CONSEJERÍA DE EDUCACIÓN, CIENCIA Y UNIVERSIDADES\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud: 2023-05-29 → 2023-06-21 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 6.874.410,55 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: GRAN EMPRESA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Investigación y desarrollo experimental en ciencias naturales y técnicas\nRegiones: ES3 - COMUNIDAD DE MADRID\nFinalidad: Investigación, desarrollo e innovación\nFondos: \nReglamento: REG (UE) 2023/2831 de minimis, General\nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nLÍNEA EMPRESAS MÍNIMIS CONV AYUDAS PARA LA REALIZACIÓN DE DOCT IND 2023-25\n\nBases reguladoras:\nORDEN 3109/2017, DE 29 DE AGOSTO, DEL CONSEJERO DE EDUCACIÓN, JUVENTUD Y DEPORTE POR LA QUE SE ESTABLECEN LAS BASES REGULADORAS DE AYUDAS PARA LA REALIZACIÓN DE DOCTORADOS INDUSTRIALES DE LA COMUNIDAD DE MADRID\nURL bases reguladoras: https://www.bocm.es/boletin/CM_Orden_BOCM/2017/09/01/BOCM-20170901-11.PDF\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902522",
+  "_raw": {
+    "id": 1104083,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "COMUNIDAD DE MADRID",
+      "nivel3": "CONSEJERÍA DE EDUCACIÓN, CIENCIA Y UNIVERSIDADES"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902522",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 6874410.55,
+    "mrr": false,
+    "descripcion": "LÍNEA EMPRESAS MÍNIMIS CONV AYUDAS PARA LA REALIZACIÓN DE DOCT IND 2023-25",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "GRAN EMPRESA"
+      },
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Investigación y desarrollo experimental en ciencias naturales y técnicas",
+        "codigo": "72.1"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES3 - COMUNIDAD DE MADRID"
+      }
+    ],
+    "descripcionFinalidad": "Investigación, desarrollo e innovación",
+    "descripcionBasesReguladoras": "ORDEN 3109/2017, DE 29 DE AGOSTO, DEL CONSEJERO DE EDUCACIÓN, JUVENTUD Y DEPORTE POR LA QUE SE ESTABLECEN LAS BASES REGULADORAS DE AYUDAS PARA LA REALIZACIÓN DE DOCTORADOS INDUSTRIALES DE LA COMUNIDAD DE MADRID",
+    "urlBasesReguladoras": "https://www.bocm.es/boletin/CM_Orden_BOCM/2017/09/01/BOCM-20170901-11.PDF",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2023-05-29",
+    "fechaFinSolicitud": "2023-06-21",
+    "textInicio": "DESDE EL DIA SIGUIENTE A LA PUBLICACIÓN DEL EXTRACTO DE LA CONVO",
+    "textFin": "15 DIAS HÁBILES DESDE EL DÍA SIGUIENTE A LA PUBLICACIÓN DEL E",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": {
+      "descripcion": "REG (UE) 2023/2831 de minimis, General",
+      "orden": null
+    },
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445567,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Texto Convocatoria BDNS  Texto Convocatoria BDNS ANONIMIZADA.pdf",
+        "long": 1416903,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

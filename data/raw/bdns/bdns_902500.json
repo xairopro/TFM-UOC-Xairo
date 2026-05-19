@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902500",
+  "id_interno": 1104061,
+  "numero_convocatoria": "902500",
+  "organismo": "AUTONOMICA — GALICIA — AGENCIA PARA LA MODERNIZACIÓN TECNOLÓGICA DE GALICIA (AMTEGA)",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Resolución  del 21 de abril de 2026 por la que se aprueban las bases reguladoras para la concesión, en régimen de concurrencia competitiva, de los Premios Agentes TIC de la Red CeMIT, y se procede a su convocatoria para el año 2026 (código de procedimient",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Administración pública y de la política económica, social y medioambiental",
+  "regiones": "ES11 - GALICIA",
+  "finalidad": "Otras actuaciones de carácter económico",
+  "bases_reguladoras": "Resolución  del 21 de abril de 2026 por la que se aprueban las bases reguladoras para la concesión, en régimen de concurrencia competitiva, de los Premios Agentes TIC de la Red CeMIT, y se procede a su convocatoria para el año 2026 (código de procedimient",
+  "url_bases_reguladoras": "http://www.xunta.es/diario-oficial-galicia/",
+  "presupuesto": "12.000,00 €",
+  "presupuesto_total_num": 12000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902500",
+  "text": "CONVOCATORIA BDNS Nº 902500\nOrganismo: AUTONOMICA — GALICIA — AGENCIA PARA LA MODERNIZACIÓN TECNOLÓGICA DE GALICIA (AMTEGA)\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 12.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Administración pública y de la política económica, social y medioambiental\nRegiones: ES11 - GALICIA\nFinalidad: Otras actuaciones de carácter económico\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nResolución  del 21 de abril de 2026 por la que se aprueban las bases reguladoras para la concesión, en régimen de concurrencia competitiva, de los Premios Agentes TIC de la Red CeMIT, y se procede a su convocatoria para el año 2026 (código de procedimient\n\nBases reguladoras:\nResolución  del 21 de abril de 2026 por la que se aprueban las bases reguladoras para la concesión, en régimen de concurrencia competitiva, de los Premios Agentes TIC de la Red CeMIT, y se procede a su convocatoria para el año 2026 (código de procedimient\nURL bases reguladoras: http://www.xunta.es/diario-oficial-galicia/\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902500",
+  "_raw": {
+    "id": 1104061,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "GALICIA",
+      "nivel3": "AGENCIA PARA LA MODERNIZACIÓN TECNOLÓGICA DE GALICIA (AMTEGA)"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902500",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 12000,
+    "mrr": false,
+    "descripcion": "Resolución  del 21 de abril de 2026 por la que se aprueban las bases reguladoras para la concesión, en régimen de concurrencia competitiva, de los Premios Agentes TIC de la Red CeMIT, y se procede a su convocatoria para el año 2026 (código de procedimient",
+    "descripcionLeng": "Resolución do 21 de abril de 2026 pola que se aproban as bases reguladoras para a concesión, en réxime de concorrencia competitiva, dos Premios Axentes TIC da Rede CeMIT, e se procede á súa convocatoria para o ano 2026 (código de procedemento AP401A)",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Administración pública y de la política económica, social y medioambiental",
+        "codigo": "84.1"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES11 - GALICIA"
+      }
+    ],
+    "descripcionFinalidad": "Otras actuaciones de carácter económico",
+    "descripcionBasesReguladoras": "Resolución  del 21 de abril de 2026 por la que se aprueban las bases reguladoras para la concesión, en régimen de concurrencia competitiva, de los Premios Agentes TIC de la Red CeMIT, y se procede a su convocatoria para el año 2026 (código de procedimient",
+    "urlBasesReguladoras": "http://www.xunta.es/diario-oficial-galicia/",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Dia seguirte da publicación da Resolución no DOG",
+    "textFin": "31/08/2026",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446084,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "20260421_ResoluciónIIIPremiosAxentesTIC_es_20260422_083117.pdf",
+        "long": 238589,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

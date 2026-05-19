@@ -1,0 +1,204 @@
+{
+  "id": "EU-50136121TOPICSen",
+  "topic_id": "50136121TOPICSen",
+  "titulo": "Pragmatic clinical trials to optimise immunotherapeutic interventions for patients with refractory cancers",
+  "descripcion": "Pragmatic clinical trials to optimise immunotherapeutic interventions for patients with refractory cancers",
+  "organismo": "43108390",
+  "fecha_publicacion": "2026-02-10",
+  "fecha_limite": "2026-09-15",
+  "deadlines_todas": "2026-09-15",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113063\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-04 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":3,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"15000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113065\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-05 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":1,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2026\":\"7000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113064\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-01 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":4,\"minContribution\":8000000,\"maxContribution\":9000000,\"budgetYearMap\":{\"2026\":\"35000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113067\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-02 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":1,\"minContribution\":15000000,\"maxContribution\":15000000,\"budgetYearMap\":{\"2026\":\"15000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113066\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-03 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":3,\"minContribution\":7000000,\"maxContribution\":8000000,\"budgetYearMap\":{\"2026\":\"22186000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113069\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-07 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":5,\"minContribution\":5000000,\"maxContribution\":6000000,\"budgetYearMap\":{\"2026\":\"25000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113068\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-06 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"5000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "HORIZON  Research and Innovation Actions",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-02-CANCER-03",
+  "text": "EU FUNDING & TENDERS – Topic: 50136121TOPICSen\nProgramme/Organism: 43108390\nTitle: Pragmatic clinical trials to optimise immunotherapeutic interventions for patients with refractory cancers\nStatus: Open (31094502)\nType of action: HORIZON  Research and Innovation Actions\nOpening date: 2026-02-10\nDeadline: 2026-09-15\nAll deadlines: 2026-09-15\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113063\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-04 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":3,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"15000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113065\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-05 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":1,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2026\":\"7000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113064\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-01 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":4,\"minContribution\":8000000,\"maxContribution\":9000000,\"budgetYearMap\":{\"2026\":\"35000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113067\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-02 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":1,\"minContribution\":15000000,\"maxContribution\":15000000,\"budgetYearMap\":{\"2026\":\"15000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113066\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-03 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":3,\"minContribution\":7000000,\"maxContribution\":8000000,\"budgetYearMap\":{\"2026\":\"22186000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113069\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-07 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":5,\"minContribution\":5000000,\"maxContribution\":6000000,\"budgetYearMap\":{\"2026\":\"25000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113068\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-06 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"5000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}]}}\n\nDescription / Scope:\nPragmatic clinical trials to optimise immunotherapeutic interventions for patients with refractory cancers\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-02-CANCER-03",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "50136121TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-02-CANCER-03",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Pragmatic clinical trials to optimise immunotherapeutic interventions for patients with refractory cancers",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Pragmatic clinical trials to optimise immunotherapeutic interventions for patients with refractory cancers",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "1D6B66F495652F1732B072BA062C49F2015C4C82FBA05564E0FF1C654780840C",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-02-12T15:50:26.225\",\"content\":\"\\u003cp\\u003eIf your lump sum budget contains any cost items in cost category C and/or D, please make sure to justify these items in the ‘Any comments’ sheet of the Excel detailed lump sum budget table.\\u003c/p\\u003e\\u003cp\\u003eThe reason is that we simplified the proposal template, removing this information from Part B and bringing it closer to the relevant budget items.\\u003c/p\\u003e\\u003cp\\u003eSpecifically, you must include justification in the ‘Any comments’ sheet if you are in any of the following situations:\\u003c/p\\u003e\\u003cul\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eIf the sum of the costs for ’travel and subsistence’, ‘equipment’, and ‘other goods, works and services’ (i.e. the purchase costs) exceeds 15% of the personnel costs for a participant. If this is the case, justify the most expensive cost item(s) up to the level that the remaining costs are below 15% of personnel costs.\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eIf other cost categories (e.g. internally invoiced goods and services) are used.\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eIf in-kind contributions are used (non-financial resources made available free of charge by third parties, which must be included as direct costs in the corresponding cost category, e.g. personnel costs or purchase costs for equipment).\\u003c/li\\u003e\\u003c/ul\\u003e\\u003cp\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-02-12T10:49:10.131\",\"content\":\"The submission session is now available for: HORIZON-MISS-2026-02-CANCER-04, HORIZON-MISS-2026-02-CANCER-01, HORIZON-MISS-2026-02-CANCER-05, HORIZON-MISS-2026-02-CANCER-03, HORIZON-MISS-2026-02-CANCER-02, HORIZON-MISS-2026-02-CANCER-06, HORIZON-MISS-2026-02-CANCER-07\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-02-11T16:39:36.405\",\"content\":\"\\u003cp\\u003ePlease note that the call opening is delayed as we are experiencing technical issues.\\u003c/p\\u003e\"}]"
+      ],
+      "es_SortDate": [
+        "2026-02-10T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "HORIZON-MISS-2026-02-CANCER-03",
+        "HORIZON-MISS-2026-02",
+        "Anticancer therapy",
+        "Diagnostic tools (e.g. genetic, imaging)",
+        "Haematology",
+        "Medical devices",
+        "Paediatrics",
+        "Pharmacogenomics",
+        "Pharmacology, pharmacogenomics, drug discovery and design, drug therapy",
+        "Radiation therapy",
+        "Stem cell therapy",
+        "Surgery"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p><strong><em>﻿</em></strong>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex A</a> and <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex E</a> of the Horizon Europe Work Programme General Annexes.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p>A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a>.</p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex C</a> of the Work Programme General Annexes.</p></div></div><div><h4>5a. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex D</a> of the Work Programme General Annexes.</p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>The thresholds for each criterion will be 4 (Excellence), 4 (Impact) and 4 (Implementation). The cumulative threshold is 12.</p></div><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme – the Framework Programme for Research and Innovation (2021-2027) – and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025) [[This <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\"><u>decision</u></a> is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under ‘Simplified costs decisions’ or through this link: <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\"><u>https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf</u></a>]].</p></div><div class=\"eui-u-mt-s\"><p>The granting authority may, up to 4 years after the end of the action, object to a transfer of ownership or to the exclusive licensing of results, as set out in the specific provision of Annex 5.</p></div><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex G</a> of the Work Programme General Annexes.</p></div></div></div><div class=\"eui-u-mt-l\"><h4>Specific conditions</h4> <div class=\"eui-u-mt-s\"><p>described in the [specific topic of the Work Programme]</p></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Application and evaluation forms and model grant agreement (MGA):</h4> <div class=\"eui-u-mt-s\"><p><strong>Application form templates</strong> <em>— the application form specific to this call is available in the Submission System</em></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (HE RIA, IA)</a></p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a> </p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/ls-mga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Lump Sum MGA</a>&#xa0;</p><p><strong>Call-specific instructions</strong>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/temp-form/af/detailed-budget-table_he-ls-euratom_en.xlsm\" rel=\"noopener noreferrer\" target=\"_blank\">Detailed budget table (HE LS)</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/information-on-clinical-studies_he_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Information on clinical studies (HE)</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-funding-what-do-i-need-to-know_he_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Guidance: \"Lump sums - what do I need to know?\"</a></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-1-general-introduction_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 1. General Introduction</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-12-missions_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 12. Missions</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 15. General Annexes</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0695\" rel=\"noopener noreferrer\" target=\"_blank\">HE Framework Programme 2021/695</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021D0764\" rel=\"noopener noreferrer\" target=\"_blank\">HE Specific Programme Decision 2021/764</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Decision authorising the use of lump sum contributions under the Horizon Europe Programme</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a> </p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "Pragmatic clinical trials to optimise immunotherapeutic interventions for patients with refractory cancers"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "1D6B66F495652F1732B072BA062C49F2015C4C82FBA05564E0FF1C654780840C"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43027849"
+      ],
+      "callIdentifier": [
+        "HORIZON-MISS-2026-02"
+      ],
+      "ccm2Id": [
+        "50136121"
+      ],
+      "callccm2Id": [
+        "50137823"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50136121TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"HORIZON-MISS-2026-02\",\"criterionCode\":\"HORIZON-RIA\",\"criterionDescription\":\"HORIZON  Research and Innovation Actions\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43449?topic\\u003dHORIZON-MISS-2026-02-CANCER-03\",\"startDate\":\"1770681600000\",\"endDate\":\"1789430400000\",\"mgaDescription\":\"HORIZON Lump Sum Grant\",\"mgaCode\":\"HORIZON-AG-LS\"}]"
+      ],
+      "callTitle": [
+        "Supporting the implementation of the Cancer Mission"
+      ],
+      "frameworkProgramme": [
+        "43108390"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Outcome:</p><p>Proposals under this topic should aim to deliver results that are directed and tailored towards and contribute to all of the following expected outcomes:</p><ul level=\"0\"><li>Patients with refractory cancers and their caregivers/families will have access to optimised, tailored and affordable immunotherapeutic interventions that increase their quality of life, across European regions, EU Member States and Associated Countries;</li><li>Healthcare professionals and academia will have access to clinical evidence, on effectiveness of immunotherapeutic interventions, to deploy evidence-based treatment interventions with improved patient selection that improve outcomes in real life, i.e. in routine healthcare, for patients with refractory cancers who often present with co-morbidities;</li><li>National healthcare providers, policymakers and authorities in European regions, EU Member States and Associated Countries will have the evidence to implement and reimburse optimised and affordable immunotherapeutic interventions in their healthcare systems, including in everyday medical practice.</li> </ul><p class=\"topicdescriptionkind\">Scope:</p><p>While cancer research and innovation have generated novel treatment options, patients with refractory cancers across Europe need access to more effective, affordable and tailored cancer immunotherapeutic interventions which keep up with increasing demands in a complex and fragmented oncology healthcare landscape with spiralling healthcare costs.</p><p>Pragmatic clinical trials focus on choosing between care options. Pragmatic trials evaluate effectiveness of interventions in settings that more closely resemble routine, real-world settings, aiming to produce evidence directly applicable to clinical practice<sup>[1]</sup>.</p><p>Proposals should address all the following:</p><ul level=\"0\"><li>Conduct randomised or cluster-randomised academic investigator-initiated<sup>[2]</sup> pragmatic clinical trials that benefit patients with refractory cancers - at any stage of the disease, for any cancer subtype, in any age group or part of society - to deliver effective, affordable and tailored immunotherapeutic interventions for implementation by healthcare systems at the level of local communities, European regions, EU Member States and Associated Countries.</li><li>All data should be disaggregated by sex, gender, age and other relevant variables, such as by measures of socio-economic status or ethnicity. Translational research is limited to supporting biomarker-informed patient stratification and the conduct and analyses of the proposed clinical trial(s).</li><li>The primary and secondary endpoints of the pragmatic clinical trials should target overall survival, patient-reported outcomes and quality of life issues considered important by and for cancer patients and their caregivers/families. Such endpoints should be defined together with patients and their caregivers/families through research that stimulates social innovation and supports end-user engagement using participative research models.</li><li>The chosen treatment intervention(s) should be adapted to the particular needs of the target population and to the specificities of the provision of care at local, regional, or national level, duly reflecting the diversity across EU Member States and Associated Countries. Furthermore, affordability and accessibility should be taken into account.</li><li>Applicants should include an appropriate mix of stakeholders from various disciplines, sectors<sup>[3]</sup> and regional as well as national health authorities, and provide details of the clinical study(ies) in the dedicated annex using the template provided in the submission system.</li> </ul><p>The successful proposals are expected to build on resources made available by the Knowledge Centre on Cancer (KCC)<sup>[4]</sup> to foster EU alignment and coordination.</p><p>Successful proposals will be asked to join the 'Diagnosis and Treatment' cluster for the EU Cancer Mission<sup>[5]</sup> and should include a budget for networking, attendance at meetings, and joint activities<sup>[6]</sup>. The Commission will facilitate coordination of these activities.</p><p class=\"eui-u-font-s\">[1] Some examples: treatment versus active surveillance in patient management, combination of treatment interventions, determination of optimal dose and dose schedule, de-escalation of treatment intervention, comparative effectiveness of different treatment interventions.</p><p class=\"eui-u-font-s\">[2] Clinical trials in which a health technology (e.g. a medicinal product, a medical device, an in-vitro diagnostic medical device, a surgical or other medical intervention) is tested in humans, independently from commercial interest and for public health benefits.</p><p class=\"eui-u-font-s\">[3] such as physicians, academia, patients and their caregivers, patient representatives, engineers, behavioural scientists, SMEs, business networks, insurance companies, charities and foundations, research organisations, civil society.</p><p class=\"eui-u-font-s\">[4] Hosted by the European Commission's Joint Research Centre (JRC). Especially through the ’European Guidelines and Quality Assurance Schemes for Breast, Colorectal and Cervical Cancer Screening and Diagnosis‘, and the ’European Cancer Information System (ECIS)’ and the ’European Cancer Inequalities Registry (ECIR), see https://knowledge4policy.ec.europa.eu/cancer_en</p><p class=\"eui-u-font-s\">[5] To address the objectives of the EU Cancer Mission, participants will collaborate in project clusters to leverage EU-funding, increase networking across sectors and disciplines, and establish a portfolio of EU Cancer Mission R&amp;I and policy actions.</p><p class=\"eui-u-font-s\">[6] Examples of those activities are research or research capacity, organising joint workshops, establishing best practices, joint communication or citizen engagement activities with projects funded under other clusters and pillars of Horizon Europe, or other EU programmes, as appropriate. Proposals are not required to include details of these activities, as they will be defined during the grant agreement preparation and during the life of the project.</p>"
+      ],
+      "identifier": [
+        "HORIZON-MISS-2026-02-CANCER-03"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43108390",
+        "43108541",
+        "43108557"
+      ],
+      "crossCuttingPriorities": [
+        "AI",
+        "DigitalAgenda"
+      ],
+      "esDA_FirstIngestDate": [
+        "2025-12-12T00:01:13.668+0100"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-09-15T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-03-02T09:27:12.523+0100"
+      ],
+      "typesOfAction": [
+        "HORIZON  Research and Innovation Actions"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-02-CANCER-03"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-02-CANCER-03"
+      ],
+      "tags": [
+        "Clinical Trials",
+        "Rare Cancers"
+      ],
+      "cenTagsA": [
+        "TOPICS-003143",
+        "TOPICS-003144",
+        "TOPICS-003145",
+        "TOPICS-003146",
+        "TOPICS-003147",
+        "TOPICS-003148",
+        "TOPICS-000348",
+        "TOPICS-003149",
+        "TOPICS-003150",
+        "TOPICS-003151",
+        "TOPICS-003152",
+        "TOPICS-003153",
+        "TOPICS-003154",
+        "TOPICS-003155",
+        "TOPICS-002736",
+        "TOPICS-003156",
+        "TOPICS-003157",
+        "TOPICS-003158"
+      ],
+      "esDA_QueueDate": [
+        "2026-03-02T09:27:12.511+0100"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"HORIZON-RIA HORIZON  Research and Innovation Actions\",\"typeOfMGA\":[{\"id\":43027849,\"abbreviation\":\"HORIZON-AG-LS\",\"description\":\"HORIZON Lump Sum Grant\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-02-10\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-09-15\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113063\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-04 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":3,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"15000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113065\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-05 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":1,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2026\":\"7000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113064\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-01 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":4,\"minContribution\":8000000,\"maxContribution\":9000000,\"budgetYearMap\":{\"2026\":\"35000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113067\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-02 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":1,\"minContribution\":15000000,\"maxContribution\":15000000,\"budgetYearMap\":{\"2026\":\"15000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113066\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-03 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":3,\"minContribution\":7000000,\"maxContribution\":8000000,\"budgetYearMap\":{\"2026\":\"22186000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113069\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-07 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":5,\"minContribution\":5000000,\"maxContribution\":6000000,\"budgetYearMap\":{\"2026\":\"25000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113068\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-06 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"5000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}]}}"
+      ],
+      "startDate": [
+        "2026-02-10T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> – find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> – ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> – get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (‘third-countries’).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> – contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> – the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> – consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Pragmatic clinical trials to optimise immunotherapeutic interventions for patients with refractory cancers. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-02-CANCER-03",
+    "score": 3.0
+  }
+}

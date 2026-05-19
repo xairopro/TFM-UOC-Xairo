@@ -1,0 +1,197 @@
+{
+  "id": "BDNS-901753",
+  "id_interno": 1103314,
+  "numero_convocatoria": "901753",
+  "organismo": "LOCAL — ALBACETE — AYUNTAMIENTO DE ALBACETE",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "2026-11-30",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Convocatoria de Becas para jóvenes con Titulación 2026.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS AUXILIARES, ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, ACTIVIDADES DE EDICIÓN, RADIODIFUSIÓN Y PRODUCCIÓN Y DISTRIBUCIÓN DE CONTENIDOS, ACTIVIDADES DE LOS HOGARES COMO EMPLEADORES Y COMO PRODUCTORES DE BIENES Y SERVICIOS NO DIFERENCIADOS PARA USO PROPIO, ACTIVIDADES FINANCIERAS Y DE SEGUROS, ACTIVIDADES INMOBILIARIAS, ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS, ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES, ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA, AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA, COMERCIO AL POR MAYOR Y AL POR MENOR, CONSTRUCCIÓN, EDUCACIÓN, HOSTELERÍA, INDUSTRIA MANUFACTURERA, INDUSTRIAS EXTRACTIVAS, ORGANISMOS EXTRATERRITORIALES, OTROS SERVICIOS, SUMINISTRO DE AGUA, ACTIVIDADES DE SANEAMIENTO, GESTIÓN DE RESIDUOS Y DESCONTAMINACIÓN, SUMINISTRO DE ENERGIA ELECTRICA, GAS, VAPOR Y AIRE ACONDICIONADO, TELECOMUNICACIONES, PROGRAMACIÓN INFORMÁTICA, CONSULTORÍA, INFRAESTRUCTURA INFORMÁTICA Y OTROS SERVICIOS DE INFORMACIÓN, TRANSPORTE Y ALMACENAMIENTO",
+  "regiones": "ES421 - Albacete",
+  "finalidad": "Desempleo",
+  "bases_reguladoras": "Bases y convocatoria pública destinada a personas interesadas en participar en el proyecto “Becas para jóvenes con titulación 2026”",
+  "url_bases_reguladoras": "https://albacete.sedipualba.es/segex/documentoexpediente.aspx?id=21598982&abrir=True",
+  "presupuesto": "74.841,60 €",
+  "presupuesto_total_num": 74841.6,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901753",
+  "text": "CONVOCATORIA BDNS Nº 901753\nOrganismo: LOCAL — ALBACETE — AYUNTAMIENTO DE ALBACETE\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  → 2026-11-30 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 74.841,60 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS AUXILIARES, ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, ACTIVIDADES DE EDICIÓN, RADIODIFUSIÓN Y PRODUCCIÓN Y DISTRIBUCIÓN DE CONTENIDOS, ACTIVIDADES DE LOS HOGARES COMO EMPLEADORES Y COMO PRODUCTORES DE BIENES Y SERVICIOS NO DIFERENCIADOS PARA USO PROPIO, ACTIVIDADES FINANCIERAS Y DE SEGUROS, ACTIVIDADES INMOBILIARIAS, ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS, ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES, ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA, AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA, COMERCIO AL POR MAYOR Y AL POR MENOR, CONSTRUCCIÓN, EDUCACIÓN, HOSTELERÍA, INDUSTRIA MANUFACTURERA, INDUSTRIAS EXTRACTIVAS, ORGANISMOS EXTRATERRITORIALES, OTROS SERVICIOS, SUMINISTRO DE AGUA, ACTIVIDADES DE SANEAMIENTO, GESTIÓN DE RESIDUOS Y DESCONTAMINACIÓN, SUMINISTRO DE ENERGIA ELECTRICA, GAS, VAPOR Y AIRE ACONDICIONADO, TELECOMUNICACIONES, PROGRAMACIÓN INFORMÁTICA, CONSULTORÍA, INFRAESTRUCTURA INFORMÁTICA Y OTROS SERVICIOS DE INFORMACIÓN, TRANSPORTE Y ALMACENAMIENTO\nRegiones: ES421 - Albacete\nFinalidad: Desempleo\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria de Becas para jóvenes con Titulación 2026.\n\nBases reguladoras:\nBases y convocatoria pública destinada a personas interesadas en participar en el proyecto “Becas para jóvenes con titulación 2026”\nURL bases reguladoras: https://albacete.sedipualba.es/segex/documentoexpediente.aspx?id=21598982&abrir=True\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901753",
+  "_raw": {
+    "id": 1103314,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "ALBACETE",
+      "nivel3": "AYUNTAMIENTO DE ALBACETE"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901753",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 74841.6,
+    "mrr": false,
+    "descripcion": "Convocatoria de Becas para jóvenes con Titulación 2026.",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS AUXILIARES",
+        "codigo": "O"
+      },
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      },
+      {
+        "descripcion": "ACTIVIDADES DE EDICIÓN, RADIODIFUSIÓN Y PRODUCCIÓN Y DISTRIBUCIÓN DE CONTENIDOS",
+        "codigo": "J"
+      },
+      {
+        "descripcion": "ACTIVIDADES DE LOS HOGARES COMO EMPLEADORES Y COMO PRODUCTORES DE BIENES Y SERVICIOS NO DIFERENCIADOS PARA USO PROPIO",
+        "codigo": "U"
+      },
+      {
+        "descripcion": "ACTIVIDADES FINANCIERAS Y DE SEGUROS",
+        "codigo": "L"
+      },
+      {
+        "descripcion": "ACTIVIDADES INMOBILIARIAS",
+        "codigo": "M"
+      },
+      {
+        "descripcion": "ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS",
+        "codigo": "N"
+      },
+      {
+        "descripcion": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+        "codigo": "R"
+      },
+      {
+        "descripcion": "ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA",
+        "codigo": "P"
+      },
+      {
+        "descripcion": "AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA",
+        "codigo": "A"
+      },
+      {
+        "descripcion": "COMERCIO AL POR MAYOR Y AL POR MENOR",
+        "codigo": "G"
+      },
+      {
+        "descripcion": "CONSTRUCCIÓN",
+        "codigo": "F"
+      },
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      },
+      {
+        "descripcion": "HOSTELERÍA",
+        "codigo": "I"
+      },
+      {
+        "descripcion": "INDUSTRIA MANUFACTURERA",
+        "codigo": "C"
+      },
+      {
+        "descripcion": "INDUSTRIAS EXTRACTIVAS",
+        "codigo": "B"
+      },
+      {
+        "descripcion": "ORGANISMOS EXTRATERRITORIALES",
+        "codigo": "V"
+      },
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      },
+      {
+        "descripcion": "SUMINISTRO DE AGUA, ACTIVIDADES DE SANEAMIENTO, GESTIÓN DE RESIDUOS Y DESCONTAMINACIÓN",
+        "codigo": "E"
+      },
+      {
+        "descripcion": "SUMINISTRO DE ENERGIA ELECTRICA, GAS, VAPOR Y AIRE ACONDICIONADO",
+        "codigo": "D"
+      },
+      {
+        "descripcion": "TELECOMUNICACIONES, PROGRAMACIÓN INFORMÁTICA, CONSULTORÍA, INFRAESTRUCTURA INFORMÁTICA Y OTROS SERVICIOS DE INFORMACIÓN",
+        "codigo": "K"
+      },
+      {
+        "descripcion": "TRANSPORTE Y ALMACENAMIENTO",
+        "codigo": "H"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES421 - Albacete"
+      }
+    ],
+    "descripcionFinalidad": "Desempleo",
+    "descripcionBasesReguladoras": "Bases y convocatoria pública destinada a personas interesadas en participar en el proyecto “Becas para jóvenes con titulación 2026”",
+    "urlBasesReguladoras": "https://albacete.sedipualba.es/segex/documentoexpediente.aspx?id=21598982&abrir=True",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": "2026-11-30",
+    "textInicio": "Desde la fecha de la publicación de la Convocatoria en el Tablón de Anuncios de la Sede Electrónica ",
+    "textFin": "Hasta completar el número total de becas",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443159,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "03.- ACUERDO JGL 09-04-2026 (EMPLEO Y PROM. ECONOMICA) - SEFYCU 5917661.pdf",
+        "long": 408767,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443162,
+        "descripcion": "CONVOCATORIA PARA EMPRESAS",
+        "nombreFic": "Bases y Convocatoria para EMPRESAS del proyecto BECAS PARA JÓVENES CON TITULACIÓN 2026 - SEFYCU 5856366.pdf",
+        "long": 411385,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443160,
+        "descripcion": "CONVOCATORIA PARA JOVENES TITULADOS",
+        "nombreFic": "Bases y Convocatoria para JÓVENES del proyecto BECAS PARA JÓVENES CON TITULACIÓN 2026 - SEFYCU 5856393.pdf",
+        "long": 535644,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "BDNS-902537",
+  "id_interno": 1104098,
+  "numero_convocatoria": "902537",
+  "organismo": "AUTONOMICA — CASTILLA-LA MANCHA — DIRECCION GENERAL ORDENACION AGROPECUARIA",
+  "sede_electronica": "www.jccm.es",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "2026-02-01",
+  "fecha_fin_solicitud": "2026-04-30",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Resolución, de la Dirección General de Ordenación Agropecuaria, por la que se convocan, para el año 2026, las ayudas en régimen de mínimis para la protección del coto arrocero de Hellín (Albacete).",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Agricultura, ganadería, caza y servicios relacionados con las mismas",
+  "regiones": "ES42 - CASTILLA LA MANCHA",
+  "finalidad": "Agricultura, Pesca y Alimentación",
+  "bases_reguladoras": "Orden 53/2026, de 21 de abril, por la que se establecen las bases reguladoras de las ayudas, en régimen de mínimis, para la protección del coto arrocero en Hellín (Albacete), publicada en el DOCM nº 77, de 24 de abril de 2026.",
+  "url_bases_reguladoras": "https://docm.jccm.es/docm/descargarArchivo.do?ruta=2026/04/24/pdf/2026_3048.pdf&tipo=rutaDocm",
+  "presupuesto": "100.000,00 €",
+  "presupuesto_total_num": 100000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "REG (UE) 1408/2013 de minimis, Agrícola",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902537",
+  "text": "CONVOCATORIA BDNS Nº 902537\nOrganismo: AUTONOMICA — CASTILLA-LA MANCHA — DIRECCION GENERAL ORDENACION AGROPECUARIA\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud: 2026-02-01 → 2026-04-30 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 100.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Agricultura, ganadería, caza y servicios relacionados con las mismas\nRegiones: ES42 - CASTILLA LA MANCHA\nFinalidad: Agricultura, Pesca y Alimentación\nFondos: \nReglamento: REG (UE) 1408/2013 de minimis, Agrícola\nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nResolución, de la Dirección General de Ordenación Agropecuaria, por la que se convocan, para el año 2026, las ayudas en régimen de mínimis para la protección del coto arrocero de Hellín (Albacete).\n\nBases reguladoras:\nOrden 53/2026, de 21 de abril, por la que se establecen las bases reguladoras de las ayudas, en régimen de mínimis, para la protección del coto arrocero en Hellín (Albacete), publicada en el DOCM nº 77, de 24 de abril de 2026.\nURL bases reguladoras: https://docm.jccm.es/docm/descargarArchivo.do?ruta=2026/04/24/pdf/2026_3048.pdf&tipo=rutaDocm\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902537",
+  "_raw": {
+    "id": 1104098,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "CASTILLA-LA MANCHA",
+      "nivel3": "DIRECCION GENERAL ORDENACION AGROPECUARIA"
+    },
+    "sedeElectronica": "www.jccm.es",
+    "codigoBDNS": "902537",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 100000,
+    "mrr": false,
+    "descripcion": "Resolución, de la Dirección General de Ordenación Agropecuaria, por la que se convocan, para el año 2026, las ayudas en régimen de mínimis para la protección del coto arrocero de Hellín (Albacete).",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Agricultura, ganadería, caza y servicios relacionados con las mismas",
+        "codigo": "01"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES42 - CASTILLA LA MANCHA"
+      }
+    ],
+    "descripcionFinalidad": "Agricultura, Pesca y Alimentación",
+    "descripcionBasesReguladoras": "Orden 53/2026, de 21 de abril, por la que se establecen las bases reguladoras de las ayudas, en régimen de mínimis, para la protección del coto arrocero en Hellín (Albacete), publicada en el DOCM nº 77, de 24 de abril de 2026.",
+    "urlBasesReguladoras": "https://docm.jccm.es/docm/descargarArchivo.do?ruta=2026/04/24/pdf/2026_3048.pdf&tipo=rutaDocm",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-02-01",
+    "fechaFinSolicitud": "2026-04-30",
+    "textInicio": "Según los plazos y modelos recogidos en la Orden de 6/2026, de 28 de enero, de la Consejería de Agri",
+    "textFin": "Según los plazos y modelos recogidos en la Orden de 6/2026, de 28 de enero, de la Consejería de Agri",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": {
+      "descripcion": "REG (UE) 1408/2013 de minimis, Agrícola",
+      "orden": null
+    },
+    "objetivos": [],
+    "sectoresProductos": [
+      {
+        "descripcion": "Arroz (parte II)"
+      }
+    ],
+    "documentos": [
+      {
+        "id": 1445630,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "FIRMA  CONVOCATORIA ARROZ 2026 AJ (003) FIRMADA_130724.PDF",
+        "long": 180469,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

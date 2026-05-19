@@ -1,0 +1,114 @@
+{
+  "id": "BDNS-902304",
+  "id_interno": 1103865,
+  "numero_convocatoria": "902304",
+  "organismo": "AUTONOMICA — COMUNITAT VALENCIANA — SECRETARÍA AUTONÓMICA DE EDUCACIÓN",
+  "sede_electronica": "OVICE",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "2026-05-04",
+  "fecha_fin_solicitud": "2026-05-15",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "RESOLUCIÓN de 25 de junio de 2025, de la Conselleria de Educación, Cultura, Universidades y Empleo, por la que se aprueban las bases reguladoras de concesión de ayudas económicas, para contribuir a la financiación de gastos de ejecución de proyectos de in",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades auxiliares a la educación",
+  "regiones": "ES52 - COMUNIDAD VALENCIANA",
+  "finalidad": "Educación",
+  "bases_reguladoras": "RESOLUCIÓ de 25 de juny de 2025, de la Conselleria d'Educació, Cultura, Universitats i Ocupació, per la qual s’aproven les bases reguladores per a la concessió d’ajudes econòmiques, en concepte de subvenció, per a contribuir al finançament dels gastos d’e",
+  "url_bases_reguladoras": "https://dogv.gva.es/datos/2025/07/04/pdf/2025_24667_es.pdf",
+  "presupuesto": "51.000,00 €",
+  "presupuesto_total_num": 51000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902304",
+  "text": "CONVOCATORIA BDNS Nº 902304\nOrganismo: AUTONOMICA — COMUNITAT VALENCIANA — SECRETARÍA AUTONÓMICA DE EDUCACIÓN\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud: 2026-05-04 → 2026-05-15 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 51.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades auxiliares a la educación\nRegiones: ES52 - COMUNIDAD VALENCIANA\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nRESOLUCIÓN de 25 de junio de 2025, de la Conselleria de Educación, Cultura, Universidades y Empleo, por la que se aprueban las bases reguladoras de concesión de ayudas económicas, para contribuir a la financiación de gastos de ejecución de proyectos de in\n\nBases reguladoras:\nRESOLUCIÓ de 25 de juny de 2025, de la Conselleria d'Educació, Cultura, Universitats i Ocupació, per la qual s’aproven les bases reguladores per a la concessió d’ajudes econòmiques, en concepte de subvenció, per a contribuir al finançament dels gastos d’e\nURL bases reguladoras: https://dogv.gva.es/datos/2025/07/04/pdf/2025_24667_es.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902304",
+  "_raw": {
+    "id": 1103865,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "COMUNITAT VALENCIANA",
+      "nivel3": "SECRETARÍA AUTONÓMICA DE EDUCACIÓN"
+    },
+    "sedeElectronica": "OVICE",
+    "codigoBDNS": "902304",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 51000,
+    "mrr": false,
+    "descripcion": "RESOLUCIÓN de 25 de junio de 2025, de la Conselleria de Educación, Cultura, Universidades y Empleo, por la que se aprueban las bases reguladoras de concesión de ayudas económicas, para contribuir a la financiación de gastos de ejecución de proyectos de in",
+    "descripcionLeng": "RESOLUCIÓ de 25 de juny de 2025 de la Conselleria d'Educació, Cultura, Universitats i Ocupació, per la qual s’aproven les bases reguladores per a la concessió d’ajudes econòmiques, per a contribuir al finançament dels gastos d’execució dels projectes d’in",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades auxiliares a la educación",
+        "codigo": "85.6"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES52 - COMUNIDAD VALENCIANA"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "RESOLUCIÓ de 25 de juny de 2025, de la Conselleria d'Educació, Cultura, Universitats i Ocupació, per la qual s’aproven les bases reguladores per a la concessió d’ajudes econòmiques, en concepte de subvenció, per a contribuir al finançament dels gastos d’e",
+    "urlBasesReguladoras": "https://dogv.gva.es/datos/2025/07/04/pdf/2025_24667_es.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-05-04",
+    "fechaFinSolicitud": "2026-05-15",
+    "textInicio": "dia siguiente de la publicación",
+    "textFin": "10 dias hábiles",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444901,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "Resolució_convocatoria_PIIE26_noGVA_26-002554_val_firmado menos 5mb.pdf",
+        "long": 4856350,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444900,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Resolución PIIE NOGVA BIENNAL 2026-27 I 2027-28_firmada interventora signadaDG_cast menos 5mb.pdf",
+        "long": 4808970,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210397,
+        "titulo": "Extracto de la Resolución de 27 de abril de 2026 de la directora general de Innovación e Inclusión Educativa, por la que se convocan ayudas económicas en concepto de subvención para contribuir a la financiación de los gastos de ejecución de los proyectos de innovación e inclusión educativa bienales durante los cursos académicos 2026-2027 y 2027-2028, dirigidos a los centros educativos no universitarios de titularidad pública distinta de la Generalitat y de titularidad privada sostenidos con fond",
+        "tituloLeng": "Extracte de la Resolució de 27 d’abril de 2026 de la directora general d'Innovació i Inclusió Educativa, per la qual es convoquen ajudes econòmiques en concepte de subvenció per a contribuir al finançament dels gastos d'execució dels projectes d'innovació i inclusió educativa biennals durant els cursos acadèmics 2026-2027 i 2027-2028, dirigits als centres educatius no universitaris de titularitat pública distinta de la Generalitat i de titularitat privada sostinguts amb fons públics.",
+        "texto": "<p>De conformidad con lo establecido en los artículos 17.3.b y 20.8.a de la Ley 38/2003, de 17 de noviembre, general de subvenciones, se publica el extracto de la convocatoria, cuyo texto completo puede consultarse en la Base de datos nacional de subvenciones: <http://www.pap.hacienda.gob.es/bdnstrans/index>\n</p><p>\n</p><p>Así mismo, se encuentra disponible en la dirección web:\n</p><p>PIIE NO GVA 2026-27 y 2027-28 - Innovación Educación - Generalitat Valenciana \n</p><p>\n</p><p>Primero. Beneficiarios\n</p><p>Los beneficiarios serán:\n</p><p>\n</p><p>Los centros educativos no universitarios de titularidad pública distinta de la Generalitat y los centros educativos de titularidad privada sostenidos con fondos públicos de la Comunitat Valenciana que cumplan los siguientes requisitos:\n</p><p>\n</p><p>Estar inscritos en el Registro de centros docentes de la Comunitat Valenciana. \n</p><p>Estar sometidos a las obligaciones de los artículos 13 y 14 de la Ley 38/2003, de 17 de noviembre, general de subvenciones.\n</p><p>\n</p><p>\n</p><p>Segundo. Objeto\n</p><p>Convocar concurso público en régimen de concurrencia competitiva para la concesión de ayudas económicas en concepto de subvención para contribuir a la financiación de los gastos de ejecución de los proyectos de innovación e inclusión educativa bienales durante los cursos académicos 2026-2027 y 2027-2028.\n</p><p>\n</p><p>Tercero. Bases reguladoras\n</p><p>Resolución de 25 de junio de 2025, de la Conselleria de Educación, Cultura, Universidades y Empleo por la que se aprueban las bases reguladoras para la concesión de ayudas económicas, en concepto de subvención, para contribuir a la financiación de los gastos de ejecución de los Proyectos de Innovación e Inclusión Educativa bienales, dirigidas a los centros educativos no universitarios de titularidad pública distinta de la Generalitat, y de titularidad privada, sostenidos con fondos públicos.\n</p><p>\n</p><p>\n</p><p>Cuarto. Dotación presupuestaria\n</p><p>1. Las cantidades concedidas a los proyectos seleccionados tendrán como finalidad ayudar a sufragar total o parcialmente los gastos que genere su realización en los términos que dispone la Resolución de 25 de junio de 2025, Conselleria de Educación, Cultura, Universidades y Empleo por la que se aprueban las bases reguladoras y esta convocatoria.\n</p><p>2. La financiación de estas cantidades, destinadas a los centros educativos no universitarios de titularidad pública distinta de la Generalitat, y de titularidad privada sostenidos con fondos públicos, con carácter de subvención se abonará a cargo del capítulo IV de la línea de subvención S0388, del subprograma presupuestario 421E00, de los presupuestos de la Generalitat para el ejercicio 2026, por un importe global máximo de 51.000 €.\n</p><p>\n</p><p>\n</p><p>Quinto. Plazo de presentación de las solicitudes\n</p><p>1. El plazo de presentación de solicitudes será de 10 días hábiles a partir del día siguiente a la publicación de la Resolución de convocatoria en el Diari Oficial de la Generalitat Valenciana.\n</p><p>\n</p><p>Sexto. Otros datos\n</p><p>1. Solicitudes: Las solicitudes se formalizarán por la persona que ostente la representación legal del centro, mediante el formulario de la Oficina Virtual de Centros Educativos (OVICE), adjuntando la documentación indicada en el apartado noveno, de la resolución de convocatoria. El manual para cumplimentar la solicitud a través de la Oficina Virtual de Centros Educativos y para recodificar y subir el video, estarán disponibles en la siguiente dirección de internet: <http://www.ceice.gva.es/web/innovacion-educacion/convocatorias-de-proyectos-de-innovacion>\n</p><p>2. Criterios de valoración: las ayudas se concederán en régimen de concurrencia competitiva, de conformidad con los criterios de valoración que se detallan en el apartado noveno b de la convocatoria.\n</p><p>3. Forma de justificación: la justificación del proyecto y de la ayuda deberá realizarse de acuerdo con el proyecto subvencionado y en los términos fijados en los apartados decimonoveno y vigésimo de la convocatoria.\n</p>",
+        "textoLeng": "<p>De conformitat amb el que s'establix en els articles 17.3.b i 20.8.a de la Llei 38/2003, de 17 de novembre, general de subvencions, es publica l'extracte de la convocatòria, el text complet de la qual pot consultar-se en la Base de dades nacional de subvencions: <http://www.pap.hacienda.gob.es/bdnstrans/index>\n</p><p>\n</p><p>Així mateix, es troba disponible en l'adreça web:\n</p><p><https://ceice.gva.es/va/web/innovacion-educacion/piie-no-gva-2025-26-i-2026-27>\n</p><p>\n</p><p>Primer. Beneficiaris\n</p><p>Els beneficiaris seran:\n</p><p>\n</p><p>De conformitat amb el que s'establix en els articles 17.3.b i 20.8.a de la Llei 38/2003, de 17 de novembre, general de subvencions, es publica l'extracte de la convocatòria, el text complet de la qual pot consultar-se en la Base de dades nacional de subvencions: <http://www.pap.hacienda.gob.es/bdnstrans/index>\n</p><p>\n</p><p>Així mateix, es troba disponible en l'adreça web:\n</p><p><https://ceice.gva.es/va/web/innovacion-educacion/piie-no-gva-2026-27-i-2027-28>\n</p><p>\n</p><p>Primer. Beneficiaris\n</p><p>Els beneficiaris seran:\n</p><p>\n</p><p>Els centres educatius no universitaris de titularitat pública distinta de la Generalitat i els centres educatius de titularitat privada sostinguts amb fons públics de la Comunitat Valenciana que complisquen els següents requisits:\n</p><p>\n</p><p>Estar inscrits en el Registre de centres docents de la Comunitat Valenciana. \n</p><p>Estar sotmesos a les obligacions dels articles 13 i 14 de la Llei 38/2003, de 17 de novembre, general de subvencions.\n</p><p>\n</p><p>\n</p><p>Segon. Objecte\n</p><p>Convocar concurs públic en règim de concurrència competitiva per a la concessió d'ajudes econòmiques en concepte de subvenció per a contribuir al finançament dels gastos d'execució dels projectes d'innovació i inclusió educativa biennals durant els cursos acadèmics 2026-2027 i 2027-2028.\n</p><p>\n</p><p>Tercer. Bases reguladores\n</p><p>Resolució de 25 de juny de 2025, de la Conselleria d'Educació, Cultura, Universitats i Ocupació per la qual s'aproven les bases reguladores per a la concessió d'ajudes econòmiques, en concepte de subvenció, per a contribuir al finançament dels gastos d'execució dels projectes d'innovació i inclusió educativa biennals, dirigides als centres educatius no universitaris de titularitat pública distinta de la Generalitat, i de titularitat privada, sostinguts amb fons públics.\n</p><p>\n</p><p>\n</p><p>Quart. Dotació pressupostària\n</p><p>1. Les quantitats concedides als projectes seleccionats tindran com a finalitat ajudar a sufragar totalment o parcialment els gastos que genere la seua realització en els termes que disposa la Resolució de 25 de juny de 2025, Conselleria d'Educació, Cultura, Universitats i Ocupació per la qual s'aproven les bases reguladores i esta convocatòria.\n</p><p>2. El finançament d'estes quantitats, destinades als centres educatius no universitaris de titularitat pública distinta de la Generalitat, i de titularitat privada sostinguts amb fons públics, amb caràcter de subvenció s’abonarà a càrrec del capítol IV de la línia de subvenció S0388, del subprograma pressupostari 421E00, dels pressupostos de la Generalitat per a l'exercici 2026, per un import global màxim de 51.000 €.\n</p><p>\n</p><p>\n</p><p>Quint. Termini de presentació de les sol·licituds\n</p><p>1. El termini de presentació de sol·licituds serà de 10 dies hàbils a partir de l'endemà de la publicació de la Resolució de convocatòria en el Diari Oficial de la Generalitat Valenciana.\n</p><p>\n</p><p>Sext. Altres dades\n</p><p>1. Sol·licituds: Les sol·licituds es formalitzaran per la persona que ostente la representació legal del centre, mitjançant el formulari de l'Oficina Virtual de Centres Educatius (OVICE), adjuntant la documentació indicada en l'apartat nové, de la resolució de convocatòria. El manual per a emplenar la sol·licitud a través de l'Oficina Virtual de Centres Educatius i per a recodificar i pujar el vídeo, estaran disponibles en la següent adreça d'internet: <http://www.ceice.gva.es/va/web/innovacion-educacion/convocatorias-de-proyectos-de-innovacion>\n</p><p>2. Criteris de valoració: les ajudes es concediran en règim de concurrència competitiva, de conformitat amb els criteris de valoració que es detallen en l'apartat nové b de la convocatòria.\n</p><p>3. Forma de justificació: la justificació del projecte i de l'ajuda haurà de realitzar-se d'acord amb el projecte subvencionat i en els termes fixats en els apartats dinovè i vinté de la convocatòria.\n</p><p>\n</p>",
+        "url": "https://dogv.gva.es/va/resultat-dogv?signatura=2026/12481",
+        "cve": "DOGV-V-2026-12481",
+        "desDiarioOficial": "DOCV. D.O. DE LA COMUNITAT VALENCIANA",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

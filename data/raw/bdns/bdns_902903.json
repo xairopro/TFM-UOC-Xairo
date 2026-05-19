@@ -1,0 +1,105 @@
+{
+  "id": "BDNS-902903",
+  "id_interno": 1104464,
+  "numero_convocatoria": "902903",
+  "organismo": "AUTONOMICA — COMUNIDAD FORAL DE NAVARRA — DEPARTAMENTO DE DESARROLLO RURAL Y MEDIO AMBIENTE",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Ayudas a la adquisición de dispositivos para la implantación del vallado virtual al ganado bovino en régimen extensivo, para el año 2026.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Producción agrícola combinada con la producción ganadera, Producción ganadera",
+  "regiones": "ES22 - COMUNIDAD FORAL DE NAVARRA",
+  "finalidad": "Agricultura, Pesca y Alimentación",
+  "bases_reguladoras": "anexo I de la   Resolución 353/2024 de 5 de junio, modificada por la Resolución 525/2025, de 1 de julio",
+  "url_bases_reguladoras": "https://www.navarra.es/es/tramites/on/-/line/ayudas-a-explotaciones-ganaderas-de-vacuno-para-adquirir-collares-e-implantar-vallado-virtual",
+  "presupuesto": "94.500,00 €",
+  "presupuesto_total_num": 94500,
+  "ayuda_estado": "SA.114908",
+  "url_ayuda_estado": "https://competition-cases.ec.europa.eu/cases/SA.114908",
+  "fondos": "",
+  "reglamento": "PRODUCCIÓN AGRÍCOLA PRIMARIA - REG (UE) 2022/2472, de 14 DE DICIEMBRE, de exención de notificación (vigente desde 01-01-2023)",
+  "objetivos": "ART. 14 AYUDAS DESTINADAS A LAS INVERSIONES EN EXPLOTACIONES AGRÍCOLAS VINCULADAS A LA PRODUCCIÓN AGRÍCOLA PRIMARIA",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902903",
+  "text": "CONVOCATORIA BDNS Nº 902903\nOrganismo: AUTONOMICA — COMUNIDAD FORAL DE NAVARRA — DEPARTAMENTO DE DESARROLLO RURAL Y MEDIO AMBIENTE\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 94.500,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Producción agrícola combinada con la producción ganadera, Producción ganadera\nRegiones: ES22 - COMUNIDAD FORAL DE NAVARRA\nFinalidad: Agricultura, Pesca y Alimentación\nFondos: \nReglamento: PRODUCCIÓN AGRÍCOLA PRIMARIA - REG (UE) 2022/2472, de 14 DE DICIEMBRE, de exención de notificación (vigente desde 01-01-2023)\nAyuda de Estado: SA.114908\nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nAyudas a la adquisición de dispositivos para la implantación del vallado virtual al ganado bovino en régimen extensivo, para el año 2026.\n\nBases reguladoras:\nanexo I de la   Resolución 353/2024 de 5 de junio, modificada por la Resolución 525/2025, de 1 de julio\nURL bases reguladoras: https://www.navarra.es/es/tramites/on/-/line/ayudas-a-explotaciones-ganaderas-de-vacuno-para-adquirir-collares-e-implantar-vallado-virtual\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902903",
+  "_raw": {
+    "id": 1104464,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "COMUNIDAD FORAL DE NAVARRA",
+      "nivel3": "DEPARTAMENTO DE DESARROLLO RURAL Y MEDIO AMBIENTE"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902903",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 94500,
+    "mrr": false,
+    "descripcion": "Ayudas a la adquisición de dispositivos para la implantación del vallado virtual al ganado bovino en régimen extensivo, para el año 2026.",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Producción agrícola combinada con la producción ganadera",
+        "codigo": "01.5"
+      },
+      {
+        "descripcion": "Producción ganadera",
+        "codigo": "01.4"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES22 - COMUNIDAD FORAL DE NAVARRA"
+      }
+    ],
+    "descripcionFinalidad": "Agricultura, Pesca y Alimentación",
+    "descripcionBasesReguladoras": "anexo I de la   Resolución 353/2024 de 5 de junio, modificada por la Resolución 525/2025, de 1 de julio",
+    "urlBasesReguladoras": "https://www.navarra.es/es/tramites/on/-/line/ayudas-a-explotaciones-ganaderas-de-vacuno-para-adquirir-collares-e-implantar-vallado-virtual",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Desde su publicación en el BON",
+    "textFin": "Un mes desde su publicación en el BON",
+    "ayudaEstado": "SA.114908",
+    "urlAyudaEstado": "https://competition-cases.ec.europa.eu/cases/SA.114908",
+    "fondos": [],
+    "reglamento": {
+      "descripcion": "PRODUCCIÓN AGRÍCOLA PRIMARIA - REG (UE) 2022/2472, de 14 DE DICIEMBRE, de exención de notificación (vigente desde 01-01-2023)",
+      "orden": null
+    },
+    "objetivos": [
+      {
+        "descripcion": "ART. 14 AYUDAS DESTINADAS A LAS INVERSIONES EN EXPLOTACIONES AGRÍCOLAS VINCULADAS A LA PRODUCCIÓN AGRÍCOLA PRIMARIA"
+      }
+    ],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446659,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Texto a Publicar Collares.pdf",
+        "long": 136115,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

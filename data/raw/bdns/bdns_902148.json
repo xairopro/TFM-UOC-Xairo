@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902148",
+  "id_interno": 1103709,
+  "numero_convocatoria": "902148",
+  "organismo": "AUTONOMICA — EXTREMADURA — DIRECCIÓN GENERAL DE PLANIFICACIÓN, FORMACIÓN Y CALIDAD SANITARIAS Y SOCIOSANITARIAS",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Subvención directa 2026. Fed. Española de enfermedades raras (FEDER)",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Otras actividades asociativas",
+  "regiones": "ES43 - EXTREMADURA",
+  "finalidad": "Sanidad",
+  "bases_reguladoras": "Art. 32.1.a) de la Ley 6/2011 de Subvenciones de Extremadura. Subv directas a Entidades Públicas o Entidades Privadas sin fines de lucro",
+  "url_bases_reguladoras": "https://www.boe.es/buscar/pdf/2011/BOE-A-2011-6649-consolidado.pdf",
+  "presupuesto": "35.000,00 €",
+  "presupuesto_total_num": 35000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902148",
+  "text": "CONVOCATORIA BDNS Nº 902148\nOrganismo: AUTONOMICA — EXTREMADURA — DIRECCIÓN GENERAL DE PLANIFICACIÓN, FORMACIÓN Y CALIDAD SANITARIAS Y SOCIOSANITARIAS\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 35.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Otras actividades asociativas\nRegiones: ES43 - EXTREMADURA\nFinalidad: Sanidad\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSubvención directa 2026. Fed. Española de enfermedades raras (FEDER)\n\nBases reguladoras:\nArt. 32.1.a) de la Ley 6/2011 de Subvenciones de Extremadura. Subv directas a Entidades Públicas o Entidades Privadas sin fines de lucro\nURL bases reguladoras: https://www.boe.es/buscar/pdf/2011/BOE-A-2011-6649-consolidado.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902148",
+  "_raw": {
+    "id": 1103709,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "EXTREMADURA",
+      "nivel3": "DIRECCIÓN GENERAL DE PLANIFICACIÓN, FORMACIÓN Y CALIDAD SANITARIAS Y SOCIOSANITARIAS"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902148",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 35000,
+    "mrr": false,
+    "descripcion": "Subvención directa 2026. Fed. Española de enfermedades raras (FEDER)",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Otras actividades asociativas",
+        "codigo": "94.9"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES43 - EXTREMADURA"
+      }
+    ],
+    "descripcionFinalidad": "Sanidad",
+    "descripcionBasesReguladoras": "Art. 32.1.a) de la Ley 6/2011 de Subvenciones de Extremadura. Subv directas a Entidades Públicas o Entidades Privadas sin fines de lucro",
+    "urlBasesReguladoras": "https://www.boe.es/buscar/pdf/2011/BOE-A-2011-6649-consolidado.pdf",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "NO PROCEDE",
+    "textFin": "NO PROCEDE",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444283,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Subvención directa 2026_ Fed_ Española de enfermedades raras (FEDER).PDF",
+        "long": 269753,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

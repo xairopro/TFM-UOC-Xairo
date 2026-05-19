@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902807",
+  "id_interno": 1104368,
+  "numero_convocatoria": "902807",
+  "organismo": "LOCAL — GARRIGA, LA — AYUNTAMIENTO DE GARRIGA, LA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "2026-02-03",
+  "fecha_fin_solicitud": "2026-06-15",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "CONVENIO FUNDACION ASIL HOSPITAL PARA LA REALIZACION DE COLONIAS PARA GENTE MAYOR,AÑO 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+  "regiones": "ES511 - Barcelona",
+  "finalidad": "Otras Prestaciones económicas",
+  "bases_reguladoras": "ORDENANZA GENERAL SUBVENCIONES 2018",
+  "url_bases_reguladoras": "https://bop.diba.cat/scripts/ftpisa.aspx?fnew?bop2018&04/022018007956.pdf&1",
+  "presupuesto": "20.000,00 €",
+  "presupuesto_total_num": 20000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902807",
+  "text": "CONVOCATORIA BDNS Nº 902807\nOrganismo: LOCAL — GARRIGA, LA — AYUNTAMIENTO DE GARRIGA, LA\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud: 2026-02-03 → 2026-06-15 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 20.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO\nRegiones: ES511 - Barcelona\nFinalidad: Otras Prestaciones económicas\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVENIO FUNDACION ASIL HOSPITAL PARA LA REALIZACION DE COLONIAS PARA GENTE MAYOR,AÑO 2026\n\nBases reguladoras:\nORDENANZA GENERAL SUBVENCIONES 2018\nURL bases reguladoras: https://bop.diba.cat/scripts/ftpisa.aspx?fnew?bop2018&04/022018007956.pdf&1\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902807",
+  "_raw": {
+    "id": 1104368,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "GARRIGA, LA",
+      "nivel3": "AYUNTAMIENTO DE GARRIGA, LA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902807",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 20000,
+    "mrr": false,
+    "descripcion": "CONVENIO FUNDACION ASIL HOSPITAL PARA LA REALIZACION DE COLONIAS PARA GENTE MAYOR,AÑO 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES511 - Barcelona"
+      }
+    ],
+    "descripcionFinalidad": "Otras Prestaciones económicas",
+    "descripcionBasesReguladoras": "ORDENANZA GENERAL SUBVENCIONES 2018",
+    "urlBasesReguladoras": "https://bop.diba.cat/scripts/ftpisa.aspx?fnew?bop2018&04/022018007956.pdf&1",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-02-03",
+    "fechaFinSolicitud": "2026-06-15",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446322,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "CONVENIO_AYUNTAMIENTO_Y_FUNDACION_ASIL_HOSPITAL_PARA_REALIZACION_DE_COLONIAS_GENTE_MAYOR,_AÑO_2026.pdf",
+        "long": 157398,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

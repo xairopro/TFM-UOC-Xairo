@@ -1,0 +1,284 @@
+{
+  "id": "EU-49669831TOPICSen",
+  "topic_id": "49669831TOPICSen",
+  "titulo": "Centres of Vocational Excellence",
+  "descripcion": "Centres of Vocational Excellence",
+  "organismo": "43353764",
+  "fecha_publicacion": "2025-12-04",
+  "fecha_limite": "2026-09-03",
+  "deadlines_todas": "2026-09-03",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"112285\":[{\"action\":\"ERASMUS-EDU-2026-PEX-COVE - ERASMUS-LS ERASMUS Lump Sum Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"68000000\"},\"plannedOpeningDate\":\"2025-12-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-03\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "ERASMUS Lump Sum Grants",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-PEX-COVE",
+  "text": "EU FUNDING & TENDERS – Topic: 49669831TOPICSen\nProgramme/Organism: 43353764\nTitle: Centres of Vocational Excellence\nStatus: Open (31094502)\nType of action: ERASMUS Lump Sum Grants\nOpening date: 2025-12-04\nDeadline: 2026-09-03\nAll deadlines: 2026-09-03\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"112285\":[{\"action\":\"ERASMUS-EDU-2026-PEX-COVE - ERASMUS-LS ERASMUS Lump Sum Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"68000000\"},\"plannedOpeningDate\":\"2025-12-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-03\"]}]}}\n\nDescription / Scope:\nCentres of Vocational Excellence\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-PEX-COVE",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "49669831TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-PEX-COVE",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Centres of Vocational Excellence",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Centres of Vocational Excellence",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "500CD772CDBF7D04FCFD99A58AC996663A8D2EB511C1420FF2DEF95971E51C11",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2025-12-04T00:01:00.320\",\"content\":\"The submission session is now available for: ERASMUS-EDU-2026-PEX-COVE\"}]"
+      ],
+      "es_SortDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "ERASMUS-EDU-2026-PEX-COVE",
+        "ERASMUS-EDU-2026-PEX-COVE",
+        "Agri-food",
+        "Agriculture",
+        "Air and water pollution control",
+        "Architecture and building",
+        "Arts",
+        "Biology",
+        "Building",
+        "Circular economy",
+        "Computer sciences - Operating systems (software development only)",
+        "Craft skills",
+        "E-virtual",
+        "Education",
+        "Electricity",
+        "Electronics",
+        "Engineering and engineering trades",
+        "Entrepreneurship",
+        "Environmental protection",
+        "Food and drink processing",
+        "Foreign languages and cultures",
+        "Health",
+        "Health and welfare",
+        "Horticulture and gardening",
+        "Hotel and catering",
+        "ICT based learning",
+        "ICT's interoperability in education",
+        "Inclusion",
+        "Informal and non formal learning",
+        "Innovation in learning, teaching and assessment practices supported by digital technologies",
+        "Inter generational learning",
+        "Key competences",
+        "Life sciences",
+        "Manufacturing and processing",
+        "Medicine",
+        "Metal work",
+        "Mining and extraction",
+        "Road motor vehicla operations",
+        "Seafood biotechnology",
+        "Social Care",
+        "Social Media",
+        "Sports and leisure",
+        "Textiles",
+        "Tourism",
+        "Travel and tourism",
+        "Vocational training",
+        "aerospace and defence",
+        "construction",
+        "digitalisation",
+        "green skills",
+        "work-based learning"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>Conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>described in the <a href=\"https://erasmus-plus.ec.europa.eu/erasmus-programme-guide\" rel=\"noopener noreferrer\" target=\"_blank\">Erasmus + Programme Guide 2026.</a></p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>described in the <a href=\"https://erasmus-plus.ec.europa.eu/erasmus-programme-guide\" rel=\"noopener noreferrer\" target=\"_blank\">Erasmus + Programme Guide 2026.</a></p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>described in the <a href=\"https://erasmus-plus.ec.europa.eu/erasmus-programme-guide\" rel=\"noopener noreferrer\" target=\"_blank\">Erasmus + Programme Guide 2026.</a></p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in the <a href=\"https://erasmus-plus.ec.europa.eu/erasmus-programme-guide\" rel=\"noopener noreferrer\" target=\"_blank\">Erasmus + Programme Guide 2026.</a></p></div></div><div><h4>5a. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>described in the <a href=\"https://erasmus-plus.ec.europa.eu/erasmus-programme-guide\" rel=\"noopener noreferrer\" target=\"_blank\">Erasmus + Programme Guide 2026.</a></p></div></div><div><h4>5b. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>Evaluation criteria, scoring, threshold and process are described in the<a href=\"https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/programme-guide-2026_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\"> </a><a href=\"https://erasmus-plus.ec.europa.eu/erasmus-programme-guide\" rel=\"noopener noreferrer\" target=\"_blank\">Erasmus + Programme Guide 2026.</a></p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in the <a href=\"https://erasmus-plus.ec.europa.eu/erasmus-programme-guide\" rel=\"noopener noreferrer\" target=\"_blank\">Erasmus + Programme Guide 2026.</a></p><p><br></br></p><p>Publication of the call: 27 November 2025.</p><p>Deadline for submitting applications: 3 September 2026, 17:00 (Brussels time).</p><p>Evaluation period: September 2026- March 2027.</p><p>Information to applicants:&#xa0;March 2027.</p><p>Signature of grant agreement:&#xa0;June 2027.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>n/a</p></div></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Call document and annexes:</h4> <div class=\"eui-u-mt-s\"><p><br></br></p><p><strong>Application form templates</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/erasmus/temp-form/af/af_erasmus-bb-lsii_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (ERASMUS BB and LSII)</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/erasmus/temp-form/af/detailed-budget-table_erasmus-lsii_en.xlsm\" rel=\"noopener noreferrer\" target=\"_blank\">Detailed budget table (ERASMUS LSII)</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/erasmus/temp-form/af/information-on-partnerships-and-activities_erasmus-cove_en.xlsx\" rel=\"noopener noreferrer\" target=\"_blank\">Information on Partnerships and Activities (ERASMUS COVE)</a></p><p><strong>Guidance</strong></p><p><a href=\"https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/programme-guide-2026_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">ERASMUS Programme Guide </a></p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/ls-mga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Lump Sum MGA</a>&#xa0;</p><p><br></br></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3AC%2F2025%2F06080&amp;qid=1763997947513\" rel=\"noopener noreferrer\" target=\"_blank\">Call document (Official Journal of the European Union)</a></p><p><a href=\"https://erasmus-plus.ec.europa.eu/resources-and-tools/documents-and-guidelines\" rel=\"noopener noreferrer\" target=\"_blank\">ERASMUS+ Work Programme</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0817\" rel=\"noopener noreferrer\" target=\"_blank\">ERASMUS Regulation 2021/817</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a></p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-manage-your-lump-sum-grants_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">How to manage your lump sum grants</a></p></div></div>"
+      ],
+      "title": [
+        "Centres of Vocational Excellence"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "500CD772CDBF7D04FCFD99A58AC996663A8D2EB511C1420FF2DEF95971E51C11"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43341839"
+      ],
+      "callIdentifier": [
+        "ERASMUS-EDU-2026-PEX-COVE"
+      ],
+      "ccm2Id": [
+        "49669831"
+      ],
+      "callccm2Id": [
+        "49669900"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49669831TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"ERASMUS-EDU-2026-PEX-COVE\",\"criterionCode\":\"ERASMUS-LS\",\"criterionDescription\":\"ERASMUS Lump Sum Grants\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/42491?topic\\u003dERASMUS-EDU-2026-PEX-COVE\",\"startDate\":\"1764806400000\",\"endDate\":\"1788393600000\",\"mgaDescription\":\"ERASMUS Lump Sum Grant\",\"mgaCode\":\"ERASMUS-AG-LS\"}]"
+      ],
+      "callTitle": [
+        "Centres of Vocational Excellence"
+      ],
+      "frameworkProgramme": [
+        "43353764"
+      ],
+      "descriptionByte": [
+        "<span class=\"topicdescriptionkind\">Scope:</span><p><strong>CENTRES OF VOCATIONAL EXCELLENCE</strong></p><p>Centres of Vocational Excellence (CoVE) aim to be a driving force for reforms in the Vocational Education Training (VET) sector, ensuring high quality skills and competences that lead to quality employment and career-long opportunities, meeting the needs of an innovative, inclusive and sustainable economy and contributing to addressing challenges in key economic sectors.</p><p>The main objective is the establishment of transnational collaborative networks that bring together local and regional VET stakeholders (VET institutions, companies, social partners, authorities, higher education institutions, research institutes, etc.) in strong and broad partnerships, thereby creating comprehensive skills ecosystems for innovation, regional development, and social inclusion.</p><p>The initiative is based on a bottom-up approach to vocational excellence, enabling VET institutions to rapidly adapt skills provisions to evolving economic and social needs in their context as identified by the project partners. It is complementary to and works in synergy with other Pact for Skills initiatives.</p><p>Implementing vocational excellence approaches features prominently in the overall EU policy for skills and VET put forward in the Union of Skills, the European Education Area, the 2020 Council Recommendation on VET, as well as the Osnabrück Declaration and its successor, the Herning Declaration. The CoVE initiative is firmly anchored in the European Pillar of Social Rights, the European Green Deal, the new Digital Strategy, and supports the Industrial and SME Strategies, the Council Recommendation ‘Europe on the Move’ – learning mobility opportunities for everyone, the STEM Education Strategic Plan, and the Clean Industrial Deal.</p><p>The Union of Skills is an investment in people for a competitive European Union, which needs skilled people to respond to new challenges and stay competitive. It is an initiative that aims to improve the quality of education, training, and lifelong learning and the Centres of Vocational Excellence can contribute to the <a href=\"https://commission.europa.eu/topics/eu-competitiveness/union-skills\">Union of Skills</a> and the upcoming VET strategy, also through public-private partnerships, expand the use of micro-credentials, etc.</p><p>Further, this initiative introduces a European dimension to vocational excellence by supporting the implementation of EU VET policy and actions agreed with Member States, social partners and VET providers.</p><p><strong>OBJECTIVES OF THE ACTION</strong></p><p>The main objective of the CoVE initiative is the establishment and development of transnational collaborative networks that bring together local and regional VET stakeholders (VET institutions, companies and other employers, social partners, authorities, higher education institutions, research institutes, etc.) in strong and broad public-private partnerships, thereby creating comprehensive skills ecosystems for innovation, regional development, and social inclusion and supporting European competitiveness.</p><p>The Centres of Vocational Excellence aim at achieving the following objectives:</p><ul level=\"0\"><li>to ensure high quality skills through flexible and learner-centred VET provisions that lead to quality employment and career-long opportunities, swiftly responding to the needs of an innovative, inclusive, competitive and sustainable economy as well as to societal needs;</li><li>to support and act as drivers for local and regional development, innovation and social inclusion;</li><li>to contribute to upward convergence on VET excellence, to increase the quality of VET at system level in more and more countries;</li><li>to ensure that outputs and results are taken into use and have impact beyond the project partner organisations and beyond the project period.</li> </ul><p><strong>SCOPE OF THE ACTION</strong></p><p>The CoVEs are expected to develop innovative VET practices, e.g. for use of digital technologies, including AI, contribute to VET attractiveness and inclusion as well as applied research and innovation, facilitate mobility and apprenticeships and professional development of teachers and trainers, work together on joint VET provisions incl. micro-credentials, etc.</p><p>The Centres of Vocational Excellence operate at two levels:</p><p>1. At <strong>national level,</strong> involving a wide range of local stakeholders creating skills ecosystems for local innovation, regional development, and social inclusion, while working with CoVEs in other countries through international collaborative networks.</p><p>2. At <strong>transnational level</strong>, bringing together CoVEs that share a common interest in:</p><p>▪ <strong>specific sectors</strong>;</p><p>▪<strong> innovative approaches to tackle economic and societal challenges</strong> (e.g. climate change, digitalisation, artificial intelligence, sustainable development goals [<a href=\"http://unesdoc.unesco.org/ark:/48223/pf0000381229?posInSet=1&amp;queryId=N-EXPLORE-71e9f147-595b-4479-8a44-7c4c945c4b91\"><em>See Berlin Declaration on </em><em>Education for SDG</em></a><em> </em>], integration of migrants and disadvantaged groups, upskilling people with low qualification levels, etc.), or</p><p>▪ <strong>innovative approaches to increase the outreach, quality and effectiveness of existing CoVEs.</strong></p><p>For more information, see the<a href=\"http://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/centres-vocational-excellence#footnote10_w5ei2bo\"> Erasmus + Programme Guide 2026.</a></p>"
+      ],
+      "identifier": [
+        "ERASMUS-EDU-2026-PEX-COVE"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43433688"
+      ],
+      "crossCuttingPriorities": [
+        "AI",
+        "DigitalAgenda"
+      ],
+      "esDA_FirstIngestDate": [
+        "2025-11-27T00:00:02.374+0100"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-09-03T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2025-12-09T00:34:35.346+0100"
+      ],
+      "typesOfAction": [
+        "ERASMUS Lump Sum Grants"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-PEX-COVE"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-PEX-COVE"
+      ],
+      "tags": [
+        "COVE",
+        "Centres of Vocational Excellence",
+        "Skills",
+        "VET",
+        "Vocational Excellence",
+        "Vocational Training"
+      ],
+      "cenTagsA": [
+        "TOPICS-057726",
+        "TOPICS-063790",
+        "TOPICS-063791",
+        "TOPICS-063792",
+        "TOPICS-004850",
+        "TOPICS-000628",
+        "TOPICS-004851",
+        "TOPICS-004852",
+        "TOPICS-004853",
+        "TOPICS-003295",
+        "TOPICS-003481",
+        "TOPICS-004854",
+        "TOPICS-004855",
+        "TOPICS-004856",
+        "TOPICS-000614",
+        "TOPICS-004857",
+        "TOPICS-004858",
+        "TOPICS-002028",
+        "TOPICS-003297",
+        "TOPICS-004859",
+        "TOPICS-004860",
+        "TOPICS-000372",
+        "TOPICS-003839",
+        "TOPICS-002693",
+        "TOPICS-004861",
+        "TOPICS-003298",
+        "TOPICS-002694",
+        "TOPICS-001995",
+        "TOPICS-002033",
+        "TOPICS-004862",
+        "TOPICS-003301",
+        "TOPICS-000346",
+        "TOPICS-004863",
+        "TOPICS-002963",
+        "TOPICS-004864",
+        "TOPICS-000825",
+        "TOPICS-004865",
+        "TOPICS-003055",
+        "TOPICS-004866",
+        "TOPICS-001064",
+        "TOPICS-002705",
+        "TOPICS-004867",
+        "TOPICS-004868",
+        "TOPICS-003306",
+        "TOPICS-004869",
+        "TOPICS-003305",
+        "TOPICS-004870",
+        "TOPICS-004871",
+        "TOPICS-004872",
+        "TOPICS-004873",
+        "TOPICS-004874",
+        "TOPICS-002723",
+        "TOPICS-004875",
+        "TOPICS-004876",
+        "TOPICS-002516",
+        "TOPICS-003313",
+        "TOPICS-004877"
+      ],
+      "esDA_QueueDate": [
+        "2025-12-09T00:34:35.335+0100"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"ERASMUS-LS ERASMUS Lump Sum Grants\",\"typeOfMGA\":[{\"id\":43341839,\"abbreviation\":\"ERASMUS-AG-LS\",\"description\":\"ERASMUS Lump Sum Grant\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2025-12-04\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-09-03\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"112285\":[{\"action\":\"ERASMUS-EDU-2026-PEX-COVE - ERASMUS-LS ERASMUS Lump Sum Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"68000000\"},\"plannedOpeningDate\":\"2025-12-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-03\"]}]}}"
+      ],
+      "startDate": [
+        "2025-12-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p>For help related to this call, please contact the COVE functional mailbox: eacea-eplus-vet@ec.europa.eu</p><p>Please note that the <strong>deadline </strong>for addressing queries to the COVE functional mailbox (eacea-eplus-vet@ec.europa.eu) is <strong>Thursday 20 August 2026.</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?order=DESC&amp;pageNumber=1&amp;pageSize=10&amp;sortBy=publicationDate&amp;isExactMatch=true&amp;type=1&amp;grantCategories=p_submission_eval\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ – Submission of proposals</a>.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> – Step-by-step online guide through the Portal processes from proposal preparation and evaluation to reporting on your ongoing project. Valid for all 2021-2027 programmes.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Centres of Vocational Excellence. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ERASMUS-EDU-2026-PEX-COVE",
+    "score": 3.0
+  }
+}

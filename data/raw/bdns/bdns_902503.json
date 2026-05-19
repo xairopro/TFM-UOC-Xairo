@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902503",
+  "id_interno": 1104064,
+  "numero_convocatoria": "902503",
+  "organismo": "AUTONOMICA — COMUNIDAD DE MADRID — CONSEJERÍA DE EDUCACIÓN, CIENCIA Y UNIVERSIDADES",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA BECAS EDUCACIÓN INFANTIL CURSO 2026/2027",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Educación preprimaria",
+  "regiones": "ES3 - COMUNIDAD DE MADRID",
+  "finalidad": "Educación",
+  "bases_reguladoras": "ORDEN 763/2025, DE 18 DE MARZO, DE LA CONSEJERÍA DE EDUCACIÓN, CIENCIA Y UNIVERSIDADES, POR LA QUE SE APRUEBAN LAS BASES REGULADORAS PARA LA CONCESIÓN DE BECAS PARA LA ESCOLARIZACIÓN EN EL PRIMER CICLO DE EDUCACIÓN INFANTIL EN CENTROS DE TITULARIDAD PRIVA",
+  "url_bases_reguladoras": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/31/BOCM-20250331-39.PDF",
+  "presupuesto": "67.338.015,00 €",
+  "presupuesto_total_num": 67338015,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902503",
+  "text": "CONVOCATORIA BDNS Nº 902503\nOrganismo: AUTONOMICA — COMUNIDAD DE MADRID — CONSEJERÍA DE EDUCACIÓN, CIENCIA Y UNIVERSIDADES\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 67.338.015,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Educación preprimaria\nRegiones: ES3 - COMUNIDAD DE MADRID\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA BECAS EDUCACIÓN INFANTIL CURSO 2026/2027\n\nBases reguladoras:\nORDEN 763/2025, DE 18 DE MARZO, DE LA CONSEJERÍA DE EDUCACIÓN, CIENCIA Y UNIVERSIDADES, POR LA QUE SE APRUEBAN LAS BASES REGULADORAS PARA LA CONCESIÓN DE BECAS PARA LA ESCOLARIZACIÓN EN EL PRIMER CICLO DE EDUCACIÓN INFANTIL EN CENTROS DE TITULARIDAD PRIVA\nURL bases reguladoras: https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/31/BOCM-20250331-39.PDF\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902503",
+  "_raw": {
+    "id": 1104064,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "COMUNIDAD DE MADRID",
+      "nivel3": "CONSEJERÍA DE EDUCACIÓN, CIENCIA Y UNIVERSIDADES"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902503",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 67338015,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA BECAS EDUCACIÓN INFANTIL CURSO 2026/2027",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Educación preprimaria",
+        "codigo": "85.1"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES3 - COMUNIDAD DE MADRID"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "ORDEN 763/2025, DE 18 DE MARZO, DE LA CONSEJERÍA DE EDUCACIÓN, CIENCIA Y UNIVERSIDADES, POR LA QUE SE APRUEBAN LAS BASES REGULADORAS PARA LA CONCESIÓN DE BECAS PARA LA ESCOLARIZACIÓN EN EL PRIMER CICLO DE EDUCACIÓN INFANTIL EN CENTROS DE TITULARIDAD PRIVA",
+    "urlBasesReguladoras": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/31/BOCM-20250331-39.PDF",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "DESDE EL DÍA SIGUIENTE DE LA PUBLICACION EN EXTRACTO DE LA ORDEN DE CONVOCATORIA",
+    "textFin": "QUINCE DÍAS HÁBILES DESDE EL DÍA SIGUIENTE A LA PUBLICACION EN EXTRACTO DE LA CONVOCATORIA EN BOCM",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445519,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Texto Convocatoria BDNS.pdf",
+        "long": 1023552,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

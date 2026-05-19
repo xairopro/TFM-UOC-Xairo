@@ -1,0 +1,110 @@
+{
+  "id": "BDNS-901420",
+  "id_interno": 1102981,
+  "numero_convocatoria": "901420",
+  "organismo": "AUTONOMICA — COMUNIDAD DE MADRID — CONSEJERÍA DE EDUCACIÓN, CIENCIA Y UNIVERSIDADES",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - canónica",
+  "descripcion": "CONVOCATORIA BECAS COMEDOR ESCOLAR CURSO 2026/2027",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades deportivas, recreativas y de entretenimiento, Educación",
+  "regiones": "ES3 - COMUNIDAD DE MADRID",
+  "finalidad": "Educación",
+  "bases_reguladoras": "ACUERDO DE 24 DE ABRIL DE 2024, DEL CONSEJO DE GOBIERNO, POR EL QUE SE APRUEBAN LAS NORMAS REGULADORAS DEL PROCEDIMIENTO DE CONCESIÓN DIRECTA DE BECAS PARA COMEDOR ESCOLAR PARA ALUMNOS ESCOLARIZADOS EN CENTROS SOSTENIDOS CON FONDOS PÚBLICOS DE LA COMUNIDA",
+  "url_bases_reguladoras": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/25/BOCM-20240425-37.PDF",
+  "presupuesto": "68.022.965,00 €",
+  "presupuesto_total_num": 68022965,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901420",
+  "text": "CONVOCATORIA BDNS Nº 901420\nOrganismo: AUTONOMICA — COMUNIDAD DE MADRID — CONSEJERÍA DE EDUCACIÓN, CIENCIA Y UNIVERSIDADES\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - canónica\nPresupuesto total: 68.022.965,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades deportivas, recreativas y de entretenimiento, Educación\nRegiones: ES3 - COMUNIDAD DE MADRID\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA BECAS COMEDOR ESCOLAR CURSO 2026/2027\n\nBases reguladoras:\nACUERDO DE 24 DE ABRIL DE 2024, DEL CONSEJO DE GOBIERNO, POR EL QUE SE APRUEBAN LAS NORMAS REGULADORAS DEL PROCEDIMIENTO DE CONCESIÓN DIRECTA DE BECAS PARA COMEDOR ESCOLAR PARA ALUMNOS ESCOLARIZADOS EN CENTROS SOSTENIDOS CON FONDOS PÚBLICOS DE LA COMUNIDA\nURL bases reguladoras: https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/25/BOCM-20240425-37.PDF\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901420",
+  "_raw": {
+    "id": 1102981,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "COMUNIDAD DE MADRID",
+      "nivel3": "CONSEJERÍA DE EDUCACIÓN, CIENCIA Y UNIVERSIDADES"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901420",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - canónica",
+    "presupuestoTotal": 68022965,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA BECAS COMEDOR ESCOLAR CURSO 2026/2027",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades deportivas, recreativas y de entretenimiento",
+        "codigo": "93"
+      },
+      {
+        "descripcion": "Educación",
+        "codigo": "85"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES3 - COMUNIDAD DE MADRID"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "ACUERDO DE 24 DE ABRIL DE 2024, DEL CONSEJO DE GOBIERNO, POR EL QUE SE APRUEBAN LAS NORMAS REGULADORAS DEL PROCEDIMIENTO DE CONCESIÓN DIRECTA DE BECAS PARA COMEDOR ESCOLAR PARA ALUMNOS ESCOLARIZADOS EN CENTROS SOSTENIDOS CON FONDOS PÚBLICOS DE LA COMUNIDA",
+    "urlBasesReguladoras": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/25/BOCM-20240425-37.PDF",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "DESDE EL DÍA SIGUIENTE AL DE LA PUBLICACIÓN DEL EXTRACTO EN EL BOCM",
+    "textFin": "VEINTE DÍAS HÁBILES DESDE EL INICIO",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442243,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Texto Convocatoria BDNS.pdf",
+        "long": 766343,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 209983,
+        "titulo": "EXTRACTO ACUMULADO DE LA ORDEN 1696/2026, DE LA CONSEJERÍA DE EDUCACIÓN, CIENCIA Y UNIVERSIDADES, POR LA QUE SE DECLARA EL IMPORTE DE LOS CRÉDITOS DISPONIBLES PARA LA CONCESIÓN DIRECTA DE LAS BECAS DE COMEDOR ESCOLAR, DURANTE EL PERÍODO LECTIVO DEL CURSO 2026-2027",
+        "tituloLeng": null,
+        "texto": "<p>BDNS: xxxxxx</p><p>\txxxxxx</p><p></p><p>De conformidad con lo previsto en los artículos 17.3.b) y 20.8 a) de la Ley 38/2003, de 17</p><p>de noviembre, General de Subvenciones, se publica el extracto acumulado de la orden por la</p><p>que se declara el importe de los créditos disponibles, cuyo texto completo puede</p><p>consultarse en la Base de Datos Nacional de Subvenciones</p><p>(https://www.infosubvenciones.es/bdnstrans/GE/es/index), en el Boletín Oficial de la</p><p>Comunidad de Madrid y en la página web institucional de la Comunidad de Madrid</p><p>(www.comunidad.madrid).</p><p></p><p></p><p>Primero. Normas reguladoras.</p><p></p><p>Las normas que regulan el procedimiento de concesión directa de becas para comedor escolar</p><p>para los alumnos escolarizados en centros sostenidos con fondos públicos de la Comunidad</p><p>de Madrid se recogen en el Acuerdo de 24 de abril de 2024 del Consejo de Gobierno (Boletín</p><p>Oficial de la Comunidad de Madrid de 25 de abril de 2024), modificado por el Acuerdo de 30</p><p>de abril de 2025 (Boletín Oficial de la Comunidad de Madrid de 8 de mayo de 2025).</p><p></p><p></p><p>Segundo. Créditos disponibles.</p><p></p><p>La presente orden establece el importe de los créditos presupuestarios disponibles para</p><p>atender las obligaciones de contenido económico derivadas de la concesión directa de becas</p><p>para el comedor escolar durante el curso 2026-2027.</p><p></p><p>La Comunidad de Madrid aporta a estas becas un total de 68.022.965 euros, correspondiendo</p><p>30.610.334 euros a la anualidad de 2026 y 37.412.631 euros a la anualidad de 2027 (ID</p><p>xxxx).</p><p></p><p>Este crédito podrá ser incrementado en el caso de que existan solicitudes que reúnan los</p><p>requisitos establecidos en las normas reguladoras y no puedan ser atendidas con el crédito</p><p>previsto en el párrafo anterior.</p><p></p><p>Las referidas obligaciones se imputarán al subconcepto económico 48399 del programa 323M</p><p>\"Educación Concertada, Becas y Ayudas al Estudio\", del Presupuesto de la Comunidad de</p><p>Madrid.</p><p></p><p>Por otro lado, el Ayuntamiento de Madrid ha aportado a la Comunidad de Madrid, para</p><p>complementar la financiación de estas ayudas, un total de 7.390.000 euros que se</p><p>destinarán a aquellos alumnos y por la cuantía que determine el Ayuntamiento de Madrid, de</p><p>acuerdo con su propia normativa (ID xxxx).</p><p></p><p>Tercero. Cálculo de la renta</p><p></p><p>A los efectos del cálculo de la renta per cápita establecido en los artículos 5 y 8 de las</p><p>normas reguladoras se tendrá en cuenta la renta del ejercicio 2024.</p><p></p><p>Para calcular la renta per cápita de la unidad familiar se considerará como ingresos la</p><p>cantidad resultante de operar del modo que se indica con las cantidades que figuran en las</p><p>siguientes casillas de la declaración de IRPF del ejercicio 2024:</p><p>\t</p><p>420 + 432 – 433 + 424 + 429 – 446 – 436 – 595</p><p></p><p></p><p>Cuarto. Cuantía de las ayudas.</p><p></p><p>Se establecen las siguientes cuantías de ayudas:</p><p></p><p>a.\tFamilias perceptoras de Renta Mínima de Inserción o beneficiaria del Ingreso Mínimo</p><p>Vital a la que se le ha extinguido la Renta Mínima de Inserción: 979 euros para el curso</p><p>escolar</p><p>b.\t Familia beneficiara del Ingreso Mínimo Vital con una renta per cápita inferior a</p><p>3.000 euros y que no se encuentre en el supuesto del apartado anterior: 979 euros para el</p><p>curso escolar.</p><p>c.\tFamilia beneficiaria del Ingreso Mínimo Vital con una renta per cápita desde 3.000</p><p>euros hasta 8.400 euros y que no se encuentre en el supuesto del apartado a, familia con</p><p>una renta per cápita inferior a 8.400 euros, familia con algún miembro de la unidad</p><p>familiar víctima de violencia de género o víctima del terrorismo, familia con algún</p><p>miembro de la unidad familiar perteneciente a Fuerzas y Cuerpos de Seguridad del Estado y</p><p>Fuerzas Armadas con destino en la Comunidad de Madrid, alumno en situación de acogimiento</p><p>familiar: 445 euros para el curso escolar.</p><p>d.\tAlumnos escolarizados de oficio en centros privados sostenidos con fondos públicos</p><p>que hagan uso del transporte escolar: el coste del comedor escolar del centro donde se</p><p>encuentre matriculado.</p><p>e.\tFamilia con algún miembro beneficiario de protección internacional, en cualquiera</p><p>de sus modalidades y alumnos beneficiarios de protección temporal por el conflicto de</p><p>Ucrania: el coste del comedor escolar del centro donde se encuentre matriculado.</p><p>f.\tAlumnos en situación de acogimiento residencial, cuya guardia o tutela se ejerce</p><p>por la consejería competente en materia de infancia y adolescencia y alumnos escolarizados</p><p>al amparo de los Convenios y Acuerdos establecidos por la consejería competente en materia</p><p>de Educación con la consejería competente en materia de infancia y adolescencia (alumnos</p><p>sobre los que la citada consejería dictamina que se encuentran en situación de urgencia</p><p>social), Ministerio competente en materia de Instituciones Penitencias (alumnos cuyas</p><p>madres se encuentran en alguna Institución Penitenciaria) y consejería competente en</p><p>materia de violencia de género (alumnos cuyas madres, víctimas de violencia de género, se</p><p>encuentran en un centro de acogida de la Comunidad de Madrid): el coste del comedor</p><p>escolar del centro donde se encuentre matriculado.</p><p>g.\tFamilia numerosa con una renta per cápita a partir de 8.400 euros e inferior a</p><p>10.000 euros, 295 euros para el curso escolar.</p><p></p><p>Los alumnos que determine el Ayuntamiento de Madrid en virtud del convenio suscrito con la</p><p>Comunidad de Madrid con fecha 14 de mayo de 2025 prorrogado con fecha 24 de marzo de 2026,</p><p>podrán recibir una aportación complementaria, por la cuantía que establezca el</p><p>Ayuntamiento.</p><p></p><p>A los efectos de lo establecido en el artículo 11 de las normas reguladoras y para los</p><p>supuestos b y c, el documento acreditativo de las cuantías del Ingreso Mínimo Vital podrá</p><p>corresponder a los ejercicios 2024, 2025 o 2026.</p><p></p><p>El periodo subvencionable correspondiente al crédito presupuestario disponible que figura</p><p>en esta orden es el curso académico 2026-2027.</p><p></p><p></p><p>Quinto. Plazo y forma de presentación de solicitudes.</p><p></p><p>El plazo de presentación de solicitudes será de 20 días hábiles a contar desde el día</p><p>siguiente a la publicación de este extracto en el Boletín Oficial de la Comunidad de</p><p>Madrid, sin perjuicio de los plazos excepcionales previstos en las disposiciones</p><p>adicionales de las normas reguladoras.</p><p></p><p>Las solicitudes se ajustarán al modelo oficial que podrá obtenerse y cumplimentarse a</p><p>través de la página web institucional de la Comunidad de Madrid (sede.comunidad.madrid) y</p><p>se presentará en los lugares establecidos en el artículo 11 de las normas reguladoras.</p><p></p><p></p>",
+        "textoLeng": null,
+        "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/04/28/BOCM-20260428-24.PDF",
+        "cve": null,
+        "desDiarioOficial": "BOCM. B.O. DE LA COMUNIDAD DE MADRID",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

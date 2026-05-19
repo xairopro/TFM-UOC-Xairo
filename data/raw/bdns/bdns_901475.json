@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-901475",
+  "id_interno": 1103036,
+  "numero_convocatoria": "901475",
+  "organismo": "LOCAL — CAMBRILS — AYUNTAMIENTO DE CAMBRILS",
+  "sede_electronica": "https://seu.cambrils.cat/",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "2025-01-01",
+  "fecha_fin_solicitud": "2025-12-31",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "SUBVENCIÓ CONVENIO 2025 ASOCIACIÓ ANTIGUOS ALUMNOS DE LA SALLE",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+  "regiones": "ES514 - Tarragona",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "BASES SUBVENCIONES CULTURA Y FIESTAS AYUNTAMIENTO DE CAMBRILS",
+  "url_bases_reguladoras": "https://www.cambrils.cat/ca/serveis/cultura/subvencions",
+  "presupuesto": "3.000,00 €",
+  "presupuesto_total_num": 3000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901475",
+  "text": "CONVOCATORIA BDNS Nº 901475\nOrganismo: LOCAL — CAMBRILS — AYUNTAMIENTO DE CAMBRILS\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud: 2025-01-01 → 2025-12-31 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 3.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO\nRegiones: ES514 - Tarragona\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSUBVENCIÓ CONVENIO 2025 ASOCIACIÓ ANTIGUOS ALUMNOS DE LA SALLE\n\nBases reguladoras:\nBASES SUBVENCIONES CULTURA Y FIESTAS AYUNTAMIENTO DE CAMBRILS\nURL bases reguladoras: https://www.cambrils.cat/ca/serveis/cultura/subvencions\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901475",
+  "_raw": {
+    "id": 1103036,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "CAMBRILS",
+      "nivel3": "AYUNTAMIENTO DE CAMBRILS"
+    },
+    "sedeElectronica": "https://seu.cambrils.cat/",
+    "codigoBDNS": "901475",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 3000,
+    "mrr": false,
+    "descripcion": "SUBVENCIÓ CONVENIO 2025 ASOCIACIÓ ANTIGUOS ALUMNOS DE LA SALLE",
+    "descripcionLeng": "SUBVENCIÓ CONVENI ANTICS ALUMNES DE LA SALLE",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES514 - Tarragona"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "BASES SUBVENCIONES CULTURA Y FIESTAS AYUNTAMIENTO DE CAMBRILS",
+    "urlBasesReguladoras": "https://www.cambrils.cat/ca/serveis/cultura/subvencions",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2025-01-01",
+    "fechaFinSolicitud": "2025-12-31",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442384,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "Conveni Triple A Il·luminació carrosses.pdf",
+        "long": 268182,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442383,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Convenio Triple A Il·luminació carrosses.ca.es.pdf",
+        "long": 90054,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

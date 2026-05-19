@@ -1,0 +1,106 @@
+{
+  "id": "BDNS-901524",
+  "id_interno": 1103085,
+  "numero_convocatoria": "901524",
+  "organismo": "LOCAL — CIUDAD REAL — AYUNTAMIENTO DE CIUDAD REAL",
+  "sede_electronica": "SEDE ELECTRÓNICA AYUNTAMIENTO DE CIUDAD REAL",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "2026-10-30",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Subvención Concurrencia Competitiva Igualdad: CONVOCATORIA PARA LA CONCESIÓN DE AYUDAS DESTINADAS A LA CONCILIACIÓN DE LA VIDA PERSONAL, FAMILIAR Y LABORAL EN EL MUNICIPIO DE CIUDAD REAL 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+  "regiones": "ES422 - Ciudad Real",
+  "finalidad": "Servicios Sociales y Promoción Social",
+  "bases_reguladoras": "CONVOCATORIA PARA LA CONCESIÓN DE AYUDAS DESTINADAS A LA CONCILIACIÓN DE LA VIDA PERSONAL, FAMILIAR Y LABORAL EN EL MUNICIPIO DE CIUDAD REAL 2026",
+  "url_bases_reguladoras": "https://www.ciudadreal.es/sede-electronica/210-sede-electronica/16281-subvenciones.html",
+  "presupuesto": "35.000,00 €",
+  "presupuesto_total_num": 35000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901524",
+  "text": "CONVOCATORIA BDNS Nº 901524\nOrganismo: LOCAL — CIUDAD REAL — AYUNTAMIENTO DE CIUDAD REAL\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  → 2026-10-30 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 35.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES\nRegiones: ES422 - Ciudad Real\nFinalidad: Servicios Sociales y Promoción Social\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSubvención Concurrencia Competitiva Igualdad: CONVOCATORIA PARA LA CONCESIÓN DE AYUDAS DESTINADAS A LA CONCILIACIÓN DE LA VIDA PERSONAL, FAMILIAR Y LABORAL EN EL MUNICIPIO DE CIUDAD REAL 2026\n\nBases reguladoras:\nCONVOCATORIA PARA LA CONCESIÓN DE AYUDAS DESTINADAS A LA CONCILIACIÓN DE LA VIDA PERSONAL, FAMILIAR Y LABORAL EN EL MUNICIPIO DE CIUDAD REAL 2026\nURL bases reguladoras: https://www.ciudadreal.es/sede-electronica/210-sede-electronica/16281-subvenciones.html\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901524",
+  "_raw": {
+    "id": 1103085,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "CIUDAD REAL",
+      "nivel3": "AYUNTAMIENTO DE CIUDAD REAL"
+    },
+    "sedeElectronica": "SEDE ELECTRÓNICA AYUNTAMIENTO DE CIUDAD REAL",
+    "codigoBDNS": "901524",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 35000,
+    "mrr": false,
+    "descripcion": "Subvención Concurrencia Competitiva Igualdad: CONVOCATORIA PARA LA CONCESIÓN DE AYUDAS DESTINADAS A LA CONCILIACIÓN DE LA VIDA PERSONAL, FAMILIAR Y LABORAL EN EL MUNICIPIO DE CIUDAD REAL 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+        "codigo": "R"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES422 - Ciudad Real"
+      }
+    ],
+    "descripcionFinalidad": "Servicios Sociales y Promoción Social",
+    "descripcionBasesReguladoras": "CONVOCATORIA PARA LA CONCESIÓN DE AYUDAS DESTINADAS A LA CONCILIACIÓN DE LA VIDA PERSONAL, FAMILIAR Y LABORAL EN EL MUNICIPIO DE CIUDAD REAL 2026",
+    "urlBasesReguladoras": "https://www.ciudadreal.es/sede-electronica/210-sede-electronica/16281-subvenciones.html",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": "2026-10-30",
+    "textInicio": "DESDE EL DIA SIGUIENTE A LA PUBLICACIÓN EN EL BOP",
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442531,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Certificado de acuerdos.pdf",
+        "long": 247495,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210043,
+        "titulo": "IGUALDAD. CONVOCATORIA PARA LA CONCESIÓN DE AYUDAS DESTINADAS A LA CONCILIACIÓN DE LA VIDA PERSONAL, FAMILIAR Y LABORAL EN EL MUNICIPIO DE CIUDAD REAL 2026",
+        "tituloLeng": null,
+        "texto": "<p>EXTRACTO DE LA CONVOCATORIA PARA LA CONCESIÓN DE AYUDAS DESTINADAS A LA CONCILIACIÓN DE LA VIDA PERSONAL, FAMILIAR Y LABORAL EN EL MUNICIPIO DE CIUDAD REAL 2026\n</p><p>De conformidad con lo previsto en los artículos 17.3.b y 20.8.a de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, se publica el extracto de la convocatoria cuyo texto completo puede consultarse en la Base de Datos Nacional de Subvenciones.\n</p><p>Primero. Beneficiarias\n</p><p>Podrán ser beneficiarias las unidades de convivencia empadronadas en el municipio de Ciudad Real que necesiten recursos de conciliación para el cuidado de hijas e hijos menores de hasta 12 años o de personas en situación de dependencia, siempre que cumplan los requisitos establecidos en la convocatoria.\n</p><p>Segundo. Objeto\n</p><p>La presente convocatoria tiene por objeto regular la concesión de ayudas económicas destinadas a financiar gastos de cuidado de menores y personas dependientes, con el fin de facilitar la conciliación de la vida personal, familiar y laboral y promover la corresponsabilidad.\n</p><p>Tercero. Bases reguladoras\n</p><p>Texto Regulador de las Bases Generales para la concesión de subvenciones del Ayuntamiento de Ciudad Real y sus organismos autónomos, aprobado en sesión plenaria de 27 de febrero de 2026 y publicado en el BOP nº 42 de 3 de marzo de 2026.\n</p><p>Cuarto. Cuantía\n</p><p>El crédito destinado a la presente convocatoria asciende a 35.000,00 €, con cargo a la aplicación presupuestaria 2313.48021.\n</p><p>La cuantía máxima individual de la ayuda será de 300 €.\n</p><p>Quinto. Requisitos\n</p><p>Entre otros requisitos, las personas solicitantes deberán:\n</p><p>*\tEstar empadronadas en el municipio de Ciudad Real con una antigüedad mínima de seis meses. \n</p><p>*\tEjercer actividad laboral por cuenta propia o ajena, o encontrarse en formación reglada presencial. \n</p><p>*\tEstar al corriente de sus obligaciones tributarias y con la Seguridad Social. \n</p><p>*\tNo superar el límite de ingresos de la unidad de convivencia establecido en la convocatoria (hasta 5 veces el IPREM mensual vigente). \n</p><p>Sexto. Gastos subvencionables\n</p><p>Serán subvencionables los gastos derivados del cuidado de menores o personas dependientes, tales como guarderías, ludotecas, escuelas de verano, actividades educativas o servicios de atención, tanto públicos como privados, realizados en el período comprendido entre el 1 de octubre de 2025 y el 31 de julio de 2026.\n</p><p>Séptimo. Plazo de presentación de solicitudes\n</p><p>El plazo de presentación de solicitudes será desde el día siguiente a la publicación del presente extracto en el Boletín Oficial de la Provincia de Ciudad Real hasta el 31 de julio de 2026.\n</p><p>Octavo. Forma de presentación\n</p><p>Las solicitudes se presentarán de forma electrónica a través de la Sede Electrónica del Ayuntamiento de Ciudad Real, conforme al modelo normalizado disponible en la misma.\n</p><p>Noveno. Criterios de valoración\n</p><p>Las solicitudes se valorarán en régimen de concurrencia competitiva atendiendo, entre otros, a los siguientes criterios:\n</p><p>*       Nivel de ingresos de la unidad de convivencia. \n</p><p>*       Número de menores a cargo. \n</p><p>*\tSituaciones de discapacidad o dependencia. \n</p><p>*\tCondición de familia monoparental. \n</p><p>Décimo. Otros datos\n</p><p>El pago de la ayuda se realizará mediante transferencia bancaria, previa justificación del gasto subvencionable en los términos establecidos en la convocatoria.\n</p><p>Ciudad Real, abril de 2026\n</p><p>El Alcalde-Presidente\n</p>",
+        "textoLeng": null,
+        "url": "https://se1.dipucr.es:4443/SIGEM_BuscadorDocsWeb/getDocument.do?entidad=005&doc=7513076",
+        "cve": "0G7FUcJysn/xT7YWztZq",
+        "desDiarioOficial": "B.O.P. DE CIUDAD REAL",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

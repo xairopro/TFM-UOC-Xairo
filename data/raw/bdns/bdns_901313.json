@@ -1,0 +1,106 @@
+{
+  "id": "BDNS-901313",
+  "id_interno": 1102874,
+  "numero_convocatoria": "901313",
+  "organismo": "ESTADO — MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES — CENTRO DE ESTUDIOS POLÍTICOS Y CONSTITUCIONALES",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Resolución de 23 de abril de 2026, del Centro de Estudios Políticos y Constitucionales, por la\nque se convoca el Premio “Francisco Tomás y Valiente” 2026.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA",
+  "regiones": "XXXX - TODO EL MUNDO",
+  "finalidad": "Educación",
+  "bases_reguladoras": "Orden PJC/1087/2024, de 7 de octubre (BOE nº 244, de 9 de octubre), por la que se aprueban bases reguladoras para la concesión del Premio “Francisco Tomas y Valiente” por el Tribunal Constitucional y el Centro de Estudios Políticos y Constitucionales.",
+  "url_bases_reguladoras": "https://www.boe.es/eli/es/o/2024/10/07/pjc1087",
+  "presupuesto": "12.000,00 €",
+  "presupuesto_total_num": 12000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901313",
+  "text": "CONVOCATORIA BDNS Nº 901313\nOrganismo: ESTADO — MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES — CENTRO DE ESTUDIOS POLÍTICOS Y CONSTITUCIONALES\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 12.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA\nRegiones: XXXX - TODO EL MUNDO\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nResolución de 23 de abril de 2026, del Centro de Estudios Políticos y Constitucionales, por la\nque se convoca el Premio “Francisco Tomás y Valiente” 2026.\n\nBases reguladoras:\nOrden PJC/1087/2024, de 7 de octubre (BOE nº 244, de 9 de octubre), por la que se aprueban bases reguladoras para la concesión del Premio “Francisco Tomas y Valiente” por el Tribunal Constitucional y el Centro de Estudios Políticos y Constitucionales.\nURL bases reguladoras: https://www.boe.es/eli/es/o/2024/10/07/pjc1087\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901313",
+  "_raw": {
+    "id": 1102874,
+    "organo": {
+      "nivel1": "ESTADO",
+      "nivel2": "MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES",
+      "nivel3": "CENTRO DE ESTUDIOS POLÍTICOS Y CONSTITUCIONALES"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901313",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 12000,
+    "mrr": false,
+    "descripcion": "Resolución de 23 de abril de 2026, del Centro de Estudios Políticos y Constitucionales, por la\nque se convoca el Premio “Francisco Tomás y Valiente” 2026.",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA",
+        "codigo": "P"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "XXXX - TODO EL MUNDO"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "Orden PJC/1087/2024, de 7 de octubre (BOE nº 244, de 9 de octubre), por la que se aprueban bases reguladoras para la concesión del Premio “Francisco Tomas y Valiente” por el Tribunal Constitucional y el Centro de Estudios Políticos y Constitucionales.",
+    "urlBasesReguladoras": "https://www.boe.es/eli/es/o/2024/10/07/pjc1087",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Al día siguiente a la publicación del extracto de la convocatoria en el Boletín Oficial del Estado.",
+    "textFin": "Un mes, a contar desde el día siguiente a la publicación del extracto de la convocatoria en el BOE",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1441963,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "02 20260423 Convocatoria TYV2026 report_.pdf",
+        "long": 245801,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 209941,
+        "titulo": "Extracto de la resolución de 23 de abril de 2026, del Centro de Estudios Políticos y Constitucionales, por la que se convoca el Premio “Francisco Tomás y Valiente” 2026",
+        "tituloLeng": null,
+        "texto": "<p>Primero. Personas beneficiarias</p><p>Podrán personarse al premio las personas físicas, españolas o extranjeras, que sean autoras de obra científica, original e inédita, que verse sobre cualesquiera aspectos históricos o actuales, de la Constitución Española y de la Justicia Constitucional, tanto desde un enfoque estrictamente teórico como a partir de experiencias determinadas de un ordenamiento nacional o de varios, en perspectiva comparada., que cumplan lo previsto en el apartado siguiente.</p><p>Segundo. Objeto</p><p>Convocar el premio “Francisco Tomás y Valiente” de ensayos sobre Constitución y justicia constitucional, instituido conjuntamente por el Tribunal Constitucional y el Centro de Estudios Políticos y Constitucionales, correspondiente al año 2026, cuya convocatoria se efectúa en régimen de concurrencia competitiva.</p><p>La extensión de las obras originales será libre. Las obras podrán ser escritas en cualquiera de las lenguas oficiales españolas, acompañada de traducción en lengua castellana.</p><p>Tercero. Bases reguladoras</p><p>Orden PJC/1087/2024, de 7 de octubre (BOE nº 244, de 9 de octubre), por la que se aprueban bases reguladoras para la concesión del Premio “Francisco Tomas y Valiente” por el Tribunal Constitucional y el Centro de Estudios Políticos y Constitucionales.</p><p>Cuarto. Cuantía</p><p>El premio conlleva una dotación de doce mil euros (12.000 €).</p><p>Quinto. Plazo de presentación de solicitudes</p><p>El plazo para la presentación de las candidaturas será de un mes, a contar desde el día siguiente a la publicación del extracto de la convocatoria en el \"Boletín Oficial del Estado\".</p><p>Sexto. Otros datos</p><p>Lugar de presentación de solicitudes:</p><p>La presentación de las obras que opten al Premio se realizará en el Registro General del CEPC, Plaza de la Marina Española 9, Madrid – 28013, DIR3 EA0040767, o en cualquiera de los lugares previstos en el artículo 16 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.</p><p>La documentación a aportar y otra información de interés se encuentra reflejada en la convocatoria, publicada en la página web www.cepc.gob.es.</p>",
+        "textoLeng": null,
+        "url": "http://www.boe.es/diario_boe/verifica.php?acc=Verificar&c=BOE-B-2026-12991",
+        "cve": "BOE-B-2026-12991",
+        "desDiarioOficial": "BOE. BOLETÍN OFICIAL DEL ESTADO",
+        "datPublicacion": "2026-04-25"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

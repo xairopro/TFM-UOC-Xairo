@@ -1,0 +1,106 @@
+{
+  "id": "BDNS-902362",
+  "id_interno": 1103923,
+  "numero_convocatoria": "902362",
+  "organismo": "AUTONOMICA — CASTILLA-LA MANCHA — VICECONSEJERÍA DE EMPLEO, DIÁLOGO SOCIAL Y SEGURIDAD Y SALUD LABORAL",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Resolución por la que se concede subvención nominativa para 2026 a las organizaciones integrantes del Consejo de Relaciones Laborales",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de organizaciones empresariales, profesionales y patronales, Actividades sindicales",
+  "regiones": "ES42 - CASTILLA LA MANCHA",
+  "finalidad": "Fomento del Empleo",
+  "bases_reguladoras": "Resolución por la que se concede subvención nominativa para 2026 a las organizaciones integrantes del Consejo de Relaciones Laborales",
+  "url_bases_reguladoras": "www.jccm.es",
+  "presupuesto": "750.000,00 €",
+  "presupuesto_total_num": 750000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902362",
+  "text": "CONVOCATORIA BDNS Nº 902362\nOrganismo: AUTONOMICA — CASTILLA-LA MANCHA — VICECONSEJERÍA DE EMPLEO, DIÁLOGO SOCIAL Y SEGURIDAD Y SALUD LABORAL\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 750.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de organizaciones empresariales, profesionales y patronales, Actividades sindicales\nRegiones: ES42 - CASTILLA LA MANCHA\nFinalidad: Fomento del Empleo\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nResolución por la que se concede subvención nominativa para 2026 a las organizaciones integrantes del Consejo de Relaciones Laborales\n\nBases reguladoras:\nResolución por la que se concede subvención nominativa para 2026 a las organizaciones integrantes del Consejo de Relaciones Laborales\nURL bases reguladoras: www.jccm.es\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902362",
+  "_raw": {
+    "id": 1103923,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "CASTILLA-LA MANCHA",
+      "nivel3": "VICECONSEJERÍA DE EMPLEO, DIÁLOGO SOCIAL Y SEGURIDAD Y SALUD LABORAL"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902362",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 750000,
+    "mrr": false,
+    "descripcion": "Resolución por la que se concede subvención nominativa para 2026 a las organizaciones integrantes del Consejo de Relaciones Laborales",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de organizaciones empresariales, profesionales y patronales",
+        "codigo": "94.1"
+      },
+      {
+        "descripcion": "Actividades sindicales",
+        "codigo": "94.2"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES42 - CASTILLA LA MANCHA"
+      }
+    ],
+    "descripcionFinalidad": "Fomento del Empleo",
+    "descripcionBasesReguladoras": "Resolución por la que se concede subvención nominativa para 2026 a las organizaciones integrantes del Consejo de Relaciones Laborales",
+    "urlBasesReguladoras": "www.jccm.es",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "No tiene.",
+    "textFin": "No tiene.",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445168,
+        "descripcion": "Ley de Presupuestos",
+        "nombreFic": "PROGRAMA 322C LEY PRESUPUESTOS_094752.PDF",
+        "long": 165664,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445167,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "RESOLUCIONES SUBVENCIÓN NOMINATIVA 2026 CRRLL_090623.PDF",
+        "long": 1246982,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

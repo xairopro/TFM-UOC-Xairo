@@ -1,0 +1,387 @@
+{
+  "id": "EU-50136668TOPICSen",
+  "topic_id": "50136668TOPICSen",
+  "titulo": "European Partnership on Rare Diseases (ERDERA) (Phase 2)",
+  "descripcion": "European Partnership on Rare Diseases (ERDERA) (Phase 2)",
+  "organismo": "43108390",
+  "fecha_publicacion": "2026-02-10",
+  "fecha_limite": "2026-09-15",
+  "deadlines_todas": "2026-09-15",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2027\",\"2026\"],\"budgetTopicActionMap\":{\"113061\":[{\"action\":\"HORIZON-HLTH-2026-02-DISEASE-12 - HORIZON-COFUND HORIZON Programme Cofund Actions\",\"expectedGrants\":1,\"minContribution\":91300000,\"maxContribution\":91300000,\"budgetYearMap\":{\"2026\":\"48700000\",\"2027\":\"42600000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "HORIZON Programme Cofund Actions",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2026-02-DISEASE-12",
+  "text": "EU FUNDING & TENDERS – Topic: 50136668TOPICSen\nProgramme/Organism: 43108390\nTitle: European Partnership on Rare Diseases (ERDERA) (Phase 2)\nStatus: Open (31094502)\nType of action: HORIZON Programme Cofund Actions\nOpening date: 2026-02-10\nDeadline: 2026-09-15\nAll deadlines: 2026-09-15\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2027\",\"2026\"],\"budgetTopicActionMap\":{\"113061\":[{\"action\":\"HORIZON-HLTH-2026-02-DISEASE-12 - HORIZON-COFUND HORIZON Programme Cofund Actions\",\"expectedGrants\":1,\"minContribution\":91300000,\"maxContribution\":91300000,\"budgetYearMap\":{\"2026\":\"48700000\",\"2027\":\"42600000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}]}}\n\nDescription / Scope:\nEuropean Partnership on Rare Diseases (ERDERA) (Phase 2)\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2026-02-DISEASE-12",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "50136668TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2026-02-DISEASE-12",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "European Partnership on Rare Diseases (ERDERA) (Phase 2)",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "European Partnership on Rare Diseases (ERDERA) (Phase 2)",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "22B64BDEDB374235546866C8D450EE1A855B1EE827F2A671D4FA088CE8C99990",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-02-12T11:29:34.343\",\"content\":\"The submission session is now available for: HORIZON-HLTH-2026-02-DISEASE-12\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-02-11T16:13:34.263\",\"content\":\"\\u003cp\\u003ePlease note that the call opening is delayed, as we are experiencing technical issues.\\u003c/p\\u003e\"}]"
+      ],
+      "es_SortDate": [
+        "2026-02-10T00:00:00.000+0000"
+      ],
+      "keywords": [
+        "HORIZON-HLTH-2026-02-DISEASE-12",
+        "HORIZON-HLTH-2026-02",
+        "Anticancer therapy",
+        "Biobanks",
+        "Biomarkers",
+        "Cancer and its biological basis",
+        "Cardiac and Cardiovascular systems",
+        "Child health",
+        "Chronic diseases",
+        "Clinical data",
+        "Clinical information",
+        "Clinical management",
+        "Clinical medicine",
+        "Clinical neurology",
+        "Clinical research",
+        "Clinical targets",
+        "Clinical trials",
+        "Cohort studies",
+        "Collective Awareness Platforms",
+        "Comparative effectiveness research",
+        "Congenital heart disease",
+        "Degenerative diseases",
+        "Dermatology and venereal diseases",
+        "Electronic patient files",
+        "Endocrinology",
+        "Endocrinology and metabolism (including diabetes, hormones)",
+        "Epidemiology",
+        "Ethics in medical sciences",
+        "Gene therapy, cell therapy, regenerative medicine",
+        "General and internal medicine",
+        "Genomics, comparative genomics, functional genomics",
+        "Global health",
+        "Haematology",
+        "Health care",
+        "Health care sciences and services (including hospital administration, health care financing)",
+        "Health data",
+        "Health management systems",
+        "Health policies",
+        "Health policy and services",
+        "Health sciences",
+        "Health services, health care research",
+        "Health-related biotechnology",
+        "Healthcare system",
+        "Human genetics",
+        "Immunology",
+        "Integrated care",
+        "Interventional clinical trials",
+        "Medical biotechnology",
+        "Medical biotechnology related ethics",
+        "Medical statistics",
+        "Meta-analysis",
+        "Metabolism, biological basis of metabolism related disorders",
+        "Nephropathy",
+        "Neurodegenerative disorders",
+        "Neurological disorders (e.g. Alzheimer's disease, Huntington's disease, Parkinson's disease)",
+        "Neuropathy",
+        "Neurosciences (including psychophysiology)",
+        "Non-communicable diseases (except for neural/psychiatric and immunity-related)",
+        "Oncology",
+        "Ophthalmology",
+        "Other clinical medicine subjects",
+        "Otorhinolaryngology",
+        "Paediatrics",
+        "Patient care",
+        "Patient stratification",
+        "Pediatric cardiology",
+        "Personalised medicine",
+        "Public health",
+        "Quality of health care",
+        "Quality-of-life",
+        "Rare diseases",
+        "Registries",
+        "Research integrity and research misconduct",
+        "Respiratory systems",
+        "Risk factors",
+        "Social biomedical sciences (includes family planning, sexual health, psycho-oncology, political and social effects of biomedical research)",
+        "Social structure, inequalities, social mobility, interethnic relations",
+        "Technologies involving identifying the functioning of DNA, proteins and enzymes and how they influence the onset of disease and maintenance of well-being (gene-based diagnostics and therapeutic interventions (pharmacogenomics, gene-based",
+        "Technologies involving the manipulation of cells, tissues, organs or the whole organism (assisted reproduction)",
+        "Tissue banks",
+        "Translational medicine",
+        "Transplantation",
+        "Urology and nephrology"
+      ],
+      "language": [
+        "en"
+      ],
+      "type": [
+        "1"
+      ],
+      "focusArea": [],
+      "destinationDetails": [
+        "<p>Topics under this destination are directed towards the Key Strategic Orientation 3 “<em>A more resilient, competitive, inclusive, and democratic Europe</em>” of Horizon Europe’s strategic plan 2025-2027<sup>[1]</sup>.</p><p>Research and Innovation supported under this destination should contribute to the following expected impact, set out in the strategic plan impact summary for the Health Cluster: “<em>healthcare providers improve their ability to tackle and manage diseases (infectious diseases, including poverty-related and neglected diseases, non-communicable and rare diseases) thereby reducing the disease burden on patients and enabling healthcare systems to perform more effectively. It can be achieved through better understanding, prevention, diagnostics, treatment, management, and cure of diseases and their co- and multi-morbidities, more effective and innovative health technologies and medical countermeasures, better ability and preparedness to manage pandemic and/or epidemic outbreaks, and improved patient safety</em>”<em>.</em></p><p>Communicable and non-communicable diseases pose a significant health, societal, and economic threat worldwide, causing premature deaths and disabilities. Despite being largely preventable, only 6% of healthcare budgets are spent on prevention<sup>[2]</sup>. To address this, there is an urgent need to develop new public health interventions, preventive, diagnostic, and therapeutic approaches, alternatives to antimicrobials, as well as to improve existing preparedness and response strategies to create tangible impacts, considering sex/gender-related issues. To address these challenges, Research and Innovation will require international cooperation to leverage global expertise, access world-class research infrastructures and invest in priority needs, aligning with other funders of international cooperation in health Research and Innovation. The continuation of international partnerships and cooperation with international organisations is particularly needed to combat infectious diseases and respond to public health needs, including rare diseases and the global burden of non-communicable diseases.</p><p>In this Work Programme part, Destination “<em>Tackling diseases and reducing disease burden</em>” will focus on major societal challenges linked to the Commission's Political Guidelines for 2024-2029<sup>[3]</sup>, such as the fight against non-communicable and communicable diseases, mental health, preparedness and response to and surveillance of health threats and epidemics, reduction and treatment, of Antimicrobial-Resistant (AMR) infections, coherent also with wider EU initiatives such as the European Medical Countermeasures Strategy<sup>[4]</sup> and the forthcoming Critical Medicines Act<sup>[5]</sup>. In particular, the topics under this destination will support activities aiming at: i) new treatment and disease management options to reduce burden on non-communicable diseases and long-term conditions after post-bacterial and post-viral infections; ii) improve and protect mental health of children and young adults; iii) new prevention and treatment options for infectious diseases with epidemic potential; iv) innovative therapies for AMR critical pathogens; and v) support to second phases of the co-funded European Partnership on Rare Diseases<sup>[6]</sup> and the co-funded European Partnership for Pandemic Preparedness<sup>[7]</sup>.</p><p>To increase the impact of EU investments under Horizon Europe, the Commission encourages cooperation between EU-funded projects to enable cross-fertilisation and other synergies. This could range from networking to joint activities, such as participating in joint workshops, exchanging knowledge, developing and adopting best practices, or undertaking joint communication activities. Opportunities for potential synergies exist between projects funded under the same topic, as well as between projects funded under different topics, Clusters, or Pillars of Horizon Europe. For example, synergies could be sought with projects funded under the European health research infrastructures (Pillar I of Horizon Europe), the EIC<sup>[8]</sup> strategic challenges on health (Pillar III of Horizon Europe), or with projects on themes that cut across the Clusters under Pillar II of Horizon Europe, such as health security/emergencies under Cluster “Civil Security for Society”, Artificial Intelligence (AI)-based tools and technologies under Cluster “Digital, Industry and Space”, or antimicrobial resistance under Cluster “Food, Bioeconomy, Natural Resources, Agriculture and Environment”.</p><p>The Commission aims to foster synergies between Horizon Europe and other EU programmes. To this end, applicants are encouraged to explore the funding opportunities available through the EU4Health Programme (2021-2027)<sup>[9]</sup>,<sup> </sup>the EU's public health programme, as a means of capitalising on potential collaborations and maximising impact.</p><p><u>Expected impacts</u>:<u> </u></p><p>Proposals for topics under this destination should set out a credible pathway to contributing to tackling diseases and reducing disease burden, and more specifically to several of the following impacts:</p><ul level=\"0\"><li>Disease burden in the EU and worldwide is reduced through effective disease management, including through the development and integration of innovative preventive, diagnostic and therapeutic approaches, digital and other people-centred solutions for healthcare.</li><li>Premature mortality from non-communicable diseases is reduced by one third (by 2030), mental health and wellbeing are promoted, and the targets of the World Health Organization (WHO) Global Action Plan for the Prevention and Control of non-communicable diseases<sup>[10]</sup><sup>,</sup><sup>[11]</sup> are attained, with an immediate impact on the related disease burden (Disability-Adjusted Life Years - DALYs)<sup>[12]</sup>.</li><li>Healthcare systems benefit from strengthened Research and Innovation expertise, human capacities and know-how for combatting communicable and non-communicable diseases, including through international cooperation.</li><li>Citizens benefit from reduced (cross-border) health threat of epidemics and AMR pathogens, in the EU and worldwide<sup>[13]</sup><sup>,</sup><sup>[14]</sup><sup>,</sup><sup>[15]</sup>.</li><li>Patients and citizens are knowledgeable of disease threats, involved and empowered to make and shape decisions for their health, and better adhere to knowledge-based disease management strategies and policies (especially for controlling outbreaks and emergencies).</li> </ul><p>Legal entities established in China are not eligible to participate in both Research and Innovation Actions (RIAs) and Innovation Actions (IAs) falling under this destination. For additional information please see “Restrictions on the participation of legal entities established in China” found in the Annex B of the General Annexes of this Work Programme.</p><p>The protection of European communication networks has been identified as an important security interest of the Union and its Member States. Entities that are assessed as high-risk suppliers<sup>[16]</sup> of mobile network communication equipment (and any entities they own or control) are not eligible to participate as beneficiaries, affiliated entities and associated partners to topics identified as “subject to restrictions for the protection of European communication networks”. Please refer to the Annex B of the General Annexes of this Work Programme for further details.</p><p class=\"eui-u-font-s\">[1] <a href=\"https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/strategic-plan_en\">https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/strategic-plan_en</a></p><p class=\"eui-u-font-s\">[2] Preventive healthcare expenditure as a share of the current expenditure on healthcare: <a href=\"https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Preventive_healthcare_expenditure_as_a_share_of_current_expenditure_on_healthcare,_2021_(%25)_HCE2024.png\">https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Preventive_healthcare_expenditure_as_a_share_of_current_expenditure_on_healthcare,_2021_(%25)_HCE2024.png</a></p><p class=\"eui-u-font-s\">[3] <a href=\"https://commission.europa.eu/about/commission-2024-2029_en\">https://commission.europa.eu/about/commission-2024-2029_en</a></p><p class=\"eui-u-font-s\">[4] <a href=\"https://health.ec.europa.eu/health-emergency-preparedness-and-response-hera/preparedness/medical-countermeasures-strategy_en\">https://health.ec.europa.eu/health-emergency-preparedness-and-response-hera/preparedness/medical-countermeasures-strategy_en</a></p><p class=\"eui-u-font-s\">[5] <a href=\"https://health.ec.europa.eu/publications/proposal-critical-medicines-act_en\">https://health.ec.europa.eu/publications/proposal-critical-medicines-act_en</a></p><p class=\"eui-u-font-s\">[6] <a href=\"https://cordis.europa.eu/project/id/101156595\">https://cordis.europa.eu/project/id/101156595</a>, <a href=\"https://erdera.org\">https://erdera.org</a></p><p class=\"eui-u-font-s\">[7] <a href=\"https://cordis.europa.eu/project/id/101226682\">https://cordis.europa.eu/project/id/101226682</a>, <a href=\"https://beready4pandemics.eu\">https://beready4pandemics.eu</a></p><p class=\"eui-u-font-s\">[8] <a href=\"https://eic.ec.europa.eu\">https://eic.ec.europa.eu</a></p><p class=\"eui-u-font-s\">[9] <a href=\"https://commission.europa.eu/funding-tenders/find-funding/eu-funding-programmes/eu4health_en\">https://commission.europa.eu/funding-tenders/find-funding/eu-funding-programmes/eu4health_en</a></p><p class=\"eui-u-font-s\">[10] <a href=\"https://www.who.int/publications/i/item/9789241506236\">https://www.who.int/publications/i/item/9789241506236</a></p><p class=\"eui-u-font-s\">[11] <a href=\"https://www.who.int/publications/m/item/implementation-roadmap-2023-2030-for-the-who-global-action-plan-for-the-prevention-and-control-of-ncds-2023-2030\">https://www.who.int/publications/m/item/implementation-roadmap-2023-2030-for-the-who-global-action-plan-for-the-prevention-and-control-of-ncds-2023-2030</a></p><p class=\"eui-u-font-s\">[12] Disability-adjusted life year (DALY) is a quantitative indicator of overall disease burden, expressed as the number of years lost due to ill-health, disability or early death.</p><p class=\"eui-u-font-s\">[13] WHO global action plan on antimicrobial resistance, 2015</p><p class=\"eui-u-font-s\">[14] EU One Health Action Plan against AMR, 2017</p><p class=\"eui-u-font-s\">[15] <a href=\"https://www.ema.europa.eu/en/news/one-health-joint-framework-action-published-five-eu-agencies\">https://www.ema.europa.eu/en/news/one-health-joint-framework-action-published-five-eu-agencies</a></p><p class=\"eui-u-font-s\">[16] Entities assessed as “high-risk suppliers”, are currently set out in the second report on Member States’ progress in implementing the EU toolbox on 5G cybersecurity of 2023 (NIS Cooperation Group, Second report on Member States’ progress in implementing the EU Toolbox on 5G Cybersecurity, June 2023) and the related Communication on the implementation of the 5G cybersecurity toolbox of 2023 (Communication from the Commission: Implementation of the 5G cybersecurity Toolbox, Brussels, 15.6.2023 C(2023) 4049 final).</p>"
+      ],
+      "typeOfMGAs": [
+        "43027846"
+      ],
+      "callIdentifier": [
+        "HORIZON-HLTH-2026-02"
+      ],
+      "callccm2Id": [
+        "50137772"
+      ],
+      "destinationGroup": [
+        "45355244"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"HORIZON-HLTH-2026-02\",\"criterionCode\":\"HORIZON-COFUND\",\"criterionDescription\":\"HORIZON Programme Cofund Actions\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43442?topic\\u003dHORIZON-HLTH-2026-02-DISEASE-12\",\"startDate\":\"1770681600000\",\"endDate\":\"1789430400000\",\"mgaDescription\":\"HORIZON Action Grant Budget-Based\",\"mgaCode\":\"HORIZON-AG\"}]"
+      ],
+      "callTitle": [
+        "Partnerships in Health (2026/1)"
+      ],
+      "frameworkProgramme": [
+        "43108390"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Outcome:</p><p>This topic aims at supporting activities that are enabling or contributing to one or several expected impacts of destination “Tackling diseases and reducing disease burden”. To that end, proposals under this topic should aim to deliver results that are directed at, tailored towards and contributing to all the following expected outcomes:</p><ul level=\"0\"><li>The EU is reinforced as an internationally recognised driver of research and innovation in Rare Diseases (RD) and thereby substantially contributing to the achievement of the Sustainable Development Goals related to rare diseases.</li><li>Research funders align, adopt and implement their RD research policies allowing for the optimal generation and translation of knowledge into meaningful health products and interventions responding to the needs of people living with a rare disease across Europe and globally.</li><li>The RD research community at large benefit from and use an improved comprehensive knowledge framework and cross-border FAIR<sup>[1]</sup> data access and analysis, including rare diseases registries, by integrating the EU, national/regional data and information infrastructures to improve translational research.</li><li>People living with a rare disease, including those from underrepresented communities, benefit from a more timely, equitable access to innovative, sustainable and high-quality healthcare including novel diagnosis and treatments, taking stock of highly integrated research and healthcare systems.</li><li>Researchers, innovators -as well as people living with a rare disease and their advocates (as co-creators)- effectively constitute and operate into an integrated research and innovation ecosystem to deliver cost-effective diagnosis and treatments.</li><li>Public and private actors, including civil society (e.g. Non-Governmental Organisations, charities), establish coordinated and efficient multi-stakeholder collaborations at EU and national (including regional) levels, allowing for more effective clinical research, for example aiming at improved success rates of therapeutic development.</li> </ul><p class=\"topicdescriptionkind\">Scope:</p><p>This topic targets an action under Article 24(2) HE Regulation aiming to add additional activities to existing grant agreements, together with additional partners (if relevant) that would deliver on those activities. The award of a grant to continue the partnership in accordance with this call should be based on a proposal submitted by the coordinator of the consortium funded under topic HORIZON-HLTH-2023-DISEASE-07-01: “European Partnership on Rare Diseases” and the additional activities (which may include additional partners) to be funded by the grant should be subject to an evaluation. Taking into account that the present action is a continuation of the topic HORIZON-HLTH-2023-DISEASE-07-01: “European Partnership on Rare Diseases” and foresees an amendment to an existing grant agreement, the proposal should present the additional activities (including additional partners) to be covered by the award primarily in terms of grant agreement revisions. The existing action, the “European Rare Diseases Research Alliance” (ERDERA) can only reasonably be enhanced and enlarged on the basis of the existing consortium<sup>[2]</sup>, as the co-funded framework established cannot simply be replaced without significant disruption, given the top-quality, long-term expertise and wide coverage of the beneficiaries comprising this consortium.</p><p>The proposal should thus present the specific additional activities (including, if relevant, additional partners) foreseen for the second instalment of the partnership. The partnership should continue to contribute to priorities of the communication “On effective, accessible and resilient health systems” (COM(2014) 215 final)<sup>[3]</sup>, the “Communication from the Commission on enabling the digital transformation of health and care in the Digital Single Market; empowering citizens and building a healthier society” (COM(2018) 233 final)<sup>[4]</sup>, the \"Council conclusions on the Future of the European Health Union: A Europe that cares, prepares and protects\" (9900/24)<sup>[5]</sup> and support the objectives of the EU4Health Programme (2021-2027)<sup>[6]</sup>.</p><p>This partnership should also contribute to achieving the objectives of the Pharmaceutical Strategy for Europe<sup>[7]</sup>, in terms of fulfilling unmet medical needs and catalysing the clinical development of medicines for rare diseases (i.e. “orphan medicinal products”) and ensuring that the benefits of research and innovation reach patients in the EU and the Associated Countries. Moreover, the partnership is expected to contribute and align with the objectives of the Directive 2911/24/EU on the application of patients’ rights in cross-border healthcare<sup>[8]</sup> and of the European Health Data Space (EHDS)<sup>[9]</sup>.</p><p>Thanks to its capacity to bring together different stakeholders (e.g. research funders, health authorities, healthcare institutions, innovators, policymakers), the partnership will strengthen the European Research Area and consolidate the European research and innovation ecosystem with a critical mass of resources, and implement a long-term Strategic Research and Innovation Agenda (SRIA)<sup>[10]</sup>.</p><p>The co-funded European Partnership on Rare Diseases should be implemented based on the priorities identified in the SRIA and through a joint programme of activities ranging from coordinating and funding transnational and clinical research to highly integrative and community-driven ‘in-house’ activities such as innovation strategies for the efficient exploitation of research results, EU clinical trial preparedness activities, optimisation of research infrastructures<sup>[11]</sup> and resources, including networking, training and dissemination activities. To this end, proposals are expected to build on the first phase of this partnership and should be structured along the following main objectives:</p><ul level=\"0\"><li>Launch joint transnational calls for RD research and innovation actions, aligned with SRIA priorities, to fund patient-need-driven research across Europe, ensuring effective cross-border collaboration and scalability, while demonstrating short, medium and long-term impact and value creation through financial support to third parties and a rigorous monitoring strategy of research outputs.</li><li>Further establish, strengthen and develop the different components of a European Clinical Research Network (CRN) to boost clinical trial readiness and capacity to readily implement well-coordinated multi-national clinical studies on rare diseases, building on the European Reference Networks (ERNs). The partnership is expected to showcase the CRN’s contribution to the cost-effective therapeutic development and decrease in diagnostic timelines linked with improvement in health outcomes ensuring durable collaboration among research, clinical, and regulatory actors.</li><li>Advance and consolidate the capacity building of the RD data ecosystem by supporting interoperable and/or federated cross-border access and analysis of FAIR research and healthcare data, including rare disease registries, ensuring ongoing their usability more efficient translational and clinical research, including regulatory science. The relevant European research infrastructures in the area of health should be exploited for available services, expertise and digital tools for the management and analyses of FAIR health data, as appropriate.</li><li>Integrate basic, pre-clinical, clinical and implementation research to streamline the Research and Innovation (R&amp;I) continuum and minimise redundancies, ensuring lasting impact on the quality of life of the people living with a rare disease while strengthening systemic efficiency and cost-effectiveness. To that end, the partnership should mobilise a significant investment to spur innovation, by aligning regional, national and European R&amp;I priorities and improving EU competitiveness in R&amp;I.</li><li>Support research and innovation across key intervention areas (prevention, diagnosis, treatment), and promote the sustainable uptake of existing health innovations in clinical practice through coordinated training, implementation research, and active stakeholder engagement.</li><li>Contribute to and align with the International Rare Disease Research Consortium (IRDiRC)<sup>[12]</sup> to reinforce Europe’s global leadership, ensure policy coherence, and sustain long-term strategic alignment beyond the lifetime of the partnership. To that end, an optimised assessment of the European contribution to IRDiRC would be beneficial to ensure complementarity and avoid overlaps.</li> </ul><p>This topic requires the effective contribution of social sciences and humanities (SSH) disciplines and the involvement of SSH experts, institutions as well as the inclusion of relevant SSH expertise, in order to produce meaningful and significant effects enhancing the societal impact of the related research activities.</p><p>Collaboration with the European Commission's Joint Research Centre (JRC) should be considered to materialise the sharing of (meta)data regarding registries for rare diseases, exchanging data for clinical studies and research based on a unified pseudonymisation tool provided by the European Platform on Rare Disease Registration (EU RD Platform) and related tools and services, as well as in other areas of mutual interest, such as training and capacity building.</p><p class=\"topicdescriptionkind\">null</p><div class=\"eui-u-mt-s\"><p>The total indicative budget for the topic is EUR 91.3 million committed in annual instalments over the two years, 2026 and 2027 (EUR 48.7 million from the 2026 budget and EUR 42.6 million from the 2027 budget).</p></div><p class=\"eui-u-font-s\">[1] See definition of FAIR data in the introduction to this Work Programme part.</p><p class=\"eui-u-font-s\">[2] Consortium which was awarded the grant under topic HORIZON-HLTH-2023-DISEASE-07-01: “European Partnership on Rare Diseases”.</p><p class=\"eui-u-font-s\">[3] <a href=\"https://health.ec.europa.eu/publications/communication-commission-com2014-215-final_en\">https://health.ec.europa.eu/publications/communication-commission-com2014-215-final_en</a></p><p class=\"eui-u-font-s\">[4] <a href=\"https://health.ec.europa.eu/publications/commission-communication-com-2018-233_en\">https://health.ec.europa.eu/publications/commission-communication-com-2018-233_en</a></p><p class=\"eui-u-font-s\">[5] <a href=\"https://www.consilium.europa.eu/en/press/press-releases/2024/06/21/european-health-union-council-calls-on-commission-to-keep-health-as-a-priority\">https://www.consilium.europa.eu/en/press/press-releases/2024/06/21/european-health-union-council-calls-on-commission-to-keep-health-as-a-priority</a></p><p class=\"eui-u-font-s\">[6] <a href=\"https://commission.europa.eu/funding-tenders/find-funding/eu-funding-programmes/eu4health_en\">https://commission.europa.eu/funding-tenders/find-funding/eu-funding-programmes/eu4health_en</a></p><p class=\"eui-u-font-s\">[7] <a href=\"https://health.ec.europa.eu/medicinal-products/pharmaceutical-strategy-europe_en\">https://health.ec.europa.eu/medicinal-products/pharmaceutical-strategy-europe_en</a></p><p class=\"eui-u-font-s\">[8] <a href=\"https://eur-lex.europa.eu/eli/dir/2011/24/oj/eng\">https://eur-lex.europa.eu/eli/dir/2011/24/oj/eng</a> in particular articles 12 and 13 respectively on European Reference Networks (ERNs) and rare diseases</p><p class=\"eui-u-font-s\">[9] <a href=\"https://health.ec.europa.eu/ehealth-digital-health-and-care/european-health-data-space-regulation-ehds_en\">https://health.ec.europa.eu/ehealth-digital-health-and-care/european-health-data-space-regulation-ehds_en</a></p><p class=\"eui-u-font-s\">[10] <a href=\"https://erdera.org/strategic-research-innovation-agenda-sria\">https://erdera.org/strategic-research-innovation-agenda-sria</a></p><p class=\"eui-u-font-s\">[11] The relevant European research infrastructures in the area of health should be exploited for available services, expertise and digital tools for dataset creation, standardisation, data discovery, secure access, management, visualisation, harmonisation, analysis and other functions as appropriate. The catalogue of European Strategy Forum on Research Infrastructures (ESFRI) research infrastructures portfolio can be browsed on the ESFRI website: <a href=\"https://ri-portfolio.esfri.eu\">https://ri-portfolio.esfri.eu</a></p><p class=\"eui-u-font-s\">[12] <a href=\"https://irdirc.org\">https://irdirc.org</a></p>"
+      ],
+      "identifier": [
+        "HORIZON-HLTH-2026-02-DISEASE-12"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-09-15T00:00:00.000+0000"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2026-02-DISEASE-12"
+      ],
+      "tags": [
+        "ATMP",
+        "Advanced Therapy Medicinal Product",
+        "IRDiRC",
+        "International Rare Diseases Research Consortium",
+        "RD Partnership",
+        "clinical research",
+        "diagnosis",
+        "diagnostics",
+        "orphan drugs",
+        "orphan medicinal products",
+        "rare diseases",
+        "therapies"
+      ],
+      "cenTagsA": [
+        "TOPICS-004660",
+        "TOPICS-004661",
+        "TOPICS-004662",
+        "TOPICS-004663",
+        "TOPICS-004664",
+        "TOPICS-004665",
+        "TOPICS-004666",
+        "TOPICS-004667",
+        "TOPICS-004668",
+        "TOPICS-004669",
+        "TOPICS-004670",
+        "TOPICS-000258",
+        "TOPICS-004671",
+        "TOPICS-004672",
+        "TOPICS-004673",
+        "TOPICS-004674",
+        "TOPICS-000354",
+        "TOPICS-004675",
+        "TOPICS-000254",
+        "TOPICS-004676",
+        "TOPICS-004677",
+        "TOPICS-004678",
+        "TOPICS-004679",
+        "TOPICS-004680",
+        "TOPICS-003279",
+        "TOPICS-000463",
+        "TOPICS-003110",
+        "TOPICS-003158",
+        "TOPICS-000068",
+        "TOPICS-004681",
+        "TOPICS-004682",
+        "TOPICS-004683",
+        "TOPICS-004684",
+        "TOPICS-000348",
+        "TOPICS-000063",
+        "TOPICS-004685",
+        "TOPICS-000066",
+        "TOPICS-004686",
+        "TOPICS-004687",
+        "TOPICS-004192",
+        "TOPICS-000255",
+        "TOPICS-000256",
+        "TOPICS-004688",
+        "TOPICS-002193",
+        "TOPICS-004689",
+        "TOPICS-004690",
+        "TOPICS-004691",
+        "TOPICS-004692",
+        "TOPICS-004693",
+        "TOPICS-004694",
+        "TOPICS-000067",
+        "TOPICS-004695",
+        "TOPICS-004696",
+        "TOPICS-002197",
+        "TOPICS-004697",
+        "TOPICS-004698",
+        "TOPICS-003536",
+        "TOPICS-002483",
+        "TOPICS-002485",
+        "TOPICS-004699",
+        "TOPICS-004700",
+        "TOPICS-004701",
+        "TOPICS-004702",
+        "TOPICS-003155",
+        "TOPICS-000355",
+        "TOPICS-004703",
+        "TOPICS-004704",
+        "TOPICS-000462",
+        "TOPICS-004705",
+        "TOPICS-004706",
+        "TOPICS-004707",
+        "TOPICS-004708",
+        "TOPICS-003128",
+        "TOPICS-000259",
+        "TOPICS-003153",
+        "TOPICS-003636",
+        "TOPICS-000352",
+        "TOPICS-003206",
+        "TOPICS-003354",
+        "TOPICS-004709",
+        "TOPICS-002734",
+        "TOPICS-004193",
+        "TOPICS-003280",
+        "TOPICS-004710",
+        "TOPICS-003281",
+        "TOPICS-004711",
+        "TOPICS-000349",
+        "TOPICS-002192",
+        "TOPICS-004712",
+        "TOPICS-002194",
+        "TOPICS-000823",
+        "TOPICS-004713",
+        "TOPICS-004714",
+        "TOPICS-004715",
+        "TOPICS-004716",
+        "TOPICS-004717",
+        "TOPICS-000033"
+      ],
+      "esDA_QueueDate": [
+        "2026-03-02T09:26:28.239+0100"
+      ],
+      "destinationDescription": [
+        "Tackling diseases and reducing disease burden (2026-27)"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"HORIZON-COFUND HORIZON Programme Cofund Actions\",\"typeOfMGA\":[{\"id\":43027846,\"abbreviation\":\"HORIZON-AG\",\"description\":\"HORIZON Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-02-10\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-09-15\"]}]"
+      ],
+      "startDate": [
+        "2026-02-10T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "status": [
+        "31094502"
+      ],
+      "supportInfo": [
+        "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> – find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> – ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> – get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (‘third-countries’).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> – contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> – the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> – consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "destination": [
+        "48080599"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility Conditions, proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>Admissibility conditions are <strong><em>﻿</em></strong>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex A</a> and <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex E</a> of the Horizon Europe Work Programme General Annexes.</p><p>Proposal page limits and layout are described in Part B of the Application Form available in the Submission System.</p><p><br></br></p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>Eligible countries are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p>A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a>.</p><p><br></br></p></div></div><div><h4>3. Other Eligibility Conditions</h4><div class=\"eui-u-mt-s\"><p>The proposal must be submitted by the coordinator of the consortium funded under topic HORIZON-HLTH-2023-DISEASE-07-01: “European Partnership on Rare Diseases”. This eligibility condition is without prejudice to the possibility to include additional partners.</p></div><div class=\"eui-u-mt-s\"><p>In recognition of the opening of the US National Institutes of Health’s programmes to European researchers, any legal entity established in the United States of America is eligible to receive Union funding. Because the US contribution will be considered for the calculation of the EU contribution to the partnership, the concerned consortium of research funders from eligible EU Members States and Associated Countries must expressly agree to this participation.</p></div><div class=\"eui-u-mt-s\"><p>The Joint Research Centre (JRC) may participate as member of the consortium selected for funding as a beneficiary with zero funding, or as an associated partner. The JRC will not participate in the preparation and submission of the proposal - see General Annex B.</p></div><div class=\"eui-u-mt-s\"><p>Other eligibility conditions are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p><br></br></p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>Financial and operational capacity and exclusion are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex C</a> of the Work Programme General Annexes.</p><p><br></br></p></div></div><div><h4>5a. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>The evaluation will take into account the existing context and the scope of the initial evaluation as relevant, and related obligations enshrined in the grant agreement.</p><p>If the proposal is successful, the next stage of the procedure will be grant agreement amendment preparations.</p><p>If the outcome of amendment preparations is an award decision, the coordinator of the consortium funded under topic HORIZON-HLTH-2023-DISEASE-07-01: “European Partnership on Rare Diseases” will be invited to submit an amendment to the grant agreement, on behalf of the beneficiaries.</p></div><div class=\"eui-u-mt-s\"><p>Award criteria, scoring and thresholds are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex D</a> of the Work Programme General Annexes.</p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>The thresholds for each criterion will be 4 (Excellence), 4 (Impact) and 4 (Implementation). The cumulative threshold will be 12.</p></div><div class=\"eui-u-mt-s\"><p>Submission and evaluation processes are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>Indicative timeline for evaluation and grant agreement are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes.</p><p><br></br></p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>This action is intended to be implemented in the form of an amendment of the grant agreement concluded pursuant to Article 24(2) of the Horizon Europe Regulation.</p><p>For the additional activities covered by this action:</p><ul level=\"0\"><li>The funding rate is 50% of the eligible costs. This is justified by the pooling of proposers' in-kind contributions and in-house activities and by the nature of activities to be performed: in addition of joint calls, highly integrative activities (EU clinical trial preparedness, training, patients’ empowerment activities etc.) contributing to enhance the rare disease research and innovation ecosystem in the EU and Associated Countries, and beyond.</li><li>Beneficiaries may provide financial support to third parties (FSTP). The support to third parties can only be provided in the form of grants. As a co-funded European Partnership, providing financial support to third parties is a core activity of this action in order to achieve its objectives. Consequently, the EUR 60 000 threshold laid down in Article 207 of Financial Regulation (EU, Euratom) 2024/2509 does not apply. The maximum amount of FSTP that may be awarded to any single third party for the duration of the partnership is set at EUR 10.00 million. This ceiling is justified by the fact that FSTP is a primary activity of this action, by its expected duration of 7-10 years (exceeding a standard project lifespan), and by the extensive experience gained under predecessor partnerships. This ceiling is also justified by the fact that research on rare diseases, in particular clinical research, is complex and costly to put in place due to the scarcity, for each disease, of patients, of knowledge, of clinicians and of researchers, and by the request, if possible, to group diseases for research purposes, in order to tackle several diseases out of the estimated 6-8.000 rare diseases. However, if the objectives of the action would otherwise be impossible or overly difficult (and duly justified in the proposal) the maximum amount may be higher.</li><li>The starting date of the grant awarded under this topic may be as of the submission date of the application. Applicants must justify the need for a retroactive starting date in their application. Costs incurred from the starting date of the action may be considered eligible (and will be reflected in the entry into force date of the amendment to the grant agreement).</li> </ul></div><div class=\"eui-u-mt-s\"><p>The granting authority may, up to 4 years after the end of the action, object to a transfer of ownership or to the exclusive licensing of results, as set out in the specific provision of Annex 5.</p></div><div class=\"eui-u-mt-s\"><p>Legal and financial set-up of the grants are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex G</a> of the Work Programme General Annexes.</p><p><br></br></p></div></div></div><div class=\"eui-u-mt-l\"><h4>Specific conditions</h4> <div class=\"eui-u-mt-s\"><p>Specific conditions are described in the specific topic of the Work Programme.</p><p><br></br></p></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Application and evaluation forms and additional documents:</h4> <div class=\"eui-u-mt-s\"><p><strong>Application and evaluation form templates</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-cofund-top-up_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (HE COFUND top-up)</a> - the application form specific to this call is available in the Submission System</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/ef/ef_he-cofund_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard evaluation form (HE COFUND)</a> - will be used with the necessary adaptations</p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a></p><p><strong>Model Grant Agreement (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE MGA</a></p><p><strong>Call-specific instructions</strong> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/information-on-clinical-studies_he_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Information on clinical studies (HE)</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/information-on-financial-support-to-third-parties_he_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Information on financial support to third parties (HE)</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/annual-work-programme_he-cofund_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Annual work programme (HE COFUND)</a></p></div><h4>Additional documents</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-1-general-introduction_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 1. General Introduction</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-4-health_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 4. Health</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 15. General Annexes</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0695\" rel=\"noopener noreferrer\" target=\"_blank\">HE Framework Programme 2021/695</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021D0764\" rel=\"noopener noreferrer\" target=\"_blank\">HE Specific Programme Decision 2021/764</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Decision authorising the use of lump sum contributions under the Horizon Europe Programme</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a></p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "European Partnership on Rare Diseases (ERDERA) (Phase 2)"
+      ],
+      "esST_checksum": [
+        "22B64BDEDB374235546866C8D450EE1A855B1EE827F2A671D4FA088CE8C99990"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "ccm2Id": [
+        "50136668"
+      ],
+      "REFERENCE": [
+        "50136668TOPICSen"
+      ],
+      "programmeDivision": [
+        "43108642",
+        "43108618",
+        "43108638",
+        "43108591",
+        "43108628",
+        "43108557",
+        "43108541",
+        "43108390"
+      ],
+      "crossCuttingPriorities": [
+        "SocietalEngagement",
+        "SSH",
+        "EoscAndFairData",
+        "PART-COFUND",
+        "SocInnov",
+        "INCO",
+        "DigitalAgenda",
+        "AI"
+      ],
+      "esDA_FirstIngestDate": [
+        "2025-12-12T00:01:12.337+0100"
+      ],
+      "esDA_IngestDate": [
+        "2026-03-02T09:26:28.258+0100"
+      ],
+      "typesOfAction": [
+        "HORIZON Programme Cofund Actions"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2026-02-DISEASE-12"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2027\",\"2026\"],\"budgetTopicActionMap\":{\"113061\":[{\"action\":\"HORIZON-HLTH-2026-02-DISEASE-12 - HORIZON-COFUND HORIZON Programme Cofund Actions\",\"expectedGrants\":1,\"minContribution\":91300000,\"maxContribution\":91300000,\"budgetYearMap\":{\"2026\":\"48700000\",\"2027\":\"42600000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}]}}"
+      ],
+      "specificObjective": []
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "European Partnership on Rare Diseases (ERDERA) (Phase 2). Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-HLTH-2026-02-DISEASE-12",
+    "score": 3.0
+  }
+}

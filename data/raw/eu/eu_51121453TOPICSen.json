@@ -1,0 +1,173 @@
+{
+  "id": "EU-51121453TOPICSen",
+  "topic_id": "51121453TOPICSen",
+  "titulo": "EIC Transition Open",
+  "descripcion": "EIC Transition Open",
+  "organismo": "43108390",
+  "fecha_publicacion": "2026-04-22",
+  "fecha_limite": "2026-09-16",
+  "deadlines_todas": "2026-09-16",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"114160\":[{\"action\":\"HORIZON-EIC-2026-TRANSITIONOPEN - HORIZON-EIC HORIZON EIC Grants\",\"expectedGrants\":40,\"minContribution\":500000,\"maxContribution\":2500000,\"budgetYearMap\":{\"2026\":\"100000000\"},\"plannedOpeningDate\":\"2026-04-22\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-16\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "HORIZON EIC Grants",
+  "estado": "Forthcoming",
+  "estado_codigo": "31094501",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-TRANSITIONOPEN",
+  "text": "EU FUNDING & TENDERS – Topic: 51121453TOPICSen\nProgramme/Organism: 43108390\nTitle: EIC Transition Open\nStatus: Forthcoming (31094501)\nType of action: HORIZON EIC Grants\nOpening date: 2026-04-22\nDeadline: 2026-09-16\nAll deadlines: 2026-09-16\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"114160\":[{\"action\":\"HORIZON-EIC-2026-TRANSITIONOPEN - HORIZON-EIC HORIZON EIC Grants\",\"expectedGrants\":40,\"minContribution\":500000,\"maxContribution\":2500000,\"budgetYearMap\":{\"2026\":\"100000000\"},\"plannedOpeningDate\":\"2026-04-22\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-16\"]}]}}\n\nDescription / Scope:\nEIC Transition Open\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-TRANSITIONOPEN",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "51121453TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-TRANSITIONOPEN",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "EIC Transition Open",
+    "weight": 3.0,
+    "groupById": "2",
+    "content": "EIC Transition Open",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "6A96CF92EC48413C62446DADB1203D32848B1E259CF14ACF196A9931FF97998F",
+    "metadata": {
+      "latestInfos": [
+        "[]"
+      ],
+      "es_SortDate": [
+        "2026-04-22T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>The submission system is planned to be opened on the date stated on the topic header.</p>"
+      ],
+      "keywords": [
+        "HORIZON-EIC-2026-TRANSITIONOPEN",
+        "HORIZON-EIC-2026-TRANSITIONOPEN"
+      ],
+      "sortStatus": [
+        "2"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>Proposals must build on results already achieved within an eligible project that are, at least, at experimental proof of concept (applications must have completed all elements of Technology Readiness Level 3) and should not be beyond TRL4, i.e. that all elements of TRL4 have already been completed. Proposals building on project results at other TRLs level are not eligible.</p><p>For more information on eligible projects, please consult the <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026</a> and the <a href=\"https://eic.ec.europa.eu/eic-funding-opportunities/eic-transition_en\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Transition website</a>.</p><p>You can apply for EIC Transition either as:</p><p>- A single legal entity established in a Member State or an Associated Country (‘mono-beneficiary’)</p><p>- A small consortium of two independent legal entities from two different Member States or Associated Countries or</p><p>- A consortium of minimum three and maximum five independent legal entities (‘multi-beneficiary’) following standard rules i.e. must include at least one legal entity established in a Member State and at least two other independent legal entities, each established in different Member States or Associated Countries.</p><p>The standard admissibility and eligibility conditions as well as the eligibility of applicants from third countries are detailed in Annex 2 of the <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026</a>.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p><p>Sections 1 to 3 and the cover page (that includes the information about the related project on which the current EIC Transition proposal is built on) of the part B of your proposal, corresponding respectively to the evaluation criteria Excellence, Impact, and Quality and Efficiency of the Implementation, must consist of a maximum of 22 A4 pages. </p><p>Excess pages will be automatically made invisible, and will not be taken into consideration by the evaluators. Please also consult Annex 2 of the&#xa0;<a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026</a>.</p></div></div><div><h4>2. Eligible countries</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p>A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a>.</p><p>The eligibility of applicants from third countries is explained Annex 2 of the <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026</a>.</p></div></div><div><h4>3. Other Eligibility Conditions</h4><div class=\"eui-u-mt-s\"><p>The EIC Transition is restricted to proposals based on results generated by the eligible projects described in the <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026</a>.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>Described in Annex 2 of the <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026</a>.</p></div></div><div><h4>5a. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>Described in section III of the <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026</a>.</p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>Described in section III of the <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026</a> and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>Described in section III of the <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026</a>.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>Please refer to the Model Grant Agreement (MGA) used for EIC actions under Horizon Europe.</p></div></div></div><div class=\"eui-u-mt-l\"><h4>Specific conditions</h4> <div class=\"eui-u-mt-s\"><p>Described in the <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026</a>.</p></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\"><p><a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026</a></p><p><a href=\"https://eic.ec.europa.eu/eic-frequently-asked-questions_en#eic-transition\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Frequently Asked Questions (FAQs)</a></p><p>Standard application form (will be made available in the submission workflow). </p><p><u>Do not use previous years' template versions as this may lead to incomplete applications.</u></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/ef/ef_he-eic-transition_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard evaluation form (HE EIC TRANSITION)</a></p></div><h4>Application and evaluation forms and model grant agreement (MGA):</h4> <div class=\"eui-u-mt-s\"><p><br></br></p><p><strong>Application form templates</strong></p><p>Standard application form (will be made available in the submission workflow).</p><p><u>Do not use previous years' template versions as this may lead to incomplete applications.</u></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/ef/ef_he-eic-transition_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard evaluation form (HE EIC TRANSITION)</a></p><p>Please use the application form that you will find in the Submission System. You can find examples of standard application forms in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?programmePeriod=2021-2027&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Reference Documents page</a>.</p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a> </p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/ls-mga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Lump Sum MGA</a></p><p><strong>Call-specific instructions</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/temp-form/af/detailed-budget-table_he-ls-euratom_en.xlsm\" rel=\"noopener noreferrer\" target=\"_blank\">Detailed budget table (HE LS)</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/information-on-clinical-studies_he_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Information on clinical studies (HE)</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-funding-what-do-i-need-to-know_he_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Guidance: \"Lump sums - what do I need to know?\"</a></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021D0764\" rel=\"noopener noreferrer\" target=\"_blank\">HE Specific Programme Decision 2021/764</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Decision authorising the use of lump sum contributions under the Horizon Europe Programme</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a></p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p><p><br></br></p></div></div>"
+      ],
+      "title": [
+        "EIC Transition Open"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "6A96CF92EC48413C62446DADB1203D32848B1E259CF14ACF196A9931FF97998F"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43027849"
+      ],
+      "callIdentifier": [
+        "HORIZON-EIC-2026-TRANSITIONOPEN"
+      ],
+      "ccm2Id": [
+        "51121453"
+      ],
+      "callccm2Id": [
+        "51121462"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "51121453TOPICSen"
+      ],
+      "links": [
+        "[]"
+      ],
+      "callTitle": [
+        "EIC Transition 2026"
+      ],
+      "frameworkProgramme": [
+        "43108390"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Objective:</p><p>EIC Transition funds innovation activities that go beyond the experimental proof of principle in laboratory (applications must have completed all elements of Technology Readiness Level 3). It supports both the maturation and validation of your novel technology from the lab to the relevant application environments (by making use of prototyping, formulation, models, user testing or other validation tests) as well as explorations and development of a sustainable business plan and business model towards commercialisation into high potential markets.<br><br>Your proposed activities must include further technology development on the results achieved in a previous project and follow user-centric methodologies to increase chances of the innovation’s future commercial success in the market. EIC Transition projects should address, in a balanced way, both technology and market/business development, possibly including iterative learning processes based on early customer or user feedback. These activities should include, subject to the level of maturity of the technology, a suitable mix of technology development and validation activities to increase the maturity of the technology beyond proof of concept to viable demonstrators of the technology in the intended field of application (i.e., applications must have completed all elements of Technology Readiness Level 3 up to TRL 5 to 6 at the end of the project). The activities must in all cases address improving market readiness towards commercialisation and deployment (market research, value proposition, refine incipient business plan63 and validate incipient business model, intellectual property protection, etc.) and aspects of regulation, certification and standardisation (if relevant), aimed at getting both the technology and the business idea investment ready.<br><br>More information can be found in the European Innovation Council Work Programme 2026.</p>"
+      ],
+      "identifier": [
+        "HORIZON-EIC-2026-TRANSITIONOPEN"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43121666",
+        "43121633",
+        "43108390"
+      ],
+      "crossCuttingPriorities": [],
+      "esDA_FirstIngestDate": [
+        "2026-03-06T13:13:35.562+0100"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-09-16T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-03-10T09:58:20.510+0100"
+      ],
+      "typesOfAction": [
+        "HORIZON EIC Grants"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-TRANSITIONOPEN"
+      ],
+      "es_Combine": [
+        "2"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-TRANSITIONOPEN"
+      ],
+      "tags": [],
+      "cenTagsA": [
+        "TOPICS-008300",
+        "TOPICS-008301",
+        "TOPICS-008302"
+      ],
+      "esDA_QueueDate": [
+        "2026-03-10T09:58:20.497+0100"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"HORIZON-EIC HORIZON EIC Grants\",\"typeOfMGA\":[{\"id\":43027849,\"abbreviation\":\"HORIZON-AG-LS\",\"description\":\"HORIZON Lump Sum Grant\"}]}],\"status\":{\"id\":31094501,\"abbreviation\":\"Forthcoming\",\"description\":\"Forthcoming\"},\"plannedOpeningDate\":\"2026-04-22\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-09-16\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"114160\":[{\"action\":\"HORIZON-EIC-2026-TRANSITIONOPEN - HORIZON-EIC HORIZON EIC Grants\",\"expectedGrants\":40,\"minContribution\":500000,\"maxContribution\":2500000,\"budgetYearMap\":{\"2026\":\"100000000\"},\"plannedOpeningDate\":\"2026-04-22\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-16\"]}]}}"
+      ],
+      "startDate": [
+        "2026-04-22T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p><a href=\"https://eic.ec.europa.eu/eic-frequently-asked-questions/faqs-eic-transition_en\" rel=\"noopener noreferrer\" target=\"_blank\">EIC TRANSITION FAQs</a></p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> – find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> – ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> – get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (‘third-countries’).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> – contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> – the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> – consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+      ],
+      "status": [
+        "31094501"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "EIC Transition Open. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-TRANSITIONOPEN",
+    "score": 3.0
+  }
+}

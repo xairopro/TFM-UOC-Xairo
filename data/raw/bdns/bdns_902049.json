@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902049",
+  "id_interno": 1103610,
+  "numero_convocatoria": "902049",
+  "organismo": "LOCAL — VALLE DE EGÜÉS/EGUESIBAR — AYUNTAMIENTO DE VALLE DE EGÜÉS/EGUESIBAR",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "2026-06-08",
+  "fecha_fin_solicitud": "2026-06-19",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA DE AYUDAS ECONÓMICAS EXTRAORDINARIAS PARA USO DE COMEDOR ESCOLAR 2026-2027",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+  "regiones": "ES22 - COMUNIDAD FORAL DE NAVARRA",
+  "finalidad": "Servicios Sociales y Promoción Social",
+  "bases_reguladoras": "CONVOCATORIA DE AYUDAS ECONÓMICAS EXTRAORDINARIAS PARA USO DE COMEDOR ESCOLAR 2026-2027",
+  "url_bases_reguladoras": "https://www.valledeegues.com/ayudas-y-subvenciones/",
+  "presupuesto": "50.000,00 €",
+  "presupuesto_total_num": 50000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902049",
+  "text": "CONVOCATORIA BDNS Nº 902049\nOrganismo: LOCAL — VALLE DE EGÜÉS/EGUESIBAR — AYUNTAMIENTO DE VALLE DE EGÜÉS/EGUESIBAR\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud: 2026-06-08 → 2026-06-19 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 50.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES\nRegiones: ES22 - COMUNIDAD FORAL DE NAVARRA\nFinalidad: Servicios Sociales y Promoción Social\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA DE AYUDAS ECONÓMICAS EXTRAORDINARIAS PARA USO DE COMEDOR ESCOLAR 2026-2027\n\nBases reguladoras:\nCONVOCATORIA DE AYUDAS ECONÓMICAS EXTRAORDINARIAS PARA USO DE COMEDOR ESCOLAR 2026-2027\nURL bases reguladoras: https://www.valledeegues.com/ayudas-y-subvenciones/\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902049",
+  "_raw": {
+    "id": 1103610,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "VALLE DE EGÜÉS/EGUESIBAR",
+      "nivel3": "AYUNTAMIENTO DE VALLE DE EGÜÉS/EGUESIBAR"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902049",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 50000,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA DE AYUDAS ECONÓMICAS EXTRAORDINARIAS PARA USO DE COMEDOR ESCOLAR 2026-2027",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+        "codigo": "R"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES22 - COMUNIDAD FORAL DE NAVARRA"
+      }
+    ],
+    "descripcionFinalidad": "Servicios Sociales y Promoción Social",
+    "descripcionBasesReguladoras": "CONVOCATORIA DE AYUDAS ECONÓMICAS EXTRAORDINARIAS PARA USO DE COMEDOR ESCOLAR 2026-2027",
+    "urlBasesReguladoras": "https://www.valledeegues.com/ayudas-y-subvenciones/",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-06-08",
+    "fechaFinSolicitud": "2026-06-19",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444047,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "13. Bases definitivas comedor 2026-2027.pdf",
+        "long": 794513,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

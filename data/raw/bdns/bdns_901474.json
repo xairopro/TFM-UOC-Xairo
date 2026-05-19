@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-901474",
+  "id_interno": 1103035,
+  "numero_convocatoria": "901474",
+  "organismo": "LOCAL — ESKORIATZA — AYUNTAMIENTO DE ESKORIATZA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "2026-03-13",
+  "fecha_fin_solicitud": "2026-12-31",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Subvención nominativa en especie (suministro de agua) a la Fundación Patronato Jose Arana 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+  "regiones": "ES212 - Gipuzkoa",
+  "finalidad": "Servicios Sociales y Promoción Social",
+  "bases_reguladoras": "Subvención nominativa en especie (suministro de agua) a la Fundación Patronato Jose Arana",
+  "url_bases_reguladoras": "https://www.gipuzkoairekia.eus/documents/311929/2616647/2026GDIR0001_DL.pdf/fb81d8aa-774a-c1bf-5ca2-d659546e63fd?t=1776333401018",
+  "presupuesto": "2.000,00 €",
+  "presupuesto_total_num": 2000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901474",
+  "text": "CONVOCATORIA BDNS Nº 901474\nOrganismo: LOCAL — ESKORIATZA — AYUNTAMIENTO DE ESKORIATZA\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud: 2026-03-13 → 2026-12-31 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 2.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES\nRegiones: ES212 - Gipuzkoa\nFinalidad: Servicios Sociales y Promoción Social\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSubvención nominativa en especie (suministro de agua) a la Fundación Patronato Jose Arana 2026\n\nBases reguladoras:\nSubvención nominativa en especie (suministro de agua) a la Fundación Patronato Jose Arana\nURL bases reguladoras: https://www.gipuzkoairekia.eus/documents/311929/2616647/2026GDIR0001_DL.pdf/fb81d8aa-774a-c1bf-5ca2-d659546e63fd?t=1776333401018\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901474",
+  "_raw": {
+    "id": 1103035,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "ESKORIATZA",
+      "nivel3": "AYUNTAMIENTO DE ESKORIATZA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901474",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 2000,
+    "mrr": false,
+    "descripcion": "Subvención nominativa en especie (suministro de agua) a la Fundación Patronato Jose Arana 2026",
+    "descripcionLeng": "Eskoriatzako Udalaren eta Jose Arana Fundazioaren arteko lankidetza hitzarmena laguntza gauzatan (ur hornidura) emateko 2026",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+        "codigo": "R"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES212 - Gipuzkoa"
+      }
+    ],
+    "descripcionFinalidad": "Servicios Sociales y Promoción Social",
+    "descripcionBasesReguladoras": "Subvención nominativa en especie (suministro de agua) a la Fundación Patronato Jose Arana",
+    "urlBasesReguladoras": "https://www.gipuzkoairekia.eus/documents/311929/2616647/2026GDIR0001_DL.pdf/fb81d8aa-774a-c1bf-5ca2-d659546e63fd?t=1776333401018",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-03-13",
+    "fechaFinSolicitud": "2026-12-31",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442375,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "Alkate erabakia-eus.pdf",
+        "long": 416742,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442377,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Alkate erabakia-es.pdf",
+        "long": 290061,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

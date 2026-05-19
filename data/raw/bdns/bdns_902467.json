@@ -1,0 +1,106 @@
+{
+  "id": "BDNS-902467",
+  "id_interno": 1104028,
+  "numero_convocatoria": "902467",
+  "organismo": "ESTADO — MINISTERIO DE DEFENSA — EJÉRCITO DE TIERRA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Resolución 550/MADOC/PC-2026021, de 29 de abril de 2026, del Jefe del Mando de Adiestramiento y Doctrina por la que se convocan las ayudas para la realización del Máster en Prevención de Riesgos Laborales por personal del ET o integrado en su estructura",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Administración pública y defensa; seguridad social obligatoria",
+  "regiones": "ES - ESPAÑA",
+  "finalidad": "Defensa",
+  "bases_reguladoras": "Orden DEF/1431/2023, de 22 de diciembre, por la que se establecen las bases reguladoras para la concesión de ayudas para la realización de Máster Universitario en Prevención de Riesgos Laborales, para el personal del ET o integrado en su estructura.",
+  "url_bases_reguladoras": "https://www.boe.es/eli/es/o/2023/12/22/def1431",
+  "presupuesto": "8.000,00 €",
+  "presupuesto_total_num": 8000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902467",
+  "text": "CONVOCATORIA BDNS Nº 902467\nOrganismo: ESTADO — MINISTERIO DE DEFENSA — EJÉRCITO DE TIERRA\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 8.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Administración pública y defensa; seguridad social obligatoria\nRegiones: ES - ESPAÑA\nFinalidad: Defensa\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nResolución 550/MADOC/PC-2026021, de 29 de abril de 2026, del Jefe del Mando de Adiestramiento y Doctrina por la que se convocan las ayudas para la realización del Máster en Prevención de Riesgos Laborales por personal del ET o integrado en su estructura\n\nBases reguladoras:\nOrden DEF/1431/2023, de 22 de diciembre, por la que se establecen las bases reguladoras para la concesión de ayudas para la realización de Máster Universitario en Prevención de Riesgos Laborales, para el personal del ET o integrado en su estructura.\nURL bases reguladoras: https://www.boe.es/eli/es/o/2023/12/22/def1431\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902467",
+  "_raw": {
+    "id": 1104028,
+    "organo": {
+      "nivel1": "ESTADO",
+      "nivel2": "MINISTERIO DE DEFENSA",
+      "nivel3": "EJÉRCITO DE TIERRA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902467",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 8000,
+    "mrr": false,
+    "descripcion": "Resolución 550/MADOC/PC-2026021, de 29 de abril de 2026, del Jefe del Mando de Adiestramiento y Doctrina por la que se convocan las ayudas para la realización del Máster en Prevención de Riesgos Laborales por personal del ET o integrado en su estructura",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Administración pública y defensa; seguridad social obligatoria",
+        "codigo": "84"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES - ESPAÑA "
+      }
+    ],
+    "descripcionFinalidad": "Defensa",
+    "descripcionBasesReguladoras": "Orden DEF/1431/2023, de 22 de diciembre, por la que se establecen las bases reguladoras para la concesión de ayudas para la realización de Máster Universitario en Prevención de Riesgos Laborales, para el personal del ET o integrado en su estructura.",
+    "urlBasesReguladoras": "https://www.boe.es/eli/es/o/2023/12/22/def1431",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Día siguiente al de la publicación del extracto de la convocatoria en el Boletín Oficial del Estado",
+    "textFin": "Quince (15) días hábiles",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445430,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "260429-RESOLUCION-CONVOCATORIA_PRL_2026.pdf",
+        "long": 370877,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210466,
+        "titulo": "Extracto de la Resolución de 29 de abril de 2026 del Mando de Adiestramiento y Doctrina por la que se convocan ayudas Máster Prevención de Riesgos Laborales.",
+        "tituloLeng": null,
+        "texto": "<p>Primero. Beneficiarios. </p><p>Podrán solicitar las ayudas los oficiales del ET o de los cuerpos comunes integrados en su estructura, en situación de servicio activo, incluidos en alguna de las prioridades relacionadas en el artículo 4 de la convocatoria.</p><p>Segundo. Objeto.</p><p>El objeto de esta convocatoria es la concesión de ayudas para la realización de un Máster Universitario en Prevención de Riesgos Laborales para el personal del Ejército de Tierra (ET), contemplado en la correspondiente línea de subvención del Plan Estratégico de Subvenciones del Ministerio de Defensa para el periodo 2024-2026, Orden Ministerial 13/2024, de 20 de mayo, modificada por la Orden Ministerial 10/2025, de 9 de abril. </p><p>Tercero. Bases reguladoras.</p><p>Aprobadas por Orden de Defensa/1431/2023, de 22 de diciembre, por la que se establecen las bases reguladoras para la concesión de ayudas para la realización de Máster Universitario en Prevención de Riesgos Laborales, para el personal del Ejército de Tierra o integrado en su estructura, publicada en el BOE nº 2 de 2 de enero de 2024.</p><p>Cuarto. Cuantía.</p><p>La dotación económica es de 8.000 euros, con un máximo de 4.000 euros por persona.</p><p>Quinto. Plazo de presentación de solicitudes.</p><p>Quince (15) días hábiles contados a partir del día siguiente al de la publicación del extracto de la convocatoria en el «Boletín Oficial del Estado».</p><p>Sexto. Otros datos.</p><p>Las ayudas concedidas al amparo de la presente convocatoria son incompatibles con la percepción de cualquier otra subvención, ayudas, ingresos o recursos para la misma finalidad.</p><p>La resolución de la convocatoria de las ayudas se encuentra, además de en la BDNS   https://www.infosubvenciones.es/bdnstrans/GE/es/index, en la Web del MADOC https://ejercito.defensa.gob.es/unidades/Granada/madoc/Becas_y_ayudas/index.html</p><p>Las ayudas se solicitarán obligatoriamente mediante la aplicación que figura en la intranet del MINISDEF https://colabora.mdef.es/et/MADOC/BECAS/SitePages/Inicio.aspx</p>",
+        "textoLeng": null,
+        "url": "http://www.boe.es/diario_boe/verifica.php?acc=Verificar&c=BOE-B-2026-13592",
+        "cve": "BOE-B-2026-13592",
+        "desDiarioOficial": "BOE. BOLETÍN OFICIAL DEL ESTADO",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "BDNS-901611",
+  "id_interno": 1103172,
+  "numero_convocatoria": "901611",
+  "organismo": "LOCAL — FUENGIROLA — AYUNTAMIENTO DE FUENGIROLA",
+  "sede_electronica": "www.fuengirola.es",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "2027-06-28",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - canónica",
+  "descripcion": "Incentivos a la participación en el programa proyectos integrales para la inserción laboral del Ayuntamiento de Fuengirola",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "EDUCACIÓN",
+  "regiones": "ES617 - Málaga",
+  "finalidad": "Fomento del Empleo",
+  "bases_reguladoras": "Incentivos a la participación en el programa proyectos integrales para la inserción laboral del Ayuntamiento de Fuengirola",
+  "url_bases_reguladoras": "www.fuengirola.es",
+  "presupuesto": "21.120,00 €",
+  "presupuesto_total_num": 21120,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "FSE+ - FONDO SOCIAL EUROPEO PLUS",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901611",
+  "text": "CONVOCATORIA BDNS Nº 901611\nOrganismo: LOCAL — FUENGIROLA — AYUNTAMIENTO DE FUENGIROLA\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  → 2027-06-28 (abierto: no)\nTipo de convocatoria: Concesión directa - canónica\nPresupuesto total: 21.120,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: EDUCACIÓN\nRegiones: ES617 - Málaga\nFinalidad: Fomento del Empleo\nFondos: FSE+ - FONDO SOCIAL EUROPEO PLUS\nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nIncentivos a la participación en el programa proyectos integrales para la inserción laboral del Ayuntamiento de Fuengirola\n\nBases reguladoras:\nIncentivos a la participación en el programa proyectos integrales para la inserción laboral del Ayuntamiento de Fuengirola\nURL bases reguladoras: www.fuengirola.es\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901611",
+  "_raw": {
+    "id": 1103172,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "FUENGIROLA",
+      "nivel3": "AYUNTAMIENTO DE FUENGIROLA"
+    },
+    "sedeElectronica": "www.fuengirola.es",
+    "codigoBDNS": "901611",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - canónica",
+    "presupuestoTotal": 21120,
+    "mrr": false,
+    "descripcion": "Incentivos a la participación en el programa proyectos integrales para la inserción laboral del Ayuntamiento de Fuengirola",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES617 - Málaga"
+      }
+    ],
+    "descripcionFinalidad": "Fomento del Empleo",
+    "descripcionBasesReguladoras": "Incentivos a la participación en el programa proyectos integrales para la inserción laboral del Ayuntamiento de Fuengirola",
+    "urlBasesReguladoras": "www.fuengirola.es",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": "2027-06-28",
+    "textInicio": "Desde el día siguiente a la publicación del BOP de la Provincia de Málaga",
+    "textFin": "28 de junio de 2027",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [
+      {
+        "descripcion": "FSE+ - FONDO SOCIAL EUROPEO PLUS"
+      }
+    ],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442844,
+        "descripcion": "Anexo solicitud",
+        "nombreFic": "Anexo solicitud incentivo.pdf",
+        "long": 138284,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1442843,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Bases_y_convocatoria_incentivos_participacion.pdf",
+        "long": 191294,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

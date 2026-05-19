@@ -1,0 +1,105 @@
+{
+  "id": "BDNS-902389",
+  "id_interno": 1103950,
+  "numero_convocatoria": "902389",
+  "organismo": "LOCAL — SANT CUGAT DEL VALLÈS — AYUNTAMIENTO DE SANT CUGAT DEL VALLÈS",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Aprobación de la convocatoria de subvenciones en régimen de concurrencia competitiva destinadas a proyectos, actividades y servicios de utilidad pública y de interés municipal: protección y bienestar animal por actuaciones realizadas durante el año 2025",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Otras actividades profesionales, científicas y técnicas",
+  "regiones": "ES511 - Barcelona",
+  "finalidad": "Otras actuaciones de carácter económico",
+  "bases_reguladoras": "Ordenança general de subvencions",
+  "url_bases_reguladoras": "https://bop.diba.cat/scripts/ftpisa.aspx?fnew?bop2009&06/091319999.pdf&80",
+  "presupuesto": "10.000,00 €",
+  "presupuesto_total_num": 10000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902389",
+  "text": "CONVOCATORIA BDNS Nº 902389\nOrganismo: LOCAL — SANT CUGAT DEL VALLÈS — AYUNTAMIENTO DE SANT CUGAT DEL VALLÈS\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 10.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Otras actividades profesionales, científicas y técnicas\nRegiones: ES511 - Barcelona\nFinalidad: Otras actuaciones de carácter económico\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nAprobación de la convocatoria de subvenciones en régimen de concurrencia competitiva destinadas a proyectos, actividades y servicios de utilidad pública y de interés municipal: protección y bienestar animal por actuaciones realizadas durante el año 2025\n\nBases reguladoras:\nOrdenança general de subvencions\nURL bases reguladoras: https://bop.diba.cat/scripts/ftpisa.aspx?fnew?bop2009&06/091319999.pdf&80\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902389",
+  "_raw": {
+    "id": 1103950,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "SANT CUGAT DEL VALLÈS",
+      "nivel3": "AYUNTAMIENTO DE SANT CUGAT DEL VALLÈS"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902389",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 10000,
+    "mrr": false,
+    "descripcion": "Aprobación de la convocatoria de subvenciones en régimen de concurrencia competitiva destinadas a proyectos, actividades y servicios de utilidad pública y de interés municipal: protección y bienestar animal por actuaciones realizadas durante el año 2025",
+    "descripcionLeng": "Aprovació de la convocatòria de subvencions en règim de concurrència competitiva adreçades al foment de projectes, activitats i serveis d'utilitat pública i d'interès municipal: protecció i benestar animal per actuacions fetes durant l'any 2025",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Otras actividades profesionales, científicas y técnicas",
+        "codigo": "74"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES511 - Barcelona"
+      }
+    ],
+    "descripcionFinalidad": "Otras actuaciones de carácter económico",
+    "descripcionBasesReguladoras": "Ordenança general de subvencions",
+    "urlBasesReguladoras": "https://bop.diba.cat/scripts/ftpisa.aspx?fnew?bop2009&06/091319999.pdf&80",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "al día siguiente de la publicación en el BOPB",
+    "textFin": "20 días naturales a partir del dia siguiente de su publicación en el BOPB",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445179,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "CATALA.- acord i convocatòria PROTECCIO I BENESTAR ANIMAL 2025.pdf",
+        "long": 577357,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445177,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "CASTELLANO.- acuerdo y convocatoria PROTECCION Y BIENESTAR ANIMAL 2025.pdf",
+        "long": 383093,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "id": "BDNS-902996",
+  "id_interno": 1104557,
+  "numero_convocatoria": "902996",
+  "organismo": "AUTONOMICA — PAÍS VASCO — LANBIDE-SERVICIO VASCO DE EMPLEO",
+  "sede_electronica": "https://www.lanbide.euskadi.eus/ayuda_subvencion/2026/lak-2026/weblan00-content/es/",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "2026-05-01",
+  "fecha_fin_solicitud": "2026-10-15",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "LEHEN AUKERA-AYUDAS PARA CONTRATACIÓN JOV. DESEMPLEADOS/AS 2026-2027",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Administración pública y de la política económica, social y medioambiental",
+  "regiones": "ES21 - PAIS VASCO",
+  "finalidad": "Fomento del Empleo",
+  "bases_reguladoras": "convocatoria de ayudas, para el año 2026,destinadas a la contratación de personas jóvenes desempleadas en empresas vascas. Programa Lehen Aukera",
+  "url_bases_reguladoras": "https://www.euskadi.eus/web01-bopv/es/p43aBOPVWebWar/VerParalelo.do?cd2026001790",
+  "presupuesto": "8.800.000,00 €",
+  "presupuesto_total_num": 8800000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "REG (UE) 2023/2831 de minimis, General",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902996",
+  "text": "CONVOCATORIA BDNS Nº 902996\nOrganismo: AUTONOMICA — PAÍS VASCO — LANBIDE-SERVICIO VASCO DE EMPLEO\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud: 2026-05-01 → 2026-10-15 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 8.800.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Administración pública y de la política económica, social y medioambiental\nRegiones: ES21 - PAIS VASCO\nFinalidad: Fomento del Empleo\nFondos: \nReglamento: REG (UE) 2023/2831 de minimis, General\nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nLEHEN AUKERA-AYUDAS PARA CONTRATACIÓN JOV. DESEMPLEADOS/AS 2026-2027\n\nBases reguladoras:\nconvocatoria de ayudas, para el año 2026,destinadas a la contratación de personas jóvenes desempleadas en empresas vascas. Programa Lehen Aukera\nURL bases reguladoras: https://www.euskadi.eus/web01-bopv/es/p43aBOPVWebWar/VerParalelo.do?cd2026001790\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902996",
+  "_raw": {
+    "id": 1104557,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "PAÍS VASCO",
+      "nivel3": "LANBIDE-SERVICIO VASCO DE EMPLEO"
+    },
+    "sedeElectronica": "https://www.lanbide.euskadi.eus/ayuda_subvencion/2026/lak-2026/weblan00-content/es/",
+    "codigoBDNS": "902996",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 8800000,
+    "mrr": false,
+    "descripcion": "LEHEN AUKERA-AYUDAS PARA CONTRATACIÓN JOV. DESEMPLEADOS/AS 2026-2027",
+    "descripcionLeng": "LEHEN AUKERA-LAGUNTZEN DEIALDIA, GAZTE LANGABEAK KONTRATATZEKO 2026-2027",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Administración pública y de la política económica, social y medioambiental",
+        "codigo": "84.1"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES21 - PAIS VASCO"
+      }
+    ],
+    "descripcionFinalidad": "Fomento del Empleo",
+    "descripcionBasesReguladoras": "convocatoria de ayudas, para el año 2026,destinadas a la contratación de personas jóvenes desempleadas en empresas vascas. Programa Lehen Aukera",
+    "urlBasesReguladoras": "https://www.euskadi.eus/web01-bopv/es/p43aBOPVWebWar/VerParalelo.do?cd2026001790",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-05-01",
+    "fechaFinSolicitud": "2026-10-15",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": {
+      "descripcion": "REG (UE) 2023/2831 de minimis, General",
+      "orden": null
+    },
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446837,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "Documento convocatoria (euskera).PDF",
+        "long": 262713,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446836,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Documento convocatoria (castellano).PDF",
+        "long": 287438,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210689,
+        "titulo": "Procedimiento Beta",
+        "tituloLeng": null,
+        "texto": "Procedimiento Beta",
+        "textoLeng": null,
+        "url": "https://www.euskadi.eus/web01-bopv/es/p43aBOPVWebWar/VerParalelo.do?cd2026001790",
+        "cve": null,
+        "desDiarioOficial": "BOPV. B.O. DEL PAÍS VASCO",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

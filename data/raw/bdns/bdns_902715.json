@@ -1,0 +1,114 @@
+{
+  "id": "BDNS-902715",
+  "id_interno": 1104276,
+  "numero_convocatoria": "902715",
+  "organismo": "LOCAL — CONSEJO INSULAR DE MENORCA — CONSELL INSULAR DE MENORCA",
+  "sede_electronica": "www.cime.es",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Acuerdo del Consejo Ejecutivo, de 23 de marzo de 2026, relativo a la aprobación del convenio con el Club Tenis Ciutadella para la mejora de las instalaciones deportivas para llevar a cabo el torneo de tenis ATP 100 Challenger",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades deportivas, recreativas y de entretenimiento, HOSTELERÍA",
+  "regiones": "ES533 - Menorca",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Presupuesto del Consejo Insular de Menorca. Plan Estratégico de Subvenciones para el año 2026",
+  "url_bases_reguladoras": "https://www.caib.es/eboibfront/es/2026/12222/711017/acuerdo-del-consejo-ejecutivo-en-sesion-de-caracte",
+  "presupuesto": "700.000,00 €",
+  "presupuesto_total_num": 700000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902715",
+  "text": "CONVOCATORIA BDNS Nº 902715\nOrganismo: LOCAL — CONSEJO INSULAR DE MENORCA — CONSELL INSULAR DE MENORCA\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 700.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades deportivas, recreativas y de entretenimiento, HOSTELERÍA\nRegiones: ES533 - Menorca\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nAcuerdo del Consejo Ejecutivo, de 23 de marzo de 2026, relativo a la aprobación del convenio con el Club Tenis Ciutadella para la mejora de las instalaciones deportivas para llevar a cabo el torneo de tenis ATP 100 Challenger\n\nBases reguladoras:\nPresupuesto del Consejo Insular de Menorca. Plan Estratégico de Subvenciones para el año 2026\nURL bases reguladoras: https://www.caib.es/eboibfront/es/2026/12222/711017/acuerdo-del-consejo-ejecutivo-en-sesion-de-caracte\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902715",
+  "_raw": {
+    "id": 1104276,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "CONSEJO INSULAR DE MENORCA",
+      "nivel3": "CONSELL INSULAR DE MENORCA"
+    },
+    "sedeElectronica": "www.cime.es",
+    "codigoBDNS": "902715",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 700000,
+    "mrr": false,
+    "descripcion": "Acuerdo del Consejo Ejecutivo, de 23 de marzo de 2026, relativo a la aprobación del convenio con el Club Tenis Ciutadella para la mejora de las instalaciones deportivas para llevar a cabo el torneo de tenis ATP 100 Challenger",
+    "descripcionLeng": "Acord del Consell Executiu, de 23 de març de 2026, relatiu a l'aprovació del conveni amb el Club Tennis Ciutadella per a la millora de les instal·lacions esportives per dur a terme el torneig de tennis ATP 100 Challenger",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades deportivas, recreativas y de entretenimiento",
+        "codigo": "93"
+      },
+      {
+        "descripcion": "HOSTELERÍA",
+        "codigo": "I"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES533 - Menorca"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Presupuesto del Consejo Insular de Menorca. Plan Estratégico de Subvenciones para el año 2026",
+    "urlBasesReguladoras": "https://www.caib.es/eboibfront/es/2026/12222/711017/acuerdo-del-consejo-ejecutivo-en-sesion-de-caracte",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Sin plazo de solicitud",
+    "textFin": "Sin plazo de solicitud",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446046,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Acuerdo convenio con el Club Tenis Ciutadella para la mejora de las instalaciones deportivas.pdf",
+        "long": 122025,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446050,
+        "descripcion": "Convenio firmado",
+        "nombreFic": "Conveni Club Tennis Ciutadella_an.pdf",
+        "long": 422333,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446049,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "CERT_CEX 230326 conveni Club Tennis Ciutadella_an.pdf",
+        "long": 406036,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": "BDNS-901964",
+  "id_interno": 1103525,
+  "numero_convocatoria": "901964",
+  "organismo": "LOCAL — CONSELL COMARCAL DE PLA DE L'ESTANY — CONSELL COMARCAL DE PLA DE L'ESTANY",
+  "sede_electronica": "https://plaestany.cat/Les-%C3%A0rees/Educaci%C3%B3/Ajuts-de-menjador",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "BBRR DE LA CONVOCATORIA PARA EL OTORGAMIENTO DE AYUDAS ECONÓMICAS INDIVIDUALES DE COMEDOR ESCOLAR PARA EL ALUMNADO DE ENSEÑANZAS OBLIGATORIAS Y EDUCACIÓN INFANTIL DE LOS CENTROS PÚBLICOS O PRIVADOS CONCERTADOS PLA DE L'ESTANY DEL CURSO 2026-2027",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "EDUCACIÓN",
+  "regiones": "ES512 - Girona",
+  "finalidad": "Educación",
+  "bases_reguladoras": "BASES REGULADORAS DE LA CONVOCATORIA PARA EL OTORGAMIENTO DE AYUDAS ECONÓMICAS INDIVIDUALES DE COMEDOR ESCOLAR PARA EL ALUMNADO DE ENSEÑANZAS OBLIGATORIAS Y EDUCACIÓN INFANTIL DE LOS CENTROS PÚBLICOS O PRIVADOS CONCERTADOS DEL CURSO 2026-2027",
+  "url_bases_reguladoras": "https://www.plaestany.cat/Les-%C3%A0rees/Educaci%C3%B3/Ajuts-de-menjador",
+  "presupuesto": "1.243.639,68 €",
+  "presupuesto_total_num": 1243639.68,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901964",
+  "text": "CONVOCATORIA BDNS Nº 901964\nOrganismo: LOCAL — CONSELL COMARCAL DE PLA DE L'ESTANY — CONSELL COMARCAL DE PLA DE L'ESTANY\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 1.243.639,68 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: EDUCACIÓN\nRegiones: ES512 - Girona\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nBBRR DE LA CONVOCATORIA PARA EL OTORGAMIENTO DE AYUDAS ECONÓMICAS INDIVIDUALES DE COMEDOR ESCOLAR PARA EL ALUMNADO DE ENSEÑANZAS OBLIGATORIAS Y EDUCACIÓN INFANTIL DE LOS CENTROS PÚBLICOS O PRIVADOS CONCERTADOS PLA DE L'ESTANY DEL CURSO 2026-2027\n\nBases reguladoras:\nBASES REGULADORAS DE LA CONVOCATORIA PARA EL OTORGAMIENTO DE AYUDAS ECONÓMICAS INDIVIDUALES DE COMEDOR ESCOLAR PARA EL ALUMNADO DE ENSEÑANZAS OBLIGATORIAS Y EDUCACIÓN INFANTIL DE LOS CENTROS PÚBLICOS O PRIVADOS CONCERTADOS DEL CURSO 2026-2027\nURL bases reguladoras: https://www.plaestany.cat/Les-%C3%A0rees/Educaci%C3%B3/Ajuts-de-menjador\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901964",
+  "_raw": {
+    "id": 1103525,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "CONSELL COMARCAL DE PLA DE L'ESTANY",
+      "nivel3": "CONSELL COMARCAL DE PLA DE L'ESTANY"
+    },
+    "sedeElectronica": "https://plaestany.cat/Les-%C3%A0rees/Educaci%C3%B3/Ajuts-de-menjador",
+    "codigoBDNS": "901964",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 1243639.68,
+    "mrr": false,
+    "descripcion": "BBRR DE LA CONVOCATORIA PARA EL OTORGAMIENTO DE AYUDAS ECONÓMICAS INDIVIDUALES DE COMEDOR ESCOLAR PARA EL ALUMNADO DE ENSEÑANZAS OBLIGATORIAS Y EDUCACIÓN INFANTIL DE LOS CENTROS PÚBLICOS O PRIVADOS CONCERTADOS PLA DE L'ESTANY DEL CURSO 2026-2027",
+    "descripcionLeng": "BBRR DE LA CONVOCATÒRIA PER A L'ATORGAMENT D'AJUTS ECONÒMICS INDIVIDUALS DE MENJADOR ESCOLAR PER  L'ALUMNAT D'ENSENYAMENTS OBLIGATORIS I D'EDUCACIÓ INFANTIL ESCOLARITZAT DELS CENTRES PÚBLICS O PRIVATS CONCERTATS PLA DE L'ESTANY DEL CURS 2026-2027",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES512 - Girona"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "BASES REGULADORAS DE LA CONVOCATORIA PARA EL OTORGAMIENTO DE AYUDAS ECONÓMICAS INDIVIDUALES DE COMEDOR ESCOLAR PARA EL ALUMNADO DE ENSEÑANZAS OBLIGATORIAS Y EDUCACIÓN INFANTIL DE LOS CENTROS PÚBLICOS O PRIVADOS CONCERTADOS DEL CURSO 2026-2027",
+    "urlBasesReguladoras": "https://www.plaestany.cat/Les-%C3%A0rees/Educaci%C3%B3/Ajuts-de-menjador",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "11/05/2026",
+    "textFin": "29/05/2026",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443822,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Bases reguladores traduides al castellà convocatòria ajuts de menjador 2026-2027.pdf",
+        "long": 605983,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1443826,
+        "descripcion": "EXTRACTO EN ESPAÑOL",
+        "nombreFic": "Extracte castellà bases reguladores convocatòria Ajuts de Menjador 2026-2027_ signat.pdf",
+        "long": 328419,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1443825,
+        "descripcion": "EXTRACTO LENGUA COOFICIAL",
+        "nombreFic": "Extracte català bases reguladores convocatòria Ajuts de Menjador 2026-2027_signat.pdf",
+        "long": 332671,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1443823,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "Bases reguladores català convocatòria ajuts de menjador 2026-2027_signat.pdf",
+        "long": 554680,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210297,
+        "titulo": "Extracto de las BASES REGULADORAS DE LA CONVOCATORIA PARA EL OTORGAMIENTO DE AYUDAS ECONÓMICAS INDIVIDUALES DE COMEDOR ESCOLAR DIRIGIDAS AL ALUMNADO DE ENSEÑANZAS OBLIGATORIAS Y DE EDUCACIÓN INFANTIL ESCOLARIZADO EN UN CENTRO PÚBLICO O PRIVADO CONCERTADO DE LA COMARCA DEL PLA DE L’ESTANY DEL CURSO 2026- 2027",
+        "tituloLeng": "Extracte de les BASES REGULADORES DE LA CONVOCATÒRIA PER A L’ATORGAMENT D’AJUTS ECONÒMICS INDIVIDUALS DE MENJADOR ESCOLAR ADREÇATS A L’ALUMNAT D’ENSENYAMENTS OBLIGATORIS I D’EDUCACIÓ INFANTIL ESCOLARITZAT EN UN CENTRE PÚBLIC O PRIVAT CONCERTAT DE LA COMARCA DEL PLA DE L’ESTANY DEL CURS 2026-2027",
+        "texto": "<p>Por Decreto de Presidencia núm. 2026PRES000357 de 15 de abril de 2026, el Consell Comarcal del Pla de l’Estany, ha aprobado las bases reguladoras de la convocatoria para el otorgamiento de ayudas económicas individuales de comedor escolar dirigidas al alumnado de enseñanzas obligatorias y de educación infantil escolarizado en un centro público o privado concertado de la comarca del Pla de l’Estany del curso 2026-2027.</p><p>Primero. Beneficiarios</p><p>Pueden ser personas beneficiarias de esta ayuda de comedor escolar el alumnado que reúna los requisitos siguientes:</p><p>a) Tener residencia en Catalunya.</p><p>b) Estar matriculado, durante el curso correspondiente, en uno de los centros de enseñanza del Pla del Estany sostenido con fondos públicos en los que se preste el servicio de comedor escolar y estar cursando segundo o tercero de las enseñanzas de primer ciclo de infantil, en aquellas escuelas de titularidad de la Generalitat donde se haya implantado, o bien estar cursando el segundo ciclo de educación infantil, educación primaria o educación secundaria obligatoria (ESO)</p><p>c) No tener el servicio de comedor con carácter preceptivo y, por lo tanto, gratuito, y querer hacer uso del servicio.</p><p>d) No estar en acogimiento residencial.</p><p>Las personas solicitantes de la ayuda de comedor son el padre, la madre, el/la tutor/a o representante legal del alumno o alumnos.</p><p>Para la naturaleza de la ayuda y la especificidad del colectivo, para ser beneficiario de la ayuda no hace falta acreditar el cumplimiento de los requisitos establecidos en el artículo 13.2 de la Ley 38/2003, de 17 de noviembre, general de subvenciones.</p><p>Segundo. Finalidad</p><p>El objeto de estas bases es el otorgamiento de ayudas de comedor escolar al alumnado de enseñanza obligatoria y de educación infantil escolarizado en un centro público o privado concertado de la comarca del Pla de l’Estany al que no corresponda la gratuidad del servicio.</p><p>Tercero. Importe</p><p>En esta convocatoria se destina una cuantía total máxima de acuerdo con los créditos disponibles de 1.243.639,68 euros.</p><p>Cuarto. Plazo de presentación de solicitudes</p><p>El plazo general de tramitación de las solicitudes se establece entre los días 11 de mayo de 2026 y 29 de mayo de 2026, ambos inclusive, y para el alumnado que se matricule el curso 2026-2027 la duración del plazo de 10 días hábiles desde que formalice la matrícula.</p><p>Asimismo, también se podrán atender, durante todo el curso, nuevas solicitudes de ayuda de comedor, una vez finalizado el plazo de presentación establecido o bien cuando concurran alguna de las situaciones familiares siguientes, que requieran la admisión de la solicitud o la revisión de la situación inicial de su expediente:</p><p>a) Alumnado de nueva matrícula.</p><p>b) Casos de situación sobrevenida que requieran la asistencia de los servicios sociales debidamente motivados y unidades familiares cuya situación económica se haya visto gravemente afectada por causa de fuerza mayor, estén debidamente justificadas e igualmente requieran la asistencia de servicios sociales.</p><p>- Enlace para más información y modelo de solicitud normalizada disponible en la web del Consell https://www.plaestany.cat/Les-%C3%A0rees/Educaci%C3%B3/Ajuts-de-menjador</p><p>Banyoles, a la fecha de la firma electrónica</p><p>El presidente del Consell Comarca</p><p> </p>",
+        "textoLeng": "<p>Per Decret de Presidència núm. 2026PRES000357 de 15 d’abril de 2026, el Consell Comarcal del Pla de l’Estany, ha aprovat les Bases reguladores de la convocatòria per a l’atorgament d’ajuts econòmics individuals de menjador escolar adreçats a l’alumnat d’ensenyaments obligatoris i d’educació infantil escolaritzat en un centre públic o privat concertat de la comarca del Pla de l’Estany per al curs 2026-2027.</p><p>Primer. Beneficiaris</p><p>Poden ser persones beneficiàries d’aquest ajut de menjador escolar l’alumnat que reuneix els requisits següents:</p><p>a) Tenir residència a Catalunya.</p><p>b) Estar matriculat, durant el curs corresponent, en un dels centres d’ensenyament del Pla de l’Estany sostingut amb fons públics en què es presti el servei de menjador escolar i estar cursant segon o tercer dels ensenyaments de primer cicle d’infantil, en aquelles escoles de titularitat de la Generalitat on s’hagi implantat, o bé estar cursant el segon cicle d’educació infantil, educació primària o educació secundària obligatòria (ESO).</p><p>c) No tenir el servei de menjador amb caràcter preceptiu i, per tant, gratuït, i voler fer ús del servei.</p><p>d) No estar en acolliment residencial.</p><p>Les persones sol·licitants de l’ajut de menjador són el pare, la mare, el/la tutor/a o representant legal de l’alumne/a o alumnes.</p><p>Per la naturalesa de l’ajut i l’especificitat del col·lectiu, per ser beneficiari de l’ajut no cal acreditar el compliment dels requisits establerts a l’article 13.2 de la Llei 38/2003, de 17 de novembre, general de subvencions.</p><p>Segon. Finalitat</p><p>L’objecte d’aquestes bases és l’atorgament d’ajuts individuals de menjador escolar a l’alumnat d’ensenyament obligatori i d’educació infantil escolaritzat en un centre públic o privat concertat de la comarca del Pla de l’Estany al qual no correspongui la gratuïtat del servei.</p><p>Tercer. Import</p><p>En aquesta convocatòria es destina una quantia total màxima d’acord amb els crèdits disponibles d’1.243.639,68 euros.</p><p>Quart. Termini de tramitació de sol·licituds</p><p>El termini general de la convocatòria per a la tramitació de les sol·licituds s’estableix entre els dies 11 de maig de 2026 i 29 de maig de 2026, ambdós inclosos, i per a l’alumnat que es matriculi el curs 2026-2027 la durada del termini de deu dies hàbils des que formalitzi la matrícula.</p><p>Tanmateix, també es podran atendre, durant tot el curs, noves sol·licituds d’ajut de menjador, un cop finalitzat el termini de presentació establert o bé quan concorrin alguna de les situacions familiars següents, que requereixin l’admissió de la sol·licitud o la revisió de la situació inicial del seu expedient:</p><p>a) Alumnat de nova matrícula.</p><p>b) Casos de situació sobrevinguda que requereixin l’assistència dels serveis socials degudament motivats i unitats familiars la situació econòmica de les quals s’hagi vist greument afectada per causa de força major, estiguin degudament justificades i igualment requereixin l’assistència dels serveis socials.</p><p>- Enllaç per a més informació i model de sol·licitud normalitzat disponible a la web del Consell https://www.plaestany.cat/Les-%C3%A0rees/Educaci%C3%B3/Ajuts-de-menjador</p><p>Banyoles, a la data de la signatura electrònica</p><p>El president del Consell Comarcal</p>",
+        "url": "https://ssl4.ddgi.cat/bopV1/pdf/2026/83/20268303568.pdf",
+        "cve": null,
+        "desDiarioOficial": "B.O.P. DE GIRONA",
+        "datPublicacion": "2026-05-04"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

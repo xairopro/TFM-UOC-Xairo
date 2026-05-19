@@ -1,0 +1,121 @@
+{
+  "id": "BDNS-902463",
+  "id_interno": 1104024,
+  "numero_convocatoria": "902463",
+  "organismo": "AUTONOMICA — GALICIA — CONSELLERÍA DE CULTURA, LENGUA Y JUVENTUD",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "2026-05-15",
+  "fecha_fin_solicitud": "2026-06-15",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "RDEN de 21 de abril de 2026 de la Consellería de Cultura, Lengua y Juventud, por la que se establecen las bases reguladoras para la concesión de subvenciones a las galerías de arte para la participación en ferias y mercados de arte fuera de la Comunidad A",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+  "regiones": "ES11 - GALICIA",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "ORDEN de 21 de abril de 2026 de la Consellería de Cultura, Lengua y Juventud, por la que se establecen las bases reguladoras para la concesión de subvenciones a las galerías de arte para la participación en ferias y mercados de arte fuera de la Comunidad ",
+  "url_bases_reguladoras": "http;//www.xunta.es/diario-oficial-galicia",
+  "presupuesto": "80.000,00 €",
+  "presupuesto_total_num": 80000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "REG (UE) 2023/2831 de minimis, General",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902463",
+  "text": "CONVOCATORIA BDNS Nº 902463\nOrganismo: AUTONOMICA — GALICIA — CONSELLERÍA DE CULTURA, LENGUA Y JUVENTUD\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud: 2026-05-15 → 2026-06-15 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 80.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de bibliotecas, archivos, museos y otras actividades culturales\nRegiones: ES11 - GALICIA\nFinalidad: Cultura\nFondos: \nReglamento: REG (UE) 2023/2831 de minimis, General\nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nRDEN de 21 de abril de 2026 de la Consellería de Cultura, Lengua y Juventud, por la que se establecen las bases reguladoras para la concesión de subvenciones a las galerías de arte para la participación en ferias y mercados de arte fuera de la Comunidad A\n\nBases reguladoras:\nORDEN de 21 de abril de 2026 de la Consellería de Cultura, Lengua y Juventud, por la que se establecen las bases reguladoras para la concesión de subvenciones a las galerías de arte para la participación en ferias y mercados de arte fuera de la Comunidad \nURL bases reguladoras: http;//www.xunta.es/diario-oficial-galicia\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902463",
+  "_raw": {
+    "id": 1104024,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "GALICIA",
+      "nivel3": "CONSELLERÍA DE CULTURA, LENGUA Y JUVENTUD"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902463",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 80000,
+    "mrr": false,
+    "descripcion": "RDEN de 21 de abril de 2026 de la Consellería de Cultura, Lengua y Juventud, por la que se establecen las bases reguladoras para la concesión de subvenciones a las galerías de arte para la participación en ferias y mercados de arte fuera de la Comunidad A",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+        "codigo": "91"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES11 - GALICIA"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "ORDEN de 21 de abril de 2026 de la Consellería de Cultura, Lengua y Juventud, por la que se establecen las bases reguladoras para la concesión de subvenciones a las galerías de arte para la participación en ferias y mercados de arte fuera de la Comunidad ",
+    "urlBasesReguladoras": "http;//www.xunta.es/diario-oficial-galicia",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-05-15",
+    "fechaFinSolicitud": "2026-06-15",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": {
+      "descripcion": "REG (UE) 2023/2831 de minimis, General",
+      "orden": null
+    },
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445426,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Modelo_Dog_cast_20260429_101720.pdf",
+        "long": 242281,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445429,
+        "descripcion": "Anexo castellano",
+        "nombreFic": "CT215C-C_20260429_102414.pdf",
+        "long": 131057,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445428,
+        "descripcion": "Anexo Galego",
+        "nombreFic": "CT215C-G_20260429_102347.pdf",
+        "long": 130191,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445427,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "2_01_Texto_da_Orde_gal.OK_AX_AS_20260429_101808.pdf",
+        "long": 242068,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

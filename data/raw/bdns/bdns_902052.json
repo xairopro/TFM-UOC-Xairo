@@ -1,0 +1,106 @@
+{
+  "id": "BDNS-902052",
+  "id_interno": 1103613,
+  "numero_convocatoria": "902052",
+  "organismo": "OTROS — UNIVERSIDAD DE CÓRDOBA",
+  "sede_electronica": "sede.uco.es",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "2026-04-29",
+  "fecha_fin_solicitud": "2026-05-07",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Resolución 28/04/2026, del Vicerrector de Estudios de Grado, Calidad e Innovación Docente, por la que se convocan las becas Santander Excelencia 360º para el estudiantado de la UCO, matriculado en el último curso de estudios de Grado curso 2025-2026.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "EDUCACIÓN",
+  "regiones": "ES613 - Córdoba",
+  "finalidad": "Educación",
+  "bases_reguladoras": "Acuerdo de Consejo de Gobierno, en sesión ordinaria de 27 de febrero de 2026, por el que se aprueba el Reglamento 5/2026, sobre las Bases Reguladoras de las Becas Santander Excelencia 360º para el\nestudiantado de Grado de la Universidad de Córdoba.",
+  "url_bases_reguladoras": "http://sede.uco.es/bouco/bandejaAnuncios/BOUCO/2026/00266",
+  "presupuesto": "12.000,00 €",
+  "presupuesto_total_num": 12000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902052",
+  "text": "CONVOCATORIA BDNS Nº 902052\nOrganismo: OTROS — UNIVERSIDAD DE CÓRDOBA\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud: 2026-04-29 → 2026-05-07 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 12.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: EDUCACIÓN\nRegiones: ES613 - Córdoba\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nResolución 28/04/2026, del Vicerrector de Estudios de Grado, Calidad e Innovación Docente, por la que se convocan las becas Santander Excelencia 360º para el estudiantado de la UCO, matriculado en el último curso de estudios de Grado curso 2025-2026.\n\nBases reguladoras:\nAcuerdo de Consejo de Gobierno, en sesión ordinaria de 27 de febrero de 2026, por el que se aprueba el Reglamento 5/2026, sobre las Bases Reguladoras de las Becas Santander Excelencia 360º para el\nestudiantado de Grado de la Universidad de Córdoba.\nURL bases reguladoras: http://sede.uco.es/bouco/bandejaAnuncios/BOUCO/2026/00266\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902052",
+  "_raw": {
+    "id": 1103613,
+    "organo": {
+      "nivel1": "OTROS",
+      "nivel2": "UNIVERSIDAD DE CÓRDOBA",
+      "nivel3": null
+    },
+    "sedeElectronica": "sede.uco.es",
+    "codigoBDNS": "902052",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 12000,
+    "mrr": false,
+    "descripcion": "Resolución 28/04/2026, del Vicerrector de Estudios de Grado, Calidad e Innovación Docente, por la que se convocan las becas Santander Excelencia 360º para el estudiantado de la UCO, matriculado en el último curso de estudios de Grado curso 2025-2026.",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES613 - Córdoba"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "Acuerdo de Consejo de Gobierno, en sesión ordinaria de 27 de febrero de 2026, por el que se aprueba el Reglamento 5/2026, sobre las Bases Reguladoras de las Becas Santander Excelencia 360º para el\nestudiantado de Grado de la Universidad de Córdoba.",
+    "urlBasesReguladoras": "http://sede.uco.es/bouco/bandejaAnuncios/BOUCO/2026/00266",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-04-29",
+    "fechaFinSolicitud": "2026-05-07",
+    "textInicio": "29 de abril de 2026",
+    "textFin": "Hasta el 7 de mayo de 2026 incluido",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444074,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "convocatoria 2026_definitiva_FDA.pdf",
+        "long": 118946,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210403,
+        "titulo": "Convocatoria a regularizar",
+        "tituloLeng": null,
+        "texto": "Convocatoria a regularizar",
+        "textoLeng": null,
+        "url": "http://sede.uco.es/bouco/bandejaAnuncios/BOUCO/2026/00540",
+        "cve": null,
+        "desDiarioOficial": "Boletín Oficial de la Universidad",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

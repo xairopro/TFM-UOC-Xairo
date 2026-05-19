@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-901601",
+  "id_interno": 1103162,
+  "numero_convocatoria": "901601",
+  "organismo": "LOCAL — DIPUTACIÓN PROV. DE MÁLAGA — DIPUTACIÓN PROVINCIAL DE MÁLAGA",
+  "sede_electronica": "https://sede.malaga.es/",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "2026-04-22",
+  "fecha_fin_solicitud": "2026-04-23",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Resolución de Presidencia 2026/2932 de 23 de abril, referente a Concesión de subvención al C.R.D.O de Málaga, Sierra de Málaga y pasas de Málaga con destino al proyecto \"Dar a conocer la riqueza vinícola y pasera de la provincia. 2026\".",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA",
+  "regiones": "ES617 - Málaga",
+  "finalidad": "Agricultura, Pesca y Alimentación",
+  "bases_reguladoras": "Acuerdo de Pleno de 20 de marzo de 2024 aprobación definitiva de la Ordenanza General de Subvenciones de la Diputación Provincial de Málaga.",
+  "url_bases_reguladoras": "https://www.bopmalaga.es/edicto.php?edicto=20240430-01616-2024-00",
+  "presupuesto": "50.000,00 €",
+  "presupuesto_total_num": 50000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901601",
+  "text": "CONVOCATORIA BDNS Nº 901601\nOrganismo: LOCAL — DIPUTACIÓN PROV. DE MÁLAGA — DIPUTACIÓN PROVINCIAL DE MÁLAGA\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud: 2026-04-22 → 2026-04-23 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 50.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA\nRegiones: ES617 - Málaga\nFinalidad: Agricultura, Pesca y Alimentación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nResolución de Presidencia 2026/2932 de 23 de abril, referente a Concesión de subvención al C.R.D.O de Málaga, Sierra de Málaga y pasas de Málaga con destino al proyecto \"Dar a conocer la riqueza vinícola y pasera de la provincia. 2026\".\n\nBases reguladoras:\nAcuerdo de Pleno de 20 de marzo de 2024 aprobación definitiva de la Ordenanza General de Subvenciones de la Diputación Provincial de Málaga.\nURL bases reguladoras: https://www.bopmalaga.es/edicto.php?edicto=20240430-01616-2024-00\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901601",
+  "_raw": {
+    "id": 1103162,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DIPUTACIÓN PROV. DE MÁLAGA",
+      "nivel3": "DIPUTACIÓN PROVINCIAL DE MÁLAGA"
+    },
+    "sedeElectronica": "https://sede.malaga.es/",
+    "codigoBDNS": "901601",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 50000,
+    "mrr": false,
+    "descripcion": "Resolución de Presidencia 2026/2932 de 23 de abril, referente a Concesión de subvención al C.R.D.O de Málaga, Sierra de Málaga y pasas de Málaga con destino al proyecto \"Dar a conocer la riqueza vinícola y pasera de la provincia. 2026\".",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA",
+        "codigo": "A"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES617 - Málaga"
+      }
+    ],
+    "descripcionFinalidad": "Agricultura, Pesca y Alimentación",
+    "descripcionBasesReguladoras": "Acuerdo de Pleno de 20 de marzo de 2024 aprobación definitiva de la Ordenanza General de Subvenciones de la Diputación Provincial de Málaga.",
+    "urlBasesReguladoras": "https://www.bopmalaga.es/edicto.php?edicto=20240430-01616-2024-00",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-04-22",
+    "fechaFinSolicitud": "2026-04-23",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442776,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "20260423 Concesión C.R.D.O de Málaga, Sierra de Málaga y pasas de Málaga 2026.pdf",
+        "long": 493987,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902882",
+  "id_interno": 1104443,
+  "numero_convocatoria": "902882",
+  "organismo": "LOCAL — DIPUTACIÓN PROV. DE ALBACETE — DIPUTACIÓN PROVINCIAL DE ALBACETE",
+  "sede_electronica": "https://sede.dipualba.es/subvenciones/lista_convocatorias_enplazo.aspx",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Decreto nº 2086 de 30/04/2026 Convocatoria de ayudas  a asociaciones para el apoyo a la creación y difusión artística y cultural en la provincia de Albacete 2026.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+  "regiones": "ES421 - Albacete",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "TEXTO REFUNDIDO DE LA ORDENANZA GENERAL REGULADORA DE LAS SUBVENCIONES A CONCEDER POR LA EXCELENTÍSIMA DIPUTACIÓN PROVINCIAL DE ALBACETE",
+  "url_bases_reguladoras": "http://www.dipualba.es/bop/ficheros/2024/8/BOP%208-24-P-3.PDF",
+  "presupuesto": "48.000,00 €",
+  "presupuesto_total_num": 48000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902882",
+  "text": "CONVOCATORIA BDNS Nº 902882\nOrganismo: LOCAL — DIPUTACIÓN PROV. DE ALBACETE — DIPUTACIÓN PROVINCIAL DE ALBACETE\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 48.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de bibliotecas, archivos, museos y otras actividades culturales\nRegiones: ES421 - Albacete\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nDecreto nº 2086 de 30/04/2026 Convocatoria de ayudas  a asociaciones para el apoyo a la creación y difusión artística y cultural en la provincia de Albacete 2026.\n\nBases reguladoras:\nTEXTO REFUNDIDO DE LA ORDENANZA GENERAL REGULADORA DE LAS SUBVENCIONES A CONCEDER POR LA EXCELENTÍSIMA DIPUTACIÓN PROVINCIAL DE ALBACETE\nURL bases reguladoras: http://www.dipualba.es/bop/ficheros/2024/8/BOP%208-24-P-3.PDF\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902882",
+  "_raw": {
+    "id": 1104443,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DIPUTACIÓN PROV. DE ALBACETE",
+      "nivel3": "DIPUTACIÓN PROVINCIAL DE ALBACETE"
+    },
+    "sedeElectronica": "https://sede.dipualba.es/subvenciones/lista_convocatorias_enplazo.aspx",
+    "codigoBDNS": "902882",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 48000,
+    "mrr": false,
+    "descripcion": "Decreto nº 2086 de 30/04/2026 Convocatoria de ayudas  a asociaciones para el apoyo a la creación y difusión artística y cultural en la provincia de Albacete 2026.",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+        "codigo": "91"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES421 - Albacete"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "TEXTO REFUNDIDO DE LA ORDENANZA GENERAL REGULADORA DE LAS SUBVENCIONES A CONCEDER POR LA EXCELENTÍSIMA DIPUTACIÓN PROVINCIAL DE ALBACETE",
+    "urlBasesReguladoras": "http://www.dipualba.es/bop/ficheros/2024/8/BOP%208-24-P-3.PDF",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "A partir del día siguiente a la publicación en el BOP de la provincia de Albacete",
+    "textFin": "Treinta días naturales a partir del día siguiente a la publicación en BOP de la provincia Albacete",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446585,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Decreto Nº 2086 de 30_04_2026 _DECRETO APROBACIÓN CONVOCATORIA ASOCIACIONES PARA CREACIÓN Y DIFUSIÓN ARTÍSTICA Y CULT.2026_ - .pdf",
+        "long": 519956,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

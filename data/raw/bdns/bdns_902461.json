@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-902461",
+  "id_interno": 1104022,
+  "numero_convocatoria": "902461",
+  "organismo": "LOCAL — DIPUTACIÓN PROV. DE TARRAGONA — DIPUTACIÓN PROVINCIAL DE TARRAGONA",
+  "sede_electronica": "https://seuelectronica.dipta.cat",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "2026-07-10",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Premios Emprende dipta.cat 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Otras actividades de apoyo a las empresas n.c.o.p.",
+  "regiones": "ES51 - CATALUÑA",
+  "finalidad": "Fomento del Empleo",
+  "bases_reguladoras": "Bases generals de subvencions de la Diputació de Tarragona i dels seus Organismes Autònoms",
+  "url_bases_reguladoras": "https://www.diputaciodetarragona.cat/ebop/index.php?op=anunci&id=1723&ebop_any=2019",
+  "presupuesto": "40.000,00 €",
+  "presupuesto_total_num": 40000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902461",
+  "text": "CONVOCATORIA BDNS Nº 902461\nOrganismo: LOCAL — DIPUTACIÓN PROV. DE TARRAGONA — DIPUTACIÓN PROVINCIAL DE TARRAGONA\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  → 2026-07-10 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 40.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Otras actividades de apoyo a las empresas n.c.o.p.\nRegiones: ES51 - CATALUÑA\nFinalidad: Fomento del Empleo\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nPremios Emprende dipta.cat 2026\n\nBases reguladoras:\nBases generals de subvencions de la Diputació de Tarragona i dels seus Organismes Autònoms\nURL bases reguladoras: https://www.diputaciodetarragona.cat/ebop/index.php?op=anunci&id=1723&ebop_any=2019\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902461",
+  "_raw": {
+    "id": 1104022,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DIPUTACIÓN PROV. DE TARRAGONA",
+      "nivel3": "DIPUTACIÓN PROVINCIAL DE TARRAGONA"
+    },
+    "sedeElectronica": "https://seuelectronica.dipta.cat",
+    "codigoBDNS": "902461",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 40000,
+    "mrr": false,
+    "descripcion": "Premios Emprende dipta.cat 2026",
+    "descripcionLeng": "Premis Emprèn dipta.cat 2026",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Otras actividades de apoyo a las empresas n.c.o.p.",
+        "codigo": "82.9"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES51 - CATALUÑA"
+      }
+    ],
+    "descripcionFinalidad": "Fomento del Empleo",
+    "descripcionBasesReguladoras": "Bases generals de subvencions de la Diputació de Tarragona i dels seus Organismes Autònoms",
+    "urlBasesReguladoras": "https://www.diputaciodetarragona.cat/ebop/index.php?op=anunci&id=1723&ebop_any=2019",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": "2026-07-10",
+    "textInicio": "Desde el día siguiente de la publicación del anuncio de la convocatoria en el BOPT",
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445423,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "CONVOCATORIA_PREMIS_EMPREN_CATALA.PDF",
+        "long": 587959,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445422,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "CONVOCATORIA_PREMIS_EMPREN_CASTELLANO.PDF",
+        "long": 588447,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

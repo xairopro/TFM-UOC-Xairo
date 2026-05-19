@@ -1,0 +1,110 @@
+{
+  "id": "BDNS-901477",
+  "id_interno": 1103038,
+  "numero_convocatoria": "901477",
+  "organismo": "LOCAL — ARRASATE/MONDRAGÓN — AYUNTAMIENTO DE ARRASATE/MONDRAGÓN",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "2026-12-31",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA PARA LA CONCESIÓN DE SUBVENCIONES PARA PROMOVER EL COMERCIO LOCAL DIRIGIDAS AL SECTOR COMERCIAL Y DE SERVICIOS DE ARRASATE",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA, COMERCIO AL POR MAYOR Y AL POR MENOR, HOSTELERÍA",
+  "regiones": "ES212 - Gipuzkoa",
+  "finalidad": "Comercio, Turismo y Pymes",
+  "bases_reguladoras": "Ordenanza municipal para la concesión y gestión de subvenciones.",
+  "url_bases_reguladoras": "https://egoitza.gipuzkoa.eus/gao-bog/castell/bog/2026/04/16/c2601976.htm",
+  "presupuesto": "6.000,00 €",
+  "presupuesto_total_num": 6000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901477",
+  "text": "CONVOCATORIA BDNS Nº 901477\nOrganismo: LOCAL — ARRASATE/MONDRAGÓN — AYUNTAMIENTO DE ARRASATE/MONDRAGÓN\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  → 2026-12-31 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 6.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA, COMERCIO AL POR MAYOR Y AL POR MENOR, HOSTELERÍA\nRegiones: ES212 - Gipuzkoa\nFinalidad: Comercio, Turismo y Pymes\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA PARA LA CONCESIÓN DE SUBVENCIONES PARA PROMOVER EL COMERCIO LOCAL DIRIGIDAS AL SECTOR COMERCIAL Y DE SERVICIOS DE ARRASATE\n\nBases reguladoras:\nOrdenanza municipal para la concesión y gestión de subvenciones.\nURL bases reguladoras: https://egoitza.gipuzkoa.eus/gao-bog/castell/bog/2026/04/16/c2601976.htm\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901477",
+  "_raw": {
+    "id": 1103038,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "ARRASATE/MONDRAGÓN",
+      "nivel3": "AYUNTAMIENTO DE ARRASATE/MONDRAGÓN"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901477",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 6000,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA PARA LA CONCESIÓN DE SUBVENCIONES PARA PROMOVER EL COMERCIO LOCAL DIRIGIDAS AL SECTOR COMERCIAL Y DE SERVICIOS DE ARRASATE",
+    "descripcionLeng": "MERKATARITZA SUSTATZEKO DIRULAGUNTZAK EMATEKO DEIALDIA, ARRASATEKO TOKIKO MERKATARITZA ETA ZERBITZU SEKTOREENTZAKO",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA",
+        "codigo": "A"
+      },
+      {
+        "descripcion": "COMERCIO AL POR MAYOR Y AL POR MENOR",
+        "codigo": "G"
+      },
+      {
+        "descripcion": "HOSTELERÍA",
+        "codigo": "I"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES212 - Gipuzkoa"
+      }
+    ],
+    "descripcionFinalidad": "Comercio, Turismo y Pymes",
+    "descripcionBasesReguladoras": "Ordenanza municipal para la concesión y gestión de subvenciones.",
+    "urlBasesReguladoras": "https://egoitza.gipuzkoa.eus/gao-bog/castell/bog/2026/04/16/c2601976.htm",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": "2026-12-31",
+    "textInicio": "Desde el siguiente dia de su publicacion en el boletin oficial correspondiente",
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442393,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "6.2 Toki garapena.pdf",
+        "long": 197047,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442392,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "6.2 Toki garapena.pdf",
+        "long": 197047,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

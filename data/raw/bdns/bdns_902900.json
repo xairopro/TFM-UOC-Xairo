@@ -1,0 +1,114 @@
+{
+  "id": "BDNS-902900",
+  "id_interno": 1104461,
+  "numero_convocatoria": "902900",
+  "organismo": "LOCAL — DIPUTACIÓN PROV. DE GIRONA — SALUT PÚBLICA DE LA DIPUTACIÓ DE GIRONA (DIPSALUT)",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "2026-04-27",
+  "fecha_fin_solicitud": "2026-06-01",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "SDA 2026 Convocatòria de subvencions per accions de suport al dret alimentació per a l`any 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Otras actividades sanitarias",
+  "regiones": "ES512 - Girona",
+  "finalidad": "Sanidad",
+  "bases_reguladoras": "Bases específiques reguladores de subvencions per a accions de suport al dret a l¿alimentació",
+  "url_bases_reguladoras": "https://ssl4.ddgi.cat/bopV1/pdf/2026/71/20267102933.pdf",
+  "presupuesto": "300.000,00 €",
+  "presupuesto_total_num": 300000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902900",
+  "text": "CONVOCATORIA BDNS Nº 902900\nOrganismo: LOCAL — DIPUTACIÓN PROV. DE GIRONA — SALUT PÚBLICA DE LA DIPUTACIÓ DE GIRONA (DIPSALUT)\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud: 2026-04-27 → 2026-06-01 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 300.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Otras actividades sanitarias\nRegiones: ES512 - Girona\nFinalidad: Sanidad\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSDA 2026 Convocatòria de subvencions per accions de suport al dret alimentació per a l`any 2026\n\nBases reguladoras:\nBases específiques reguladores de subvencions per a accions de suport al dret a l¿alimentació\nURL bases reguladoras: https://ssl4.ddgi.cat/bopV1/pdf/2026/71/20267102933.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902900",
+  "_raw": {
+    "id": 1104461,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DIPUTACIÓN PROV. DE GIRONA",
+      "nivel3": "SALUT PÚBLICA DE LA DIPUTACIÓ DE GIRONA (DIPSALUT)"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902900",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 300000,
+    "mrr": false,
+    "descripcion": "SDA 2026 Convocatòria de subvencions per accions de suport al dret alimentació per a l`any 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Otras actividades sanitarias",
+        "codigo": "86.9"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES512 - Girona"
+      }
+    ],
+    "descripcionFinalidad": "Sanidad",
+    "descripcionBasesReguladoras": "Bases específiques reguladores de subvencions per a accions de suport al dret a l¿alimentació",
+    "urlBasesReguladoras": "https://ssl4.ddgi.cat/bopV1/pdf/2026/71/20267102933.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-04-27",
+    "fechaFinSolicitud": "2026-06-01",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446656,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "CAT_Convocatoria_subvencions_dret_alimentacio.pdf",
+        "long": 293473,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446655,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "CAST_Convocatoria_subvencions_dret_alimentacio_2026.pdf",
+        "long": 289313,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210645,
+        "titulo": "Extracto del decreto de 29 de abril de 2026, de la Presidencia del Organismo Autónomo de Salud Pública de la Diputació de Girona, en adelante Dipsalut, por el cual se aprueba la convocatoria de subvenciones para acciones de apoyo al derecho a la alimentación para el año 2026",
+        "tituloLeng": "Extracte del decret, de data 29 d¿abril de 2026, de la Presidència de l¿Organisme Autònom de Salut Pública de la Diputació de Girona, en endavant Dipsalut, pel qual aprova la convocatòria de subvencions per a accions de suport al dret a l¿alimentació per a l¿ any 2026.",
+        "texto": "<p>Extracto del decreto de 29 de abril de 2026, de la Presidencia del Organismo Autónomo de Salud Pública de la Diputació de Girona, en adelante Dipsalut, por el cual se aprueba la convocatoria de subvenciones para acciones de apoyo al derecho a la alimentación para el año 2026</p><p></p><p></p><p>BDNS (Identif.):</p><p></p><p>De conformidad con lo previsto en los artículos 17.3.b i 20.8.a de la Ley 38/2003, de 17 de noviembre, general de subvenciones, se publica el extracto de la convocatoria el texto completo se puede consultar en la base de datos nacional de subvenciones (http://www.pap.minhap.gob.es/bdnstrans):</p><p></p><p>Primero. Beneficiarios</p><p></p><p>Podrán concurrir a la convocatoria de las subvenciones las organizaciones no lucrativas (ONL) que formen parte de la Mesa de Alimentos de la demarcación de Girona.</p><p></p><p>Será necesario que el beneficiario haya realizado o tenga previsto realizar en la demarcación de Girona acciones relacionadas con el objeto de la convocatoria y que las personas destinatarias finales de la subvención residan en la demarcación de Girona.  </p><p>Por cada beneficiario se podrá conceder hasta una subvención, que podrá incorporar: </p><p></p><p>-\tLa adquisición de alimentos y productos básicos. </p><p>-\tAyudas económicas, que consistirán en cheques, vales o tarjetas monedero, para cubrir la asistencia material básica a familias y personas que se encuentran en situación de privación material severa. Estas ayudas económicas no hará falta que se vinculen a un establecimiento en concreto, siempre que la entidad pueda garantizar y acreditar con posterioridad que solo servirán para la adquisición de productos para cubrir la asistencia material básica de personas en situación de privación material severa. </p><p></p><p>Segundo. Objeto</p><p></p><p>La finalidad es regular las subvenciones que tienen por objeto la provisión y distribución de alimentos y de productos de asistencia material básica a las personas y unidades familiares y de convivencia en situación de pobreza y/o vulnerabilidad social, especialmente a las que están en situación de privación material severa. </p><p></p><p>Se subvencionarán acciones de apoyo al derecho a la alimentación que lleven a cabo entidades coordinadas con las áreas básicas de servicios sociales, a través de proyectos que efectúan: </p><p></p><p>? Gastos de compra de alimentos y productos de higiene básicos (pañales, material de higiene femenina, productos de limpieza de la casa y de higiene personal (champú, jabón, cepillo y pasta de dientes), así como tarjetas monedero, cheques o vales destinados únicamente a la compra de alimentos o productos básicos. </p><p></p><p>? Gastos de personal de los centros de distribución de alimentos o de almacenes que distribuyen alimentos. </p><p>Las personas destinatarias finales de alimentos o productos básicos tendrán que ser derivadas por las áreas básicas de servicios sociales de la demarcación de Girona. </p><p></p><p>Cada beneficiario podrá presentar una solicitud. </p><p></p><p>El procedimiento de concesión de las subvenciones es el de concurrencia competitiva.</p><p></p><p>El periodo subvencionable es del día 1 de octubre de 2025 al 30 de septiembre de 2026.</p><p></p><p>Tercero. Bases reguladoras</p><p></p><p>Publicadas en el Boletín Oficial de la Provincia de Girona, número 71, de 15 de abril de 2026</p><p></p><p>Cuarto. Cuantía</p><p></p><p>El importe total máximo destinado a esta convocatoria es de trescientos mil euros (300.000,00 €).</p><p></p><p>Quinto. Plazo de presentación de solicitudes</p><p></p><p>El plazo de presentación de las solicitudes del primer procedimiento empezará el día siguiente a la publicación del extracto de esta convocatoria en el Boletín Oficial de la Provincia de Girona y finalizará el día 1 de junio de 2026.</p><p></p><p>Sexto. Otros datos</p><p></p><p>Las solicitudes deberán presentarse en el plazo establecido en la convocatoria, y estar firmadas por el representante legal del ente beneficiario.</p><p></p><p>Las solicitudes deberán realizarse por medio del formulario normalizado disponible en la Sede electrónica de Dipsalut (www.dipsalut.cat), adjuntando la documentación que acredite el presupuesto y una memoria en la que se describa la actividad, y deberán formalizarse, necesariamente, mediante registro electrónico. </p><p></p><p>Con la presentación de la solicitud, la persona interesada autoriza a Dipsalut a efectuar las consultas necesarias a efectos de comprobar que el beneficiario está al corriente de las obligaciones tributarias y con la Seguridad Social, de acuerdo con el artículo 22.4 del Real Decreto 887/2006, de 21 de julio, por el que se aprueba el Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones. Si el solicitante deniega expresamente dicha autorización, deberá presentar los certificados de acreditación de las administraciones correspondientes junto con la solicitud. </p><p></p><p>El formulario de solicitud contiene un conjunto de preguntas básicas sobre el proyecto que habrá que responder. Además, se podrá añadir información adicional sobre el proyecto adjuntando un archivo en formato PDF al final de la solicitud. No se aceptarán contenedores de archivos o ficheros, ya sean en formato PDF (PDF con adjuntos) o bien en formatos de compresión de tipo Zip o RAR. </p><p></p><p>La declaración responsable conforme los estatutos se presentaron a Dipsalut en el ejercicio 2011 o en ejercicios posteriores y no han sido modificados; o bien que los estatutos de la entidad no han sido entregados a Dipsalut o han sufrido modificaciones. En estos dos últimos casos, deberá acreditarse con la aportación de los estatutos vigentes, mediante una copia compulsada o los originales. </p><p></p><p></p><p>Séptimo. Plazo de justificación</p><p></p><p>El plazo para justificar los gastos objeto de las ayudas económicas de esta convocatoria finaliza el día 15 de octubre de 2026.</p><p></p><p></p><p></p><p>Maria Puig i Ferrer</p><p>Presidenta, p.d.</p>",
+        "textoLeng": "<p>Extracte del decret, de data 29 d?abril de 2026, de la Presidència de l?Organisme Autònom de Salut Pública de la Diputació de Girona, en endavant Dipsalut, pel qual aprova la convocatòria de subvencions per a accions de suport al dret a l?alimentació per a l? any 2026.</p><p></p><p></p><p>BDNS (Identif.):</p><p></p><p>De conformitat amb el que preveuen els articles 17.3.b i 20.8.a de la Llei 38/2003, de 17 de novembre, general de subvencions, es publica l?extracte de la convocatòria, el text complet es pot consultar a la base de dades nacional de subvencions (http://www.pap.minhap.gob.es/bdnstrans):</p><p></p><p>Primer. Beneficiaris</p><p></p><p>Poden concórrer a la convocatòria de les subvencions les organitzacions no lucratives (ONL)  que formen part de la Taula d?Aliments de la demarcació de Girona.</p><p></p><p>Cal que el beneficiari hagi realitzat o tingui previst realitzar a la demarcació de Girona accions relacionades amb l?objecte de la convocatòria i que les persones destinatàries finals de la subvenció resideixin a la demarcació de Girona.  </p><p>Per cada beneficiari es podrà concedir fins a una subvenció que pot incorporar: </p><p></p><p>-\tL?adquisició d?aliments i productes bàsics. </p><p></p><p>-\tAjuts econòmics, que consisteixen en xecs, vals o targetes moneder, per cobrir l?assistència material bàsica a famílies i persones que es troben en situació de privació material severa. Aquests ajuts econòmics, no cal que es vinculin a un establiment en concret sempre que l?entitat pugui garantir i acreditar amb posterioritat que només serveixen per l?adquisició de productes per cobrir l?assistència material bàsica de persones en situació de privació material severa. </p><p></p><p>Segon. Objecte</p><p></p><p>La finalitat és regular les subvencions que tenen per objecte la provisió i distribució d?aliments i de productes d?assistència material bàsica a les persones i unitats familiars i de convivència en situació de pobresa i/o vulnerabilitat social, especialment les que estan en situació de privació material servera. </p><p></p><p>Se subvencionaran accions de suport al dret a l?alimentació que duguin a terme  entitats coordinades amb les àrees bàsiques de serveis socials, a través de projectes que efectuen : </p><p></p><p>- Despeses de compra d?aliments i productes d?higiene bàsics (bolquers, material d?higiene femenina, productes de neteja de la casa  i d?higiene personal (xampú, sabó, raspall i pasta de dents), així com targetes moneder, xecs o vals destinats únicament a la compra d?aliments o productes bàsics. </p><p></p><p>- Despeses de personal dels centres de distribució d?aliments o de magatzems que distribueixen aliments. </p><p></p><p>Les persones destinatàries finals d?aliments o productes bàsics han de ser derivades per les àrees bàsiques de serveis socials de la demarcació de Girona. </p><p></p><p>Cada beneficiari pot presentar una sol·licitud. </p><p></p><p>El procediment de concessió de les subvencions és el de concurrència competitiva.</p><p></p><p>El període subvencionable és del dia 1 d?octubre de 2025 al 30 de setembre de 2026.</p><p></p><p></p><p>Tercer. Bases reguladores</p><p></p><p>Publicades en el Butlletí Oficial de la Província de Girona, número 71, de 15 d?abril de 2026</p><p></p><p>Quart. Quantia</p><p></p><p>L?import total màxim destinat a aquesta convocatòria és de tres-cents mil euros (300.000,00 €) </p><p></p><p>Cinquè. Termini de presentació de sol·licituds.</p><p></p><p>El termini de presentació de les sol·licituds del primer procediment comença l?endemà de la publicació de l?extracte d?aquesta convocatòria en el Butlletí Oficial de la Província de Girona i finalitza el dia 1 de juny de 2026.</p><p></p><p>Sisè. Altres dades</p><p></p><p>Les sol·licituds s?han de presentar en el termini establert en la convocatòria i han d?estar signades pel representant legal de l?ens beneficiari.</p><p></p><p>La sol·licitud s?ha de realitzar per mitjà del formulari normalitzat disponible a la Seu electrònica de Dipsalut (www.dipsalut.cat), adjuntant-hi la documentació que acrediti el pressupost i una memòria en què es descrigui l?activitat, i formalitzar-la, necessàriament, per mitjà del registre electrònic. </p><p></p><p>Amb la presentació de la sol·licitud, la persona interessada autoritza Dipsalut a fer les consultes necessàries a l?efecte de comprovar que el beneficiari es troba al corrent de les obligacions tributàries i amb la Seguretat Social, d?acord amb l?article 22.4 del Reial decret 887/2006, de 21 de juliol, pel qual s?aprova el Reglament de la Llei 38/2003, de 17 de novembre, general de subvencions. Si el sol·licitant denega expressament aquesta autorització, haurà de presentar els certificats d?acreditació de les administracions corresponents juntament amb la sol·licitud. </p><p></p><p>El formulari de sol·licitud conté un conjunt de preguntes bàsiques sobre el projecte que cal respondre. A més, es pot afegir informació addicional sobre el projecte adjuntant un arxiu en format PDF al final de la sol·licitud. No s?acceptaran contenidors d?arxius o fitxers, siguin en format PDF (PDF amb adjunts) o bé en formats de compressió de tipus Zip o RAR. </p><p>La declaració responsable segons la qual els estatuts es van presentar a Dipsalut en l?exercici 2011 o en exercicis posteriors i no han estat modificats; o bé que els estatuts de l?entitat no han estat lliurats a Dipsalut o han sofert modificacions. En aquests dos últims casos, cal acreditar-ho aportant els estatuts vigents, mitjançant una còpia compulsada o els originals. </p><p></p><p></p><p>Setè. Termini de justificació</p><p></p><p>El termini per justificar les despeses objecte dels ajuts econòmics d?aquesta convocatòria finalitza el dia 15 d?octubre de 2026.</p><p></p><p></p><p></p><p></p><p>Maria Puig i Ferrer</p><p>Presidenta, p.d.</p>",
+        "url": "https://ssl4.ddgi.cat/bopV1/pdf/2026/85/20268503679.pdf",
+        "cve": null,
+        "desDiarioOficial": "B.O.P. DE GIRONA",
+        "datPublicacion": "2026-05-06"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

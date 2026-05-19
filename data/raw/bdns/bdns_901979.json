@@ -1,0 +1,117 @@
+{
+  "id": "BDNS-901979",
+  "id_interno": 1103540,
+  "numero_convocatoria": "901979",
+  "organismo": "OTROS — CÁMARA DE COMERCIO DE TORTOSA",
+  "sede_electronica": "https://sede.camara.es/sede/tortosa",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "2026-05-20",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Convocatoria Pyme Global 2026 Taste Spain Varsovia 2026 para empresas de Catalunya",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Industria alimentaria",
+  "regiones": "ES51 - CATALUÑA",
+  "finalidad": "Otras actuaciones de carácter económico",
+  "bases_reguladoras": "Convocatoria Pyme Global 2026",
+  "url_bases_reguladoras": "https://cambratortosa.cat/ajuts-i-subvencions/",
+  "presupuesto": "6.278,76 €",
+  "presupuesto_total_num": 6278.76,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "FEDER - FONDO EUROPEO DE DESARROLLO REGIONAL",
+  "reglamento": "REG (UE) 2023/2831 de minimis, General",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901979",
+  "text": "CONVOCATORIA BDNS Nº 901979\nOrganismo: OTROS — CÁMARA DE COMERCIO DE TORTOSA\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  → 2026-05-20 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 6.278,76 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Industria alimentaria\nRegiones: ES51 - CATALUÑA\nFinalidad: Otras actuaciones de carácter económico\nFondos: FEDER - FONDO EUROPEO DE DESARROLLO REGIONAL\nReglamento: REG (UE) 2023/2831 de minimis, General\nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria Pyme Global 2026 Taste Spain Varsovia 2026 para empresas de Catalunya\n\nBases reguladoras:\nConvocatoria Pyme Global 2026\nURL bases reguladoras: https://cambratortosa.cat/ajuts-i-subvencions/\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901979",
+  "_raw": {
+    "id": 1103540,
+    "organo": {
+      "nivel1": "OTROS",
+      "nivel2": "CÁMARA DE COMERCIO DE TORTOSA",
+      "nivel3": null
+    },
+    "sedeElectronica": "https://sede.camara.es/sede/tortosa",
+    "codigoBDNS": "901979",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 6278.76,
+    "mrr": false,
+    "descripcion": "Convocatoria Pyme Global 2026 Taste Spain Varsovia 2026 para empresas de Catalunya",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Industria alimentaria",
+        "codigo": "10"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES51 - CATALUÑA"
+      }
+    ],
+    "descripcionFinalidad": "Otras actuaciones de carácter económico",
+    "descripcionBasesReguladoras": "Convocatoria Pyme Global 2026",
+    "urlBasesReguladoras": "https://cambratortosa.cat/ajuts-i-subvencions/",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": "2026-05-20",
+    "textInicio": "A las 9:00h del dia siguente hábil a la publicación del extracto en el BOP",
+    "textFin": "A las 15:00h",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [
+      {
+        "descripcion": "FEDER - FONDO EUROPEO DE DESARROLLO REGIONAL"
+      }
+    ],
+    "reglamento": {
+      "descripcion": "REG (UE) 2023/2831 de minimis, General",
+      "orden": null
+    },
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443851,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "2026_Modelo de convocatoria de ayudas_Pyme Global_PAF2026.pdf",
+        "long": 481995,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443853,
+        "descripcion": "Anexo II",
+        "nombreFic": "2026_Anexo II_Declaración responsable empresa Pyme Global.pdf",
+        "long": 451015,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443852,
+        "descripcion": "Anexo I",
+        "nombreFic": "2026_Anexo I_Tipologia Gastos Elegibles y Justificación_PAF POLONIA 2026.pdf",
+        "long": 482160,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

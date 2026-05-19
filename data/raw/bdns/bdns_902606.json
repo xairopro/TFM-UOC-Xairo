@@ -1,0 +1,110 @@
+{
+  "id": "BDNS-902606",
+  "id_interno": 1104167,
+  "numero_convocatoria": "902606",
+  "organismo": "LOCAL — SOPELA — AYUNTAMIENTO DE SOPELA",
+  "sede_electronica": "https://sopela.egoitzaelektronikoa.eus/info.1",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": true,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "subvención directa, de carácter nominativo, a MUNARRIKOLANDA MENDI TALDEA 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+  "regiones": "ES213 - Bizkaia",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Ordenanza general de subvenciones del Ayuntamiento de Sopela. BOB 235 9/12/2025",
+  "url_bases_reguladoras": "https://sopela.egoitzaelektronikoa.eus/transparency",
+  "presupuesto": "4.000,00 €",
+  "presupuesto_total_num": 4000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902606",
+  "text": "CONVOCATORIA BDNS Nº 902606\nOrganismo: LOCAL — SOPELA — AYUNTAMIENTO DE SOPELA\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: sí)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 4.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO\nRegiones: ES213 - Bizkaia\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nsubvención directa, de carácter nominativo, a MUNARRIKOLANDA MENDI TALDEA 2026\n\nBases reguladoras:\nOrdenanza general de subvenciones del Ayuntamiento de Sopela. BOB 235 9/12/2025\nURL bases reguladoras: https://sopela.egoitzaelektronikoa.eus/transparency\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902606",
+  "_raw": {
+    "id": 1104167,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "SOPELA",
+      "nivel3": "AYUNTAMIENTO DE SOPELA"
+    },
+    "sedeElectronica": "https://sopela.egoitzaelektronikoa.eus/info.1",
+    "codigoBDNS": "902606",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 4000,
+    "mrr": false,
+    "descripcion": "subvención directa, de carácter nominativo, a MUNARRIKOLANDA MENDI TALDEA 2026",
+    "descripcionLeng": "Dirulaguntza zuzena, izenduna, MUNARRIKOLANDA MENDI TALDEAri 2026",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES213 - Bizkaia"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Ordenanza general de subvenciones del Ayuntamiento de Sopela. BOB 235 9/12/2025",
+    "urlBasesReguladoras": "https://sopela.egoitzaelektronikoa.eus/transparency",
+    "sePublicaDiarioOficial": false,
+    "abierto": true,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445820,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "20260401_Ebazpena_Dekretua_DEKRETUA 2026-0572 [DA_dirulaguntza zuzena-Munarrikolanda 2026]-3.pdf",
+        "long": 377448,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445823,
+        "descripcion": "convenio",
+        "nombreFic": "20260413_Hitzarmena_Hitzarmena_CONVENIO 2026-0007 [CONVENIO Munarrikolanda Mendi Taldea 2026].pdf",
+        "long": 458422,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445821,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "20260401_Ebazpena_Dekretua_DEKRETUA 2026-0572 [DA_dirulaguntza zuzena-Munarrikolanda 2026]-3.pdf",
+        "long": 377448,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

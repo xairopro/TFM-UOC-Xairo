@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-901345",
+  "id_interno": 1102906,
+  "numero_convocatoria": "901345",
+  "organismo": "LOCAL — CORRALES DE BUELNA, LOS — AYUNTAMIENTO DE CORRALES DE BUELNA, LOS",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Subvención nominativa al C.D.E. Delasalle",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+  "regiones": "ES130 - Cantabria",
+  "finalidad": "Otras Prestaciones económicas",
+  "bases_reguladoras": "Subvención nominativa al C.D.E. Delasalle",
+  "url_bases_reguladoras": "https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=420907",
+  "presupuesto": "19.575,00 €",
+  "presupuesto_total_num": 19575,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901345",
+  "text": "CONVOCATORIA BDNS Nº 901345\nOrganismo: LOCAL — CORRALES DE BUELNA, LOS — AYUNTAMIENTO DE CORRALES DE BUELNA, LOS\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 19.575,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO\nRegiones: ES130 - Cantabria\nFinalidad: Otras Prestaciones económicas\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSubvención nominativa al C.D.E. Delasalle\n\nBases reguladoras:\nSubvención nominativa al C.D.E. Delasalle\nURL bases reguladoras: https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=420907\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901345",
+  "_raw": {
+    "id": 1102906,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "CORRALES DE BUELNA, LOS",
+      "nivel3": "AYUNTAMIENTO DE CORRALES DE BUELNA, LOS"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901345",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 19575,
+    "mrr": false,
+    "descripcion": "Subvención nominativa al C.D.E. Delasalle",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES130 - Cantabria"
+      }
+    ],
+    "descripcionFinalidad": "Otras Prestaciones económicas",
+    "descripcionBasesReguladoras": "Subvención nominativa al C.D.E. Delasalle",
+    "urlBasesReguladoras": "https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=420907",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "A la fecha de firma del convenio",
+    "textFin": "A la fecha de firma del convenio",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442042,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Convenio Club Deportivo Elemental Delasalle.pdf",
+        "long": 1051015,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

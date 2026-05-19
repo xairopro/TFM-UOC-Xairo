@@ -1,0 +1,114 @@
+{
+  "id": "BDNS-902141",
+  "id_interno": 1103702,
+  "numero_convocatoria": "902141",
+  "organismo": "OTROS — UNIVERSIDAD JAUME I DE CASTELLÓN",
+  "sede_electronica": "ujiapps.uji.es/seu/info-adm/tao/convocatoriesRH?pArId=85626",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Beca d 'iniciació a la investigació (Projecte «MODELADO PREDICTIVO DE FALLOS DE RESCATE EN PACIENTES POSTQUIRÚRGICOS INGRESADOS EN UNIDADES DE HOSPITALIZACIÓN DE ADULTOS» – Codi 25I680 – Dirigit per: María Jesús Valero Chillerón, Unitat Pre",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Educación terciaria",
+  "regiones": "ES52 - COMUNIDAD VALENCIANA",
+  "finalidad": "Educación",
+  "bases_reguladoras": "Beca d 'iniciació a la investigació (Projecte «MODELADO PREDICTIVO DE FALLOS DE RESCATE EN PACIENTES POSTQUIRÚRGICOS INGRESADOS EN UNIDADES DE HOSPITALIZACIÓN DE ADULTOS» – Codi 25I680 – Dirigit per: María Jesús Valero Chillerón, Unitat Pre",
+  "url_bases_reguladoras": "ujiapps.uji.es/seu/info-adm/tao/convocatoriesRH?pArId=85626",
+  "presupuesto": "1.457,52 €",
+  "presupuesto_total_num": 1457.52,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902141",
+  "text": "CONVOCATORIA BDNS Nº 902141\nOrganismo: OTROS — UNIVERSIDAD JAUME I DE CASTELLÓN\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 1.457,52 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Educación terciaria\nRegiones: ES52 - COMUNIDAD VALENCIANA\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nBeca d 'iniciació a la investigació (Projecte «MODELADO PREDICTIVO DE FALLOS DE RESCATE EN PACIENTES POSTQUIRÚRGICOS INGRESADOS EN UNIDADES DE HOSPITALIZACIÓN DE ADULTOS» – Codi 25I680 – Dirigit per: María Jesús Valero Chillerón, Unitat Pre\n\nBases reguladoras:\nBeca d 'iniciació a la investigació (Projecte «MODELADO PREDICTIVO DE FALLOS DE RESCATE EN PACIENTES POSTQUIRÚRGICOS INGRESADOS EN UNIDADES DE HOSPITALIZACIÓN DE ADULTOS» – Codi 25I680 – Dirigit per: María Jesús Valero Chillerón, Unitat Pre\nURL bases reguladoras: ujiapps.uji.es/seu/info-adm/tao/convocatoriesRH?pArId=85626\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902141",
+  "_raw": {
+    "id": 1103702,
+    "organo": {
+      "nivel1": "OTROS",
+      "nivel2": "UNIVERSIDAD JAUME I DE CASTELLÓN",
+      "nivel3": null
+    },
+    "sedeElectronica": "ujiapps.uji.es/seu/info-adm/tao/convocatoriesRH?pArId=85626",
+    "codigoBDNS": "902141",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 1457.52,
+    "mrr": false,
+    "descripcion": "Beca d 'iniciació a la investigació (Projecte «MODELADO PREDICTIVO DE FALLOS DE RESCATE EN PACIENTES POSTQUIRÚRGICOS INGRESADOS EN UNIDADES DE HOSPITALIZACIÓN DE ADULTOS» – Codi 25I680 – Dirigit per: María Jesús Valero Chillerón, Unitat Pre",
+    "descripcionLeng": "Beca d 'iniciació a la investigació (Projecte «MODELADO PREDICTIVO DE FALLOS DE RESCATE EN PACIENTES POSTQUIRÚRGICOS INGRESADOS EN UNIDADES DE HOSPITALIZACIÓN DE ADULTOS» – Codi 25I680 – Dirigit per: María Jesús Valero Chillerón, Unitat Pre",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Educación terciaria",
+        "codigo": "85.4"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES52 - COMUNIDAD VALENCIANA"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "Beca d 'iniciació a la investigació (Projecte «MODELADO PREDICTIVO DE FALLOS DE RESCATE EN PACIENTES POSTQUIRÚRGICOS INGRESADOS EN UNIDADES DE HOSPITALIZACIÓN DE ADULTOS» – Codi 25I680 – Dirigit per: María Jesús Valero Chillerón, Unitat Pre",
+    "urlBasesReguladoras": "ujiapps.uji.es/seu/info-adm/tao/convocatoriesRH?pArId=85626",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Periodo de entrega de solicitudes abierto desde  hasta .",
+    "textFin": "Periodo de de entrega de solicitudes cerrado el dia .",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444281,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "25I680_C.pdf",
+        "long": 72086,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444280,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "25I680_Ccs.pdf",
+        "long": 73810,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210333,
+        "titulo": "Beca d 'iniciació a la investigació (Projecte «MODELADO PREDICTIVO DE FALLOS DE RESCATE EN PACIENTES POSTQUIRÚRGICOS INGRESADOS EN UNIDADES DE HOSPITALIZACIÓN DE ADULTOS» – Codi 25I680 – Dirigit per: María Jesús Valero Chillerón, Unitat Pre",
+        "tituloLeng": "Beca d 'iniciació a la investigació (Projecte «MODELADO PREDICTIVO DE FALLOS DE RESCATE EN PACIENTES POSTQUIRÚRGICOS INGRESADOS EN UNIDADES DE HOSPITALIZACIÓN DE ADULTOS» – Codi 25I680 – Dirigit per: María Jesús Valero Chillerón, Unitat Pre",
+        "texto": "<p>Universitat Jaume I\n</p><p>\n</p><p>Extracto de la Resolución ,  de la Universitat Jaume I de Castellón por la que se convoca .\n</p><p>BDNS (902141):\n</p><p>\n</p><p>De conformidad con lo previsto en los artículos 17.3.b y 20.8.a de la Ley 38/2003, de 17 de noviembre, \n</p><p>                  General de Subvenciones, se publica el extracto de la convocatoria cuyo texto completo puede consultarse \n</p><p>                  en la Base de Datos Nacional de Subvenciones:\n</p><p>http://www.pap.minhap.gob.es/bdnstrans/index\n</p><p>\n</p><p>Primero. Personas beneficiarias\n</p><p>Pueden participar en la presente convocatoria las personas físicas que reúnan los siguientes requisitos:\n</p><p>1.º Estudiantado de la Universitat Jaume I de Grado en Enfermería que haya superado al menos el 50% de los créditos de la titulación de Grado y que no haya superado todos los créditos de que consta la titulación o los créditos extra de los cuales se haya podido matricular en el Grado y/o Máster.\n</p><p>2.º Poseer la nacionalidad española, ser nacional de un estado miembro de la Unión Europea o de otro país no perteneciente a la UE con permiso de residencia o de estudios en España y con la documentación identificativa en vigor, en el momento de la incorporación a la beca\n</p><p>\n</p><p>Segundo. Finalidad\n</p><p> El objetivo de la beca consiste en regular el procedimiento de concesión de una beca de iniciación a la investigación en el ámbito del proyecto «MODELADO PREDICTIVO DE FALLOS DE RESCATE EN PACIENTES POSTQUIRÚRGICOS INGRESADOS EN UNIDADES DE HOSPITALIZACIÓN DE ADULTOS» (código 25I680, dirigido por María Jesús Valero Chillerón, Unidad predepartamental de Enfermería)\n</p><p>\n</p><p>Tercero. Bases reguladores\n</p><p>Accesibles en: http://www.uji.es/seu/info-adm/tao/\n</p><p>\n</p><p>Cuarto. Importe\n</p><p>El importe global destinado a la concesión de esta beca es de 1.457,52 euros. \n</p><p>\n</p><p>Quinto. Plazo de presentación de solicitudes\n</p><p>El plazo de presentación de solicitudes será de 10 días hábiles a partir del día siguiente a la publicación del extracto de la convocatoria en el DOGV.</p>",
+        "textoLeng": "<p>Universitat Jaume I\n</p><p>\n</p><p>Extracte de la Resolució ,  de la Universitat Jaume I de Castelló per la que es convoca .\n</p><p>BDNS (902141):\n</p><p>\n</p><p>De conformitat amb el que preveuen els articles 17.3.b i 20.8.a de la Llei 38/2003, de 17 de novembre, \n</p><p>                 general de subvencions, es publica l’extracte de la convocatòria, \n</p><p>                  el text complet dels quals pot consultar-se en la Base de Dades Nacionals de Subvencions:\n</p><p>http://www.pap.minhap.gob.es/bdnstrans/index\n</p><p>\n</p><p>Primer. Persones beneficiàries\n</p><p>Poden participar en la present convocatòria les persones físiques que reunisquen els següents requisits:\n</p><p>1r Estudiantat de la Universitat Jaume I de Grau en Infermeria que haja superat almenys el 50% dels crèdits de la titulació de Grau i que no haja superat tots els crèdits de què consta la titulació o els crèdits extra dels quals s'haja pogut matricular en el Grau i/o Màster.\n</p><p>2n Posseir la nacionalitat espanyola, ser nacional d'un estat membre de la Unió Europea o d'un altre país no pertanyent a la UE amb permís de residència o d'estudis a Espanya i amb la documentació identificativa en vigor, en el moment de la incorporació a la beca\n</p><p>\n</p><p>Segon. Finalitat\n</p><p> L'objectiu de la beca consistix a regular el procediment de concessió d'una beca d'iniciació a la investigació en l'àmbit del projecte «MODELAT PREDICTIU DE FALLADES DE RESCAT EN PACIENTS POSTQUIRÚRGICS INGRESSATS EN UNITATS D'HOSPITALITZACIÓ D'ADULTS» (codi 25I680, dirigit per María Jesús Valero Chillerón, Unitat predepartamental d'Infermeria)\n</p><p>\n</p><p>Tercer. Bases reguladors\n</p><p>Accessibles en: http://www.uji.es/seu/info-adm/tao/\n</p><p>\n</p><p>Quart. Import\n</p><p>L'import global destinat a la concessió d'esta beca és de 1.457,52 euros. \n</p><p>\n</p><p>Quint. Termini de presentació de sol·licituds\n</p><p>El termini de presentació de sol·licituds serà de 10 dies hàbils a partir de l'endemà de la publicació de l'extracte de la convocatòria en el DOGV.</p>",
+        "url": "https://dogv.gva.es/va/resultat-dogv?signatura=2026/12430",
+        "cve": "DOGV-V-2026-12430",
+        "desDiarioOficial": "DOCV. D.O. DE LA COMUNITAT VALENCIANA",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

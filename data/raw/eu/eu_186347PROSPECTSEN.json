@@ -1,0 +1,136 @@
+{
+  "id": "EU-186347PROSPECTSEN",
+  "topic_id": "186347PROSPECTSEN",
+  "titulo": "Support to Media Organisations in Kosovo",
+  "descripcion": "Support to Media Organisations in Kosovo",
+  "organismo": "111111",
+  "fecha_publicacion": "2026-04-02",
+  "fecha_limite": "2026-05-18",
+  "deadlines_todas": "2026-05-18",
+  "presupuesto": "1500000",
+  "duracion": "",
+  "tipo_accion": "",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186347",
+  "text": "EU FUNDING & TENDERS – Topic: 186347PROSPECTSEN\nProgramme/Organism: 111111\nTitle: Support to Media Organisations in Kosovo\nStatus: Open (31094502)\nType of action: \nOpening date: 2026-04-02\nDeadline: 2026-05-18\nAll deadlines: 2026-05-18\nDuration: \nBudget overview: 1500000\n\nDescription / Scope:\nSupport to Media Organisations in Kosovo\n\nMore info: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186347",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "186347PROSPECTSEN",
+    "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186347",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Support to Media Organisations in Kosovo",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Support to Media Organisations in Kosovo",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "7ADA016443F755E319CE26FF9FC4F5C1BAE109FDA651DFEDF3E0BBB07D155E99",
+    "metadata": {
+      "updateDate": [
+        "2026-04-29T08:23:36.000+0000"
+      ],
+      "es_SortDate": [
+        "2026-04-02T10:00:07.000+0000"
+      ],
+      "beneficiaryAdministration": [],
+      "sortStatus": [
+        "1"
+      ],
+      "contractType": [
+        "42893160"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Support to Media Organisations in Kosovo"
+      ],
+      "type": [
+        "2"
+      ],
+      "esST_checksum": [
+        "7ADA016443F755E319CE26FF9FC4F5C1BAE109FDA651DFEDF3E0BBB07D155E99"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "callIdentifier": [
+        "186347"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "186347PROSPECTSEN"
+      ],
+      "currency": [
+        "EUR"
+      ],
+      "frameworkProgramme": [
+        "111111"
+      ],
+      "budget": [
+        "1500000"
+      ],
+      "identifier": [
+        "EuropeAid/186347/DD/ACT/XK"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "geographicalZones": [
+        "31008860"
+      ],
+      "publicationDocuments": [
+        "[{\"nameDoc\":\"Clarification points no. 1\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-29 11:00:44.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2162720&lang=EN\"},{\"nameDoc\":\"Information Session Presentation\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-20 17:25:23.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2162700&lang=EN\"},{\"nameDoc\":\"Application form Full Application\",\"typeDoc\":\"rtf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-02 12:00:03.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2162696&lang=EN\"},{\"nameDoc\":\"Application form Concept Note\",\"typeDoc\":\"rtf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-02 12:00:20.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2162699&lang=EN\"},{\"nameDoc\":\"Guidelines for grant applicants\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-02 12:00:38.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2162695&lang=EN\"},{\"nameDoc\":\"Local Publication\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-02 12:00:03.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2162691&lang=EN\"},{\"nameDoc\":\"Annex B - Budget\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-02 12:00:39.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2162702&lang=EN\"},{\"nameDoc\":\"Annex C - Logical framework\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-02 12:00:55.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2162697&lang=EN\"},{\"nameDoc\":\"Annex F - PADOR offline registration form\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-02 12:00:46.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2162694&lang=EN\"},{\"nameDoc\":\"Annex G - Standard grant contract\",\"typeDoc\":\"zip\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-02 12:00:46.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2162698&lang=EN\"},{\"nameDoc\":\"Annex H - Declaration of honour on exclusion and selection criteria\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-02 12:00:18.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2162692&lang=EN\"},{\"nameDoc\":\"Annex J - Information on the tax regime applicable to grant contracts\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-02 12:00:11.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2162701&lang=EN\"},{\"nameDoc\":\"Appendix - Derogations international organisations\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-02 12:00:42.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2162693&lang=EN\"},{\"nameDoc\":\"Annex L - Self-evaluation questionnaire on SEA-H\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-02 12:00:08.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2162690&lang=EN\"}]"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-04-02T12:01:01.513+0200"
+      ],
+      "programmePeriod": [
+        "2014 - 2020",
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-05-18T10:00:47.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-29T11:01:05.630+0200"
+      ],
+      "url": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186347"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186347"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-29T11:01:05.616+0200"
+      ],
+      "programmeDivisionProspect": [
+        "42921320"
+      ],
+      "geographicalZone": [
+        "31008860"
+      ],
+      "startDate": [
+        "2026-04-02T10:00:07.000+0000"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Support to Media Organisations in Kosovo. Available at: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186347",
+    "score": 3.0
+  }
+}

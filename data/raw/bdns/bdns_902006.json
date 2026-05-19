@@ -1,0 +1,110 @@
+{
+  "id": "BDNS-902006",
+  "id_interno": 1103567,
+  "numero_convocatoria": "902006",
+  "organismo": "LOCAL — POZOBLANCO — AYUNTAMIENTO DE POZOBLANCO",
+  "sede_electronica": "https://sede.eprinsa.es/pozoblanco",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Resolución de Alcaldía nº 2026/00001704 de fecha 27/04/2026 por la que se convoca Subvención de Concurrencia Competitiva para Premios Literarios con motivo de la Feria y Fiestas en honor de Ntra. Sra. de las Mercedes 2026\"",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "OTROS SERVICIOS",
+  "regiones": "ES613 - Córdoba",
+  "finalidad": "Otras Prestaciones económicas",
+  "bases_reguladoras": "En sesión ordinaria de Pleno, celebrada el 28 de octubre de 2013, se aprobó inicialmente la Ordenanza General reguladora de la\nconcesión de Subvenciones.",
+  "url_bases_reguladoras": "htps..//pozoblanco.es/wp-content/uploads/2014/10/Ordenanza-reguladora-concesion-de-subvenciones.pdf",
+  "presupuesto": "4.400,00 €",
+  "presupuesto_total_num": 4400,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902006",
+  "text": "CONVOCATORIA BDNS Nº 902006\nOrganismo: LOCAL — POZOBLANCO — AYUNTAMIENTO DE POZOBLANCO\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 4.400,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: OTROS SERVICIOS\nRegiones: ES613 - Córdoba\nFinalidad: Otras Prestaciones económicas\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nResolución de Alcaldía nº 2026/00001704 de fecha 27/04/2026 por la que se convoca Subvención de Concurrencia Competitiva para Premios Literarios con motivo de la Feria y Fiestas en honor de Ntra. Sra. de las Mercedes 2026\"\n\nBases reguladoras:\nEn sesión ordinaria de Pleno, celebrada el 28 de octubre de 2013, se aprobó inicialmente la Ordenanza General reguladora de la\nconcesión de Subvenciones.\nURL bases reguladoras: htps..//pozoblanco.es/wp-content/uploads/2014/10/Ordenanza-reguladora-concesion-de-subvenciones.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902006",
+  "_raw": {
+    "id": 1103567,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "POZOBLANCO",
+      "nivel3": "AYUNTAMIENTO DE POZOBLANCO"
+    },
+    "sedeElectronica": "https://sede.eprinsa.es/pozoblanco",
+    "codigoBDNS": "902006",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 4400,
+    "mrr": false,
+    "descripcion": "Resolución de Alcaldía nº 2026/00001704 de fecha 27/04/2026 por la que se convoca Subvención de Concurrencia Competitiva para Premios Literarios con motivo de la Feria y Fiestas en honor de Ntra. Sra. de las Mercedes 2026\"",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES613 - Córdoba"
+      }
+    ],
+    "descripcionFinalidad": "Otras Prestaciones económicas",
+    "descripcionBasesReguladoras": "En sesión ordinaria de Pleno, celebrada el 28 de octubre de 2013, se aprobó inicialmente la Ordenanza General reguladora de la\nconcesión de Subvenciones.",
+    "urlBasesReguladoras": "htps..//pozoblanco.es/wp-content/uploads/2014/10/Ordenanza-reguladora-concesion-de-subvenciones.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Desde el día siguiente de su publicación en el BOP",
+    "textFin": "30/06/2026",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443903,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "DECRETO PREMIOS LITERARIOS.pdf",
+        "long": 590410,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1443906,
+        "descripcion": "BASES PREMIOS LITERARIOS",
+        "nombreFic": "BASES PREMIOS LITERARIOS.pdf",
+        "long": 188779,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1443905,
+        "descripcion": "ANEXOS PREMIOS LITERARIOS",
+        "nombreFic": "ANEXOS PREMIOS LITERARIOS.pdf",
+        "long": 165342,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": "BDNS-902471",
+  "id_interno": 1104032,
+  "numero_convocatoria": "902471",
+  "organismo": "AUTONOMICA — COMUNITAT VALENCIANA — INSTITUTO VALENCIANO DE COMPETITIVIDAD EMPRESARIAL (IVACE)",
+  "sede_electronica": "http://www.ivace.es",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "2021-11-02",
+  "fecha_fin_solicitud": "2023-12-31",
+  "abierto": false,
+  "mrr": true,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Resolución del presidente del IVACE por la que se convocan ayudas para la ejecución de  programas de incentivos ligados al autoconsumo y al almacenamiento, con fuentes de energía renovable,",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "GRAN EMPRESA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "SUMINISTRO DE ENERGIA ELECTRICA, GAS, VAPOR Y AIRE ACONDICIONADO",
+  "regiones": "ES52 - COMUNIDAD VALENCIANA",
+  "finalidad": "Industria y Energía",
+  "bases_reguladoras": "Real Decreto 477/2021, de 29 de junio, de concesión de ayudas para la ejecución de diversos programas de incentivos ligados al autoconsumo y al almacenamiento, con energías renovables",
+  "url_bases_reguladoras": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-10824",
+  "presupuesto": "1.200.000,00 €",
+  "presupuesto_total_num": 1200000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "MRR - MECANISMO DE RECUPERACIÓN Y RESILIENCIA",
+  "reglamento": "REG (UE) 1407/2013 de minimis, General",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902471",
+  "text": "CONVOCATORIA BDNS Nº 902471\nOrganismo: AUTONOMICA — COMUNITAT VALENCIANA — INSTITUTO VALENCIANO DE COMPETITIVIDAD EMPRESARIAL (IVACE)\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud: 2021-11-02 → 2023-12-31 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 1.200.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: GRAN EMPRESA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: SUMINISTRO DE ENERGIA ELECTRICA, GAS, VAPOR Y AIRE ACONDICIONADO\nRegiones: ES52 - COMUNIDAD VALENCIANA\nFinalidad: Industria y Energía\nFondos: MRR - MECANISMO DE RECUPERACIÓN Y RESILIENCIA\nReglamento: REG (UE) 1407/2013 de minimis, General\nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): sí\n\nObjeto / Descripción:\nResolución del presidente del IVACE por la que se convocan ayudas para la ejecución de  programas de incentivos ligados al autoconsumo y al almacenamiento, con fuentes de energía renovable,\n\nBases reguladoras:\nReal Decreto 477/2021, de 29 de junio, de concesión de ayudas para la ejecución de diversos programas de incentivos ligados al autoconsumo y al almacenamiento, con energías renovables\nURL bases reguladoras: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-10824\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902471",
+  "_raw": {
+    "id": 1104032,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "COMUNITAT VALENCIANA",
+      "nivel3": "INSTITUTO VALENCIANO DE COMPETITIVIDAD EMPRESARIAL (IVACE)"
+    },
+    "sedeElectronica": "http://www.ivace.es",
+    "codigoBDNS": "902471",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 1200000,
+    "mrr": true,
+    "descripcion": "Resolución del presidente del IVACE por la que se convocan ayudas para la ejecución de  programas de incentivos ligados al autoconsumo y al almacenamiento, con fuentes de energía renovable,",
+    "descripcionLeng": "Resolució del president de l'IVACE per la qual es convocquen ajudes per a l'execució de preogrames d'incentius lligats a l'autoconsum i a l'emmagatzenatge, amb fonts d'energia renovable",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "GRAN EMPRESA"
+      },
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "SUMINISTRO DE ENERGIA ELECTRICA, GAS, VAPOR Y AIRE ACONDICIONADO",
+        "codigo": "D"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES52 - COMUNIDAD VALENCIANA"
+      }
+    ],
+    "descripcionFinalidad": "Industria y Energía",
+    "descripcionBasesReguladoras": "Real Decreto 477/2021, de 29 de junio, de concesión de ayudas para la ejecución de diversos programas de incentivos ligados al autoconsumo y al almacenamiento, con energías renovables",
+    "urlBasesReguladoras": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-10824",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2021-11-02",
+    "fechaFinSolicitud": "2023-12-31",
+    "textInicio": "02/11/2021",
+    "textFin": "31/12/2023",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [
+      {
+        "descripcion": "MRR - MECANISMO DE RECUPERACIÓN Y RESILIENCIA"
+      }
+    ],
+    "reglamento": {
+      "descripcion": "REG (UE) 1407/2013 de minimis, General",
+      "orden": null
+    },
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445449,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Convocatoria Autoconsumo-IDAE 2021_firmado.pdf",
+        "long": 879933,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445450,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "Convocatoria Autoconsum-IDAE 21.pdf",
+        "long": 786956,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445453,
+        "descripcion": "Correccio errors",
+        "nombreFic": "Correccio Errors Convocatoria Autoconsum IDAE 2021_firmado.pdf",
+        "long": 741932,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445452,
+        "descripcion": "Bases reguladoras",
+        "nombreFic": "Real Decreto 477_2021 Bases Reguladoras.pdf",
+        "long": 779826,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445451,
+        "descripcion": "Correccion errores ",
+        "nombreFic": "Correccion Errores Convocatoria Autoconsumo IDAE 2021.pdf",
+        "long": 601258,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210468,
+        "titulo": "Procedimiento Beta",
+        "tituloLeng": null,
+        "texto": "Procedimiento Beta",
+        "textoLeng": null,
+        "url": "https://dogv.gva.es/datos/2021/10/04/pdf/2021_9892.pdf",
+        "cve": null,
+        "desDiarioOficial": "DOCV. D.O. DE LA COMUNITAT VALENCIANA",
+        "datPublicacion": "2021-10-04"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

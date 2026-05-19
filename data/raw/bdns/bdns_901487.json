@@ -1,0 +1,122 @@
+{
+  "id": "BDNS-901487",
+  "id_interno": 1103048,
+  "numero_convocatoria": "901487",
+  "organismo": "LOCAL — DAIMIEL — AYUNTAMIENTO DE DAIMIEL",
+  "sede_electronica": "www.daimiel.es",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "2026-04-29",
+  "fecha_fin_solicitud": "2026-05-27",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA DE AYUDAS AL TRANSPORTE PARA ESTUDIANTES DESPLAZADOS FUERA DEL TÉRMINO MUNICIPAL. CURSO 2025/2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "EDUCACIÓN",
+  "regiones": "ES422 - Ciudad Real",
+  "finalidad": "Educación",
+  "bases_reguladoras": "CONVOCATORIA DE AYUDAS AL TRANSPORTE PARA ESTUDIANTES DESPLAZADOS FUERA DEL TÉRMINO MUNICIPAL. CURSO 2025/2026",
+  "url_bases_reguladoras": "https://www.daimiel.es/es/ayudas-al-transporte-para-estudiantes-desplazados-fuera-del-termino-municipal-2026",
+  "presupuesto": "7.500,00 €",
+  "presupuesto_total_num": 7500,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901487",
+  "text": "CONVOCATORIA BDNS Nº 901487\nOrganismo: LOCAL — DAIMIEL — AYUNTAMIENTO DE DAIMIEL\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud: 2026-04-29 → 2026-05-27 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 7.500,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: EDUCACIÓN\nRegiones: ES422 - Ciudad Real\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA DE AYUDAS AL TRANSPORTE PARA ESTUDIANTES DESPLAZADOS FUERA DEL TÉRMINO MUNICIPAL. CURSO 2025/2026\n\nBases reguladoras:\nCONVOCATORIA DE AYUDAS AL TRANSPORTE PARA ESTUDIANTES DESPLAZADOS FUERA DEL TÉRMINO MUNICIPAL. CURSO 2025/2026\nURL bases reguladoras: https://www.daimiel.es/es/ayudas-al-transporte-para-estudiantes-desplazados-fuera-del-termino-municipal-2026\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901487",
+  "_raw": {
+    "id": 1103048,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DAIMIEL",
+      "nivel3": "AYUNTAMIENTO DE DAIMIEL"
+    },
+    "sedeElectronica": "www.daimiel.es",
+    "codigoBDNS": "901487",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 7500,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA DE AYUDAS AL TRANSPORTE PARA ESTUDIANTES DESPLAZADOS FUERA DEL TÉRMINO MUNICIPAL. CURSO 2025/2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES422 - Ciudad Real"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "CONVOCATORIA DE AYUDAS AL TRANSPORTE PARA ESTUDIANTES DESPLAZADOS FUERA DEL TÉRMINO MUNICIPAL. CURSO 2025/2026",
+    "urlBasesReguladoras": "https://www.daimiel.es/es/ayudas-al-transporte-para-estudiantes-desplazados-fuera-del-termino-municipal-2026",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-04-29",
+    "fechaFinSolicitud": "2026-05-27",
+    "textInicio": "29/04/2026",
+    "textFin": "27/05/2026",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442387,
+        "descripcion": "MODELO SOLICITUD CONVOCATORIA DE AYUDAS AL TRANSPORTE PARA ESTUDIANTES DESPLAZADOS FUERA DEL TÉRMINO MUNICIPAL, CURSO 2025/2026",
+        "nombreFic": "SOLICITUD Y ANEXOS  becas transporte 2025-2026 .pdf",
+        "long": 295126,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442388,
+        "descripcion": "ANEXOS CONVOCATORIA DE AYUDAS AL TRANSPORTE PARA ESTUDIANTES DESPLAZADOS FUERA DEL TÉRMINO MUNICIPAL. CURSO 2025/2026",
+        "nombreFic": "SOLICITUD Y ANEXOS  becas transporte 2025-2026 .pdf",
+        "long": 295126,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442382,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "BASES   becas transporte 2025-2026 .pdf",
+        "long": 218531,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210025,
+        "titulo": "CONVOCATORIA DE AYUDAS AL TRANSPORTE PARA ESTUDIANTES DESPLAZADOS FUERA DEL TÉRMINO MUNICIPAL. CURSO 2025/2026",
+        "tituloLeng": null,
+        "texto": "<p>BECAS TRANSPORTE DE ESTUDIANTES</p><p> CURSO 2025/2026</p><p> </p><p>PRIMERA.- BENEFICIARIOS</p><p>Estudiantes que se desplacen obligatoriamente fuera del municipio de Daimiel, para cursar algunos de los estudios académicos que se indican a continuación, en el curso académico 2025/2026, por no existir este en el municipio o por no haber obtenido plaza para cursarlo en un centro docente público de la localidad:</p><p>Estudios Universitarios; Titulaciones de Grados, Máster y Doctorado.</p><p>Ciclos Formativos de Grado Medio y Superior</p><p>Ciclos de Formación Profesional Básica</p><p>Estudios de Bachillerato.</p><p> </p><p>SEGUNDA.- OBJETO DE LA CONVOCATORIA</p><p>La presente convocatoria tiene por objeto la concesión, en régimen de concurrencia competitiva, de una ayuda económica complementaria para el transporte, destinada a jóvenes estudiantes que se desplacen obligatoriamente fuera del municipio de Daimiel, para cursar algunos de los estudios académicos que se indican a continuación, en el curso académico 2025/2026, por no existir este en el municipio o por no haber obtenido plaza para cursarlo en un centro docente público de la localidad:</p><p>Estudios Universitarios; Titulaciones de Grados, Máster y Doctorado.</p><p>Ciclos Formativos de Grado Medio y Superior</p><p>Ciclos de Formación Profesional Básica</p><p>Estudios de Bachillerato.</p><p> </p><p>TERCERA.- BASES REGULADORAS</p><p>Las Bases Reguladoras de esta convocatoria fueron aprobadas por acuerdo de la Junta de Gobierno Local de fecha 13/04/2025, cuyo texto completo puede consultarse en: https://www.daimiel.es/es/ayudas-al-transporte-para-estudiantes-desplazados-fuera-del-termino-municipal-2026 con identificación</p><p>BDNS 901487</p><p> </p><p>CUARTA.- CUANTÍA DE LAS AYUDAS.</p><p>            El crédito presupuestario para la presente convocatoria es de 7.500 Euros, previsto en la partida 3260-48101 del presupuesto municipal en vigor.</p><p>            La cuantía de las ayudas será como máximo de 120 euros.</p><p> </p><p>QUINTA.- PLAZO Y FORMA DE PRESENTACIÓN DE LAS SOLICITUDES.</p><p>6.1.- El plazo de presentación de las solicitudes será de 20 días hábiles, contados a partir del siguiente al de la publicación de la convocatoria en el Boletín Oficial de la Provincia de Ciudad Real</p><p>6.2.- La solicitud, de acuerdo con el modelo del Anexo II, se presentará en:</p><p>De manera presencial, en el Registro General del Excmo. Ayuntamiento de Daimiel, ubicado en la planta baja de la Casa Consistorial (Plaza de España, nº 1), en el horario habitual del mismo.</p><p>De forma electrónica, a través de la Sede Electrónica del Excmo. Ayuntamiento de Daimiel, alojada en la web del Excmo. Ayuntamiento de Daimiel (www.daimiel.es).</p><p>En los lugares o por los medios previstos en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.</p><p> </p><p>SEXTA.- OTROS DATOS</p><p> </p><p>SOLICITUDES</p><p>Dicha solicitud, junto con las instrucciones y anexos pertinentes, se presentarán según el modelo oficial disponible en: https://www.daimiel.es/es/ayudas-al-transporte-para-estudiantes-desplazados-fuera-del-termino-municipal-2026</p>",
+        "textoLeng": null,
+        "url": "https://se1.dipucr.es:4443/SIGEM_BuscadorDocsWeb/getDocument.do?entidad=005&doc=7513077",
+        "cve": "0G7FUcJysn/xT7YWztZq",
+        "desDiarioOficial": "B.O.P. DE CIUDAD REAL",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

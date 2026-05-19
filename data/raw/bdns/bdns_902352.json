@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902352",
+  "id_interno": 1103913,
+  "numero_convocatoria": "902352",
+  "organismo": "LOCAL — DIPUTACIÓN PROV. DE MÁLAGA — DIPUTACIÓN PROVINCIAL DE MÁLAGA",
+  "sede_electronica": "https://sede.malaga.es/",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "2026-07-15",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Acuerdo de Junta de Gobierno de 22 de abril de 2026, punto 6.1.1., de Aprobación de la convocatoria del Premio de pintura Evaristo Guerra 2026.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+  "regiones": "ES617 - Málaga",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Acuerdo de Pleno de 20 de marzo de 2024 aprobación definitiva de la Ordenanza General de Subvenciones de la Diputación Provincial de Málaga.",
+  "url_bases_reguladoras": "https://www.bopmalaga.es/edicto.php?edicto=20240430-01616-2024-00",
+  "presupuesto": "4.500,00 €",
+  "presupuesto_total_num": 4500,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902352",
+  "text": "CONVOCATORIA BDNS Nº 902352\nOrganismo: LOCAL — DIPUTACIÓN PROV. DE MÁLAGA — DIPUTACIÓN PROVINCIAL DE MÁLAGA\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  → 2026-07-15 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 4.500,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO\nRegiones: ES617 - Málaga\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nAcuerdo de Junta de Gobierno de 22 de abril de 2026, punto 6.1.1., de Aprobación de la convocatoria del Premio de pintura Evaristo Guerra 2026.\n\nBases reguladoras:\nAcuerdo de Pleno de 20 de marzo de 2024 aprobación definitiva de la Ordenanza General de Subvenciones de la Diputación Provincial de Málaga.\nURL bases reguladoras: https://www.bopmalaga.es/edicto.php?edicto=20240430-01616-2024-00\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902352",
+  "_raw": {
+    "id": 1103913,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DIPUTACIÓN PROV. DE MÁLAGA",
+      "nivel3": "DIPUTACIÓN PROVINCIAL DE MÁLAGA"
+    },
+    "sedeElectronica": "https://sede.malaga.es/",
+    "codigoBDNS": "902352",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 4500,
+    "mrr": false,
+    "descripcion": "Acuerdo de Junta de Gobierno de 22 de abril de 2026, punto 6.1.1., de Aprobación de la convocatoria del Premio de pintura Evaristo Guerra 2026.",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES617 - Málaga"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Acuerdo de Pleno de 20 de marzo de 2024 aprobación definitiva de la Ordenanza General de Subvenciones de la Diputación Provincial de Málaga.",
+    "urlBasesReguladoras": "https://www.bopmalaga.es/edicto.php?edicto=20240430-01616-2024-00",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": "2026-07-15",
+    "textInicio": "Al día siguiente de la publicación de la convocatoria en el BOPMA",
+    "textFin": "Quince de julio de 2026",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445135,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "20260422 Convocatoria PREMIO EVARISTO GUERRA 2026.pdf",
+        "long": 316095,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

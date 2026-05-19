@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902809",
+  "id_interno": 1104370,
+  "numero_convocatoria": "902809",
+  "organismo": "LOCAL — MOGÁN — AYUNTAMIENTO DE MOGÁN",
+  "sede_electronica": "https://www.mogan.es/",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Subvención nominativa a favor de la entidad COFRADÍA DE PESCADORES DE PLAYA DE MOGÁN para llevar la organización de la participación de los barcos pesqueros de la Cofradía en la Procesión Marítima en honor de Ntra. Sra. del Carmen en Playa de Mogán, 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Otras actividades recreativas y de entretenimiento",
+  "regiones": "ES705 - Gran Canaria",
+  "finalidad": "Otras Prestaciones económicas",
+  "bases_reguladoras": "Aprobación definitiva del PRESUPUESTO GENERAL DEL AYUNTAMIENTO DE MOGÁN, para el ejercicio 2026, así como de las Bases de Ejecución del Presupuesto y el Plan Estratégico de Subvenciones (BOP Las Palmas nº 154 de 24 de diciembre de 2025)",
+  "url_bases_reguladoras": "http://www.boplasplamas.net/nbop2/index.php",
+  "presupuesto": "4.000,00 €",
+  "presupuesto_total_num": 4000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902809",
+  "text": "CONVOCATORIA BDNS Nº 902809\nOrganismo: LOCAL — MOGÁN — AYUNTAMIENTO DE MOGÁN\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 4.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Otras actividades recreativas y de entretenimiento\nRegiones: ES705 - Gran Canaria\nFinalidad: Otras Prestaciones económicas\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSubvención nominativa a favor de la entidad COFRADÍA DE PESCADORES DE PLAYA DE MOGÁN para llevar la organización de la participación de los barcos pesqueros de la Cofradía en la Procesión Marítima en honor de Ntra. Sra. del Carmen en Playa de Mogán, 2026\n\nBases reguladoras:\nAprobación definitiva del PRESUPUESTO GENERAL DEL AYUNTAMIENTO DE MOGÁN, para el ejercicio 2026, así como de las Bases de Ejecución del Presupuesto y el Plan Estratégico de Subvenciones (BOP Las Palmas nº 154 de 24 de diciembre de 2025)\nURL bases reguladoras: http://www.boplasplamas.net/nbop2/index.php\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902809",
+  "_raw": {
+    "id": 1104370,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "MOGÁN",
+      "nivel3": "AYUNTAMIENTO DE MOGÁN"
+    },
+    "sedeElectronica": "https://www.mogan.es/",
+    "codigoBDNS": "902809",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 4000,
+    "mrr": false,
+    "descripcion": "Subvención nominativa a favor de la entidad COFRADÍA DE PESCADORES DE PLAYA DE MOGÁN para llevar la organización de la participación de los barcos pesqueros de la Cofradía en la Procesión Marítima en honor de Ntra. Sra. del Carmen en Playa de Mogán, 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Otras actividades recreativas y de entretenimiento",
+        "codigo": "93.2"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES705 - Gran Canaria"
+      }
+    ],
+    "descripcionFinalidad": "Otras Prestaciones económicas",
+    "descripcionBasesReguladoras": "Aprobación definitiva del PRESUPUESTO GENERAL DEL AYUNTAMIENTO DE MOGÁN, para el ejercicio 2026, así como de las Bases de Ejecución del Presupuesto y el Plan Estratégico de Subvenciones (BOP Las Palmas nº 154 de 24 de diciembre de 2025)",
+    "urlBasesReguladoras": "http://www.boplasplamas.net/nbop2/index.php",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Sin plazo de solicitud",
+    "textFin": "Sin plazo de solicitud",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446324,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "CertificadoAcuerdo_04384_507168_46.pdf",
+        "long": 223046,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

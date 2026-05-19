@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-901912",
+  "id_interno": 1103473,
+  "numero_convocatoria": "901912",
+  "organismo": "LOCAL — SANT PERE DE RIBES — AYUNTAMIENTO DE SANT PERE DE RIBES",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "2026-04-01",
+  "fecha_fin_solicitud": "2026-09-30",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Convenio que regula subvención nominativa 2026 entre el Ayuntamiento de Sant Pere de Ribes y  la Ass. Ball de Diables Els Diabòlics Roquetes",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+  "regiones": "ES511 - Barcelona",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Convenio que regula subvención nominativa 2026 entre el Ayuntamiento de Sant Pere de Ribes y  la Ass. Ball de Diables Els Diabòlics Roquetes",
+  "url_bases_reguladoras": "https://www.santperederibes.cat",
+  "presupuesto": "1.553,00 €",
+  "presupuesto_total_num": 1553,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901912",
+  "text": "CONVOCATORIA BDNS Nº 901912\nOrganismo: LOCAL — SANT PERE DE RIBES — AYUNTAMIENTO DE SANT PERE DE RIBES\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud: 2026-04-01 → 2026-09-30 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 1.553,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de bibliotecas, archivos, museos y otras actividades culturales\nRegiones: ES511 - Barcelona\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvenio que regula subvención nominativa 2026 entre el Ayuntamiento de Sant Pere de Ribes y  la Ass. Ball de Diables Els Diabòlics Roquetes\n\nBases reguladoras:\nConvenio que regula subvención nominativa 2026 entre el Ayuntamiento de Sant Pere de Ribes y  la Ass. Ball de Diables Els Diabòlics Roquetes\nURL bases reguladoras: https://www.santperederibes.cat\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901912",
+  "_raw": {
+    "id": 1103473,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "SANT PERE DE RIBES",
+      "nivel3": "AYUNTAMIENTO DE SANT PERE DE RIBES"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901912",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 1553,
+    "mrr": false,
+    "descripcion": "Convenio que regula subvención nominativa 2026 entre el Ayuntamiento de Sant Pere de Ribes y  la Ass. Ball de Diables Els Diabòlics Roquetes",
+    "descripcionLeng": "Conveni que regula la subvenció nominativa 2026 entre l'Ajuntament de Sant Pere de Ribes i l'Ass. Ball de Diables Els Diabòlics Roquetes\n",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+        "codigo": "91"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES511 - Barcelona"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Convenio que regula subvención nominativa 2026 entre el Ayuntamiento de Sant Pere de Ribes y  la Ass. Ball de Diables Els Diabòlics Roquetes",
+    "urlBasesReguladoras": "https://www.santperederibes.cat",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-04-01",
+    "fechaFinSolicitud": "2026-09-30",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443716,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "Conveni_2026_Ball de Diables Els Diabòlics Roquetes_CAT.pdf",
+        "long": 551851,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443713,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Conveni_2026_Ball de Diables Els Diabòlics Roquetes_CAST.pdf",
+        "long": 513755,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

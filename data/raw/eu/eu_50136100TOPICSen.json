@@ -1,0 +1,190 @@
+{
+  "id": "EU-50136100TOPICSen",
+  "topic_id": "50136100TOPICSen",
+  "titulo": "Microbiome for early cancer prediction before the onset of disease",
+  "descripcion": "Microbiome for early cancer prediction before the onset of disease",
+  "organismo": "43108390",
+  "fecha_publicacion": "2026-02-10",
+  "fecha_limite": "2026-09-15",
+  "deadlines_todas": "2026-09-15",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113063\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-04 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":3,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"15000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113065\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-05 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":1,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2026\":\"7000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113064\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-01 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":4,\"minContribution\":8000000,\"maxContribution\":9000000,\"budgetYearMap\":{\"2026\":\"35000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113067\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-02 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":1,\"minContribution\":15000000,\"maxContribution\":15000000,\"budgetYearMap\":{\"2026\":\"15000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113066\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-03 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":3,\"minContribution\":7000000,\"maxContribution\":8000000,\"budgetYearMap\":{\"2026\":\"22186000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113069\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-07 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":5,\"minContribution\":5000000,\"maxContribution\":6000000,\"budgetYearMap\":{\"2026\":\"25000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113068\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-06 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"5000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "HORIZON  Research and Innovation Actions",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-02-CANCER-02",
+  "text": "EU FUNDING & TENDERS – Topic: 50136100TOPICSen\nProgramme/Organism: 43108390\nTitle: Microbiome for early cancer prediction before the onset of disease\nStatus: Open (31094502)\nType of action: HORIZON  Research and Innovation Actions\nOpening date: 2026-02-10\nDeadline: 2026-09-15\nAll deadlines: 2026-09-15\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113063\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-04 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":3,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"15000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113065\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-05 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":1,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2026\":\"7000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113064\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-01 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":4,\"minContribution\":8000000,\"maxContribution\":9000000,\"budgetYearMap\":{\"2026\":\"35000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113067\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-02 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":1,\"minContribution\":15000000,\"maxContribution\":15000000,\"budgetYearMap\":{\"2026\":\"15000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113066\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-03 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":3,\"minContribution\":7000000,\"maxContribution\":8000000,\"budgetYearMap\":{\"2026\":\"22186000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113069\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-07 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":5,\"minContribution\":5000000,\"maxContribution\":6000000,\"budgetYearMap\":{\"2026\":\"25000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113068\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-06 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"5000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}]}}\n\nDescription / Scope:\nMicrobiome for early cancer prediction before the onset of disease\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-02-CANCER-02",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "50136100TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-02-CANCER-02",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Microbiome for early cancer prediction before the onset of disease",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Microbiome for early cancer prediction before the onset of disease",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "2B8CC85C7C88D357081AC0450A2649B2CB47FEEEF9730D09EF7E2B47BCFF0C74",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-02-12T15:50:26.216\",\"content\":\"\\u003cp\\u003eIf your lump sum budget contains any cost items in cost category C and/or D, please make sure to justify these items in the ‘Any comments’ sheet of the Excel detailed lump sum budget table.\\u003c/p\\u003e\\u003cp\\u003eThe reason is that we simplified the proposal template, removing this information from Part B and bringing it closer to the relevant budget items.\\u003c/p\\u003e\\u003cp\\u003eSpecifically, you must include justification in the ‘Any comments’ sheet if you are in any of the following situations:\\u003c/p\\u003e\\u003cul\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eIf the sum of the costs for ’travel and subsistence’, ‘equipment’, and ‘other goods, works and services’ (i.e. the purchase costs) exceeds 15% of the personnel costs for a participant. If this is the case, justify the most expensive cost item(s) up to the level that the remaining costs are below 15% of personnel costs.\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eIf other cost categories (e.g. internally invoiced goods and services) are used.\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eIf in-kind contributions are used (non-financial resources made available free of charge by third parties, which must be included as direct costs in the corresponding cost category, e.g. personnel costs or purchase costs for equipment).\\u003c/li\\u003e\\u003c/ul\\u003e\\u003cp\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-02-12T10:49:10.132\",\"content\":\"The submission session is now available for: HORIZON-MISS-2026-02-CANCER-04, HORIZON-MISS-2026-02-CANCER-01, HORIZON-MISS-2026-02-CANCER-05, HORIZON-MISS-2026-02-CANCER-03, HORIZON-MISS-2026-02-CANCER-02, HORIZON-MISS-2026-02-CANCER-06, HORIZON-MISS-2026-02-CANCER-07\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-02-11T16:39:36.388\",\"content\":\"\\u003cp\\u003ePlease note that the call opening is delayed as we are experiencing technical issues.\\u003c/p\\u003e\"}]"
+      ],
+      "es_SortDate": [
+        "2026-02-10T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "HORIZON-MISS-2026-02-CANCER-02",
+        "HORIZON-MISS-2026-02",
+        "Diagnostics",
+        "Oncology",
+        "Personalised prevention"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p><strong><em>﻿</em></strong>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex A</a> and <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex E</a> of the Horizon Europe Work Programme General Annexes.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p>A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a>.</p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>Subject to restrictions for the protection of European communication networks.</p></div><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex C</a> of the Work Programme General Annexes.</p></div></div><div><h4>5a. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex D</a> of the Work Programme General Annexes.</p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>The thresholds for each criterion will be 4 (Excellence), 4 (Impact) and 4 (Implementation). The cumulative threshold is 12.</p></div><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme – the Framework Programme for Research and Innovation (2021-2027) – and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025) [[This <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\"><u>decision</u></a> is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under ‘Simplified costs decisions’ or through this link: <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\"><u>https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf</u></a>]].</p></div><div class=\"eui-u-mt-s\"><p>The granting authority may, up to 4 years after the end of the action, object to a transfer of ownership or to the exclusive licensing of results, as set out in the specific provision of Annex 5.</p></div><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex G</a> of the Work Programme General Annexes.</p></div></div></div><div class=\"eui-u-mt-l\"><h4>Specific conditions</h4> <div class=\"eui-u-mt-s\"><p>described in the [specific topic of the Work Programme]</p></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Application and evaluation forms and model grant agreement (MGA):</h4> <div class=\"eui-u-mt-s\"><p><strong>Application form templates</strong> <em>— the application form specific to this call is available in the Submission System</em></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (HE RIA, IA)</a></p><p><strong>Evaluation form templates</strong> <em>— will be used with the necessary adaptations</em> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/ef/ef_he-ria-ia_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard evaluation form (HE RIA, IA)</a>&#xa0;</p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a>&#xa0;</p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/ls-mga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Lump Sum MGA</a>&#xa0;</p><p><strong>Call-specific instructions</strong>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/temp-form/af/detailed-budget-table_he-ls-euratom_en.xlsm\" rel=\"noopener noreferrer\" target=\"_blank\">Detailed budget table (HE LS)</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/information-on-clinical-studies_he_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Information on clinical studies (HE)</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-funding-what-do-i-need-to-know_he_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Guidance: \"Lump sums - what do I need to know?\"</a></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-1-general-introduction_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 1. General Introduction</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-12-missions_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 12. Missions</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 15. General Annexes</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0695\" rel=\"noopener noreferrer\" target=\"_blank\">HE Framework Programme 2021/695</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021D0764\" rel=\"noopener noreferrer\" target=\"_blank\">HE Specific Programme Decision 2021/764</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Decision authorising the use of lump sum contributions under the Horizon Europe Programme</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a> </p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "Microbiome for early cancer prediction before the onset of disease"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "2B8CC85C7C88D357081AC0450A2649B2CB47FEEEF9730D09EF7E2B47BCFF0C74"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43027849"
+      ],
+      "callIdentifier": [
+        "HORIZON-MISS-2026-02"
+      ],
+      "ccm2Id": [
+        "50136100"
+      ],
+      "callccm2Id": [
+        "50137823"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50136100TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"HORIZON-MISS-2026-02\",\"criterionCode\":\"HORIZON-RIA\",\"criterionDescription\":\"HORIZON  Research and Innovation Actions\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43449?topic\\u003dHORIZON-MISS-2026-02-CANCER-02\",\"startDate\":\"1770681600000\",\"endDate\":\"1789430400000\",\"mgaDescription\":\"HORIZON Lump Sum Grant\",\"mgaCode\":\"HORIZON-AG-LS\"}]"
+      ],
+      "callTitle": [
+        "Supporting the implementation of the Cancer Mission"
+      ],
+      "frameworkProgramme": [
+        "43108390"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Outcome:</p><p>Proposals under this topic should aim to deliver results that are directed and tailored towards and contribute to all of the following expected outcomes:</p><ul level=\"0\"><li>Healthy people and in particular people at risk will benefit from microbiome tests and programmes that can discover and predict their transition to cancer <strong>before </strong>the onset of disease.</li><li>People will have a better understanding of risks and will be enabled to address risks early by following treatments or adapting their lifestyles, including nutrition and other interventions.</li><li>Physicians will be able to start cancer treatments earlier with a higher success rate.</li><li>Policy makers and authorities will be enabled to develop and implement advanced and strategic programmes addressing cancer prevention.</li> </ul><p class=\"topicdescriptionkind\">Scope:</p><p>This topic will contribute to the achievement of the EU Cancer Mission’s objective to achieve better cancer prevention and early<u> </u>detection. The focus is on the development of validated microbiome tools, an assessment of predispositions, the comparison with other predictive tools and risk modelling approaches.</p><p>Cancer often develops over several years and progresses silently before symptoms appear. Some cancers are diagnosed at a very late stage, when the disease is nearly incurable. Early and sensitive biomarkers are beneficial for preventive strategies and the survival of patients especially when tests are minimally invasive and simple to perform. The human microbiome is correlated with this process of oncogenesis and tumour progression. The deterioration of the human microbiome towards dysbiosis should be monitored and used as an early predictive biomarker. The potential of the microbiome should be exploited to deliver important contributions to cancer prevention and early detection strategies before the onset of disease especially for high-risk patients.</p><p>Prevention of cancer through early detection is most efficient in fighting cancer and saving lives. Large microbiome biobanks and registries exist at national and international levels to collect and store microbial samples with the intention to analyse and share microbiome data for research and healthcare. The One Million Microbiomes from Human Project has been launched by several countries to build the largest human microbiome high quality database and to provide advanced life science tools for future healthcare.</p><p>The intention is to accelerate the translation of microbiome knowledge to predict and prevent cancer earlier, before the onset of disease, through the development of personalised approaches and tools. The promise of these tools is evident because people could anticipate cancer while they would still have time to act before the onset of the disease. In case of certain types of cancer, earlier treatment could improve lives or even cure patients in line with the goal of the EU Cancer Mission.</p><p>The tools should be based on the collection of a high number of longitudinal samples over several years, they should be validated and their prediction power compared with other minimally invasive (liquid biopsy) tests. To use the resources most efficiently, the tools should be supported by risk modelling approaches and AI technologies.</p><p>Proposals should address all of the following:</p><ul level=\"0\"><li>Development of microbiome tools for earlier, better and personalised prediction and prevention of cancer before the onset of the disease; if possible 2 years before the onset of the disease. Proposals should deal with several types of cancer if possible.</li><li>Assessments of predispositions, AI risk modelling approaches and organ/body simulations.</li><li>Collaboration with large cohorts/registries from different communities, usage of existing microbiome and clinical data in combination with and generation of new data. These data could include other predictive signs such as sensations of fatigue, unusual pain, weight loss or other body changes.</li><li>Citizen engagement could be included with data and sample collections as well as educational programmes.</li><li>Comparison with other minimally invasive liquid biopsy and other tests concerning their predictive power, simplicity, cost-benefits and potential for commercialisation.</li><li>Validation of the tests in an independent cohort. Development of guidelines that help to manage risk factors such as lifestyle or diet. The outcome and expertise of ongoing EU and International initatives and the International Cancer Microbiome Consortium could be considered for the reliability of the tests and guidelines to be developed. Age, sex and gender differences should be duly considered.</li> </ul><p>The successful proposal is expected to build on resources made available by the Knowledge Centre on Cancer (KCC)<sup>[1]</sup> to foster EU alignment and coordination.</p><p>The successful proposal will be asked to join the 'Prevention and Early Detection' project cluster of the EU Cancer Mission<sup>[2]</sup> and should include a budget for networking, attendance at meetings and joint activities<sup>[3]</sup>. The Commission will facilitate coordination of these activities.</p><p class=\"eui-u-font-s\">[1] Hosted by the European Commission's Joint Research Centre (JRC). Especially through the ’European Guidelines and Quality Assurance Schemes for Breast, Colorectal and Cervical Cancer Screening and Diagnosis‘, and the ’European Cancer Information System (ECIS)’ and the ’European Cancer Inequalities Registry (ECIR), see https://knowledge4policy.ec.europa.eu/cancer_en</p><p class=\"eui-u-font-s\">[2] In order to address the objectives of the EU Cancer Mission, participants will collaborate in project clusters to leverage EU-funding, increase networking across sectors and disciplines, and establish a portfolio of EU Cancer Mission R&amp;I and policy actions.</p><p class=\"eui-u-font-s\">[3] examples of these activities are research or research capacity, organising joint workshops, establishing best practices, joint communication or citizen engagement activities with projects funded under other clusters and pillars of Horizon Europe, or other EU programmes, as appropriate. Proposals are not required to include details of these activities, as they will be defined during the grant agreement preparation and during the life of the project.</p>"
+      ],
+      "identifier": [
+        "HORIZON-MISS-2026-02-CANCER-02"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43108390",
+        "43108541",
+        "43108557"
+      ],
+      "crossCuttingPriorities": [
+        "AI",
+        "DigitalAgenda"
+      ],
+      "esDA_FirstIngestDate": [
+        "2025-12-12T00:01:16.885+0100"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-09-15T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-03-02T09:27:13.212+0100"
+      ],
+      "typesOfAction": [
+        "HORIZON  Research and Innovation Actions"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-02-CANCER-02"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-02-CANCER-02"
+      ],
+      "tags": [
+        "Cancer onset",
+        "Microbiome",
+        "Predictive tests"
+      ],
+      "cenTagsA": [
+        "TOPICS-003103",
+        "TOPICS-003104",
+        "TOPICS-003105",
+        "TOPICS-003106",
+        "TOPICS-003107",
+        "TOPICS-003108",
+        "TOPICS-003109",
+        "TOPICS-003110",
+        "TOPICS-000258",
+        "TOPICS-003111"
+      ],
+      "esDA_QueueDate": [
+        "2026-03-02T09:27:13.201+0100"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"HORIZON-RIA HORIZON  Research and Innovation Actions\",\"typeOfMGA\":[{\"id\":43027849,\"abbreviation\":\"HORIZON-AG-LS\",\"description\":\"HORIZON Lump Sum Grant\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-02-10\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-09-15\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113063\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-04 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":3,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"15000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113065\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-05 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":1,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2026\":\"7000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113064\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-01 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":4,\"minContribution\":8000000,\"maxContribution\":9000000,\"budgetYearMap\":{\"2026\":\"35000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113067\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-02 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":1,\"minContribution\":15000000,\"maxContribution\":15000000,\"budgetYearMap\":{\"2026\":\"15000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113066\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-03 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":3,\"minContribution\":7000000,\"maxContribution\":8000000,\"budgetYearMap\":{\"2026\":\"22186000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113069\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-07 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":5,\"minContribution\":5000000,\"maxContribution\":6000000,\"budgetYearMap\":{\"2026\":\"25000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113068\":[{\"action\":\"HORIZON-MISS-2026-02-CANCER-06 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"5000000\"},\"plannedOpeningDate\":\"2026-02-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}]}}"
+      ],
+      "startDate": [
+        "2026-02-10T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> – find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> – ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> – get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (‘third-countries’).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> – contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> – the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> – consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Microbiome for early cancer prediction before the onset of disease. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-02-CANCER-02",
+    "score": 3.0
+  }
+}

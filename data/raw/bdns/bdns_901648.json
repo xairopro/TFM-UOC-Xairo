@@ -1,0 +1,112 @@
+{
+  "id": "BDNS-901648",
+  "id_interno": 1103209,
+  "numero_convocatoria": "901648",
+  "organismo": "AUTONOMICA — CATALUÑA — INSTITUT CATALÀ DE LES EMPRESES CULTURALS (ICEC)",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "2026-06-01",
+  "fecha_fin_solicitud": "2026-06-18",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Resolución de convocatoria para la concesión, en régimen de concurrencia competitiva, de los Premios Shortcat a los mejores cortometrajes cinematográficos",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "GRAN EMPRESA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades cinematográficas, de vídeo y de programas de televisión",
+  "regiones": "ES51 - CATALUÑA",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "bases específicas que deben regir la concesión de los Premios Shortcat a los mejores cortometrajes cinematográficos",
+  "url_bases_reguladoras": "https://portaldogc.gencat.cat/utilsEADOP/PDF/9403/2085530.pdf",
+  "presupuesto": "24.000,00 €",
+  "presupuesto_total_num": 24000,
+  "ayuda_estado": "SA.119239",
+  "url_ayuda_estado": "https://competition-cases.ec.europa.eu/cases/SA.119239",
+  "fondos": "",
+  "reglamento": "REG (UE) 651/2014, DE 17 DE JUNIO, de exención de notificación",
+  "objetivos": "ART. 54 REGÍMENES DE AYUDA PARA OBRAS AUDIOVISUALES",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901648",
+  "text": "CONVOCATORIA BDNS Nº 901648\nOrganismo: AUTONOMICA — CATALUÑA — INSTITUT CATALÀ DE LES EMPRESES CULTURALS (ICEC)\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud: 2026-06-01 → 2026-06-18 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 24.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: GRAN EMPRESA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades cinematográficas, de vídeo y de programas de televisión\nRegiones: ES51 - CATALUÑA\nFinalidad: Cultura\nFondos: \nReglamento: REG (UE) 651/2014, DE 17 DE JUNIO, de exención de notificación\nAyuda de Estado: SA.119239\nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nResolución de convocatoria para la concesión, en régimen de concurrencia competitiva, de los Premios Shortcat a los mejores cortometrajes cinematográficos\n\nBases reguladoras:\nbases específicas que deben regir la concesión de los Premios Shortcat a los mejores cortometrajes cinematográficos\nURL bases reguladoras: https://portaldogc.gencat.cat/utilsEADOP/PDF/9403/2085530.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901648",
+  "_raw": {
+    "id": 1103209,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "CATALUÑA",
+      "nivel3": "INSTITUT CATALÀ DE LES EMPRESES CULTURALS (ICEC)"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901648",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 24000,
+    "mrr": false,
+    "descripcion": "Resolución de convocatoria para la concesión, en régimen de concurrencia competitiva, de los Premios Shortcat a los mejores cortometrajes cinematográficos",
+    "descripcionLeng": "Resolució de convocatòria per a la concessió, en règim de concurrència competitiva, dels Premis Shortcat als millors curtmetratges cinematogràfics",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "GRAN EMPRESA"
+      },
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades cinematográficas, de vídeo y de programas de televisión",
+        "codigo": "59.1"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES51 - CATALUÑA"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "bases específicas que deben regir la concesión de los Premios Shortcat a los mejores cortometrajes cinematográficos",
+    "urlBasesReguladoras": "https://portaldogc.gencat.cat/utilsEADOP/PDF/9403/2085530.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-06-01",
+    "fechaFinSolicitud": "2026-06-18",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": "SA.119239",
+    "urlAyudaEstado": "https://competition-cases.ec.europa.eu/cases/SA.119239",
+    "fondos": [],
+    "reglamento": {
+      "descripcion": "REG (UE) 651/2014, DE 17 DE JUNIO, de exención de notificación",
+      "orden": null
+    },
+    "objetivos": [
+      {
+        "descripcion": "ART. 54 REGÍMENES DE AYUDA PARA OBRAS AUDIOVISUALES"
+      }
+    ],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442962,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "Premis Shortcat 2026_catsigned.pdf",
+        "long": 234852,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1442961,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Premis Shortcat 2026_cast.pdf",
+        "long": 110858,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

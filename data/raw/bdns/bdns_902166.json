@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-902166",
+  "id_interno": 1103727,
+  "numero_convocatoria": "902166",
+  "organismo": "LOCAL — VENDRELL, EL — AYUNTAMIENTO DE VENDRELL, EL",
+  "sede_electronica": "www.elvendrell.net",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "2026-05-18",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Convocatoria para la concesión de subvenciones y premios para la participación de la Festa de la Bicicleta para el año 2026.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+  "regiones": "ES514 - Tarragona",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "BASES APROBACIÓN PRESUPUESTO. PRESUPUESTO GENERAL DEL AYUNTAMIENTO DEL VENDRELL 2026.",
+  "url_bases_reguladoras": "https://www.dipta.cat/bopt/web/anunci/355204/pressupost-general-per-a-l-exercici-2026-i-plantilla-aprovacio-definitiva-ajuntament-vendrell-el",
+  "presupuesto": "2.950,00 €",
+  "presupuesto_total_num": 2950,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902166",
+  "text": "CONVOCATORIA BDNS Nº 902166\nOrganismo: LOCAL — VENDRELL, EL — AYUNTAMIENTO DE VENDRELL, EL\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud:  → 2026-05-18 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 2.950,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO\nRegiones: ES514 - Tarragona\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria para la concesión de subvenciones y premios para la participación de la Festa de la Bicicleta para el año 2026.\n\nBases reguladoras:\nBASES APROBACIÓN PRESUPUESTO. PRESUPUESTO GENERAL DEL AYUNTAMIENTO DEL VENDRELL 2026.\nURL bases reguladoras: https://www.dipta.cat/bopt/web/anunci/355204/pressupost-general-per-a-l-exercici-2026-i-plantilla-aprovacio-definitiva-ajuntament-vendrell-el\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902166",
+  "_raw": {
+    "id": 1103727,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "VENDRELL, EL",
+      "nivel3": "AYUNTAMIENTO DE VENDRELL, EL"
+    },
+    "sedeElectronica": "www.elvendrell.net",
+    "codigoBDNS": "902166",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 2950,
+    "mrr": false,
+    "descripcion": "Convocatoria para la concesión de subvenciones y premios para la participación de la Festa de la Bicicleta para el año 2026.",
+    "descripcionLeng": "Convocatòria per la concessió de subvencions i premis per a la participació de la Festa de la Bicicleta per a l'any 2026.",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES514 - Tarragona"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "BASES APROBACIÓN PRESUPUESTO. PRESUPUESTO GENERAL DEL AYUNTAMIENTO DEL VENDRELL 2026.",
+    "urlBasesReguladoras": "https://www.dipta.cat/bopt/web/anunci/355204/pressupost-general-per-a-l-exercici-2026-i-plantilla-aprovacio-definitiva-ajuntament-vendrell-el",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": "2026-05-18",
+    "textInicio": "Día siguiente de la publicación de esta convocatoria en el Boletín Oficial de la Provincia de Tarrag",
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444309,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "BDNS_Convocatòria Festa de la Bicicleta 2026 Català.PDF",
+        "long": 168752,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444305,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "BDNS_Decret convocatoria bicicleta 2026 castella.pdf",
+        "long": 60974,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

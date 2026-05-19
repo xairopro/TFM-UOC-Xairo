@@ -1,0 +1,136 @@
+{
+  "id": "BDNS-901416",
+  "id_interno": 1102977,
+  "numero_convocatoria": "901416",
+  "organismo": "LOCAL — CORUÑA, A — AYUNTAMIENTO DE CORUÑA, A",
+  "sede_electronica": "https://sede.coruna.gal/sede/gl",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "2026-05-01",
+  "fecha_fin_solicitud": "2026-06-01",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Resolución de 22/04/2026, del concejal delegado responsable del Área de Cultura y Turismo, por la que se convoca la XXXIX edición de los Premios Prismas a la Divulgación Científica",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS AUXILIARES, ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS, INDUSTRIA MANUFACTURERA",
+  "regiones": "ES - ESPAÑA",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Ordenanza municipal de bases reguladoras generales para la concesión de subvenciones por el Ayuntamiento de A Coruña y sus organismos públicos, publicada en el Boletín Oficial de la Provincia núm. 157 de 16/08/2024",
+  "url_bases_reguladoras": "https://bop.dacoruna.gal/bopportal/publicado/2024/08/16/2024_0000005745.pdf",
+  "presupuesto": "24.000,00 €",
+  "presupuesto_total_num": 24000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901416",
+  "text": "CONVOCATORIA BDNS Nº 901416\nOrganismo: LOCAL — CORUÑA, A — AYUNTAMIENTO DE CORUÑA, A\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud: 2026-05-01 → 2026-06-01 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 24.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS AUXILIARES, ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS, INDUSTRIA MANUFACTURERA\nRegiones: ES - ESPAÑA\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nResolución de 22/04/2026, del concejal delegado responsable del Área de Cultura y Turismo, por la que se convoca la XXXIX edición de los Premios Prismas a la Divulgación Científica\n\nBases reguladoras:\nOrdenanza municipal de bases reguladoras generales para la concesión de subvenciones por el Ayuntamiento de A Coruña y sus organismos públicos, publicada en el Boletín Oficial de la Provincia núm. 157 de 16/08/2024\nURL bases reguladoras: https://bop.dacoruna.gal/bopportal/publicado/2024/08/16/2024_0000005745.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901416",
+  "_raw": {
+    "id": 1102977,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "CORUÑA, A",
+      "nivel3": "AYUNTAMIENTO DE CORUÑA, A"
+    },
+    "sedeElectronica": "https://sede.coruna.gal/sede/gl",
+    "codigoBDNS": "901416",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 24000,
+    "mrr": false,
+    "descripcion": "Resolución de 22/04/2026, del concejal delegado responsable del Área de Cultura y Turismo, por la que se convoca la XXXIX edición de los Premios Prismas a la Divulgación Científica",
+    "descripcionLeng": "Resolución do 22/04/2026, do concelleiro delegado responsable da Área de Cultura e Turismo, pola que se convoca a XXXIX edición dos Premios Prismas á Divulgación Científica",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS AUXILIARES",
+        "codigo": "O"
+      },
+      {
+        "descripcion": "ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS",
+        "codigo": "N"
+      },
+      {
+        "descripcion": "INDUSTRIA MANUFACTURERA",
+        "codigo": "C"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES - ESPAÑA "
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Ordenanza municipal de bases reguladoras generales para la concesión de subvenciones por el Ayuntamiento de A Coruña y sus organismos públicos, publicada en el Boletín Oficial de la Provincia núm. 157 de 16/08/2024",
+    "urlBasesReguladoras": "https://bop.dacoruna.gal/bopportal/publicado/2024/08/16/2024_0000005745.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-05-01",
+    "fechaFinSolicitud": "2026-06-01",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442230,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "BASES 2026_CAST.pdf",
+        "long": 182025,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1442232,
+        "descripcion": "Aprobación convocatoria",
+        "nombreFic": "RESOL2026.pdf",
+        "long": 314474,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1442231,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "BASES 2026_GAL.pdf",
+        "long": 182111,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210080,
+        "titulo": "Extracto de la resolución de 22 de abril de 2026, del concejal delegado responsable del Área de Cultura y Turismo, por la que se convoca la XXXIX edición de Premios Prismas a la Divulgación Científica.",
+        "tituloLeng": "Extracto da resolución do 22 de abril de 2026, do concelleiro delegado responsable da Área de Cultura e Turismo, pola que se convoca a XXXIX edición de Premios Prismas á Divulgación Científica",
+        "texto": "<p>Primero: Personas beneficiarias.</p><p>Personas físicas o jurídicas que garanticen ser los legítimos autores o autoras de los trabajos presentados, que ostentan los derechos de propiedad intelectual requeridos para la presentación de los trabajos con todos sus elementos (noticias, artículos, reportajes o piezas informativas, imágenes, sonido, bandas sonoras, etc.) en el presente certamen, y que la presentación de estos no vulnera los derechos de terceros.</p><p>Los premios se entregarán a la persona física o representante que figure como candidato o candidata en la presentación de la solicitud de participación en la convocatoria.</p><p>Segundo: Objeto</p><p>Se concederán los Prismas de Bronce a los mejores trabajos de divulgación científica en las modalidades de vídeo, nuevos medios, proyecto de divulgación sobre el agua en el medio urbano, artículo periodístico, radio, proyectos singulares y libro editado. El jurado otorgará además un Prisma especial a personas físicas o jurídicas que se hayan significado por su especial contribución a la divulgación científica y que desarrollen su actividad en España.</p><p>Tercero: Bases Reguladoras.</p><p>Ordenanza Municipal de bases reguladoras generales para la concesión de subvenciones por el Ayuntamiento de A Coruña y sus organismos públicos, aprobada por el Excmo. Ayuntamiento en Pleno, en sesión de fecha 6 de junio de 2024 (BOP de A Coruña de 16/08/2024).</p><p>Cuarto: Cuantía</p><p>Un total de 24.000,00 € en premios distribuidos como sigue:</p><p>a) Modalidad “Prisma a vídeo”: un premio de 4.000,00 € b) Modalidad “Prisma a Nuevos medios”: un premio de 4.000,00 € c) Modalidad “Prisma a proyecto de divulgación sobre el agua en el medio urbano”: un premio de 4.000,00 € d) Modalidad “Prisma a artículo periodístico”: un premio de 4.000,00 € e) Modalidad “Prisma trabajo en radio”: un premio de 4.000,00 € f) Modalidad “Prisma proyecto singular”: un premio de 4.000,00 € g) Modalidad “Prisma a libro editado”: un prisma de bronce h) Modalidad “Prisma especial del jurado”: un prisma de bronce</p><p>Quinto: Plazo de presentación de solicitudes</p><p>El periodo de entrega de trabajos para todas las modalidades permanecerá abierto desde el 1 de mayo hasta el 1 de junio de 2026, ambos inclusive.</p><p>Sexto: Otros datos.</p><p>Entrega de premios:</p><p>Los Prismas se entregarán en el transcurso de un acto que tendrá lugar en A Coruña el sábado 14 de noviembre de 2026.</p><p>Jurado:</p><p>los Prismas se otorgarán por votación de un Jurado de al menos cinco miembros, nombrados por Resolución del concejal de Cultura y Turismo por lo menos un mes antes del día de la entrega de premios, entre personas de reconocido prestigio en el campo de la divulgación científica, el periodismo científico o la enseñanza de las ciencias.</p><p>Organización:</p><p>La organización corre de cuenta de los Museos Científicos Coruñeses del Ayuntamiento de A Coruña. Un comité de selección ayudará a establecer los niveles mínimos de calidad en cada categoría y asistirá al Jurado cuando éste lo solicite.</p>",
+        "textoLeng": "<p>Primeiro: Persoas Beneficiarias.</p><p>Poderán ser candidatas as persoas físicas ou xurídicas participantes cando garantan que son os lexítimos autores ou autoras dos traballos presentados, que ostentan os dereitos de propiedade intelectual requiridos para a presentación dos traballos con todos os seus elementos (noticias, artigos, reportaxes ou pezas informativas, imaxes, son, bandas sonoras etc.) no presente certame, e que a presentación dos mesmos non vulnera os dereitos de terceiros.</p><p>Os premios entregaranse á persoa física ou representante que figure como candidato ou candidata na presentación da solicitude de participación na convocatoria.</p><p>Segundo: Obxecto</p><p>Concederanse os Prismas de Bronce aos mellores traballos de divulgación científica nas modalidades de vídeo, novos medios, proxecto de divulgación sobre a auga no medio urbano, artigo xornalístico, radio, proxectos singulares e libro editado. O xurado outorgará ademais un Prisma especial a persoas físicas ou xurídicas que se significaron pola súa especial contribución á divulgación científica e que desenvolvan a súa actividade en España.</p><p>Terceiro: Bases Reguladoras.</p><p>Ordenanza Municipal de bases reguladoras xerais para a concesión de subvencións polo Concello da Coruña, aprobada polo Excmo. Concello en Pleno, en sesión de data 6 de xuño de 2024 (BOP da Coruña de 16/08/2024).</p><p>Cuarto: Contía</p><p>Un total de 24.000,00 € en premios distribuídos como segue:</p><p>a) Modalidade “Prisma a vídeo”: un premio de 4.000,00 € b) Modalidade “Prisma a Novos medios”: un premio de 4.000,00 € c) Modalidade “Prisma a proxecto de divulgación sobre a auga no medio urbano”: un premio de 4.000,00 € d) Modalidade “Prisma a artigo xornalístico”: un premio de 4.000,00 € e) Modalidade “Prisma traballo en radio”: un premio de 4.000,00 € f) Modalidade “Prisma proxecto singular”: un premio de 4.000,00 € g) Modalidade “Prisma a libro editado”: un prisma de bronce h) Modalidade “Prisma especial do xurado”: un prisma de bronce</p><p>Quinto: Prazo de presentación de solicitudes</p><p>O periodo de entrega de traballos para todas as modalidades permanecerá aberto desde o 1 de maio ata o 1 de xuño de 2026, ambos inclusive.</p><p>Sexto: Outros datos.</p><p>Entrega de premios:</p><p>Os Prismas entregaranse no transcurso dun acto que terá lugar na Coruña o sábado 14 de novembro de 2026.</p><p>Xurado:</p><p>Os Prismas outorgaranse por votación dun Xurado de polo menos cinco membros, nomeados por Resolución do concelleiro de Cultura e Turismo polo menos un mes antes do día da entrega de premios, entre persoas de recoñecido prestixio no campoda divulgación científica, o xornalismo científico ou o ensino das ciencias.</p><p>Organización:</p><p>A organización corre de conta dos Museos Científicos Coruñeses do Concello da Coruña. Un comité de selección axudará a establecer os niveis mínimos de calidade en cada categoría e asistirá ao Xurado cando este o solicite.</p>",
+        "url": "https://bop.dacoruna.gal/bopportal/descargarPdf.do?fecha=20260430&numRegistro=2026/0000002636.pdf",
+        "cve": "2026/2636",
+        "desDiarioOficial": "B.O.P. DE A CORUÑA",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "BDNS-901677",
+  "id_interno": 1103238,
+  "numero_convocatoria": "901677",
+  "organismo": "LOCAL — DIPUTACIÓN PROV. DE BURGOS — DIPUTACIÓN PROVINCIAL DE BURGOS",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA 2026- SUBVENCIONES, EN CONCURRENCIA COMPETITIVA, FINANCIADAS INTEGRAMENTE POR LA EXCMA. DIPUTACIÓN DE BURGOS, PARA LA CONCESIÓN DE AYUDAS A ESTABLECIMIENTOS DE HOSTELERÍA Y COMERCIOS MINORISTAS, MAXIMO DOS ESTABLECIMIENTOS EN CADA SECTOR",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Comercio al por menor, Servicios de comidas y bebidas",
+  "regiones": "ES412 - Burgos",
+  "finalidad": "Fomento del Empleo",
+  "bases_reguladoras": "Ordenanza General Reguladora de la concesión de subvenciones por parte de la Diputación Provincial de Burgos",
+  "url_bases_reguladoras": "https://www.burgos.es/diputacion/informacion/documentos/ordenanza-general-de-subvenciones",
+  "presupuesto": "400.000,00 €",
+  "presupuesto_total_num": 400000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901677",
+  "text": "CONVOCATORIA BDNS Nº 901677\nOrganismo: LOCAL — DIPUTACIÓN PROV. DE BURGOS — DIPUTACIÓN PROVINCIAL DE BURGOS\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 400.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Comercio al por menor, Servicios de comidas y bebidas\nRegiones: ES412 - Burgos\nFinalidad: Fomento del Empleo\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA 2026- SUBVENCIONES, EN CONCURRENCIA COMPETITIVA, FINANCIADAS INTEGRAMENTE POR LA EXCMA. DIPUTACIÓN DE BURGOS, PARA LA CONCESIÓN DE AYUDAS A ESTABLECIMIENTOS DE HOSTELERÍA Y COMERCIOS MINORISTAS, MAXIMO DOS ESTABLECIMIENTOS EN CADA SECTOR\n\nBases reguladoras:\nOrdenanza General Reguladora de la concesión de subvenciones por parte de la Diputación Provincial de Burgos\nURL bases reguladoras: https://www.burgos.es/diputacion/informacion/documentos/ordenanza-general-de-subvenciones\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901677",
+  "_raw": {
+    "id": 1103238,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DIPUTACIÓN PROV. DE BURGOS",
+      "nivel3": "DIPUTACIÓN PROVINCIAL DE BURGOS"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901677",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 400000,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA 2026- SUBVENCIONES, EN CONCURRENCIA COMPETITIVA, FINANCIADAS INTEGRAMENTE POR LA EXCMA. DIPUTACIÓN DE BURGOS, PARA LA CONCESIÓN DE AYUDAS A ESTABLECIMIENTOS DE HOSTELERÍA Y COMERCIOS MINORISTAS, MAXIMO DOS ESTABLECIMIENTOS EN CADA SECTOR",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Comercio al por menor",
+        "codigo": "47"
+      },
+      {
+        "descripcion": "Servicios de comidas y bebidas",
+        "codigo": "56"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES412 - Burgos"
+      }
+    ],
+    "descripcionFinalidad": "Fomento del Empleo",
+    "descripcionBasesReguladoras": "Ordenanza General Reguladora de la concesión de subvenciones por parte de la Diputación Provincial de Burgos",
+    "urlBasesReguladoras": "https://www.burgos.es/diputacion/informacion/documentos/ordenanza-general-de-subvenciones",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Desde el día siguiente a la publicación extracto en BOP",
+    "textFin": "En el plazo de veinte días naturales contados a partir del día siguiente a la publicación",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443001,
+        "descripcion": "Acuerdo aprobación Convocatoria Hostelería y Comercio 2026",
+        "nombreFic": "Certificado_Acuerdo_JG_HYC_26.pdf",
+        "long": 184339,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1442996,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Bases_Convocatoria_Anexos_HYC_26.pdf",
+        "long": 1166674,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

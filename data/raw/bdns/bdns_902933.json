@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902933",
+  "id_interno": 1104494,
+  "numero_convocatoria": "902933",
+  "organismo": "LOCAL — ARUCAS — AYUNTAMIENTO DE ARUCAS",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": true,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "SUBVENCIONES DIRECTAS DE AYUDAS PARA LAS ATENCIONES BENEFICAS Y ASISTENCIALES - ENERO 2026 -",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "OTROS SERVICIOS",
+  "regiones": "ES705 - Gran Canaria",
+  "finalidad": "Otras Prestaciones económicas",
+  "bases_reguladoras": "ORDENANZA REGULADORA DE AYUDAS ECONÓMICAS Y PRESTACIÓN DE SERVICIOS BÁSICOS MUNICIPALES PARA LA ATENCIÓN DE NECESIDADES SOCIO-FAMILIARES",
+  "url_bases_reguladoras": "www.arucas.org",
+  "presupuesto": "43.646,44 €",
+  "presupuesto_total_num": 43646.44,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902933",
+  "text": "CONVOCATORIA BDNS Nº 902933\nOrganismo: LOCAL — ARUCAS — AYUNTAMIENTO DE ARUCAS\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud:  →  (abierto: sí)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 43.646,44 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: OTROS SERVICIOS\nRegiones: ES705 - Gran Canaria\nFinalidad: Otras Prestaciones económicas\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSUBVENCIONES DIRECTAS DE AYUDAS PARA LAS ATENCIONES BENEFICAS Y ASISTENCIALES - ENERO 2026 -\n\nBases reguladoras:\nORDENANZA REGULADORA DE AYUDAS ECONÓMICAS Y PRESTACIÓN DE SERVICIOS BÁSICOS MUNICIPALES PARA LA ATENCIÓN DE NECESIDADES SOCIO-FAMILIARES\nURL bases reguladoras: www.arucas.org\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902933",
+  "_raw": {
+    "id": 1104494,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "ARUCAS",
+      "nivel3": "AYUNTAMIENTO DE ARUCAS"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902933",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 43646.44,
+    "mrr": false,
+    "descripcion": "SUBVENCIONES DIRECTAS DE AYUDAS PARA LAS ATENCIONES BENEFICAS Y ASISTENCIALES - ENERO 2026 -",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES705 - Gran Canaria"
+      }
+    ],
+    "descripcionFinalidad": "Otras Prestaciones económicas",
+    "descripcionBasesReguladoras": "ORDENANZA REGULADORA DE AYUDAS ECONÓMICAS Y PRESTACIÓN DE SERVICIOS BÁSICOS MUNICIPALES PARA LA ATENCIÓN DE NECESIDADES SOCIO-FAMILIARES",
+    "urlBasesReguladoras": "www.arucas.org",
+    "sePublicaDiarioOficial": false,
+    "abierto": true,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "SIN PLAZO DE SOLICITUD",
+    "textFin": "SIN PLAZO DE SOLICITUD",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446717,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "DECRETO SUBVENCIONES DIRECTAS PARA ATENCIONES BENEFICAS Y ASISTENCIALES.pdf",
+        "long": 1631765,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

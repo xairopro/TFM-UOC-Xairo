@@ -1,0 +1,136 @@
+{
+  "id": "EU-186081PROSPECTSEN",
+  "topic_id": "186081PROSPECTSEN",
+  "titulo": "Convocatoria conjunta a propuestas Panamá 2026 - Programas Temáticos Sociedad Civil (OSC), y Derechos Humanos y Democraica (DH&D)",
+  "descripcion": "Convocatoria conjunta a propuestas Panamá 2026 - Programas Temáticos Sociedad Civil (OSC), y Derechos Humanos y Democraica (DH&amp;D)",
+  "organismo": "111111",
+  "fecha_publicacion": "2026-03-03",
+  "fecha_limite": "2026-06-04",
+  "deadlines_todas": "2026-06-04",
+  "presupuesto": "1400000",
+  "duracion": "",
+  "tipo_accion": "",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186081",
+  "text": "EU FUNDING & TENDERS – Topic: 186081PROSPECTSEN\nProgramme/Organism: 111111\nTitle: Convocatoria conjunta a propuestas Panamá 2026 - Programas Temáticos Sociedad Civil (OSC), y Derechos Humanos y Democraica (DH&D)\nStatus: Open (31094502)\nType of action: \nOpening date: 2026-03-03\nDeadline: 2026-06-04\nAll deadlines: 2026-06-04\nDuration: \nBudget overview: 1400000\n\nDescription / Scope:\nConvocatoria conjunta a propuestas Panamá 2026 - Programas Temáticos Sociedad Civil (OSC), y Derechos Humanos y Democraica (DH&amp;D)\n\nMore info: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186081",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "186081PROSPECTSEN",
+    "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186081",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Convocatoria conjunta a propuestas Panamá 2026 - Programas Temáticos Sociedad Civil (OSC), y Derechos Humanos y Democraica (DH&amp;D)",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Convocatoria conjunta a propuestas Panamá 2026 - Programas Temáticos Sociedad Civil (OSC), y Derechos Humanos y Democraica (DH&amp;D)",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "61894402CE120902DDC3F4E7D74A98F9E81A6D06248243F06CB77E010865D15A",
+    "metadata": {
+      "updateDate": [
+        "2026-03-20T17:59:10.000+0000"
+      ],
+      "es_SortDate": [
+        "2026-03-03T22:00:54.000+0000"
+      ],
+      "beneficiaryAdministration": [],
+      "sortStatus": [
+        "1"
+      ],
+      "contractType": [
+        "42893160"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Convocatoria conjunta a propuestas Panamá 2026 - Programas Temáticos Sociedad Civil (OSC), y Derechos Humanos y Democraica (DH&D)"
+      ],
+      "type": [
+        "2"
+      ],
+      "esST_checksum": [
+        "61894402CE120902DDC3F4E7D74A98F9E81A6D06248243F06CB77E010865D15A"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "callIdentifier": [
+        "186081"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "186081PROSPECTSEN"
+      ],
+      "currency": [
+        "EUR"
+      ],
+      "frameworkProgramme": [
+        "111111"
+      ],
+      "budget": [
+        "1400000"
+      ],
+      "identifier": [
+        "EuropeAid/186081/DD/ACT/PA"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "geographicalZones": [
+        "20000980"
+      ],
+      "publicationDocuments": [
+        "[{\"nameDoc\":\"Elegibilidad para los programas 2021-2027\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-03-20 22:00:42.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2145240&lang=ES\"},{\"nameDoc\":\"Presentación reunión de información\",\"typeDoc\":\"ppt\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-03-20 22:00:44.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2145238&lang=ES\"},{\"nameDoc\":\"Annex A2 - Grant application form-Full application\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-03-03 23:00:15.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2145218&lang=ES\"},{\"nameDoc\":\"Guia para solicitantes\",\"typeDoc\":\"pdf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-03-03 23:00:18.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2145208&lang=ES\"},{\"nameDoc\":\"Anexo A.1 Formulario de solicitud de subvención, documento de síntesis\",\"typeDoc\":\"rtf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-03-03 23:00:35.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2145205&lang=ES\"},{\"nameDoc\":\"Annex B - Budget\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-03-03 23:00:33.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2145214&lang=ES\"},{\"nameDoc\":\"Annex C - Logical framework\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-03-03 23:00:32.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2145212&lang=ES\"},{\"nameDoc\":\"Annex D - Identification Form (public law body)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-03-03 23:00:55.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2145213&lang=ES\"},{\"nameDoc\":\"Annex D - Identification Form (private or public law body with legal form)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-03-03 23:00:47.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2145220&lang=ES\"},{\"nameDoc\":\"Annex D - Identification Form (natural person)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-03-03 23:00:51.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2145219&lang=ES\"},{\"nameDoc\":\"Annex F - PADOR offline registration form\",\"typeDoc\":\"pdf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-03-03 23:00:18.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2145217&lang=ES\"},{\"nameDoc\":\"Annex G - Standard Grant Contract\",\"typeDoc\":\"zip\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-03-03 23:00:58.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2145207&lang=ES\"},{\"nameDoc\":\"Annex J - Information on the tax regime applicable to grant contracts\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-03-03 23:00:57.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2145211&lang=ES\"},{\"nameDoc\":\"Appendix - Derogations international organisation\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-03-03 23:00:48.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2145216&lang=ES\"},{\"nameDoc\":\"Annex H - Declaration of honour on exclusion and selection criteria\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-03-03 23:00:26.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2145215&lang=ES\"},{\"nameDoc\":\"Annex K - Clarifications on financing not linked to costs\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-03-03 23:00:05.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2145206&lang=ES\"},{\"nameDoc\":\"Annex L - Self-evaluation questionnaire on SEA-H\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-03-03 23:00:23.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2145210&lang=ES\"},{\"nameDoc\":\"e-Calls PADOR privacy statement\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-03-03 23:00:10.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2145209&lang=ES\"}]"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-03-03T23:01:00.271+0100"
+      ],
+      "programmePeriod": [
+        "2014 - 2020",
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-06-04T21:00:03.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-03-23T16:56:00.298+0100"
+      ],
+      "url": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186081"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186081"
+      ],
+      "esDA_QueueDate": [
+        "2026-03-23T16:56:00.281+0100"
+      ],
+      "programmeDivisionProspect": [
+        "43072409"
+      ],
+      "geographicalZone": [
+        "20000980"
+      ],
+      "startDate": [
+        "2026-03-03T22:00:54.000+0000"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Convocatoria conjunta a propuestas Panamá 2026 - Programas Temáticos Sociedad Civil (OSC), y Derechos Humanos y Democraica (DH&D). Available at: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186081",
+    "score": 3.0
+  }
+}

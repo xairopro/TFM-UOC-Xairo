@@ -1,0 +1,136 @@
+{
+  "id": "EU-186255PROSPECTSEN",
+  "topic_id": "186255PROSPECTSEN",
+  "titulo": "Strengthening Human Rights and Democracy in Tajikistan",
+  "descripcion": "Strengthening Human Rights and Democracy in Tajikistan",
+  "organismo": "111111",
+  "fecha_publicacion": "2026-04-16",
+  "fecha_limite": "2026-06-02",
+  "deadlines_todas": "2026-06-02",
+  "presupuesto": "1419500",
+  "duracion": "",
+  "tipo_accion": "",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186255",
+  "text": "EU FUNDING & TENDERS – Topic: 186255PROSPECTSEN\nProgramme/Organism: 111111\nTitle: Strengthening Human Rights and Democracy in Tajikistan\nStatus: Open (31094502)\nType of action: \nOpening date: 2026-04-16\nDeadline: 2026-06-02\nAll deadlines: 2026-06-02\nDuration: \nBudget overview: 1419500\n\nDescription / Scope:\nStrengthening Human Rights and Democracy in Tajikistan\n\nMore info: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186255",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "186255PROSPECTSEN",
+    "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186255",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Strengthening Human Rights and Democracy in Tajikistan",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Strengthening Human Rights and Democracy in Tajikistan",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "6E9C1628795891D2C00985970A7B8A57275A57CFE8B4006A89501605BE119B28",
+    "metadata": {
+      "updateDate": [
+        "2026-04-15T09:52:32.000+0000"
+      ],
+      "es_SortDate": [
+        "2026-04-16T12:00:24.000+0000"
+      ],
+      "beneficiaryAdministration": [],
+      "sortStatus": [
+        "1"
+      ],
+      "contractType": [
+        "42893160"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Strengthening Human Rights and Democracy in Tajikistan"
+      ],
+      "type": [
+        "2"
+      ],
+      "esST_checksum": [
+        "6E9C1628795891D2C00985970A7B8A57275A57CFE8B4006A89501605BE119B28"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "callIdentifier": [
+        "186255"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "186255PROSPECTSEN"
+      ],
+      "currency": [
+        "EUR"
+      ],
+      "frameworkProgramme": [
+        "111111"
+      ],
+      "budget": [
+        "1419500"
+      ],
+      "identifier": [
+        "EuropeAid/186255/DD/ACT/TJ"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "geographicalZones": [
+        "20001020"
+      ],
+      "publicationDocuments": [
+        "[{\"nameDoc\":\"Guidelines for grant applicants\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-16 14:00:56.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2155766&lang=EN\"},{\"nameDoc\":\"Annex A.1 CN application\",\"typeDoc\":\"rtf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-16 14:00:54.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2155767&lang=EN\"},{\"nameDoc\":\"Annex A.2 Full application form\",\"typeDoc\":\"rtf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-16 14:00:02.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2155768&lang=EN\"},{\"nameDoc\":\"Annex B - Budget\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-16 14:00:35.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2132211&lang=EN\"},{\"nameDoc\":\"Annex C - Logical framework\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-16 14:00:37.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2132214&lang=EN\"},{\"nameDoc\":\"Annex D - Identification Form (public law bodies)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-16 14:00:01.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2132218&lang=EN\"},{\"nameDoc\":\"Annex D - Identification Form (private or public with legal form)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-16 14:00:11.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2132215&lang=EN\"},{\"nameDoc\":\"Annex D - Identification Form (natural person)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-16 14:00:35.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2132213&lang=EN\"},{\"nameDoc\":\"Annex F - PADOR offline registration form\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-16 14:00:02.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2132212&lang=EN\"},{\"nameDoc\":\"Annex G - Standard grant contract\",\"typeDoc\":\"zip\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-16 14:00:22.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2132216&lang=EN\"},{\"nameDoc\":\"Annex H - Declaration of honour on exclusion and selection criteria\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-16 14:00:26.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2132209&lang=EN\"},{\"nameDoc\":\"Annex K - Clarifications on financing not linked to costs\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-16 14:00:29.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2132208&lang=EN\"},{\"nameDoc\":\"Annex J - Information on the tax regime applicable to grant contracts\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-16 14:00:04.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2132217&lang=EN\"},{\"nameDoc\":\"Appendix - Derogations international organisations\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-16 14:00:35.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2132210&lang=EN\"},{\"nameDoc\":\"Annex L - Self-evaluation questionnaire on SEA-H\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-16 14:00:41.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2132207&lang=EN\"},{\"nameDoc\":\"e-Calls PADOR privacy statement\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-16 14:00:01.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2132219&lang=EN\"}]"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-04-16T14:01:00.268+0200"
+      ],
+      "programmePeriod": [
+        "2014 - 2020",
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-06-02T12:00:25.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-16T14:01:00.268+0200"
+      ],
+      "url": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186255"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186255"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-16T14:01:00.252+0200"
+      ],
+      "programmeDivisionProspect": [
+        "44996037"
+      ],
+      "geographicalZone": [
+        "20001020"
+      ],
+      "startDate": [
+        "2026-04-16T12:00:24.000+0000"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Strengthening Human Rights and Democracy in Tajikistan. Available at: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186255",
+    "score": 3.0
+  }
+}

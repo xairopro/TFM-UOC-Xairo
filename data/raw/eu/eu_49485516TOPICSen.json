@@ -1,0 +1,270 @@
+{
+  "id": "EU-49485516TOPICSen",
+  "topic_id": "49485516TOPICSen",
+  "titulo": "European Cooperation Projects Small Scale",
+  "descripcion": "European Cooperation Projects Small Scale",
+  "organismo": "43251814",
+  "fecha_publicacion": "2026-03-05",
+  "fecha_limite": "2026-05-05",
+  "deadlines_todas": "2026-05-05",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"111965\":[{\"action\":\"CREA-CULT-2026-COOP-2 - CREA-LS CREA Lump Sum Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"60273174\"},\"plannedOpeningDate\":\"2026-03-05\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-05-05\"]},{\"action\":\"CREA-CULT-2026-COOP-1 - CREA-LS CREA Lump Sum Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"60273174\"},\"plannedOpeningDate\":\"2026-03-05\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-05-05\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "CREA Lump Sum Grants",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CULT-2026-COOP-1",
+  "text": "EU FUNDING & TENDERS – Topic: 49485516TOPICSen\nProgramme/Organism: 43251814\nTitle: European Cooperation Projects Small Scale\nStatus: Open (31094502)\nType of action: CREA Lump Sum Grants\nOpening date: 2026-03-05\nDeadline: 2026-05-05\nAll deadlines: 2026-05-05\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"111965\":[{\"action\":\"CREA-CULT-2026-COOP-2 - CREA-LS CREA Lump Sum Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"60273174\"},\"plannedOpeningDate\":\"2026-03-05\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-05-05\"]},{\"action\":\"CREA-CULT-2026-COOP-1 - CREA-LS CREA Lump Sum Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"60273174\"},\"plannedOpeningDate\":\"2026-03-05\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-05-05\"]}]}}\n\nDescription / Scope:\nEuropean Cooperation Projects Small Scale\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CULT-2026-COOP-1",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "49485516TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CULT-2026-COOP-1",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "European Cooperation Projects Small Scale",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "European Cooperation Projects Small Scale",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "5379D2DC182A1BF0BC8A0AF2B8599D6E4B3ACBBCD54CA67703184E64D0893180",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-03-30T15:34:52.078\",\"content\":\"\\u003cp\\u003e\\u003cstrong\\u003eRecording of the public info session for the call CREA-CULT-2026-COOP is now available\\u003c/strong\\u003e\\u003c/p\\u003e\\u003cp\\u003eThe public info session for the call CREA-CULT-2026-COOP was held on line on 23 March 2026. The recording and the presentation delivered are now available at this \\u003ca href\\u003d\\\"https://www.eacea.ec.europa.eu/news-events/events/online-info-session-creative-europe-culture-european-cooperation-projects-call-2026-03-23_en\\\" rel\\u003d\\\"noopener noreferrer\\\" target\\u003d\\\"_blank\\\"\\u003elink\\u003c/a\\u003e\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-03-05T09:09:46.906\",\"content\":\"The submission session is now available for: CREA-CULT-2026-COOP-2, CREA-CULT-2026-COOP-1\"}]"
+      ],
+      "es_SortDate": [
+        "2026-03-05T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "CREA-CULT-2026-COOP-1",
+        "CREA-CULT-2026-COOP",
+        "Archaeology",
+        "Architecture - Culture",
+        "Archives and Librairies - Culture",
+        "Art in public spaces",
+        "Artefacts",
+        "Buildings",
+        "Cooking",
+        "Craftwork",
+        "Creative Writing",
+        "Cultural heritage - Culture",
+        "Decorative arts",
+        "Design and applied arts - Culture",
+        "Digital arts",
+        "Drawing",
+        "Engraving",
+        "Fashion",
+        "Folklore",
+        "Graphic arts and Design",
+        "Historical sites and buildings",
+        "Intangible culture fields",
+        "Landscape heritage",
+        "Libraries and archives",
+        "Literary Translation",
+        "Literature books and reading - Culture",
+        "Monuments",
+        "Museums",
+        "Other artistic craft",
+        "Photography",
+        "Publishing",
+        "Radio and Cross-Media - Culture",
+        "Sculpture",
+        "Sustainable cultural tourism",
+        "Tangible cultural heritage",
+        "Traditions",
+        "Translation",
+        "Video arts",
+        "Visual arts - Culture",
+        "circus arts",
+        "dance",
+        "music",
+        "opera",
+        "painting",
+        "puppetry",
+        "street art",
+        "theatre"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>Conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>described in the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/crea/wp-call/2026/call-fiche_crea-cult-2026-coop_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p><p><em>﻿</em><u>Only use the Part B template in the Submission System once you start your application under 'Download Part B templates' on the left hand side of the screen.</u></p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>As described in the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/crea/wp-call/2026/call-fiche_crea-cult-2026-coop_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u> under <strong>Section 6</strong> (Eligibility).</p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>As described in the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/crea/wp-call/2026/call-fiche_crea-cult-2026-coop_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/crea/wp-call/2026/call-fiche_crea-cult-2026-coop_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\"> </a>under&#xa0;<strong>Section 6</strong>&#xa0;(Eligibility)</p></div></div><div class=\"eui-u-mt-s\">\n</div></div><div><h4>4. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>Evaluation criteria, scoring, threshold and process are described in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/crea/wp-call/2026/call-fiche_crea-cult-2026-coop_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a> <strong>section 8</strong>&#xa0;(Evaluation and award procedure) and&#xa0;<strong>section 9</strong>&#xa0;(Award criteria).</p></div></div><div class=\"eui-u-mt-s\">\n</div><div><h4>5. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p><br></br></p><p>Publication of the call: March 5, 2026.</p><p>Deadline for submitting applications: <u>May 5, 2026</u> 17:00 (Brussels time).</p><p>Evaluation period:&#xa0;<u>May</u>-<u>October </u>2026.</p><p>Information to applicants:&#xa0;<u>November</u> 2026.</p><p>Signature of grant agreement:&#xa0;<u>February</u> 2027.</p></div></div><div class=\"eui-u-mt-s\">\n</div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Call document and annexes:</h4> <div class=\"eui-u-mt-s\"><p><u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/crea/wp-call/2026/call-fiche_crea-cult-2026-coop_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Call document</a></u></p><p><strong>Application form templates</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/crea/temp-form/af/af_crea-culture_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (CREA CULTURE)</a> (<u>For information onl</u>y) - DO NOT use this template for submission. You will find the application form in the Submission System, under 'Download Part B templates' on the left hand hand side of the screen.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/crea/temp-form/af/detailed-budget-table_crea-lsii_en.xlsm\" rel=\"noopener noreferrer\" target=\"_blank\">Detailed budget table (CREA LSII)</a> - (<u>For information onl</u>y) - DO NOT use this template for submission. You will find the application form in the Submission System, under 'Download Part B templates' on the left hand hand side of the screen.</p><p><br></br></p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/crea/agr-contr/mga_crea_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">CREA MGA</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/ls-mga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Lump Sum MGA</a></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/culture/resources/annual-work-programmes\" rel=\"noopener noreferrer\" target=\"_blank\">CREA Annual Work Programmes</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0818\" rel=\"noopener noreferrer\" target=\"_blank\">CREA Regulation 2021/818</a> </p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a>&#xa0;</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "European Cooperation Projects Small Scale"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "5379D2DC182A1BF0BC8A0AF2B8599D6E4B3ACBBCD54CA67703184E64D0893180"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43249888"
+      ],
+      "callIdentifier": [
+        "CREA-CULT-2026-COOP"
+      ],
+      "ccm2Id": [
+        "49485516"
+      ],
+      "callccm2Id": [
+        "49485529"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49485516TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"CREA-CULT-2026-COOP\",\"criterionCode\":\"CREA-LS\",\"criterionDescription\":\"CREA Lump Sum Grants\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43633?topic\\u003dCREA-CULT-2026-COOP-1\",\"startDate\":\"1772668800000\",\"endDate\":\"1777939200000\",\"mgaDescription\":\"CREA Lump Sum Grant\",\"mgaCode\":\"CREA-AG-LS\"}]"
+      ],
+      "callTitle": [
+        "European Cooperation projects"
+      ],
+      "frameworkProgramme": [
+        "43251814"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Impact:</p><p>The action aims at having a transformative <strong>impact on the cultural landscape</strong> by fostering cross-border partnerships that invigorate the exchange of ideas and techniques, significantly enriching the sector. It should magnify the global presence of European art, ensuring its appreciation and access worldwide, thus broadening its impact. By facilitating collaboration among diverse organizations, the action should spark innovation, enabling the development and widespread dissemination of cutting-edge practices that enhance the competitiveness of the European cultural sector. This transnational cooperation should open new avenues for professionals, boosting their skills and fostering career growth and ensuring that cultural and creative sectors remain vibrant and resilient.</p><p class=\"topicdescriptionkind\">Objective:</p><p>European Cooperation Projects are <strong>transnational projects</strong> involving organisations in the cultural and creative sectors from different countries taking part in the programme. They give cultural organisations of all sizes, including micro-organisations and small-sized organisations, the possibility to co-produce, cooperate, experiment, innovate, be mobile and learn from each other. The action aims to improve access to European culture and creative works and to promote innovation and creativity. Projects can cover one or more cultural and creative sectors and can be interdisciplinary.</p><p>Proposals must present a clear <strong>cross-border cooperation dimension</strong> as this is at the core of the European Cooperation Projects.</p><p><strong>Topic CREA-CULT-2026-COOP-1 - Small Scale projects:</strong></p><ul level=\"0\"><li><strong>The consortium must be composed of minimum 3 independent entities from 3 different eligible countries.</strong></li><li><strong>The maximum EU grant amount is of EUR 200 000 per project.</strong></li><li><strong>The funding rate is of maximum 80%</strong></li> </ul><p>Support will be given to projects addressing <strong>one</strong> of the following objectives:</p><p><strong>Objective 1 - Transnational creation and circulation</strong>: to strengthen the transnational creation and circulation of European works and artists.</p><p>Transnational creation and circulation are important for the advancement of collaborations, increased outreach and in many cases necessary for the viability and development of cultural organisations, institutions and individuals. Co-production is also a tool to stimulate creativity, share resources and facilitate the trans-national distribution of content and the circulation of artists. Projects will integrate new and creative ways of producing and disseminating content.</p><p><strong>Objective 2 – Innovation</strong>: to enhance the capacity of European cultural and creative sectors to nurture talents, to innovate, to prosper and to generate jobs and growth.</p><p>Projects responding to this objective should be of <strong>capacity-building</strong> nature. Innovation should be understood in a broad sense. Innovations can be of technological and artistic nature; they may include the joint creation and production of innovative European works and their dissemination to a wide and diverse audience. Innovations also include the development and experimentation of new practices or models, as well as the transfer and dissemination of innovative practices from more advanced European regions or sectors or disciplines to other regions in Europe.</p><p>Areas of innovation can encompass a social or societal dimension, such as: audience engagement/development, working conditions of artists, gender equality, the inclusion of people with disabilities, people belonging to minorities and people belonging to socially marginalised groups, fighting climate change, digitisation and AI for the benefit of creativity and creators, etc., as well as culture’s contribution to health and well-being.</p><p class=\"topicdescriptionkind\">Scope:</p><p>Activities must align with the specific objective the proposal has chosen to contribute to under this call (i.e. Objective 1 – Transnational creation and circulation or Objective 2 – Innovation).</p><p>Activities may include, but are not limited to (non-exhaustive list): </p><ul level=\"0\"><li>Promoting the transnational mobility of artists and professionals with a view to enabling them to cooperate transnationally; </li><li>Strengthening audience development and improving access to European cultural and creative works; </li><li>Improving capacity by developing new and enhancing existing skills and competencies for cultural professionals, emerging artists and stakeholders engaged in cultural and creative sectors and promoting innovative approaches to creation, new and innovative models of revenue, management and marketing for the cultural sectors;</li><li>Contributing to aspects of inclusion and gender equality and enhancing intercultural dialogue, promoting shared EU values and mutual understanding and respect for other cultures;</li><li>Actively involve young people in cultural and creative activities to foster innovation, co-creation, and intergenerational dialogue;</li><li>Raising awareness activities and strategies aimed at increasing the understanding visibility, and appreciation of common history, values and cultural diversity and reinforcing a sense of belonging to a common European space.</li> </ul>"
+      ],
+      "identifier": [
+        "CREA-CULT-2026-COOP-1"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43251824",
+        "43434991"
+      ],
+      "crossCuttingPriorities": [
+        "DigitalAgenda",
+        "AI"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-03-05T00:01:22.458+0100"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-05-05T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-03-30T15:50:12.723+0200"
+      ],
+      "typesOfAction": [
+        "CREA Lump Sum Grants"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CULT-2026-COOP-1"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CULT-2026-COOP-1"
+      ],
+      "tags": [],
+      "cenTagsA": [
+        "TOPICS-010607",
+        "TOPICS-013184",
+        "TOPICS-013185",
+        "TOPICS-013186",
+        "TOPICS-010258",
+        "TOPICS-013187",
+        "TOPICS-013188",
+        "TOPICS-013189",
+        "TOPICS-007256",
+        "TOPICS-000209",
+        "TOPICS-000208",
+        "TOPICS-007258",
+        "TOPICS-007257",
+        "TOPICS-007259",
+        "TOPICS-006501",
+        "TOPICS-007260",
+        "TOPICS-007261",
+        "TOPICS-007262",
+        "TOPICS-007263",
+        "TOPICS-003997",
+        "TOPICS-007265",
+        "TOPICS-007267",
+        "TOPICS-007268",
+        "TOPICS-007269",
+        "TOPICS-007270",
+        "TOPICS-007277",
+        "TOPICS-007273",
+        "TOPICS-007274",
+        "TOPICS-007275",
+        "TOPICS-007276",
+        "TOPICS-000928",
+        "TOPICS-007278",
+        "TOPICS-000218",
+        "TOPICS-004000",
+        "TOPICS-007280",
+        "TOPICS-007281",
+        "TOPICS-007282",
+        "TOPICS-007061",
+        "TOPICS-000189",
+        "TOPICS-007285",
+        "TOPICS-007286",
+        "TOPICS-007287",
+        "TOPICS-007289",
+        "TOPICS-007290",
+        "TOPICS-007291",
+        "TOPICS-007294",
+        "TOPICS-007293",
+        "TOPICS-007295",
+        "TOPICS-000222",
+        "TOPICS-004005",
+        "TOPICS-007297",
+        "TOPICS-004353",
+        "TOPICS-007298"
+      ],
+      "esDA_QueueDate": [
+        "2026-03-30T15:50:12.708+0200"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"CREA-LS CREA Lump Sum Grants\",\"typeOfMGA\":[{\"id\":43249888,\"abbreviation\":\"CREA-AG-LS\",\"description\":\"CREA Lump Sum Grant\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-03-05\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-05-05\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"111965\":[{\"action\":\"CREA-CULT-2026-COOP-2 - CREA-LS CREA Lump Sum Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"60273174\"},\"plannedOpeningDate\":\"2026-03-05\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-05-05\"]},{\"action\":\"CREA-CULT-2026-COOP-1 - CREA-LS CREA Lump Sum Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"60273174\"},\"plannedOpeningDate\":\"2026-03-05\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-05-05\"]}]}}"
+      ],
+      "startDate": [
+        "2026-03-05T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p>For help related to this call, please contact EACEA-CREATIVE-EUROPE-COOPERATIONPROJECTS@ec.europa.eu</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?order=DESC&amp;pageNumber=1&amp;pageSize=10&amp;sortBy=publicationDate&amp;isExactMatch=true&amp;type=1&amp;grantCategories=p_submission_eval\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ – Submission of proposals</a>.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> – Step-by-step online guide through the Portal processes from proposal preparation and evaluation to reporting on your ongoing project. Valid for all 2021-2027 programmes.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "European Cooperation Projects Small Scale. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CULT-2026-COOP-1",
+    "score": 3.0
+  }
+}

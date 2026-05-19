@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902301",
+  "id_interno": 1103862,
+  "numero_convocatoria": "902301",
+  "organismo": "AUTONOMICA — PRINCIPADO DE ASTURIAS — CONSEJERÍA DE PRESIDENCIA, RETO DEMOGRÁFICO, IGUALDAD Y TURISMO",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "2026-03-01",
+  "fecha_fin_solicitud": "2026-04-30",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Subvención nominativa a favor del Parque Histórico del Navia",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "OTROS SERVICIOS",
+  "regiones": "ES - ESPAÑA",
+  "finalidad": "Comercio, Turismo y Pymes",
+  "bases_reguladoras": "Ley de Presupuestos Generales 2026",
+  "url_bases_reguladoras": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2888",
+  "presupuesto": "45.000,00 €",
+  "presupuesto_total_num": 45000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902301",
+  "text": "CONVOCATORIA BDNS Nº 902301\nOrganismo: AUTONOMICA — PRINCIPADO DE ASTURIAS — CONSEJERÍA DE PRESIDENCIA, RETO DEMOGRÁFICO, IGUALDAD Y TURISMO\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud: 2026-03-01 → 2026-04-30 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 45.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: OTROS SERVICIOS\nRegiones: ES - ESPAÑA\nFinalidad: Comercio, Turismo y Pymes\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSubvención nominativa a favor del Parque Histórico del Navia\n\nBases reguladoras:\nLey de Presupuestos Generales 2026\nURL bases reguladoras: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2888\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902301",
+  "_raw": {
+    "id": 1103862,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "PRINCIPADO DE ASTURIAS",
+      "nivel3": "CONSEJERÍA DE PRESIDENCIA, RETO DEMOGRÁFICO, IGUALDAD Y TURISMO"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902301",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 45000,
+    "mrr": false,
+    "descripcion": "Subvención nominativa a favor del Parque Histórico del Navia",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES - ESPAÑA "
+      }
+    ],
+    "descripcionFinalidad": "Comercio, Turismo y Pymes",
+    "descripcionBasesReguladoras": "Ley de Presupuestos Generales 2026",
+    "urlBasesReguladoras": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2888",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-03-01",
+    "fechaFinSolicitud": "2026-04-30",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444889,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Presupuesto Reto Demográfico 2026.pdf",
+        "long": 82881,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

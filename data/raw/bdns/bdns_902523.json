@@ -1,0 +1,106 @@
+{
+  "id": "BDNS-902523",
+  "id_interno": 1104084,
+  "numero_convocatoria": "902523",
+  "organismo": "LOCAL — DIPUTACIÓN PROV. DE CIUDAD REAL — DIPUTACIÓN PROVINCIAL DE CIUDAD REAL",
+  "sede_electronica": "https://sede.dipucr.es/",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": true,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "SUBVENCIONES.- Convocatoria Plan de aldeas 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Construcción de otros proyectos de ingeniería civil",
+  "regiones": "ES422 - Ciudad Real",
+  "finalidad": "Otras Prestaciones económicas",
+  "bases_reguladoras": "SUBVENCIONES.- Convocatoria Plan de aldeas 2026",
+  "url_bases_reguladoras": "https://dipucr.transparencialocal.gob.es/es_ES/buscar/contenido/articulo/articulo-30519-aprobacion-definitiva-de-modificacion-del-reglamento-regulador-del-plan-de-asistencia-economica-y-cooperacion-municipal",
+  "presupuesto": "1.000.000,00 €",
+  "presupuesto_total_num": 1000000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902523",
+  "text": "CONVOCATORIA BDNS Nº 902523\nOrganismo: LOCAL — DIPUTACIÓN PROV. DE CIUDAD REAL — DIPUTACIÓN PROVINCIAL DE CIUDAD REAL\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: sí)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 1.000.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Construcción de otros proyectos de ingeniería civil\nRegiones: ES422 - Ciudad Real\nFinalidad: Otras Prestaciones económicas\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSUBVENCIONES.- Convocatoria Plan de aldeas 2026\n\nBases reguladoras:\nSUBVENCIONES.- Convocatoria Plan de aldeas 2026\nURL bases reguladoras: https://dipucr.transparencialocal.gob.es/es_ES/buscar/contenido/articulo/articulo-30519-aprobacion-definitiva-de-modificacion-del-reglamento-regulador-del-plan-de-asistencia-economica-y-cooperacion-municipal\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902523",
+  "_raw": {
+    "id": 1104084,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DIPUTACIÓN PROV. DE CIUDAD REAL",
+      "nivel3": "DIPUTACIÓN PROVINCIAL DE CIUDAD REAL"
+    },
+    "sedeElectronica": "https://sede.dipucr.es/",
+    "codigoBDNS": "902523",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 1000000,
+    "mrr": false,
+    "descripcion": "SUBVENCIONES.- Convocatoria Plan de aldeas 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Construcción de otros proyectos de ingeniería civil",
+        "codigo": "42.9"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES422 - Ciudad Real"
+      }
+    ],
+    "descripcionFinalidad": "Otras Prestaciones económicas",
+    "descripcionBasesReguladoras": "SUBVENCIONES.- Convocatoria Plan de aldeas 2026",
+    "urlBasesReguladoras": "https://dipucr.transparencialocal.gob.es/es_ES/buscar/contenido/articulo/articulo-30519-aprobacion-definitiva-de-modificacion-del-reglamento-regulador-del-plan-de-asistencia-economica-y-cooperacion-municipal",
+    "sePublicaDiarioOficial": true,
+    "abierto": true,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": null,
+    "textFin": "25/06/2026",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445568,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Certificado de acuerdos.pdf",
+        "long": 293556,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210493,
+        "titulo": "SUBVENCIONES.- Convocatoria Plan de aldeas 2026",
+        "tituloLeng": null,
+        "texto": "<p>Extracto del acuerdo de la Junta de Gobierno de la Diputación Provincial de Ciudad Real, de 28 de abril de 2026, por la que se aprueba la convocatoria del Plan de Aldeas 2026.\n</p><p>  \n</p><p>        Primero.- Beneficiarios: \n</p><p>\tPodrán acogerse a este Plan todos los Municipios de la provincia que cuenten con Aldeas, y lo soliciten, de acuerdo con el contenido de esta convocatoria y del Reglamento regulador del Plan , de Asistencia Económica y Cooperación Municipal.\n</p><p>\tSegundo.- Objeto\n</p><p>\tEs objeto de la presente convocatoria la concesión de ayudas a los Municipios de la provincia, para la ejecución de inversiones en las Aldeas de su término municipal, con la finalidad de que puedan prestar los servicios públicos que contribuyan a satisfacer las necesidades y aspiraciones de la comunidad vecinal en los términos previstos en el artículo 25 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.\t\n</p><p>\t\t\n</p><p>\tEsta convocatoria se enmarca dentro del Plan de Asistencia Económica y Cooperación Municipal, y se efectúa por el procedimiento de concurrencia con reparto previo objetivo.\n</p><p>\tTercero.- Bases reguladoras:\t\n</p><p>\tLas bases reguladoras están establecidas en el Reglamento regulador del Plan de Asistencia Económica y Cooperación Municipal, aprobado por el Pleno de la Diputación Provincial en sesión de 29 de abril de 2022 y publicado en el Boletín Oficial de la Provincia nº 121, de 24 de junio siguiente.\n</p><p>\tCuarta.- Criterios de adjudicación:\n</p><p>\tLa cuantía máxima que puede obtener cada Municipio dentro del Plan de Aldeas 2025 figura en el Anexo I de la convocatoria, y viene establecida por una cantidad fija por Aldea, 13.088,33 euros, incrementada en 21,58 euros  por cada habitante que tenga dicha unidad de población, conforme a los datos de la última revisión del Padrón municipal de habitantes aprobada por el INE, referida a 1 de enero de 2025.\n</p><p>\tQuinta.- Plazo de presentación de solicitudes:\n</p><p>\tEl plazo de presentación de las solicitudes finaliza al día 25 de junio de 2026.\n</p><p>\tSexto.- Otros datos:\n</p><p>\tLas solicitudes derivadas de esta convocatoria y el resto de trámites que procedan, se habrán de efectuar exclusivamente por vía telemática.\t</p>",
+        "textoLeng": null,
+        "url": "https://se1.dipucr.es:4443/SIGEM_BuscadorDocsWeb/getDocument.do?entidad=005&doc=7520886",
+        "cve": "kMTt+bUpd8YJodozYGBD",
+        "desDiarioOficial": "B.O.P. DE CIUDAD REAL",
+        "datPublicacion": "2026-05-04"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "BDNS-901435",
+  "id_interno": 1102996,
+  "numero_convocatoria": "901435",
+  "organismo": "LOCAL — DIPUTACIÓN PROV. DE HUELVA — DIPUTACIÓN PROVINCIAL DE HUELVA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA DE BECAS EN EL MARCO DEL PLAN HEBE: PRIMERA OPORTUNIDAD 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "EDUCACIÓN",
+  "regiones": "ES615 - Huelva",
+  "finalidad": "Educación",
+  "bases_reguladoras": "Ordenanza general de subvenciones de la Diputación Provincial de Huelva. (BOP nº 136 de 18 de julio de 2016)",
+  "url_bases_reguladoras": "https://s2.diphuelva.es/portalweb/bop/boletines/20160718-1.pdf#page=3",
+  "presupuesto": "189.000,00 €",
+  "presupuesto_total_num": 189000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901435",
+  "text": "CONVOCATORIA BDNS Nº 901435\nOrganismo: LOCAL — DIPUTACIÓN PROV. DE HUELVA — DIPUTACIÓN PROVINCIAL DE HUELVA\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 189.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: EDUCACIÓN\nRegiones: ES615 - Huelva\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA DE BECAS EN EL MARCO DEL PLAN HEBE: PRIMERA OPORTUNIDAD 2026\n\nBases reguladoras:\nOrdenanza general de subvenciones de la Diputación Provincial de Huelva. (BOP nº 136 de 18 de julio de 2016)\nURL bases reguladoras: https://s2.diphuelva.es/portalweb/bop/boletines/20160718-1.pdf#page=3\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901435",
+  "_raw": {
+    "id": 1102996,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DIPUTACIÓN PROV. DE HUELVA",
+      "nivel3": "DIPUTACIÓN PROVINCIAL DE HUELVA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901435",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 189000,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA DE BECAS EN EL MARCO DEL PLAN HEBE: PRIMERA OPORTUNIDAD 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES615 - Huelva"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "Ordenanza general de subvenciones de la Diputación Provincial de Huelva. (BOP nº 136 de 18 de julio de 2016)",
+    "urlBasesReguladoras": "https://s2.diphuelva.es/portalweb/bop/boletines/20160718-1.pdf#page=3",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Al día siguiente de su publicación",
+    "textFin": "El plazo finalizará 10 días hábiles tras la publicación en el BOP de Huelva",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442273,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "2.2.CONVOCATORIA_HEBE_1_OPORTUNIDAD_2026_US080426._DEFINITIVA (FIRMADA) .pdf",
+        "long": 442781,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442278,
+        "descripcion": "FORMULARIO DE INTERMEDIACIÓN",
+        "nombreFic": "ANEXO VIII. FORMULARIO INTERMEDIACIÓN.pdf",
+        "long": 191588,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442275,
+        "descripcion": "RESOLUCIÓN APROBACIÓN CONVOCATORIA",
+        "nombreFic": "Rsolución 1236-2026 Aprobacion Convocatoria HEBE 1ª Oportunidad 2026.pdf",
+        "long": 124693,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

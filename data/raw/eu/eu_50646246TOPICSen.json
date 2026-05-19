@@ -1,0 +1,166 @@
+{
+  "id": "EU-50646246TOPICSen",
+  "topic_id": "50646246TOPICSen",
+  "titulo": "Enhancing the European nuclear competence  area",
+  "descripcion": "Enhancing the European nuclear competence area",
+  "organismo": "43298916",
+  "fecha_publicacion": "2026-04-23",
+  "fecha_limite": "2026-09-15",
+  "deadlines_todas": "2026-09-15",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2027\",\"2026\"],\"budgetTopicActionMap\":{\"113825\":[{\"action\":\"HORIZON-EURATOM-2026-01-05 - EURATOM-IA EURATOM Innovation Actions\",\"expectedGrants\":1,\"minContribution\":2000000,\"maxContribution\":2000000,\"budgetYearMap\":{\"2026\":\"1000000\",\"2027\":\"1000000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113827\":[{\"action\":\"HORIZON-EURATOM-2026-01-01 - EURATOM-RIA EURATOM Research and Innovation Actions\",\"expectedGrants\":5,\"minContribution\":3000000,\"maxContribution\":3000000,\"budgetYearMap\":{\"2026\":\"7000000\",\"2027\":\"8000000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113826\":[{\"action\":\"HORIZON-EURATOM-2026-01-03 - EURATOM-CSA EURATOM Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"2500000\",\"2027\":\"2500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113829\":[{\"action\":\"HORIZON-EURATOM-2026-01-02 - EURATOM-IA EURATOM Innovation Actions\",\"expectedGrants\":5,\"minContribution\":3000000,\"maxContribution\":3000000,\"budgetYearMap\":{\"2026\":\"6500000\",\"2027\":\"8500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113828\":[{\"action\":\"HORIZON-EURATOM-2026-01-09 - EURATOM-COFUND EURATOM Cofund Actions\",\"expectedGrants\":1,\"minContribution\":15000000,\"maxContribution\":15000000,\"budgetYearMap\":{\"2026\":\"7500000\",\"2027\":\"7500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113821\":[{\"action\":\"HORIZON-EURATOM-2026-01-04 - EURATOM-CSA EURATOM Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2026\":\"3500000\",\"2027\":\"3500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113823\":[{\"action\":\"HORIZON-EURATOM-2026-01-06 - EURATOM-CSA EURATOM Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":500000,\"maxContribution\":500000,\"budgetYearMap\":{\"2026\":\"250000\",\"2027\":\"250000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113822\":[{\"action\":\"HORIZON-EURATOM-2026-01-08 - EURATOM-COFUND EURATOM Cofund Actions\",\"expectedGrants\":1,\"minContribution\":15000000,\"maxContribution\":15000000,\"budgetYearMap\":{\"2026\":\"7500000\",\"2027\":\"7500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "EURATOM Coordination and Support Actions",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EURATOM-2026-01-03",
+  "text": "EU FUNDING & TENDERS – Topic: 50646246TOPICSen\nProgramme/Organism: 43298916\nTitle: Enhancing the European nuclear competence  area\nStatus: Open (31094502)\nType of action: EURATOM Coordination and Support Actions\nOpening date: 2026-04-23\nDeadline: 2026-09-15\nAll deadlines: 2026-09-15\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2027\",\"2026\"],\"budgetTopicActionMap\":{\"113825\":[{\"action\":\"HORIZON-EURATOM-2026-01-05 - EURATOM-IA EURATOM Innovation Actions\",\"expectedGrants\":1,\"minContribution\":2000000,\"maxContribution\":2000000,\"budgetYearMap\":{\"2026\":\"1000000\",\"2027\":\"1000000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113827\":[{\"action\":\"HORIZON-EURATOM-2026-01-01 - EURATOM-RIA EURATOM Research and Innovation Actions\",\"expectedGrants\":5,\"minContribution\":3000000,\"maxContribution\":3000000,\"budgetYearMap\":{\"2026\":\"7000000\",\"2027\":\"8000000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113826\":[{\"action\":\"HORIZON-EURATOM-2026-01-03 - EURATOM-CSA EURATOM Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"2500000\",\"2027\":\"2500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113829\":[{\"action\":\"HORIZON-EURATOM-2026-01-02 - EURATOM-IA EURATOM Innovation Actions\",\"expectedGrants\":5,\"minContribution\":3000000,\"maxContribution\":3000000,\"budgetYearMap\":{\"2026\":\"6500000\",\"2027\":\"8500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113828\":[{\"action\":\"HORIZON-EURATOM-2026-01-09 - EURATOM-COFUND EURATOM Cofund Actions\",\"expectedGrants\":1,\"minContribution\":15000000,\"maxContribution\":15000000,\"budgetYearMap\":{\"2026\":\"7500000\",\"2027\":\"7500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113821\":[{\"action\":\"HORIZON-EURATOM-2026-01-04 - EURATOM-CSA EURATOM Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2026\":\"3500000\",\"2027\":\"3500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113823\":[{\"action\":\"HORIZON-EURATOM-2026-01-06 - EURATOM-CSA EURATOM Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":500000,\"maxContribution\":500000,\"budgetYearMap\":{\"2026\":\"250000\",\"2027\":\"250000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113822\":[{\"action\":\"HORIZON-EURATOM-2026-01-08 - EURATOM-COFUND EURATOM Cofund Actions\",\"expectedGrants\":1,\"minContribution\":15000000,\"maxContribution\":15000000,\"budgetYearMap\":{\"2026\":\"7500000\",\"2027\":\"7500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}]}}\n\nDescription / Scope:\nEnhancing the European nuclear competence area\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EURATOM-2026-01-03",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "50646246TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EURATOM-2026-01-03",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Enhancing the European nuclear competence area",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Enhancing the European nuclear competence area",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "6E9CC8E7626AC5A2AB77E66C76A870C83945A9C79B56F1BBAEA393C3CE0FE123",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-04-24T17:44:54.970\",\"content\":\"\\u003cp\\u003eDue to technical reasons the submission session is currently\\u003cstrong\\u003e UNAVAILABLE\\u003c/strong\\u003e for all topics: HORIZON-EURATOM-2026-01-01, HORIZON-EURATOM-2026-01-02, HORIZON-EURATOM-2026-01-03, HORIZON-EURATOM-2026-01-04, HORIZON-EURATOM-2026-01-05, HORIZON-EURATOM-2026-01-06, HORIZON-EURATOM-2026-01-08, HORIZON-EURATOM-2026-01-09\\u003c/p\\u003e\"}]"
+      ],
+      "es_SortDate": [
+        "2026-04-23T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "HORIZON-EURATOM-2026-01-03",
+        "HORIZON-EURATOM-2026-01"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>Conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>The page limit of the application is 40 pages.</p></div><div class=\"eui-u-mt-s\"><p><strong>Proposal layout:</strong> described in Part B of the Application Form.</p><p>Other admissibility conditions are described in General Annexes to the Euratom Work Programme 2026-2027, General Conditions, A - Admissibility.</p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>Described in General Annexes to the Euratom Work Programme 2026-2027, General Conditions, B - Eligibility.</p><p>See the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/list-3rd-country-participation_horizon-euratom_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">List of Participating Countries in Horizon Europe </a>(including Euratom) for up-to-date information on the current list of and the position for Associated Countries.</p><p>Please note that as of the date of the publication of this call, Ukraine and Switzerland are the only countries associated to the Euratom Programme, therefore eligible for funding.</p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>The Joint Research Centre (JRC) may participate as member of the consortium selected for funding.</p></div><div class=\"eui-u-mt-s\"><p>Other eligible conditions are described in General Annexes to the Euratom Work Programme 2026-2027, General Conditions, B - Eligibility.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>Described in General Annexes to the Euratom Work Programme 2026-2027, General Conditions, C — Financial and operational capacity and exclusion.</p></div></div><div><h4>5a. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>Described in General Annexes to the Euratom Work Programme 2026-2027, General Conditions, E — Documents and F — Procedure; and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5b. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>Described in General Annexes to the Euratom Work Programme 2026-2027, General Conditions, D — Award criteria.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>Described in General Annexes to the Euratom Work Programme 2026-2027, General Conditions, F — Procedure.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>Beneficiaries may provide financial support to third parties. The support to third parties can only be provided in the form of grants. The maximum amount to be granted to each third party is EUR 20 000 in order to enable participation of students and young researchers in the activities.</p></div><div class=\"eui-u-mt-s\"><p>General legal and financial set-up is described in General Annexes to the Euratom Work Programme 2026-2027, General Conditions, G — Legal and financial set-up of the grant agreements.</p></div></div></div><div class=\"eui-u-mt-l\"><h4>Euratom WP 2026-2027</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://research-and-innovation.ec.europa.eu/document/download/f0264b61-7f2a-4e30-8f97-1056c8e30b97_en?filename=C_2026_1787_F1_ANNEX_EN_V4_P1_4651371.PDF\" rel=\"noopener noreferrer\" target=\"_blank\">Euratom Work Programme 2026-2027 for nuclear research and training </a></p></div><h4>Call document and annexes:</h4> <div class=\"eui-u-mt-s\"><p><strong>Application form templates</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (HE CSA)</a> — the application form specific to this call is available in the Submission System</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/information-on-financial-support-to-third-parties_he_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Information on financial support to third parties (HE) </a></p><p><strong>Evaluation forms</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/ef/ef_he-csa_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard evaluation form (HE CSA)</a> — will be used with the necessary adaptations </p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe MGA</a>&#xa0;</p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R1304\" rel=\"noopener noreferrer\" target=\"_blank\">Euratom Research &amp; Training Programme 2026-2027 (Council Regulation 2025/1304)</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a></p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "Enhancing the European nuclear competence  area"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "6E9CC8E7626AC5A2AB77E66C76A870C83945A9C79B56F1BBAEA393C3CE0FE123"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43252184"
+      ],
+      "callIdentifier": [
+        "HORIZON-EURATOM-2026-01"
+      ],
+      "ccm2Id": [
+        "50646246"
+      ],
+      "callccm2Id": [
+        "50646298"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50646246TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"HORIZON-EURATOM-2026-01\",\"criterionCode\":\"EURATOM-CSA\",\"criterionDescription\":\"EURATOM Coordination and Support Actions\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43890?topic\\u003dHORIZON-EURATOM-2026-01-03\",\"startDate\":\"1776902400000\",\"endDate\":\"1789430400000\",\"mgaDescription\":\"EURATOM Action Grant Budget-Based\",\"mgaCode\":\"EURATOM-AG\"}]"
+      ],
+      "callTitle": [
+        "Nuclear research and training"
+      ],
+      "frameworkProgramme": [
+        "43298916"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Outcome:</p><p>project results are expected to contribute to all of the following outcomes:</p><ul level=\"0\"><li>complementing national programmes whose purpose is to ensure a sufficient and competent nuclear workforce. The action will generate EU added value by supporting coordination, sharing best practices and creating a single point for nuclear education and training at the EU level;</li><li>enhancing nuclear careers by promoting Euratom competences in the fields of nuclear safety, security, safeguards, radioactive waste management and radiation protection; making them available through a higher number of attractive education programmes; and expanding mobility opportunities and job perspectives (including giving access to world-class infrastructure);</li><li>advancing nuclear education and training through strategic actions for the safe implementation of AI;</li><li>making nuclear education more attractive and disseminating information to communities of various profiles and ages, including for experienced professionals from adjacent industries (e.g. manufacturing industries) interested in continuing developing their career in the nuclear field. </li> </ul><p class=\"topicdescriptionkind\">Scope:</p><p>the purpose is to support the programme’s objective of maintaining and enhancing the EU’s nuclear competences in the field of nuclear safety, security, safeguards, radioactive waste management and radiation protection. The consortium would implement a comprehensive and sustainable pan-European E&amp;T programme in the areas related to the use of nuclear engineering and technologies (including ionising radiation applications beyond nuclear energy). The action should build on activities that have been previously developed under Euratom and other EU programmes and should complement national efforts when appropriate. The project should use results from previously conducted analyses to streamline the effort to build up the skills and competences needed for the safe development of the nuclear sector. It should generate EU added value by complementing national educational and training programmes in order to ensure that sufficient and skilled staff are available for the sector. The action should foster a long-term career perspective within the field (considering current job trends and their evolution; and investigating what is needed to make the nuclear sector attractive to talented people). Human resources specialists should be involved. To ensure continuity and avoid duplication, the action should be led by experienced EU actors (see ENEN2plus, Skills4Nuclear).</p><p>To ensure a robust and diverse talent pool in the nuclear sector, it is essential to spark early interest among pupils and students in nuclear science and technology. The project should include actions that introduce key groups (young learners at different levels, teachers and other staff at educational institutions, and other influential individuals) to the wide range of roles within the field, thus helping and encouraging them envision a future in the sector. Specific attention should be paid to teachers at all levels, and the consortium should propose and implement targeted activities at each level for them.</p><p>Attracting students, doctoral candidates and workers from other sectors should be another focus. The consortium should identify best practices and propose activities that increase the attractiveness of nuclear careers (e.g. internships, technical visits, training programmes and career events).</p><p>The action may include specialised education and training in the most demanding areas of competence (e.g. decommissioning, radioactive waste management, radiation protection, SMRs, nuclear safeguards and non-power nuclear applications (cf. medicine and space)) in order to address current and future skills gaps.</p><p>To promote the effective use of the most advanced tools in nuclear education, the project should evaluate the use of AI (particularly small and large language models (SLMs and LLMs)) to support education programmes. The consortium should analyse the efficacy of existing and experimental practices (including assessing possible risks associated with the use of these tools in education – such as the possible inhibition of critical thinking, which is at the basis of learning). The project should propose strategic actions for the safe implementation of advanced digital tools in EU nuclear education. This could include (but not be limited to) piloting the safe use of AI (including LLMs) in education and training contexts, accompanied by evidence-based guidance to ensure that AI supports rather than replaces critical thinking and academic integrity. The action should provide practical templates, case studies and a risk-mitigation of AI-utilisation checklist for EU education providers.</p><p>The consortium should manage a robust mobility scheme. This will build on and draw lessons learned from previous programmes, thus improving procedures and reflecting current development and priorities. The scheme should take into consideration results from conducted assessments and should support national/EU strategies (e.g. the nuclear skills strategy that is currently under development by the independent consortium funded through the Skills4Nuclear project<sup>[1]</sup>). On the one hand, it should be an essential part of guided career development for highly specialised students and young nuclear professionals in multidisciplinary and multicultural environments. On the other hand, it should be an entry point that attracts students and workers from other sectors. The scheme should be prepared with close cooperation between industry, universities and research institutions, in order to involve relevant actors at an early stage and achieve synergies. The mobility scheme should be extensive, sustainable and supported with sufficient resources to meet demand.</p><p>Building on the work done so far, the project should provide a single-entry point website (a one-stop shop) for nuclear education and training (E&amp;T) in the EU. The site should cater for the EU, national and international levels, be comprehensive and provide access to information on E&amp;T opportunities at universities in applied sciences as well as vocational opportunities in the nuclear field. The consortium should elaborate on the governance and funding model in order to keep the site updated after the action ends.</p><p>The Commission encourages international cooperation and mobility exchange beyond Euratom – particularly with international organisations (e.g. IAEA ETKM and OECD/NEA NEST<sup>[2]</sup>) and institutions from non-EU countries that have the most advanced nuclear research programmes.</p><p>Proposals could pool the necessary financial resources from national (or regional) research programmes with a view to implementing transnational proposals, thereby resulting in grants to third parties to implement some of this action’s activities.</p><p>Grants to individual third parties will be capped at an estimated maximum of EUR 20 000 in order to enable students and young researchers to participate in the activities.</p><p>Where appropriate, the Commission recommends that consortia use the JRC’s services. The JRC may participate in the preparation and submission of the proposal. The JRC would bear the operational costs for its own staff and research infrastructure operational costs. The JRC’s facilities and expertise are listed in General Annex H to this work programme.</p><p class=\"eui-u-font-s\">[1] <a href=\"https://cordis.europa.eu/project/id/101213280\">https://cordis.europa.eu/project/id/101213280</a></p><p class=\"eui-u-font-s\">[2] <sup> </sup>Nuclear Education, Skills and Technology (NEST) Framework launched by Nuclear Energy Agency (<a href=\"https://www.oecd-nea.org/\">https://www.oecd-nea.org/</a>), aiming at address important gaps in nuclear skills capacity building, knowledge transfer and technical innovation</p>"
+      ],
+      "identifier": [
+        "HORIZON-EURATOM-2026-01-03"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43549435"
+      ],
+      "crossCuttingPriorities": [],
+      "esDA_FirstIngestDate": [
+        "2026-03-20T00:01:11.398+0100"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-09-15T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-24T17:49:53.404+0200"
+      ],
+      "typesOfAction": [
+        "EURATOM Coordination and Support Actions"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EURATOM-2026-01-03"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EURATOM-2026-01-03"
+      ],
+      "tags": [],
+      "esDA_QueueDate": [
+        "2026-04-24T17:49:53.390+0200"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"EURATOM-CSA EURATOM Coordination and Support Actions\",\"typeOfMGA\":[{\"id\":43252184,\"abbreviation\":\"EURATOM-AG\",\"description\":\"EURATOM Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-04-23\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-09-15\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2027\",\"2026\"],\"budgetTopicActionMap\":{\"113825\":[{\"action\":\"HORIZON-EURATOM-2026-01-05 - EURATOM-IA EURATOM Innovation Actions\",\"expectedGrants\":1,\"minContribution\":2000000,\"maxContribution\":2000000,\"budgetYearMap\":{\"2026\":\"1000000\",\"2027\":\"1000000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113827\":[{\"action\":\"HORIZON-EURATOM-2026-01-01 - EURATOM-RIA EURATOM Research and Innovation Actions\",\"expectedGrants\":5,\"minContribution\":3000000,\"maxContribution\":3000000,\"budgetYearMap\":{\"2026\":\"7000000\",\"2027\":\"8000000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113826\":[{\"action\":\"HORIZON-EURATOM-2026-01-03 - EURATOM-CSA EURATOM Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"2500000\",\"2027\":\"2500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113829\":[{\"action\":\"HORIZON-EURATOM-2026-01-02 - EURATOM-IA EURATOM Innovation Actions\",\"expectedGrants\":5,\"minContribution\":3000000,\"maxContribution\":3000000,\"budgetYearMap\":{\"2026\":\"6500000\",\"2027\":\"8500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113828\":[{\"action\":\"HORIZON-EURATOM-2026-01-09 - EURATOM-COFUND EURATOM Cofund Actions\",\"expectedGrants\":1,\"minContribution\":15000000,\"maxContribution\":15000000,\"budgetYearMap\":{\"2026\":\"7500000\",\"2027\":\"7500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113821\":[{\"action\":\"HORIZON-EURATOM-2026-01-04 - EURATOM-CSA EURATOM Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2026\":\"3500000\",\"2027\":\"3500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113823\":[{\"action\":\"HORIZON-EURATOM-2026-01-06 - EURATOM-CSA EURATOM Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":500000,\"maxContribution\":500000,\"budgetYearMap\":{\"2026\":\"250000\",\"2027\":\"250000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}],\"113822\":[{\"action\":\"HORIZON-EURATOM-2026-01-08 - EURATOM-COFUND EURATOM Cofund Actions\",\"expectedGrants\":1,\"minContribution\":15000000,\"maxContribution\":15000000,\"budgetYearMap\":{\"2026\":\"7500000\",\"2027\":\"7500000\"},\"plannedOpeningDate\":\"2026-04-23\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-15\"]}]}}"
+      ],
+      "startDate": [
+        "2026-04-23T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p>For help related to this call, please contact <u>please add a contact e-mail or url</u></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?order=DESC&amp;pageNumber=1&amp;pageSize=10&amp;sortBy=publicationDate&amp;isExactMatch=true&amp;type=1&amp;grantCategories=p_submission_eval\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ – Submission of proposals</a>.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> – Step-by-step online guide through the Portal processes from proposal preparation and evaluation to reporting on your ongoing project. Valid for all 2021-2027 programmes.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Enhancing the European nuclear competence  area. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EURATOM-2026-01-03",
+    "score": 3.0
+  }
+}

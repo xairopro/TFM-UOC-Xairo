@@ -1,0 +1,106 @@
+{
+  "id": "BDNS-901654",
+  "id_interno": 1103215,
+  "numero_convocatoria": "901654",
+  "organismo": "AUTONOMICA — EXTREMADURA — SECRETARÍA GENERAL DE CULTURA",
+  "sede_electronica": "HTTPS://WWW.JUNTAEX.ES/W/0637322",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Ayudas 2026 destinadas a la producción de largometrajes de la Comunidad Autónoma de Extremadura,  s/ Resolución de fecha 6 de abril de 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades cinematográficas, de vídeo y de programas de televisión",
+  "regiones": "ES43 - EXTREMADURA",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Decreto 153/2024, de 12 de diciembre, por el que se establecen las bases reguladoras de las ayudas destinadas a la producción de largometrajes y se aprueba la primera convocatoria",
+  "url_bases_reguladoras": "https://doe.juntaex.es/pdfs/doe/2025/70o/24040265.pdf",
+  "presupuesto": "300.000,00 €",
+  "presupuesto_total_num": 300000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901654",
+  "text": "CONVOCATORIA BDNS Nº 901654\nOrganismo: AUTONOMICA — EXTREMADURA — SECRETARÍA GENERAL DE CULTURA\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 300.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades cinematográficas, de vídeo y de programas de televisión\nRegiones: ES43 - EXTREMADURA\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nAyudas 2026 destinadas a la producción de largometrajes de la Comunidad Autónoma de Extremadura,  s/ Resolución de fecha 6 de abril de 2026\n\nBases reguladoras:\nDecreto 153/2024, de 12 de diciembre, por el que se establecen las bases reguladoras de las ayudas destinadas a la producción de largometrajes y se aprueba la primera convocatoria\nURL bases reguladoras: https://doe.juntaex.es/pdfs/doe/2025/70o/24040265.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901654",
+  "_raw": {
+    "id": 1103215,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "EXTREMADURA",
+      "nivel3": "SECRETARÍA GENERAL DE CULTURA"
+    },
+    "sedeElectronica": "HTTPS://WWW.JUNTAEX.ES/W/0637322",
+    "codigoBDNS": "901654",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 300000,
+    "mrr": false,
+    "descripcion": "Ayudas 2026 destinadas a la producción de largometrajes de la Comunidad Autónoma de Extremadura,  s/ Resolución de fecha 6 de abril de 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades cinematográficas, de vídeo y de programas de televisión",
+        "codigo": "59.1"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES43 - EXTREMADURA"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Decreto 153/2024, de 12 de diciembre, por el que se establecen las bases reguladoras de las ayudas destinadas a la producción de largometrajes y se aprueba la primera convocatoria",
+    "urlBasesReguladoras": "https://doe.juntaex.es/pdfs/doe/2025/70o/24040265.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "DESDE EL DÍA SIGUIENTE A LA PUBLICACIÓN DE LA CONVOCATORIA",
+    "textFin": "20 DÍAS HÁBILES SIGUIENTES A SU PUBLICACIÓN",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442970,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Resolución de la Secretaría General por la que se convocan las ayudas destinadas a la producción de largometrajes de la Comunidad Autónoma de Extremadura para el año 2026_.PDF",
+        "long": 1169215,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210111,
+        "titulo": "Extracto de la Resolución de la Secretaría General por la que se aprueba la convocatoria de las ayudas destinadas a la producción de largometrajes de la Comunidad Autónoma de Extremadura para el año 2026",
+        "tituloLeng": null,
+        "texto": "<p>De conformidad con lo previsto en los artículos 20.8 a) y 23.2 de la Ley</p><p>38/2003, de 17 de noviembre, General de Subvenciones, se publica el</p><p>extracto de la convocatoria, cuyo texto completo puede consultarse en la</p><p>Base de Datos Nacional de Subvenciones</p><p>(https://www.infosubvenciones.gob.es), y en este DOE.</p><p></p><p>Primero.-: Beneficiarios</p><p></p><p>1. Podrán acceder al régimen de ayudas cualquiera de las empresas,</p><p>personas físicas o jurídicas privadas, de producción cinematográfica o</p><p>audiovisual que tengan la condición de independiente, incluidas las</p><p>agrupaciones de interés económico, de conformidad con lo previsto en el</p><p>artículo 4.n) de la Ley 55/2007, de 28 de diciembre, del Cine, que se</p><p>encuentren establecidas en cualquier Estado Miembro del Espacio</p><p>Económico Europeo (EEE), legalmente constituidas antes de la fecha de</p><p>publicación de esta convocatoria.</p><p></p><p>En el caso de las agrupaciones de interés económico los criterios</p><p>anteriores serán de aplicación como mínimo a una de las empresas que</p><p>individualmente las compongan y que no sea a su vez una agrupación de</p><p>interés económico.</p><p></p><p>Segundo: Objeto</p><p></p><p>Se efectúa aprobación de la convocatoria de concesión de ayudas a</p><p>empresas de producción cinematográfica o audiovisual 2026 en aras a</p><p>ayudar al desarrollo y la consolidación del sector audiovisual de</p><p>Extremadura mediante financiación de gastos generados o que se generen</p><p>en la producción de nuevos largometrajes, con el fin principal de</p><p>proteger y promover la diversidad cultural de Europa.</p><p></p><p>Tercero: Bases reguladoras</p><p></p><p>Se encuentran en el Decreto 153/2024, de 12 de diciembre, por el que se</p><p>establecen las bases reguladoras de las ayudas destinadas a la</p><p>producción de largometrajes y se aprueba la primera convocatoria (DOE</p><p>número 7, de 13 de enero de 2025).</p><p></p><p>Cuarto: Financiación y Cuantía individualizada.</p><p></p><p>1. Para la financiación de la convocatoria se destinará la cantidad</p><p>total de trescientos mil euros (300.000 euros), asignándose doscientos</p><p>cincuenta mil euros (250.000,00 €) al proyecto de largometraje de</p><p>ficción con mayor puntuación obtenida según los criterios de valoración,</p><p>y cincuenta mil euros (50.000 €) al proyecto de largometraje documental</p><p>con mayor puntuación obtenida según los criterios de valoración, con las</p><p>limitaciones indicadas en este apartado.</p><p></p><p>La citada cantidad se imputará con cargo a los ejercicios y aplicaciones</p><p>presupuestarias siguientes:</p><p></p><p>a) Aportación correspondiente al año 2027: doscientos veinticinco mil</p><p>euros (225.000 €) con cargo a la aplicación presupuestaria 150020000</p><p>G/273B/77000, proyecto 20040309 y fondos CAG0000001 de la Ley de</p><p>Presupuestos Generales de la Comunidad Autónoma de Extremadura para el</p><p>año 2027.</p><p></p><p>b) Aportación correspondiente al año 2028: setenta y cinco mil euros</p><p>(75.000 €) con cargo a la aplicación presupuestaria 150020000</p><p>G/273B/77000, proyecto 20040309 y fondos CAG0000001 de la Ley de</p><p>presupuestos generales de la Comunidad Autónoma de Extremadura para el</p><p>año 2028.</p><p></p><p>Quinto : Plazo presentación de solicitudes.</p><p></p><p>El plazo de presentación de solicitudes será de veinte días hábiles</p><p>contados desde el siguiente al de la publicación de la convocatoria y</p><p>del extracto en el Diario Oficial de Extremadura.</p><p></p><p>Sexto : Otros datos</p><p></p><p>Las solicitudes y el resto de anexos se podrán descargar en el portal</p><p>web de información al ciudadano de la Junta de Extremadura, en el</p><p>siguiente enlace https://www.juntaex.es/w/0637322, igualmente se podrá</p><p>acceder a ellos a través de Sistema Nacional de Publicidad de</p><p>Subvenciones.</p><p></p><p></p>",
+        "textoLeng": null,
+        "url": "https://doe.juntaex.es/pdfs/doe/2026/820o/26061015.pdf",
+        "cve": null,
+        "desDiarioOficial": "DOE. D.O. DE EXTREMADURA",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

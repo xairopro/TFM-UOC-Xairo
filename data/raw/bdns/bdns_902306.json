@@ -1,0 +1,114 @@
+{
+  "id": "BDNS-902306",
+  "id_interno": 1103867,
+  "numero_convocatoria": "902306",
+  "organismo": "LOCAL — VILOBÍ D'ONYAR — AYUNTAMIENTO DE VILOBÍ D'ONYAR",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Convocatoria para la concesión de ayudas para el fomento de la participación o realización de actividades casal de verano",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+  "regiones": "ES512 - Girona",
+  "finalidad": "Servicios Sociales y Promoción Social",
+  "bases_reguladoras": "Bases reguladoras para la concesión de ayudas sociales del Ayuntamiento de Vilobí d'Onyar",
+  "url_bases_reguladoras": "https://seu-e.cat/ca/web/vilobidonyar/govern-obert-i-transparencia/contractes-convenis-i-subvencions/convenis-i-subvencions/convocatories-de-subvencions-i-ajuts",
+  "presupuesto": "2.500,00 €",
+  "presupuesto_total_num": 2500,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902306",
+  "text": "CONVOCATORIA BDNS Nº 902306\nOrganismo: LOCAL — VILOBÍ D'ONYAR — AYUNTAMIENTO DE VILOBÍ D'ONYAR\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 2.500,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO\nRegiones: ES512 - Girona\nFinalidad: Servicios Sociales y Promoción Social\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria para la concesión de ayudas para el fomento de la participación o realización de actividades casal de verano\n\nBases reguladoras:\nBases reguladoras para la concesión de ayudas sociales del Ayuntamiento de Vilobí d'Onyar\nURL bases reguladoras: https://seu-e.cat/ca/web/vilobidonyar/govern-obert-i-transparencia/contractes-convenis-i-subvencions/convenis-i-subvencions/convocatories-de-subvencions-i-ajuts\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902306",
+  "_raw": {
+    "id": 1103867,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "VILOBÍ D'ONYAR",
+      "nivel3": "AYUNTAMIENTO DE VILOBÍ D'ONYAR"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902306",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 2500,
+    "mrr": false,
+    "descripcion": "Convocatoria para la concesión de ayudas para el fomento de la participación o realización de actividades casal de verano",
+    "descripcionLeng": "Convocatòria per a la concessió d'ajuts pel foment de la participació o realització d'activitats casal d'estiu",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES512 - Girona"
+      }
+    ],
+    "descripcionFinalidad": "Servicios Sociales y Promoción Social",
+    "descripcionBasesReguladoras": "Bases reguladoras para la concesión de ayudas sociales del Ayuntamiento de Vilobí d'Onyar",
+    "urlBasesReguladoras": "https://seu-e.cat/ca/web/vilobidonyar/govern-obert-i-transparencia/contractes-convenis-i-subvencions/convenis-i-subvencions/convocatories-de-subvencions-i-ajuts",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Día siguiente de publicación del extracto de la convocatoria en el Boletín Oficial de la provincia",
+    "textFin": "20 días hábiles a contar desde la publicación del extracto de la convocatoria en en el BOP",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444899,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "CONVOCATORIA AJUTS CASALS ESTIU.pdf",
+        "long": 350248,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444898,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "CONVOCATORIA AYUDAS CASAL DE VERANO.pdf",
+        "long": 265078,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210400,
+        "titulo": "Convocatoria para la concesión de ayudas para el fomento y la participación o realización de actividades casal de verano",
+        "tituloLeng": "Convocatòria per a la concessió d'ajuts pel foment de la participació o realització d'activitats casal d'estiu",
+        "texto": "<p>Primero. Objeto</p><p>El objeto de las subvenciones de la presente convocatoria es financiar el programa para participar en casales de verano municipales que tienen como finalidad, apoyar y potenciar las actividades de verano, garantizando la igualdad de acceso para niños y adolescentes de Vilobí d’Onyar.</p><p>La ayuda disponible para los centros de verano está limitada a la cuota de inscripción por un período máximo de cinco semanas. El valor de la ayuda dependerá de la puntuación obtenida en la solicitud y del presupuesto asignado a la convocatoria. Por lo general, el valor máximo que se puede otorgar es del 90% del coste total de la actividad subvencionable, pero en casos excepcionales y justificados por los servicios sociales de base, puede llegar a ser del 100%.</p><p>Segundo. Bases reguladoras</p><p>Por acuerdo del Pleno de fecha 22 de marzo de 2023 fueron aprobadas las Nuevas Bases Reguladoras de la concesión de ayudas sociales del Ayuntamiento de Vilobí d'Onyar.</p><p>Estas Bases Reguladoras fueron objeto de publicación en el Boletín Oficial de la Provincia de Girona núm. 79 de fecha 24 de abril de 2023 y en el DOGC nº8902 de fecha 25 de abril de 2023.</p><p>Tercero. Cuantía</p><p>El presupuesto máximo que se destinará este año 2026 por la concesión de ayudas sociales objeto de la presente convocatoria será de 2.500,00 € e irá a cargo de la aplicación presupuestaria 2.231.48001.</p><p>Cuarto. Procedimiento de concesión</p><p>El procedimiento de concesión de las subvenciones objeto de esta convocatoria será el de concurrencia competitiva.</p><p>Quinto. Presentación de las solicitudes y plazo</p><p>El plazo de presentación de solicitudes para el programa de ayudas para participar en casales de verano municipales, será de 20 días hábiles a contar desde el día siguiente de la publicación del extracto de la convocatoria en el BOPG.</p><p>Las solicitudes deberán presentarse con el modelo normalizado disponible en la web del Ayuntamiento de Vilobí d’Onyar, debidamente cumplimentado y firmado y acompañado de la documentación que corresponda en cada caso, y deberán presentarse en el registro del Ayuntamiento.</p><p>También se podrán presentar en cualquiera de los lugares que prevé el artículo 16 de la Ley 39/2015, de 1 de octubre, de procedimiento administrativo común de las administraciones públicas.</p><p>La presentación de la solicitud presupone el conocimiento o aceptación de las normas que la regulan.</p>",
+        "textoLeng": "<p>Primer. Objecte</p><p>L’objecte de les subvencions de la present convocatòria és finançar el programa per participar en casals d’estiu municipals que tenen com a finalitat, donar suport i potenciar les activitats d’estiu, garantint la igualtat d’accés per a infants i adolescents de Vilobí d’Onyar.</p><p>L'ajuda disponible per als casals d'estiu està limitada a la quota d'inscripció per un període màxim de cinc setmanes. El valor de l'ajut dependrà de la puntuació obtinguda en la sol·licitud i del pressupost assignat a la convocatòria. En general, el valor màxim que es pot atorgar és del 90% del cost total de l'activitat subvencionable, però en casos excepcionals i justificats pels serveis socials de base, pot arribar a ser del 100%.</p><p>Segon. Bases reguladores</p><p>Per acord del Ple de data 22 de març de 2023 van ser aprovades les Noves Bases Reguladores de la concessió d’ajuts socials de l’Ajuntament de Vilobí d’Onyar.</p><p>Aquestes Bases Reguladores van ser objecte de publicació al Butlletí Oficial de la Província de Girona núm. 79 de data 24 d’abril de 2023 i en el DOGC nº8902 de data 25 d’abril de 2023.</p><p>Tercer. Quantia</p><p>El pressupost màxim que es destinarà aquest any 2026 per la concessió d’ajuts socials objecte de la present convocatòria serà de 2.500,00 € i anirà a càrrec de l’aplicació pressupostària 2.231.48001.</p><p>Quart. Procediment de concessió</p><p>El procediment de concessió de les subvencions objecte d’aquesta convocatòria és el de concurrència competitiva.</p><p>Cinquè. Presentació de les sol·licituds i termini</p><p>El termini de presentació de sol·licituds pel programa d’ajudes per participar en casals d’estiu municipals, serà de 20 dies hàbils a comptar des de l’endemà de la publicació de l’extracte de la convocatòria al BOPG.</p><p>Les sol·licituds s’hauran de presentar amb el model normalitzat que hi ha disponible al web de l’Ajuntament de Vilobí d’Onyar, degudament omplert i signat i acompanyat de la documentació que correspongui en cada cas, i s’hauran de presentar al registre de l’Ajuntament.</p><p>També es podran presentar en qualsevol dels llocs que preveu l’article 16 de la Llei 39/2015, d’1 d’octubre, de procediment administratiu comú de les administracions públiques.</p><p>La presentació de la sol·licitud pressuposa el coneixement o l’acceptació de les normes que la regulen.</p>",
+        "url": "https://ssl4.ddgi.cat/bopV1/pdf/2026/84/20268403577.pdf",
+        "cve": null,
+        "desDiarioOficial": "B.O.P. DE GIRONA",
+        "datPublicacion": "2026-05-05"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

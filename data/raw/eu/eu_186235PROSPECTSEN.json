@@ -1,0 +1,136 @@
+{
+  "id": "EU-186235PROSPECTSEN",
+  "topic_id": "186235PROSPECTSEN",
+  "titulo": "Supporting the economic empowerment of women in Yemen",
+  "descripcion": "Supporting the economic empowerment of women in Yemen",
+  "organismo": "111111",
+  "fecha_publicacion": "2026-04-14",
+  "fecha_limite": "2026-06-03",
+  "deadlines_todas": "2026-06-03",
+  "presupuesto": "5000000",
+  "duracion": "",
+  "tipo_accion": "",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186235",
+  "text": "EU FUNDING & TENDERS – Topic: 186235PROSPECTSEN\nProgramme/Organism: 111111\nTitle: Supporting the economic empowerment of women in Yemen\nStatus: Open (31094502)\nType of action: \nOpening date: 2026-04-14\nDeadline: 2026-06-03\nAll deadlines: 2026-06-03\nDuration: \nBudget overview: 5000000\n\nDescription / Scope:\nSupporting the economic empowerment of women in Yemen\n\nMore info: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186235",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "186235PROSPECTSEN",
+    "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186235",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Supporting the economic empowerment of women in Yemen",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Supporting the economic empowerment of women in Yemen",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "6606DE712C8CFBF6449BB0E20E75354A883B146FB7F66B5BACB5CF82CCCB68DC",
+    "metadata": {
+      "updateDate": [
+        "2026-04-14T08:19:45.000+0000"
+      ],
+      "es_SortDate": [
+        "2026-04-14T12:00:34.000+0000"
+      ],
+      "beneficiaryAdministration": [],
+      "sortStatus": [
+        "1"
+      ],
+      "contractType": [
+        "42893160"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Supporting the economic empowerment of women in Yemen"
+      ],
+      "type": [
+        "2"
+      ],
+      "esST_checksum": [
+        "6606DE712C8CFBF6449BB0E20E75354A883B146FB7F66B5BACB5CF82CCCB68DC"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "callIdentifier": [
+        "186235"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "186235PROSPECTSEN"
+      ],
+      "currency": [
+        "EUR"
+      ],
+      "frameworkProgramme": [
+        "111111"
+      ],
+      "budget": [
+        "5000000"
+      ],
+      "identifier": [
+        "EuropeAid/186235/DD/ACT/YE"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "geographicalZones": [
+        "20001048"
+      ],
+      "publicationDocuments": [
+        "[{\"nameDoc\":\"Guidelines\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-14 14:00:01.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2155397&lang=EN\"},{\"nameDoc\":\"Grant application form-Concept note\",\"typeDoc\":\"rtf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-14 14:00:05.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2155398&lang=EN\"},{\"nameDoc\":\"Grant application form-Full application\",\"typeDoc\":\"rtf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-14 14:00:49.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2155399&lang=EN\"},{\"nameDoc\":\"Annex B - Budget\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-14 14:00:07.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2130840&lang=EN\"},{\"nameDoc\":\"Annex C - Logical framework\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-14 14:00:32.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2130843&lang=EN\"},{\"nameDoc\":\"Annex D - Identification Form (public law bodies)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-14 14:00:34.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2130847&lang=EN\"},{\"nameDoc\":\"Annex D - Identification Form (private or public with legal form)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-14 14:00:01.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2130844&lang=EN\"},{\"nameDoc\":\"Annex D - Identification Form (natural person)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-14 14:00:14.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2130842&lang=EN\"},{\"nameDoc\":\"Annex F - PADOR offline registration form\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-14 14:00:38.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2130841&lang=EN\"},{\"nameDoc\":\"Annex G - Standard grant contract\",\"typeDoc\":\"zip\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-14 14:00:19.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2130845&lang=EN\"},{\"nameDoc\":\"Annex H - Declaration of honour on exclusion and selection criteria\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-14 14:00:14.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2130838&lang=EN\"},{\"nameDoc\":\"Annex K - Clarifications on financing not linked to costs\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-14 14:00:52.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2130837&lang=EN\"},{\"nameDoc\":\"Annex J - Information on the tax regime applicable to grant contracts\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-14 14:00:10.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2130846&lang=EN\"},{\"nameDoc\":\"Appendix - Derogations international organisations\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-14 14:00:50.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2130839&lang=EN\"},{\"nameDoc\":\"Annex L - Self-evaluation questionnaire on SEA-H\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-14 14:00:42.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2130836&lang=EN\"},{\"nameDoc\":\"e-Calls PADOR privacy statement\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-14 14:00:35.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2130848&lang=EN\"}]"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-04-14T14:01:00.609+0200"
+      ],
+      "programmePeriod": [
+        "2014 - 2020",
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-06-03T10:00:24.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-14T14:01:00.609+0200"
+      ],
+      "url": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186235"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186235"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-14T14:01:00.594+0200"
+      ],
+      "programmeDivisionProspect": [
+        "44995882"
+      ],
+      "geographicalZone": [
+        "20001048"
+      ],
+      "startDate": [
+        "2026-04-14T12:00:34.000+0000"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Supporting the economic empowerment of women in Yemen. Available at: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186235",
+    "score": 3.0
+  }
+}

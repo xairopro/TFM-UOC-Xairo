@@ -1,0 +1,129 @@
+{
+  "id": "BDNS-902114",
+  "id_interno": 1103675,
+  "numero_convocatoria": "902114",
+  "organismo": "OTROS — ARACOVE - ASOCIACIÓN DE DESARROLLO RURAL ARANJUEZ-COMARCA VEGAS",
+  "sede_electronica": "https://aracove.sedelectronica.es",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Convocatoria 1/2026 de ayudas LEADER 2023-2027 GAL ARACOVE - Actuación 1.3 Ticket promoción del autoempleo",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES DE EDICIÓN, RADIODIFUSIÓN Y PRODUCCIÓN Y DISTRIBUCIÓN DE CONTENIDOS, COMERCIO AL POR MAYOR Y AL POR MENOR, HOSTELERÍA, OTROS SERVICIOS",
+  "regiones": "ES30 - COMUNIDAD DE MADRID",
+  "finalidad": "Comercio, Turismo y Pymes",
+  "bases_reguladoras": "BASES REGULADORAS DE SUBVENCIONES PARA LA FINANCIACIÓN DE PROYECTOS LEADER ACTUACIÓN 1.3 TICKET PROMOCIÓN DEL AUTOEMPLEO EN EL MARCO DEL PEPAC DE LA COMUNIDAD DE MADRID, EN BASE A LA EDLP DE ARACOVE PARA EL PERIODO 2023 – 2027, COFINANCIADAS POR EL FONDO",
+  "url_bases_reguladoras": "https://www.aracove.com/BBRR_autoempleo_consolidada_v03",
+  "presupuesto": "138.600,00 €",
+  "presupuesto_total_num": 138600,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "FEADER - FONDO EUROPEO AGRÍCOLA DE DESARROLLO RURAL",
+  "reglamento": "REG (UE) 2023/2831 de minimis, General",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902114",
+  "text": "CONVOCATORIA BDNS Nº 902114\nOrganismo: OTROS — ARACOVE - ASOCIACIÓN DE DESARROLLO RURAL ARANJUEZ-COMARCA VEGAS\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 138.600,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES DE EDICIÓN, RADIODIFUSIÓN Y PRODUCCIÓN Y DISTRIBUCIÓN DE CONTENIDOS, COMERCIO AL POR MAYOR Y AL POR MENOR, HOSTELERÍA, OTROS SERVICIOS\nRegiones: ES30 - COMUNIDAD DE MADRID\nFinalidad: Comercio, Turismo y Pymes\nFondos: FEADER - FONDO EUROPEO AGRÍCOLA DE DESARROLLO RURAL\nReglamento: REG (UE) 2023/2831 de minimis, General\nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria 1/2026 de ayudas LEADER 2023-2027 GAL ARACOVE - Actuación 1.3 Ticket promoción del autoempleo\n\nBases reguladoras:\nBASES REGULADORAS DE SUBVENCIONES PARA LA FINANCIACIÓN DE PROYECTOS LEADER ACTUACIÓN 1.3 TICKET PROMOCIÓN DEL AUTOEMPLEO EN EL MARCO DEL PEPAC DE LA COMUNIDAD DE MADRID, EN BASE A LA EDLP DE ARACOVE PARA EL PERIODO 2023 – 2027, COFINANCIADAS POR EL FONDO\nURL bases reguladoras: https://www.aracove.com/BBRR_autoempleo_consolidada_v03\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902114",
+  "_raw": {
+    "id": 1103675,
+    "organo": {
+      "nivel1": "OTROS",
+      "nivel2": "ARACOVE - ASOCIACIÓN DE DESARROLLO RURAL ARANJUEZ-COMARCA VEGAS",
+      "nivel3": null
+    },
+    "sedeElectronica": "https://aracove.sedelectronica.es",
+    "codigoBDNS": "902114",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 138600,
+    "mrr": false,
+    "descripcion": "Convocatoria 1/2026 de ayudas LEADER 2023-2027 GAL ARACOVE - Actuación 1.3 Ticket promoción del autoempleo",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES DE EDICIÓN, RADIODIFUSIÓN Y PRODUCCIÓN Y DISTRIBUCIÓN DE CONTENIDOS",
+        "codigo": "J"
+      },
+      {
+        "descripcion": "COMERCIO AL POR MAYOR Y AL POR MENOR",
+        "codigo": "G"
+      },
+      {
+        "descripcion": "HOSTELERÍA",
+        "codigo": "I"
+      },
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES30 - COMUNIDAD DE MADRID"
+      }
+    ],
+    "descripcionFinalidad": "Comercio, Turismo y Pymes",
+    "descripcionBasesReguladoras": "BASES REGULADORAS DE SUBVENCIONES PARA LA FINANCIACIÓN DE PROYECTOS LEADER ACTUACIÓN 1.3 TICKET PROMOCIÓN DEL AUTOEMPLEO EN EL MARCO DEL PEPAC DE LA COMUNIDAD DE MADRID, EN BASE A LA EDLP DE ARACOVE PARA EL PERIODO 2023 – 2027, COFINANCIADAS POR EL FONDO",
+    "urlBasesReguladoras": "https://www.aracove.com/BBRR_autoempleo_consolidada_v03",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Desde su publicación en el BOCM",
+    "textFin": "30 días hábiles a contar desde la publicación en el BOCM",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [
+      {
+        "descripcion": "FEADER - FONDO EUROPEO AGRÍCOLA DE DESARROLLO RURAL "
+      }
+    ],
+    "reglamento": {
+      "descripcion": "REG (UE) 2023/2831 de minimis, General",
+      "orden": null
+    },
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444208,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "CONVOCATORIA 1-2026 - v03_fdo.pdf",
+        "long": 182384,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444210,
+        "descripcion": "Bases Reguladoras",
+        "nombreFic": "Bases Reguladoras TICKET AUTOEMPLEO LEADER 2023-2027 ARACOVE V03_consolidada 11-2-26.pdf",
+        "long": 559115,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444209,
+        "descripcion": "Solicitud de ayuda",
+        "nombreFic": "01_b_LEADER_SolAyuda TICKET AUTOEMPLEO v02.docx",
+        "long": 225151,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

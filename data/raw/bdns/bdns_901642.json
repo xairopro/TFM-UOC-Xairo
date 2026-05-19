@@ -1,0 +1,112 @@
+{
+  "id": "BDNS-901642",
+  "id_interno": 1103203,
+  "numero_convocatoria": "901642",
+  "organismo": "AUTONOMICA — CATALUÑA — INSTITUT CATALÀ DE LES EMPRESES CULTURALS (ICEC)",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "2026-05-18",
+  "fecha_fin_solicitud": "2026-06-01",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Resolución de convocatoria para la concesión de subvenciones, en régimen de concurrencia competitiva, a proyectos de internacionalización de empresas audiovisuales que contribuyan a la comercialización de la producción audiovisual",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "GRAN EMPRESA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de programación, radiodifusión, agencias de noticias y otras actividades de distribución de contenidos, Producción cinematográfica, de vídeo y de programas de televisión, grabación de sonido y edición musical",
+  "regiones": "ES51 - CATALUÑA",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "bases específicas que regirán la concesión de subvenciones a proyectos de internacionalización de empresas audiovisuales que contribuyan a la comercialización de la producción audiovisual",
+  "url_bases_reguladoras": "https://portaldogc.gencat.cat/utilsEADOP/PDF/8360/1839786.pdf",
+  "presupuesto": "110.000,00 €",
+  "presupuesto_total_num": 110000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "REG (UE) 2023/2831 de minimis, General",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901642",
+  "text": "CONVOCATORIA BDNS Nº 901642\nOrganismo: AUTONOMICA — CATALUÑA — INSTITUT CATALÀ DE LES EMPRESES CULTURALS (ICEC)\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud: 2026-05-18 → 2026-06-01 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 110.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: GRAN EMPRESA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de programación, radiodifusión, agencias de noticias y otras actividades de distribución de contenidos, Producción cinematográfica, de vídeo y de programas de televisión, grabación de sonido y edición musical\nRegiones: ES51 - CATALUÑA\nFinalidad: Cultura\nFondos: \nReglamento: REG (UE) 2023/2831 de minimis, General\nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nResolución de convocatoria para la concesión de subvenciones, en régimen de concurrencia competitiva, a proyectos de internacionalización de empresas audiovisuales que contribuyan a la comercialización de la producción audiovisual\n\nBases reguladoras:\nbases específicas que regirán la concesión de subvenciones a proyectos de internacionalización de empresas audiovisuales que contribuyan a la comercialización de la producción audiovisual\nURL bases reguladoras: https://portaldogc.gencat.cat/utilsEADOP/PDF/8360/1839786.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901642",
+  "_raw": {
+    "id": 1103203,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "CATALUÑA",
+      "nivel3": "INSTITUT CATALÀ DE LES EMPRESES CULTURALS (ICEC)"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901642",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 110000,
+    "mrr": false,
+    "descripcion": "Resolución de convocatoria para la concesión de subvenciones, en régimen de concurrencia competitiva, a proyectos de internacionalización de empresas audiovisuales que contribuyan a la comercialización de la producción audiovisual",
+    "descripcionLeng": "Resolució de convocatòria per a la concessió de subvencions, en règim de concurrència competitiva, a projectes d'internacionalització d'empreses audiovisuals que contribueixin a la comercialització de la producció audiovisual",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "GRAN EMPRESA"
+      },
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de programación, radiodifusión, agencias de noticias y otras actividades de distribución de contenidos",
+        "codigo": "60"
+      },
+      {
+        "descripcion": "Producción cinematográfica, de vídeo y de programas de televisión, grabación de sonido y edición musical",
+        "codigo": "59"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES51 - CATALUÑA"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "bases específicas que regirán la concesión de subvenciones a proyectos de internacionalización de empresas audiovisuales que contribuyan a la comercialización de la producción audiovisual",
+    "urlBasesReguladoras": "https://portaldogc.gencat.cat/utilsEADOP/PDF/8360/1839786.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-05-18",
+    "fechaFinSolicitud": "2026-06-01",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": {
+      "descripcion": "REG (UE) 2023/2831 de minimis, General",
+      "orden": null
+    },
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442955,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "Mercats_Internacionalització Audiovisual_catsigned.pdf",
+        "long": 235134,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1442953,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Mercats_Internacionalització Audiovisual_cast.pdf",
+        "long": 110654,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

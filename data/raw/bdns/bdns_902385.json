@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902385",
+  "id_interno": 1103946,
+  "numero_convocatoria": "902385",
+  "organismo": "LOCAL — DIPUTACIÓN PROV. DE TOLEDO — DIPUTACIÓN PROVINCIAL DE TOLEDO",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "2026-03-18",
+  "fecha_fin_solicitud": "2026-03-27",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Convenio 2026 Asociación amigos de las lagunas de La Guardia para la realización de censos, anillamientos y jornadas abiertas en las lagunas de La Guardia.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Investigación y desarrollo experimental en ciencias naturales y técnicas",
+  "regiones": "ES425 - Toledo",
+  "finalidad": "Otras Prestaciones económicas",
+  "bases_reguladoras": "Bases 53 a 63 de ejecución del Presupuesto de Gastos de la Diputación Provincial de Toledo 2026",
+  "url_bases_reguladoras": "https://www.diputoledo.es/global/53/ver_pdf/36599",
+  "presupuesto": "1.600,00 €",
+  "presupuesto_total_num": 1600,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902385",
+  "text": "CONVOCATORIA BDNS Nº 902385\nOrganismo: LOCAL — DIPUTACIÓN PROV. DE TOLEDO — DIPUTACIÓN PROVINCIAL DE TOLEDO\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud: 2026-03-18 → 2026-03-27 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 1.600,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Investigación y desarrollo experimental en ciencias naturales y técnicas\nRegiones: ES425 - Toledo\nFinalidad: Otras Prestaciones económicas\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvenio 2026 Asociación amigos de las lagunas de La Guardia para la realización de censos, anillamientos y jornadas abiertas en las lagunas de La Guardia.\n\nBases reguladoras:\nBases 53 a 63 de ejecución del Presupuesto de Gastos de la Diputación Provincial de Toledo 2026\nURL bases reguladoras: https://www.diputoledo.es/global/53/ver_pdf/36599\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902385",
+  "_raw": {
+    "id": 1103946,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DIPUTACIÓN PROV. DE TOLEDO",
+      "nivel3": "DIPUTACIÓN PROVINCIAL DE TOLEDO"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902385",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 1600,
+    "mrr": false,
+    "descripcion": "Convenio 2026 Asociación amigos de las lagunas de La Guardia para la realización de censos, anillamientos y jornadas abiertas en las lagunas de La Guardia.",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Investigación y desarrollo experimental en ciencias naturales y técnicas",
+        "codigo": "72.1"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES425 - Toledo"
+      }
+    ],
+    "descripcionFinalidad": "Otras Prestaciones económicas",
+    "descripcionBasesReguladoras": "Bases 53 a 63 de ejecución del Presupuesto de Gastos de la Diputación Provincial de Toledo 2026",
+    "urlBasesReguladoras": "https://www.diputoledo.es/global/53/ver_pdf/36599",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-03-18",
+    "fechaFinSolicitud": "2026-03-27",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445196,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "66. Convenio Asoc. Amigos Las Lagunas de La Guardia. Realización censos, anillamientos y jornadas abiertas.pdf",
+        "long": 305739,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

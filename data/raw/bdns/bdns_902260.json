@@ -1,0 +1,98 @@
+{
+  "id": "BDNS-902260",
+  "id_interno": 1103821,
+  "numero_convocatoria": "902260",
+  "organismo": "AUTONOMICA — CANARIAS — CONSEJERÍA DE TRANSICIÓN ECOLÓGICA Y ENERGÍA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - canónica",
+  "descripcion": "CONV. 2026 SUBVENCIONES PARA LA TRANSICIÓN VERDE",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Servicios integrales a edificios e instalaciones",
+  "regiones": "ES70 - CANARIAS",
+  "finalidad": "Industria y Energía",
+  "bases_reguladoras": "BASES REGULADORAS QUE HAN DE REGIR LA CONCESION DE SUBVENCIONES PARA LA TRANSICIÓN VERDE (FEDER 2021-2027)",
+  "url_bases_reguladoras": "https://www.gobiernodecanarias.org/boc/2024/157/2532.html",
+  "presupuesto": "6.575.461,00 €",
+  "presupuesto_total_num": 6575461,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "FEDER - FONDO EUROPEO DE DESARROLLO REGIONAL",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902260",
+  "text": "CONVOCATORIA BDNS Nº 902260\nOrganismo: AUTONOMICA — CANARIAS — CONSEJERÍA DE TRANSICIÓN ECOLÓGICA Y ENERGÍA\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - canónica\nPresupuesto total: 6.575.461,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Servicios integrales a edificios e instalaciones\nRegiones: ES70 - CANARIAS\nFinalidad: Industria y Energía\nFondos: FEDER - FONDO EUROPEO DE DESARROLLO REGIONAL\nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONV. 2026 SUBVENCIONES PARA LA TRANSICIÓN VERDE\n\nBases reguladoras:\nBASES REGULADORAS QUE HAN DE REGIR LA CONCESION DE SUBVENCIONES PARA LA TRANSICIÓN VERDE (FEDER 2021-2027)\nURL bases reguladoras: https://www.gobiernodecanarias.org/boc/2024/157/2532.html\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902260",
+  "_raw": {
+    "id": 1103821,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "CANARIAS",
+      "nivel3": "CONSEJERÍA DE TRANSICIÓN ECOLÓGICA Y ENERGÍA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902260",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - canónica",
+    "presupuestoTotal": 6575461,
+    "mrr": false,
+    "descripcion": "CONV. 2026 SUBVENCIONES PARA LA TRANSICIÓN VERDE",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Servicios integrales a edificios e instalaciones",
+        "codigo": "81.1"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES70 - CANARIAS"
+      }
+    ],
+    "descripcionFinalidad": "Industria y Energía",
+    "descripcionBasesReguladoras": "BASES REGULADORAS QUE HAN DE REGIR LA CONCESION DE SUBVENCIONES PARA LA TRANSICIÓN VERDE (FEDER 2021-2027)",
+    "urlBasesReguladoras": "https://www.gobiernodecanarias.org/boc/2024/157/2532.html",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Se iniciará el segundo día después de la publicación del extracto en el BOC",
+    "textFin": "Finalizará a los 20 días hábiles.",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [
+      {
+        "descripcion": "FEDER - FONDO EUROPEO DE DESARROLLO REGIONAL"
+      }
+    ],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444831,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Documento convocatoria castellano.PDF",
+        "long": 299479,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

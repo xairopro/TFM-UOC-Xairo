@@ -1,0 +1,203 @@
+{
+  "id": "EU-50135881TOPICSen",
+  "topic_id": "50135881TOPICSen",
+  "titulo": "Introducing circular economy models in the construction sector, from buildings to city scale",
+  "descripcion": "Introducing circular economy models in the construction sector, from buildings to city scale",
+  "organismo": "43108390",
+  "fecha_publicacion": "2026-02-04",
+  "fecha_limite": "2026-10-08",
+  "deadlines_todas": "2026-10-08",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113037\":[{\"action\":\"HORIZON-MISS-2026-04-CIT-01 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":2,\"minContribution\":10000000,\"maxContribution\":10000000,\"budgetYearMap\":{\"2026\":\"20000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-08\"]}],\"113036\":[{\"action\":\"HORIZON-MISS-2026-04-CIT-NEB-B4P-CCRI-03 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":5,\"minContribution\":9500000,\"maxContribution\":9500000,\"budgetYearMap\":{\"2026\":\"47500000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-08\"]}],\"113038\":[{\"action\":\"HORIZON-MISS-2026-04-CIT-02 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":3,\"minContribution\":6000000,\"maxContribution\":6000000,\"budgetYearMap\":{\"2026\":\"18000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-08\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "HORIZON Innovation Actions",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-04-CIT-NEB-B4P-CCRI-03",
+  "text": "EU FUNDING & TENDERS – Topic: 50135881TOPICSen\nProgramme/Organism: 43108390\nTitle: Introducing circular economy models in the construction sector, from buildings to city scale\nStatus: Open (31094502)\nType of action: HORIZON Innovation Actions\nOpening date: 2026-02-04\nDeadline: 2026-10-08\nAll deadlines: 2026-10-08\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113037\":[{\"action\":\"HORIZON-MISS-2026-04-CIT-01 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":2,\"minContribution\":10000000,\"maxContribution\":10000000,\"budgetYearMap\":{\"2026\":\"20000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-08\"]}],\"113036\":[{\"action\":\"HORIZON-MISS-2026-04-CIT-NEB-B4P-CCRI-03 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":5,\"minContribution\":9500000,\"maxContribution\":9500000,\"budgetYearMap\":{\"2026\":\"47500000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-08\"]}],\"113038\":[{\"action\":\"HORIZON-MISS-2026-04-CIT-02 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":3,\"minContribution\":6000000,\"maxContribution\":6000000,\"budgetYearMap\":{\"2026\":\"18000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-08\"]}]}}\n\nDescription / Scope:\nIntroducing circular economy models in the construction sector, from buildings to city scale\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-04-CIT-NEB-B4P-CCRI-03",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "50135881TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-04-CIT-NEB-B4P-CCRI-03",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Introducing circular economy models in the construction sector, from buildings to city scale",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Introducing circular economy models in the construction sector, from buildings to city scale",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "AAB0B6EF35EF3D4AD2D72C1207F654B045DFD91B793A230C84D1F94ADBD9D87C",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-02-24T11:46:45.821\",\"content\":\"\\u003cp\\u003e\\u003cem\\u003eIf your lump sum budget contains any cost items in cost category C and/or D, please make sure to justify these items in the ‘Any comments’ sheet of the Excel detailed lump sum budget table.\\u003c/em\\u003e\\u003c/p\\u003e\\u003cp\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003cp\\u003e\\u003cem\\u003eThe reason is that we simplified the proposal template, removing this information from Part B and bringing it closer to the relevant budget items. \\u003c/em\\u003e\\u003c/p\\u003e\\u003cp\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003cp\\u003e\\u003cem\\u003eSpecifically, you must include justification in the ‘Any comments’ sheet if you are in any of the following situations: \\u003c/em\\u003e\\u003c/p\\u003e\\u003cp\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003cul\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003e\\u003cem\\u003eIf the sum of the costs for ’travel and subsistence’, ‘equipment’, and ‘other goods, works and services’ (i.e. the purchase costs) exceeds 15% of the personnel costs for a participant. If this is the case, justify the most expensive cost item(s) up to the level that the remaining costs are below 15% of personnel costs.\\u003c/em\\u003e\\u003c/li\\u003e\\u003c/ul\\u003e\\u003cp\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003col\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003e\\u003cem\\u003eIf other cost categories (e.g. internally invoiced goods and services) are used.\\u003c/em\\u003e\\u003c/li\\u003e\\u003c/ol\\u003e\\u003cp\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003col\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003e\\u003cem\\u003eIf in-kind contributions are used (non-financial resources made available free of charge by third parties, which must be included as direct costs in the corresponding cost category, e.g. personnel costs or purchase costs for equipment). \\u003c/em\\u003e\\u003c/li\\u003e\\u003c/ol\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-02-04T00:01:00.396\",\"content\":\"The submission session is now available for: HORIZON-MISS-2026-04-CIT-NEB-B4P-CCRI-03, HORIZON-MISS-2026-04-CIT-01, HORIZON-MISS-2026-04-CIT-02\"}]"
+      ],
+      "es_SortDate": [
+        "2026-02-04T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "HORIZON-MISS-2026-04-CIT-NEB-B4P-CCRI-03",
+        "HORIZON-MISS-2026-04",
+        "Architecture, smart buildings, smart cities, urban engineering",
+        "Building design",
+        "Circular economy",
+        "Civil engineering",
+        "Low/nearly zero &-energy positive buildings"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p><strong><em>﻿</em></strong>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex A</a> and <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex E</a> of the Horizon Europe Work Programme General Annexes.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p>A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a>.</p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>The following additional eligibility criteria apply:</p><p>At least three cities, represented by a local authority or by an entity with an explicit consent from the local authority, each from a different Member State or Associated Country, must participate as beneficiaries. At least one of the three cities must be one of the 112 cities selected for the EU Mission on Climate-neutral and Smart Cities[[<sup> </sup>The EU Mission on Climate-Neutral and Smart Cities aims to deliver 100 climate-Neutral and smart cities by 2030 and ensure that these cities act as experimentation and innovation hubs to enable all European cities to follow suit by 2050. On 28 April 2022, the Commission announced the 100 EU cities that will participate in the Mission. In addition, 12 cities have been selected from countries associated or expected to be associated the Horizon Europe programme.]].</p></div><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex C</a> of the Work Programme General Annexes.</p></div></div><div><h4>5a. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex D</a> of the Work Programme General Annexes.</p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>Grants awarded under this topic will be linked to the following action(s):</p><p>HORIZON-MISS-2021-CIT-02-03</p><p>Collaboration with the Cities Mission Platform[[Set up by Horizon 2020 project NetZeroCities - Accelerating cities' transition to net zero emissions by 2030, Grant Agreement n. 101036519, and scaled up through topic <em>HORIZON-MISS-2021-CIT-02-03: Framework Partnership Agreement (FPA) for the Climate-Neutral and Smart Cities Mission Platform.</em>]] is essential and projects must ensure that appropriate provisions for activities and resources aimed at enforcing this collaboration are included in the work plan of the proposal. The collaboration with the Cities Mission Platform must be formalized through a Memorandum of Understanding to be concluded as soon as possible after the project starting date.</p></div><div class=\"eui-u-mt-s\"><p>Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme – the Framework Programme for Research and Innovation (2021-2027) – and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025) [[This <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\"><u>decision</u></a> is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under ‘Simplified costs decisions’ or through this link: <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\"><u>https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf</u></a>]].</p></div><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex G</a> of the Work Programme General Annexes.</p></div></div></div><div class=\"eui-u-mt-l\"><h4>Specific conditions</h4> <div class=\"eui-u-mt-s\"><p>Not applicable.</p></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Application and evaluation forms and model grant agreement (MGA):</h4> <div class=\"eui-u-mt-s\"><p><strong>Application form templates</strong> <em>— the application form specific to this call is available in the Submission System</em></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (HE RIA, IA)</a></p><p><strong>Evaluation form templates</strong> <em>— will be used with the necessary adaptations</em> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/ef/ef_he-ria-ia_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard evaluation form (HE RIA, IA)</a>&#xa0;</p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a>&#xa0;</p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/ls-mga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Lump Sum MGA</a>&#xa0;</p><p><strong>Call-specific instructions</strong>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/temp-form/af/detailed-budget-table_he-ls-euratom_en.xlsm\" rel=\"noopener noreferrer\" target=\"_blank\">Detailed budget table (HE LS)</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-funding-what-do-i-need-to-know_he_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Guidance: \"Lump sums - what do I need to know?\"</a></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-1-general-introduction_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 1. General Introduction</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-12-missions_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 12. Missions</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 15. General Annexes</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0695\" rel=\"noopener noreferrer\" target=\"_blank\">HE Framework Programme 2021/695</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021D0764\" rel=\"noopener noreferrer\" target=\"_blank\">HE Specific Programme Decision 2021/764</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Decision authorising the use of lump sum contributions under the Horizon Europe Programme</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a> </p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "Introducing circular economy models in the construction sector, from buildings to city scale"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "AAB0B6EF35EF3D4AD2D72C1207F654B045DFD91B793A230C84D1F94ADBD9D87C"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43027849"
+      ],
+      "callIdentifier": [
+        "HORIZON-MISS-2026-04"
+      ],
+      "ccm2Id": [
+        "50135881"
+      ],
+      "callccm2Id": [
+        "50136542"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50135881TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"HORIZON-MISS-2026-04\",\"criterionCode\":\"HORIZON-IA\",\"criterionDescription\":\"HORIZON Innovation Actions\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43398?topic\\u003dHORIZON-MISS-2026-04-CIT-NEB-B4P-CCRI-03\",\"startDate\":\"1770163200000\",\"endDate\":\"1791417600000\",\"mgaDescription\":\"HORIZON Lump Sum Grant\",\"mgaCode\":\"HORIZON-AG-LS\"}]"
+      ],
+      "callTitle": [
+        "Supporting the implementation of the Climate-Neutral and Smart Cities Mission"
+      ],
+      "frameworkProgramme": [
+        "43108390"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Outcome:</p><p>Project results are expected to contribute to all of the following expected outcomes:</p><ul level=\"0\"><li>Measurable increase in the number of tools and solutions at district or city level that are supporting the application of circular economy models by public and private stakeholders active in the construction sector;</li><li>Measurable reduction of material use and an increase of reuse and recycling in the construction sector as a result of the introduction of new and replicable business models;</li><li>Measurable reduction in the energy and other resources use and the whole life-cycle GHG emissions of buildings<sup>[1]</sup> and building stock (residential and non-residential) by introducing circular economy activities at building, district and city level.</li> </ul><p class=\"topicdescriptionkind\">Scope:</p><p>Applying circularity principles in the construction sector at building, district and city level can reduce the whole life-cycle GHG emissions and support more efficient resource use of the building stock, and help deliver climate-neutral, smart and circular cities, and a more sustainable built environment. To achieve this, there is a need for tools, solutions and associated business models with market potential that facilitate the adoption of inclusive circular construction economy models, as well as a more efficient use of buildings, ultimately reducing the need to extract raw materials.</p><p>Proposals are expected to address all of the following:</p><ul level=\"0\"><li>Develop and demonstrate tools and solutions at district or city level to support the introduction of circularity principles in the construction sector, and quantify their impacts (for example: urban mining; reuse and recycling of construction products and materials and other resources, use of secondary biobased materials; building’s innovative, accessible and adaptive design, renovation, and repurposing of buildings in line with waste prevention and circular economy principles).</li><li>Develop and demonstrate solutions for the diagnosis and performance characterisation of used construction products and demolition waste, in terms of their condition and potential reuse, and to create inventories of reclaimed products and materials, as well as appropriate business models including marketplace tools with components and material banks.</li><li>Develop and demonstrate whole life-cycle GHG emissions inventories of buildings to support decision-making and public actions in line with the Energy Performance of Buildings Directive (EPBD) recast.</li><li>Contribute to reducing regulatory barriers and developing standards, where relevant.</li><li>Ensure the integration of different value chains, active involvement of all relevant construction sector stakeholders, policy-makers and the people impacted by the solutions developed, including SMEs, building owners, local authorities and civil society.</li><li>Demonstrate the proposed tools and solutions in at least three cities, each from a different Member State or Associated Country, including with a view to showcase potential for large scale cross-border re-use of construction materials and products. The cities must participate as beneficiaries. At least one of the three cities must be one of the 112 cities participating in the EU Mission on Climate-Neutral and Smart Cities.<em> </em></li> </ul><p>Given its focus on circularity, this topic contributes to the implementation of the Cities Mission, the New European Bauhaus (NEB), the European Partnership on 'People-centric Sustainable Built Environment' (B4P), and the EU Circular Cities and Regions Initiative (CCRI).</p><p>Projects are encouraged to engage in clustering activities with other relevant Horizon Europe projects that share a common theme and address similar issues, and/or are connected to the aforementioned initiatives. This approach aims to promote synergies and complementarities. To this end, proposals should include a dedicated task, allocate appropriate resources, and develop a plan for collaboration with relevant projects, partners, and initiatives. Moreover, proposals are expected to ensure that their dissemination and exploitation strategies feature dedicated (and possibly joint) actions for promoting their results and lessons learned on relevant platforms, such as the Cities Mission Platform, the NEB hub for results and impact, B4P<sup>[2]</sup> and CCRI<sup>[3]</sup> websites, and through related channels. Such activities will facilitate knowledge exchange, encourage the replication and uptake of solutions, and maximise impact.</p><p>This action supports the follow-up to the July 2023 Communication on EU Missions assessment<sup>[4]</sup>.</p><p class=\"topicdescriptionkind\">null</p><div class=\"eui-u-mt-s\"><p>Activities are expected to achieve TRL 7-8 by the end of the project – see General Annex B.</p></div><p class=\"eui-u-font-s\">[1] <u> See Article 2(24) of Directive (EU) 2024/1275</u></p><p class=\"eui-u-font-s\">[2] <u> https://built4people.eu/b4pic_network/</u></p><p class=\"eui-u-font-s\">[3] <u>https://circular-cities-and-regions.ec.europa.eu/ccri-projects</u></p><p class=\"eui-u-font-s\">[4] <u>COM(2023) 457 final and SWD(2023) 260 final</u></p>"
+      ],
+      "identifier": [
+        "HORIZON-MISS-2026-04-CIT-NEB-B4P-CCRI-03"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43108390",
+        "43108541",
+        "43120821"
+      ],
+      "crossCuttingPriorities": [
+        "AI",
+        "PART-COPROGR",
+        "NEB",
+        "DigitalAgenda"
+      ],
+      "esDA_FirstIngestDate": [
+        "2025-12-12T00:00:37.959+0100"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-10-08T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-03-02T09:28:28.053+0100"
+      ],
+      "typesOfAction": [
+        "HORIZON Innovation Actions"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-04-CIT-NEB-B4P-CCRI-03"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-04-CIT-NEB-B4P-CCRI-03"
+      ],
+      "tags": [
+        "Building design",
+        "circular economy",
+        "climate change mitigation",
+        "construction sector",
+        "decarbonisation",
+        "urban planning"
+      ],
+      "cenTagsA": [
+        "TOPICS-002955",
+        "TOPICS-002956",
+        "TOPICS-002957",
+        "TOPICS-002958",
+        "TOPICS-002959",
+        "TOPICS-002067",
+        "TOPICS-000496",
+        "TOPICS-000382",
+        "TOPICS-002960",
+        "TOPICS-002961",
+        "TOPICS-002962",
+        "TOPICS-000744",
+        "TOPICS-002963",
+        "TOPICS-002964",
+        "TOPICS-002965",
+        "TOPICS-002071"
+      ],
+      "esDA_QueueDate": [
+        "2026-03-02T09:28:28.040+0100"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"HORIZON-IA HORIZON Innovation Actions\",\"typeOfMGA\":[{\"id\":43027849,\"abbreviation\":\"HORIZON-AG-LS\",\"description\":\"HORIZON Lump Sum Grant\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-02-04\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-10-08\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113037\":[{\"action\":\"HORIZON-MISS-2026-04-CIT-01 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":2,\"minContribution\":10000000,\"maxContribution\":10000000,\"budgetYearMap\":{\"2026\":\"20000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-08\"]}],\"113036\":[{\"action\":\"HORIZON-MISS-2026-04-CIT-NEB-B4P-CCRI-03 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":5,\"minContribution\":9500000,\"maxContribution\":9500000,\"budgetYearMap\":{\"2026\":\"47500000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-08\"]}],\"113038\":[{\"action\":\"HORIZON-MISS-2026-04-CIT-02 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":3,\"minContribution\":6000000,\"maxContribution\":6000000,\"budgetYearMap\":{\"2026\":\"18000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-08\"]}]}}"
+      ],
+      "startDate": [
+        "2026-02-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> – find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> – ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> – get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (‘third-countries’).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> – contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> – the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> – consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Introducing circular economy models in the construction sector, from buildings to city scale. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-04-CIT-NEB-B4P-CCRI-03",
+    "score": 3.0
+  }
+}

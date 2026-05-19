@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-901890",
+  "id_interno": 1103451,
+  "numero_convocatoria": "901890",
+  "organismo": "LOCAL — CABILDO INSULAR DE TENERIFE — CABILDO INSULAR DE TENERIFE",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "2026-01-01",
+  "fecha_fin_solicitud": "2026-04-20",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Concesión Subvención nominativa - Federación Provincial de Empresarios del Metal y Nuevas Tecnologías (FEMETE), proyecto “ExceLEANcia Empresarial: Asesoramiento a empresas del sector industrial. Calidad y Eficiencia” - presupuestos corporativos ejer.2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "OTROS SERVICIOS",
+  "regiones": "ES709 - Tenerife",
+  "finalidad": "Fomento del Empleo",
+  "bases_reguladoras": "Presupuesto General de Cabildo Insular de Tenerife 2026",
+  "url_bases_reguladoras": "https://www.bopsantacruzdetenerife.es/boletines/2025/30-12-25/30-12-25.pdf",
+  "presupuesto": "50.000,00 €",
+  "presupuesto_total_num": 50000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901890",
+  "text": "CONVOCATORIA BDNS Nº 901890\nOrganismo: LOCAL — CABILDO INSULAR DE TENERIFE — CABILDO INSULAR DE TENERIFE\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud: 2026-01-01 → 2026-04-20 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 50.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: OTROS SERVICIOS\nRegiones: ES709 - Tenerife\nFinalidad: Fomento del Empleo\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConcesión Subvención nominativa - Federación Provincial de Empresarios del Metal y Nuevas Tecnologías (FEMETE), proyecto “ExceLEANcia Empresarial: Asesoramiento a empresas del sector industrial. Calidad y Eficiencia” - presupuestos corporativos ejer.2026\n\nBases reguladoras:\nPresupuesto General de Cabildo Insular de Tenerife 2026\nURL bases reguladoras: https://www.bopsantacruzdetenerife.es/boletines/2025/30-12-25/30-12-25.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901890",
+  "_raw": {
+    "id": 1103451,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "CABILDO INSULAR DE TENERIFE",
+      "nivel3": "CABILDO INSULAR DE TENERIFE"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901890",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 50000,
+    "mrr": false,
+    "descripcion": "Concesión Subvención nominativa - Federación Provincial de Empresarios del Metal y Nuevas Tecnologías (FEMETE), proyecto “ExceLEANcia Empresarial: Asesoramiento a empresas del sector industrial. Calidad y Eficiencia” - presupuestos corporativos ejer.2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES709 - Tenerife"
+      }
+    ],
+    "descripcionFinalidad": "Fomento del Empleo",
+    "descripcionBasesReguladoras": "Presupuesto General de Cabildo Insular de Tenerife 2026",
+    "urlBasesReguladoras": "https://www.bopsantacruzdetenerife.es/boletines/2025/30-12-25/30-12-25.pdf",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-01-01",
+    "fechaFinSolicitud": "2026-04-20",
+    "textInicio": "01/01/2026",
+    "textFin": "20/04/2026",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443654,
+        "descripcion": "01 Bases Ejecución 2026 25nov25",
+        "nombreFic": "01 Bases Ejecución 2026 25nov25.pdf",
+        "long": 1785212,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443650,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "011-2026 Resolución Subv FEMETE.report.pdf",
+        "long": 874692,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

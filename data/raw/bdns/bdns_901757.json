@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-901757",
+  "id_interno": 1103318,
+  "numero_convocatoria": "901757",
+  "organismo": "LOCAL — GUILLENA — AYUNTAMIENTO DE GUILLENA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "2026-04-30",
+  "fecha_fin_solicitud": "2026-05-14",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Convocatoria del Programa de Becas para Jóvenes para la obtención del Permiso de Conducir 2026 (Permiso tipo B).",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "OTROS SERVICIOS",
+  "regiones": "ES618 - Sevilla",
+  "finalidad": "Subvenciones al transporte",
+  "bases_reguladoras": "Convocatoria del Programa de Becas para Jóvenes para la obtención del Permiso de Conducir 2026 (Permiso tipo B).",
+  "url_bases_reguladoras": "https://guillena.sedelectronica.es/info.0",
+  "presupuesto": "12.500,00 €",
+  "presupuesto_total_num": 12500,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901757",
+  "text": "CONVOCATORIA BDNS Nº 901757\nOrganismo: LOCAL — GUILLENA — AYUNTAMIENTO DE GUILLENA\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud: 2026-04-30 → 2026-05-14 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 12.500,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: OTROS SERVICIOS\nRegiones: ES618 - Sevilla\nFinalidad: Subvenciones al transporte\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria del Programa de Becas para Jóvenes para la obtención del Permiso de Conducir 2026 (Permiso tipo B).\n\nBases reguladoras:\nConvocatoria del Programa de Becas para Jóvenes para la obtención del Permiso de Conducir 2026 (Permiso tipo B).\nURL bases reguladoras: https://guillena.sedelectronica.es/info.0\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901757",
+  "_raw": {
+    "id": 1103318,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "GUILLENA",
+      "nivel3": "AYUNTAMIENTO DE GUILLENA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901757",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 12500,
+    "mrr": false,
+    "descripcion": "Convocatoria del Programa de Becas para Jóvenes para la obtención del Permiso de Conducir 2026 (Permiso tipo B).",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES618 - Sevilla"
+      }
+    ],
+    "descripcionFinalidad": "Subvenciones al transporte",
+    "descripcionBasesReguladoras": "Convocatoria del Programa de Becas para Jóvenes para la obtención del Permiso de Conducir 2026 (Permiso tipo B).",
+    "urlBasesReguladoras": "https://guillena.sedelectronica.es/info.0",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-04-30",
+    "fechaFinSolicitud": "2026-05-14",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443173,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "PROPUESTA Bases convocatoria Becas obtención permiso conducir 2026.docx",
+        "long": 27914,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

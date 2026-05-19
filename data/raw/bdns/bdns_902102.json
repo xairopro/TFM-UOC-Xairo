@@ -1,0 +1,106 @@
+{
+  "id": "BDNS-902102",
+  "id_interno": 1103663,
+  "numero_convocatoria": "902102",
+  "organismo": "LOCAL — DIPUTACIÓN FORAL DE BIZKAIA — DIPUTACIÓN FORAL DE BIZKAIA",
+  "sede_electronica": "https://www.ebizkaia.eus/es/catalogo-de-tramites-y-servicios",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "ACUERDO por el que se aprueba el convenio por el que se concede una subvención nominativa a favor de Fundación Secretariado General Gitano para la implementación del programa Acceder en Bizkaia",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades relacionadas con el empleo",
+  "regiones": "ES213 - Bizkaia",
+  "finalidad": "Fomento del Empleo",
+  "bases_reguladoras": "Subvención nominativa otorgada a la Fundación Secretariado General Gitano",
+  "url_bases_reguladoras": "https://www.bizkaia.eus/fitxategiak/05/ogasuna/presupuestos/pdf/2019/1767078506510_NF%20Pptos%202026%20castellano_cas_cas.pdf",
+  "presupuesto": "194.190,93 €",
+  "presupuesto_total_num": 194190.93,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "FSE+ - FONDO SOCIAL EUROPEO PLUS",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902102",
+  "text": "CONVOCATORIA BDNS Nº 902102\nOrganismo: LOCAL — DIPUTACIÓN FORAL DE BIZKAIA — DIPUTACIÓN FORAL DE BIZKAIA\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 194.190,93 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades relacionadas con el empleo\nRegiones: ES213 - Bizkaia\nFinalidad: Fomento del Empleo\nFondos: FSE+ - FONDO SOCIAL EUROPEO PLUS\nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nACUERDO por el que se aprueba el convenio por el que se concede una subvención nominativa a favor de Fundación Secretariado General Gitano para la implementación del programa Acceder en Bizkaia\n\nBases reguladoras:\nSubvención nominativa otorgada a la Fundación Secretariado General Gitano\nURL bases reguladoras: https://www.bizkaia.eus/fitxategiak/05/ogasuna/presupuestos/pdf/2019/1767078506510_NF%20Pptos%202026%20castellano_cas_cas.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902102",
+  "_raw": {
+    "id": 1103663,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DIPUTACIÓN FORAL DE BIZKAIA",
+      "nivel3": "DIPUTACIÓN FORAL DE BIZKAIA"
+    },
+    "sedeElectronica": "https://www.ebizkaia.eus/es/catalogo-de-tramites-y-servicios",
+    "codigoBDNS": "902102",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 194190.93,
+    "mrr": false,
+    "descripcion": "ACUERDO por el que se aprueba el convenio por el que se concede una subvención nominativa a favor de Fundación Secretariado General Gitano para la implementación del programa Acceder en Bizkaia",
+    "descripcionLeng": "ERABAKIA, Bizkaian Acceder programa ezartzeko Fundación Secretariado General Gitano fundazioari dirulaguntza izenduna emateko hitzarmena onartzeko dena.",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades relacionadas con el empleo",
+        "codigo": "78"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES213 - Bizkaia"
+      }
+    ],
+    "descripcionFinalidad": "Fomento del Empleo",
+    "descripcionBasesReguladoras": "Subvención nominativa otorgada a la Fundación Secretariado General Gitano",
+    "urlBasesReguladoras": "https://www.bizkaia.eus/fitxategiak/05/ogasuna/presupuestos/pdf/2019/1767078506510_NF%20Pptos%202026%20castellano_cas_cas.pdf",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Sin plazo de solicitud",
+    "textFin": "Sin plazo de solicitud",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [
+      {
+        "descripcion": "FSE+ - FONDO SOCIAL EUROPEO PLUS"
+      }
+    ],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444191,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "CERTI_26_1776328185065_20260416_102948.pdf",
+        "long": 1103441,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444190,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "CERTI_26_1776328185065_20260416_102948.pdf",
+        "long": 1103441,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

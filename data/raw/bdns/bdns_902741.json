@@ -1,0 +1,109 @@
+{
+  "id": "BDNS-902741",
+  "id_interno": 1104302,
+  "numero_convocatoria": "902741",
+  "organismo": "LOCAL — ROQUETES — AYUNTAMIENTO DE ROQUETES",
+  "sede_electronica": "https://actio.dipta.cat/catalegserveis/id/4313310007/servei/AT064_ATENC_00001?origen=seu",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA PARA LA CONCESIÓN DE SUBVENCIONES PARA EL FOMENTO DE LAS ACTIVIDADES DEPORTIVAS, EN RÉGIMEN DE CONCURRENCIA COMPETITIVA, AÑO 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA",
+  "regiones": "ES514 - Tarragona",
+  "finalidad": "Otras Prestaciones económicas",
+  "bases_reguladoras": "BASES ESPECÍFICAS QUE DEBEN REGIR LA CONCESIÓN DE SUBVENCIONES DIRIGIDAS AL FOMENTO DE LA PARTICIPACIÓN EN ACTIVIDADES EL MUNICIPIO Y DE PROYECCIÓN Y PROMOCIÓN AL EXTERIOR EN EL ÁMBITO DE LA CULTURA, LA ENSEÑANZA, EL DEPORTE Y LAS FIESTAS",
+  "url_bases_reguladoras": "https://www.dipta.cat/bopt/web/anunci/333870/bases-per-a-la-concessio-de-subvencions-adrecades-al-foment-de-la-participacio-en-activitats-al-municipi-i-de-projeccio-i-promocio-a-l-exterior-en-l-ambit-de-la-cultura-l-ensenyament-l-esport-i-les-festes-aprov",
+  "presupuesto": "7.000,00 €",
+  "presupuesto_total_num": 7000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902741",
+  "text": "CONVOCATORIA BDNS Nº 902741\nOrganismo: LOCAL — ROQUETES — AYUNTAMIENTO DE ROQUETES\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 7.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA\nRegiones: ES514 - Tarragona\nFinalidad: Otras Prestaciones económicas\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA PARA LA CONCESIÓN DE SUBVENCIONES PARA EL FOMENTO DE LAS ACTIVIDADES DEPORTIVAS, EN RÉGIMEN DE CONCURRENCIA COMPETITIVA, AÑO 2026\n\nBases reguladoras:\nBASES ESPECÍFICAS QUE DEBEN REGIR LA CONCESIÓN DE SUBVENCIONES DIRIGIDAS AL FOMENTO DE LA PARTICIPACIÓN EN ACTIVIDADES EL MUNICIPIO Y DE PROYECCIÓN Y PROMOCIÓN AL EXTERIOR EN EL ÁMBITO DE LA CULTURA, LA ENSEÑANZA, EL DEPORTE Y LAS FIESTAS\nURL bases reguladoras: https://www.dipta.cat/bopt/web/anunci/333870/bases-per-a-la-concessio-de-subvencions-adrecades-al-foment-de-la-participacio-en-activitats-al-municipi-i-de-projeccio-i-promocio-a-l-exterior-en-l-ambit-de-la-cultura-l-ensenyament-l-esport-i-les-festes-aprov\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902741",
+  "_raw": {
+    "id": 1104302,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "ROQUETES",
+      "nivel3": "AYUNTAMIENTO DE ROQUETES"
+    },
+    "sedeElectronica": "https://actio.dipta.cat/catalegserveis/id/4313310007/servei/AT064_ATENC_00001?origen=seu",
+    "codigoBDNS": "902741",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 7000,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA PARA LA CONCESIÓN DE SUBVENCIONES PARA EL FOMENTO DE LAS ACTIVIDADES DEPORTIVAS, EN RÉGIMEN DE CONCURRENCIA COMPETITIVA, AÑO 2026",
+    "descripcionLeng": "CONVOCATÒRIA PER A LA CONCESSIÓ DE SUBVENCIONS PER AL FOMENT DE LES ACTIVITATS ESPORTIVES, EN RÈGIM DE CONCURRÈNCIA COMPETITIVA, ANY 2026",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      },
+      {
+        "descripcion": "ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA",
+        "codigo": "P"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES514 - Tarragona"
+      }
+    ],
+    "descripcionFinalidad": "Otras Prestaciones económicas",
+    "descripcionBasesReguladoras": "BASES ESPECÍFICAS QUE DEBEN REGIR LA CONCESIÓN DE SUBVENCIONES DIRIGIDAS AL FOMENTO DE LA PARTICIPACIÓN EN ACTIVIDADES EL MUNICIPIO Y DE PROYECCIÓN Y PROMOCIÓN AL EXTERIOR EN EL ÁMBITO DE LA CULTURA, LA ENSEÑANZA, EL DEPORTE Y LAS FIESTAS",
+    "urlBasesReguladoras": "https://www.dipta.cat/bopt/web/anunci/333870/bases-per-a-la-concessio-de-subvencions-adrecades-al-foment-de-la-participacio-en-activitats-al-municipi-i-de-projeccio-i-promocio-a-l-exterior-en-l-ambit-de-la-cultura-l-ensenyament-l-esport-i-les-festes-aprov",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "A partir del día siguiente al de su publicación del extracto de la convocatoria en el BOPT",
+    "textFin": "El vigésimo día hábil posterior al de inicio del período de solicitud",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446133,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "00_Convocatoria ESPORTS 2026_catala.pdf",
+        "long": 288599,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446132,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "00_Convocatoria ESPORTS 2026_español.pdf",
+        "long": 302918,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

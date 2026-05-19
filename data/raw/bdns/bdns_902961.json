@@ -1,0 +1,110 @@
+{
+  "id": "BDNS-902961",
+  "id_interno": 1104522,
+  "numero_convocatoria": "902961",
+  "organismo": "LOCAL — CORNELLÀ DE LLOBREGAT — AYUNTAMIENTO DE CORNELLÀ DE LLOBREGAT",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "ACUERDO DE LA JGL DE FECHA 10 DE ABRIL DE 2026 DEL AYUNTAMIENTO DE CORNELLÀ DE APROBACIÓN BASES Y CONVOCATÓRIA 2026  CONCURSO DE CÓMIC 2026 \"CIUTAT DE CORNELLÁ\"",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+  "regiones": "ES511 - Barcelona",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "BASES 42 CONCURSO DE CÓMIC 2026 \"CIUTAT DE CORNELLÁ\" DEL AYUNTAMIENTO DE CORNELLÁ DE LLOBREGAT",
+  "url_bases_reguladoras": "https://www.cornella.cat/ca/viure-a-cornella/cornella-humana/joves/projectes/comics-concurs-mostra",
+  "presupuesto": "5.673,46 €",
+  "presupuesto_total_num": 5673.46,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902961",
+  "text": "CONVOCATORIA BDNS Nº 902961\nOrganismo: LOCAL — CORNELLÀ DE LLOBREGAT — AYUNTAMIENTO DE CORNELLÀ DE LLOBREGAT\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 5.673,46 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO\nRegiones: ES511 - Barcelona\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nACUERDO DE LA JGL DE FECHA 10 DE ABRIL DE 2026 DEL AYUNTAMIENTO DE CORNELLÀ DE APROBACIÓN BASES Y CONVOCATÓRIA 2026  CONCURSO DE CÓMIC 2026 \"CIUTAT DE CORNELLÁ\"\n\nBases reguladoras:\nBASES 42 CONCURSO DE CÓMIC 2026 \"CIUTAT DE CORNELLÁ\" DEL AYUNTAMIENTO DE CORNELLÁ DE LLOBREGAT\nURL bases reguladoras: https://www.cornella.cat/ca/viure-a-cornella/cornella-humana/joves/projectes/comics-concurs-mostra\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902961",
+  "_raw": {
+    "id": 1104522,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "CORNELLÀ DE LLOBREGAT",
+      "nivel3": "AYUNTAMIENTO DE CORNELLÀ DE LLOBREGAT"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902961",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 5673.46,
+    "mrr": false,
+    "descripcion": "ACUERDO DE LA JGL DE FECHA 10 DE ABRIL DE 2026 DEL AYUNTAMIENTO DE CORNELLÀ DE APROBACIÓN BASES Y CONVOCATÓRIA 2026  CONCURSO DE CÓMIC 2026 \"CIUTAT DE CORNELLÁ\"",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES511 - Barcelona"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "BASES 42 CONCURSO DE CÓMIC 2026 \"CIUTAT DE CORNELLÁ\" DEL AYUNTAMIENTO DE CORNELLÁ DE LLOBREGAT",
+    "urlBasesReguladoras": "https://www.cornella.cat/ca/viure-a-cornella/cornella-humana/joves/projectes/comics-concurs-mostra",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": " AL DIA SIGUIENTE DE LA PUBLICACION DEL EXTRACTO EN EL BOP",
+    "textFin": "30 DE JUNIO DE 2026",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446788,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "BDNS COMICS CASTELLÀ.pdf",
+        "long": 1599554,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446789,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "BDNS COMICS CATALÀ.pdf",
+        "long": 1365203,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446790,
+        "descripcion": "ACORD APROVACIÓ BASES I CONVOCATORIA 2026",
+        "nombreFic": "ACORD APROVACIO COMICS.pdf",
+        "long": 1988186,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "id": "BDNS-902084",
+  "id_interno": 1103645,
+  "numero_convocatoria": "902084",
+  "organismo": "OTROS — CÁMARA DE COMERCIO DE SEVILLA",
+  "sede_electronica": "https://sede.camara.es/sede/sevilla",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "2026-05-11",
+  "fecha_fin_solicitud": "2026-06-30",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Convocatoria Pyme Global 2026 Misión Comercial Directa a Perú para empresas de la provincia de Sevilla",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS AUXILIARES, ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, ACTIVIDADES DE EDICIÓN, RADIODIFUSIÓN Y PRODUCCIÓN Y DISTRIBUCIÓN DE CONTENIDOS, ACTIVIDADES FINANCIERAS Y DE SEGUROS, ACTIVIDADES INMOBILIARIAS, ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS, ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES, ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA, COMERCIO AL POR MAYOR Y AL POR MENOR, CONSTRUCCIÓN, EDUCACIÓN, HOSTELERÍA, INDUSTRIA MANUFACTURERA, OTROS SERVICIOS, SUMINISTRO DE AGUA, ACTIVIDADES DE SANEAMIENTO, GESTIÓN DE RESIDUOS Y DESCONTAMINACIÓN, SUMINISTRO DE ENERGIA ELECTRICA, GAS, VAPOR Y AIRE ACONDICIONADO, TELECOMUNICACIONES, PROGRAMACIÓN INFORMÁTICA, CONSULTORÍA, INFRAESTRUCTURA INFORMÁTICA Y OTROS SERVICIOS DE INFORMACIÓN, TRANSPORTE Y ALMACENAMIENTO",
+  "regiones": "ES618 - Sevilla",
+  "finalidad": "Otras actuaciones de carácter económico",
+  "bases_reguladoras": "Convocatoria Pyme Global 2026",
+  "url_bases_reguladoras": "https://camaradesevilla.com/internacionalizacion/plan-de-promocion-internacional-2026/",
+  "presupuesto": "21.584,04 €",
+  "presupuesto_total_num": 21584.04,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "FEDER - FONDO EUROPEO DE DESARROLLO REGIONAL",
+  "reglamento": "REG (UE) 2023/2831 de minimis, General",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902084",
+  "text": "CONVOCATORIA BDNS Nº 902084\nOrganismo: OTROS — CÁMARA DE COMERCIO DE SEVILLA\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud: 2026-05-11 → 2026-06-30 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 21.584,04 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS AUXILIARES, ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, ACTIVIDADES DE EDICIÓN, RADIODIFUSIÓN Y PRODUCCIÓN Y DISTRIBUCIÓN DE CONTENIDOS, ACTIVIDADES FINANCIERAS Y DE SEGUROS, ACTIVIDADES INMOBILIARIAS, ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS, ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES, ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA, COMERCIO AL POR MAYOR Y AL POR MENOR, CONSTRUCCIÓN, EDUCACIÓN, HOSTELERÍA, INDUSTRIA MANUFACTURERA, OTROS SERVICIOS, SUMINISTRO DE AGUA, ACTIVIDADES DE SANEAMIENTO, GESTIÓN DE RESIDUOS Y DESCONTAMINACIÓN, SUMINISTRO DE ENERGIA ELECTRICA, GAS, VAPOR Y AIRE ACONDICIONADO, TELECOMUNICACIONES, PROGRAMACIÓN INFORMÁTICA, CONSULTORÍA, INFRAESTRUCTURA INFORMÁTICA Y OTROS SERVICIOS DE INFORMACIÓN, TRANSPORTE Y ALMACENAMIENTO\nRegiones: ES618 - Sevilla\nFinalidad: Otras actuaciones de carácter económico\nFondos: FEDER - FONDO EUROPEO DE DESARROLLO REGIONAL\nReglamento: REG (UE) 2023/2831 de minimis, General\nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria Pyme Global 2026 Misión Comercial Directa a Perú para empresas de la provincia de Sevilla\n\nBases reguladoras:\nConvocatoria Pyme Global 2026\nURL bases reguladoras: https://camaradesevilla.com/internacionalizacion/plan-de-promocion-internacional-2026/\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902084",
+  "_raw": {
+    "id": 1103645,
+    "organo": {
+      "nivel1": "OTROS",
+      "nivel2": "CÁMARA DE COMERCIO DE SEVILLA",
+      "nivel3": null
+    },
+    "sedeElectronica": "https://sede.camara.es/sede/sevilla",
+    "codigoBDNS": "902084",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 21584.04,
+    "mrr": false,
+    "descripcion": "Convocatoria Pyme Global 2026 Misión Comercial Directa a Perú para empresas de la provincia de Sevilla",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS AUXILIARES",
+        "codigo": "O"
+      },
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      },
+      {
+        "descripcion": "ACTIVIDADES DE EDICIÓN, RADIODIFUSIÓN Y PRODUCCIÓN Y DISTRIBUCIÓN DE CONTENIDOS",
+        "codigo": "J"
+      },
+      {
+        "descripcion": "ACTIVIDADES FINANCIERAS Y DE SEGUROS",
+        "codigo": "L"
+      },
+      {
+        "descripcion": "ACTIVIDADES INMOBILIARIAS",
+        "codigo": "M"
+      },
+      {
+        "descripcion": "ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS",
+        "codigo": "N"
+      },
+      {
+        "descripcion": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+        "codigo": "R"
+      },
+      {
+        "descripcion": "ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA",
+        "codigo": "P"
+      },
+      {
+        "descripcion": "COMERCIO AL POR MAYOR Y AL POR MENOR",
+        "codigo": "G"
+      },
+      {
+        "descripcion": "CONSTRUCCIÓN",
+        "codigo": "F"
+      },
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      },
+      {
+        "descripcion": "HOSTELERÍA",
+        "codigo": "I"
+      },
+      {
+        "descripcion": "INDUSTRIA MANUFACTURERA",
+        "codigo": "C"
+      },
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      },
+      {
+        "descripcion": "SUMINISTRO DE AGUA, ACTIVIDADES DE SANEAMIENTO, GESTIÓN DE RESIDUOS Y DESCONTAMINACIÓN",
+        "codigo": "E"
+      },
+      {
+        "descripcion": "SUMINISTRO DE ENERGIA ELECTRICA, GAS, VAPOR Y AIRE ACONDICIONADO",
+        "codigo": "D"
+      },
+      {
+        "descripcion": "TELECOMUNICACIONES, PROGRAMACIÓN INFORMÁTICA, CONSULTORÍA, INFRAESTRUCTURA INFORMÁTICA Y OTROS SERVICIOS DE INFORMACIÓN",
+        "codigo": "K"
+      },
+      {
+        "descripcion": "TRANSPORTE Y ALMACENAMIENTO",
+        "codigo": "H"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES618 - Sevilla"
+      }
+    ],
+    "descripcionFinalidad": "Otras actuaciones de carácter económico",
+    "descripcionBasesReguladoras": "Convocatoria Pyme Global 2026",
+    "urlBasesReguladoras": "https://camaradesevilla.com/internacionalizacion/plan-de-promocion-internacional-2026/",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-05-11",
+    "fechaFinSolicitud": "2026-06-30",
+    "textInicio": "A las 09:00 h",
+    "textFin": "A las 14:00 h",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [
+      {
+        "descripcion": "FEDER - FONDO EUROPEO DE DESARROLLO REGIONAL"
+      }
+    ],
+    "reglamento": {
+      "descripcion": "REG (UE) 2023/2831 de minimis, General",
+      "orden": null
+    },
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444118,
+        "descripcion": "Anexo I - Tipología de Gastos Elegibles y su Justificación",
+        "nombreFic": "MCD PERÚ 2026 Anexo I_Tipología de Gastos Elegibles y su Justificación.pdf",
+        "long": 330114,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444122,
+        "descripcion": "Anexo III - Modelo de solicitud admisión segundo participante",
+        "nombreFic": "MCD PERÚ 2026 Anexo III_Modelo de solicitud admisión segundo participante.pdf",
+        "long": 1165983,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444120,
+        "descripcion": "Anexo II - Declaraciones Responsables",
+        "nombreFic": "MCD PERÚ 2026 Anexo II_Declaraciones Responsables.pdf",
+        "long": 368459,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444116,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Convocatoria MCD PERÚ 2026.pdf",
+        "long": 351085,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210309,
+        "titulo": "Convocatoria Pyme Global 2026 Misión Comercial Directa a Perú para empresas de la provincia de Sevilla",
+        "tituloLeng": null,
+        "texto": "<p>La Cámara de Comercio de Sevilla, anuncia la apertura de convocatoria que tiene por objeto promover la participación en el programa Pyme Global, cofinanciado en un 85% por el Fondo Europeo de Desarrollo Regional (FEDER) de la Unión Europea, en la acción Misión Comercial Directa a Perú 2026, que se celebrará los días 28 de septiembre a 2 de octubre de 2026.</p><p>Primero.– Beneficiarios.</p><p>Pymes de la demarcación territorial de la Cámara de Comercio de Sevilla que se encuentren dadas de alta en el Censo del IAE.</p><p>El número máximo de empresas beneficiarias será de 6.</p><p>Segundo.– Objeto.</p><p>Concesión de ayudas económicas para promover la participación de las pymes en la actuación Misión Comercial Directa a Perú 2026.</p><p>Tercero.– Convocatoria.</p><p>El texto completo de la convocatoria está a disposición de las empresas en la Sede Electrónica de la Cámara de Comercio de Sevilla https://sede.camara.es/sede/sevilla. Además, puede consultarse a través de la web https://camaradesevilla.com/internacionalizacion/plan-de-promocion-internacional-2026/.</p><p>Cuarto.– Cuantía.</p><p>La cuantía máxima de las ayudas a otorgar con cargo a esta convocatoria, a las empresas participantes en la actuación es de 18.346,43 euros, sobre un presupuesto máximo de 21.584,04 euros, cofinanciadas en un porcentaje del 85% con cargo a los fondos FEDER, a través del Programa Plurirregional de España FEDER 2021-2027 (POPE).</p><p>El presupuesto total de ejecución de esta actuación es de 28.886,20 euros, que incluye los recursos estimados para los servicios de apoyo prestados por la Cámara de Comercio de Sevilla, que será de 7.302,16 euros, y serán aportados por el Fondo Europeo de Desarrollo Regional (FEDER) de la Unión Europea y por la Cámara de Comercio de Sevilla.</p><p>Quinto.– Plazo de presentación de solicitudes.</p><p>El plazo para la presentación de solicitudes se abre, a las 09:00h una vez transcurridos 5 días hábiles desde el día siguiente al de la publicación de este Anuncio y finalizará a las 14:00 horas del día 30 de junio de 2026. El Modelo de Solicitud de Participación podrá descargarse en la web https://camaradesevilla.com/internacionalizacion/plan-de-promocion-internacional-2026/.</p>",
+        "textoLeng": null,
+        "url": "https://bopsevilla.dipusevilla.es/export/sites/bop/.galleries/Documentos-BOPs-en-PDF/bop-30_04_2026-c1b47647-43bf-11f1-a2f2-0050569ff69d-1777503742403.pdf",
+        "cve": null,
+        "desDiarioOficial": "B.O.P. DE SEVILLA",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

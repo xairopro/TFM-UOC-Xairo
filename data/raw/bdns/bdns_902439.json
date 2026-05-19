@@ -1,0 +1,105 @@
+{
+  "id": "BDNS-902439",
+  "id_interno": 1104000,
+  "numero_convocatoria": "902439",
+  "organismo": "LOCAL — AZKOITIA — AYUNTAMIENTO DE AZKOITIA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Convocatoria para subvencionar a agentes y asociaciones culturales sin ánimo de lucro de Azkoitia para llevar a cabo sus proyectos y actividades ordinarias a lo largo del año o curso.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+  "regiones": "ES212 - Gipuzkoa",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Bases específicas para la concesión de subvenciones a asociaciones y agentes culturales del municipio de Azkoitia para su actividad ordinaria",
+  "url_bases_reguladoras": "https://egoitza.gipuzkoa.eus/gao-bog/castell/bog/2026/04/27/c2602362.pdf",
+  "presupuesto": "27.000,00 €",
+  "presupuesto_total_num": 27000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902439",
+  "text": "CONVOCATORIA BDNS Nº 902439\nOrganismo: LOCAL — AZKOITIA — AYUNTAMIENTO DE AZKOITIA\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 27.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO\nRegiones: ES212 - Gipuzkoa\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria para subvencionar a agentes y asociaciones culturales sin ánimo de lucro de Azkoitia para llevar a cabo sus proyectos y actividades ordinarias a lo largo del año o curso.\n\nBases reguladoras:\nBases específicas para la concesión de subvenciones a asociaciones y agentes culturales del municipio de Azkoitia para su actividad ordinaria\nURL bases reguladoras: https://egoitza.gipuzkoa.eus/gao-bog/castell/bog/2026/04/27/c2602362.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902439",
+  "_raw": {
+    "id": 1104000,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "AZKOITIA",
+      "nivel3": "AYUNTAMIENTO DE AZKOITIA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902439",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 27000,
+    "mrr": false,
+    "descripcion": "Convocatoria para subvencionar a agentes y asociaciones culturales sin ánimo de lucro de Azkoitia para llevar a cabo sus proyectos y actividades ordinarias a lo largo del año o curso.",
+    "descripcionLeng": "Irabazi asmorik gabeko Azkoitiko kultur elkarteek eta kulturgileek urtean zehar edo ikasturtean beraien ohiko egitasmo eta jarduerak burutzeko dirulaguntzak emateko deialdia",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES212 - Gipuzkoa"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Bases específicas para la concesión de subvenciones a asociaciones y agentes culturales del municipio de Azkoitia para su actividad ordinaria",
+    "urlBasesReguladoras": "https://egoitza.gipuzkoa.eus/gao-bog/castell/bog/2026/04/27/c2602362.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Al día siguiente de la publicación de la convocatoria en BOG",
+    "textFin": "Un mes",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445376,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "PUNT6_Iragarkia_sinatuta.pdf",
+        "long": 194375,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445378,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "PUNT6_Iragarkia_sinatuta.pdf",
+        "long": 194375,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

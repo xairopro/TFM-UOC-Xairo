@@ -1,0 +1,97 @@
+{
+  "id": "BDNS-901789",
+  "id_interno": 1103350,
+  "numero_convocatoria": "901789",
+  "organismo": "LOCAL — DIPUTACIÓN PROV. DE GRANADA — DIPUTACIÓN PROVINCIAL DE GRANADA",
+  "sede_electronica": "https://sede.dipgra.es/moad/oficina-moad/tramites/tramitesDisponibles.do?action=detalleArea&id=AYUDAS_Y_SUBVENCIONES",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "ON TECH INNOVATION SUBVENCION A CLUSTER DE EMPRESAS DIGITALES, SOSTENIBLES E INNOVADORAS 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "OTROS SERVICIOS",
+  "regiones": "ES614 - Granada",
+  "finalidad": "Otras actuaciones de carácter económico",
+  "bases_reguladoras": "BASES EJECUCION PRESUPUESTO 2026 DIPUTACION PROVINCIAL DE GRANADA",
+  "url_bases_reguladoras": "https://www.dipgra.es/diputacion/delegaciones/economia-yatencion- al-alcalde/servicio-gestion-presupuestaria-ycontable/ presupuesto-general-00001/presupuestos-porejercicio- y-organismo/",
+  "presupuesto": "60.000,00 €",
+  "presupuesto_total_num": 60000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901789",
+  "text": "CONVOCATORIA BDNS Nº 901789\nOrganismo: LOCAL — DIPUTACIÓN PROV. DE GRANADA — DIPUTACIÓN PROVINCIAL DE GRANADA\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 60.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: OTROS SERVICIOS\nRegiones: ES614 - Granada\nFinalidad: Otras actuaciones de carácter económico\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nON TECH INNOVATION SUBVENCION A CLUSTER DE EMPRESAS DIGITALES, SOSTENIBLES E INNOVADORAS 2026\n\nBases reguladoras:\nBASES EJECUCION PRESUPUESTO 2026 DIPUTACION PROVINCIAL DE GRANADA\nURL bases reguladoras: https://www.dipgra.es/diputacion/delegaciones/economia-yatencion- al-alcalde/servicio-gestion-presupuestaria-ycontable/ presupuesto-general-00001/presupuestos-porejercicio- y-organismo/\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901789",
+  "_raw": {
+    "id": 1103350,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DIPUTACIÓN PROV. DE GRANADA",
+      "nivel3": "DIPUTACIÓN PROVINCIAL DE GRANADA"
+    },
+    "sedeElectronica": "https://sede.dipgra.es/moad/oficina-moad/tramites/tramitesDisponibles.do?action=detalleArea&id=AYUDAS_Y_SUBVENCIONES",
+    "codigoBDNS": "901789",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 60000,
+    "mrr": false,
+    "descripcion": "ON TECH INNOVATION SUBVENCION A CLUSTER DE EMPRESAS DIGITALES, SOSTENIBLES E INNOVADORAS 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES614 - Granada"
+      }
+    ],
+    "descripcionFinalidad": "Otras actuaciones de carácter económico",
+    "descripcionBasesReguladoras": "BASES EJECUCION PRESUPUESTO 2026 DIPUTACION PROVINCIAL DE GRANADA",
+    "urlBasesReguladoras": "https://www.dipgra.es/diputacion/delegaciones/economia-yatencion- al-alcalde/servicio-gestion-presupuestaria-ycontable/ presupuesto-general-00001/presupuestos-porejercicio- y-organismo/",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "DESDE EL DIA SIGUIENTE A LA PUBLICCIÓN DEL EXTRACTO EN BOP",
+    "textFin": "31/12/2026",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443362,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Certificado_nA_11_Junta_de_Gobierno_21_04_2026.pdf",
+        "long": 471044,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

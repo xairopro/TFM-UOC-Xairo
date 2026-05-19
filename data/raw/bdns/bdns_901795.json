@@ -1,0 +1,106 @@
+{
+  "id": "BDNS-901795",
+  "id_interno": 1103356,
+  "numero_convocatoria": "901795",
+  "organismo": "OTROS — UNIVERSIDAD MIGUEL HERNÁNDEZ DE ELCHE",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "BECAS PARA ESTUDIANTES DEL MÁSTER UNIVERSITARIO EN ESTUDIOS CULTURALES Y ARTES VISUALES (PERSPECTIVAS FEMINISTAS Y CUIR/QUEER) DE LA UMH CURSO ACADÉMICO 2025-2026, FINANCIADA POR EL INSTITUTO DE LAS MUJERES (Código línea de beca: 08-324-4-2026-0053-S)",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Educación",
+  "regiones": "ES521 - Alicante / Alacant",
+  "finalidad": "Educación",
+  "bases_reguladoras": "Base reguladora de la convocatoria BECAS PARA ESTUDIANTES DEL MÁSTER UNIVERSITARIO EN ESTUDIOS CULTURALES Y ARTES VISUALES (PERSPECTIVAS FEMINISTAS Y CUIR/QUEER) DE LA UMH CURSO ACADÉMICO 2025-2026, FINANCIADA POR EL INSTITUTO DE LAS MUJERES (Código línea",
+  "url_bases_reguladoras": "https://boumh.umh.es/files/2026/04/RR_00945_2026.pdf",
+  "presupuesto": "8.000,00 €",
+  "presupuesto_total_num": 8000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901795",
+  "text": "CONVOCATORIA BDNS Nº 901795\nOrganismo: OTROS — UNIVERSIDAD MIGUEL HERNÁNDEZ DE ELCHE\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 8.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Educación\nRegiones: ES521 - Alicante / Alacant\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nBECAS PARA ESTUDIANTES DEL MÁSTER UNIVERSITARIO EN ESTUDIOS CULTURALES Y ARTES VISUALES (PERSPECTIVAS FEMINISTAS Y CUIR/QUEER) DE LA UMH CURSO ACADÉMICO 2025-2026, FINANCIADA POR EL INSTITUTO DE LAS MUJERES (Código línea de beca: 08-324-4-2026-0053-S)\n\nBases reguladoras:\nBase reguladora de la convocatoria BECAS PARA ESTUDIANTES DEL MÁSTER UNIVERSITARIO EN ESTUDIOS CULTURALES Y ARTES VISUALES (PERSPECTIVAS FEMINISTAS Y CUIR/QUEER) DE LA UMH CURSO ACADÉMICO 2025-2026, FINANCIADA POR EL INSTITUTO DE LAS MUJERES (Código línea\nURL bases reguladoras: https://boumh.umh.es/files/2026/04/RR_00945_2026.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901795",
+  "_raw": {
+    "id": 1103356,
+    "organo": {
+      "nivel1": "OTROS",
+      "nivel2": "UNIVERSIDAD MIGUEL HERNÁNDEZ DE ELCHE",
+      "nivel3": null
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901795",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 8000,
+    "mrr": false,
+    "descripcion": "BECAS PARA ESTUDIANTES DEL MÁSTER UNIVERSITARIO EN ESTUDIOS CULTURALES Y ARTES VISUALES (PERSPECTIVAS FEMINISTAS Y CUIR/QUEER) DE LA UMH CURSO ACADÉMICO 2025-2026, FINANCIADA POR EL INSTITUTO DE LAS MUJERES (Código línea de beca: 08-324-4-2026-0053-S)",
+    "descripcionLeng": "BEQUES PER A ESTUDIANTS DEL MÀSTER UNIVERSITARI EN ESTUDIS CULTURALS I ARTS VISUALS (PERSPECTIVES FEMINISTES I CUIR/QUEER) DE LA UMH, CURS ACADÈMIC 2025-2026, FINANÇADA PER L'INSTITUT DE LES DONES (codi de línia de beca 08-324-4-2026-0053-S)",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Educación",
+        "codigo": "85"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES521 - Alicante / Alacant"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "Base reguladora de la convocatoria BECAS PARA ESTUDIANTES DEL MÁSTER UNIVERSITARIO EN ESTUDIOS CULTURALES Y ARTES VISUALES (PERSPECTIVAS FEMINISTAS Y CUIR/QUEER) DE LA UMH CURSO ACADÉMICO 2025-2026, FINANCIADA POR EL INSTITUTO DE LAS MUJERES (Código línea",
+    "urlBasesReguladoras": "https://boumh.umh.es/files/2026/04/RR_00945_2026.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Desde el día siguiente de la publicación del extracto de esta convocatoria en el DOGV",
+    "textFin": "10 días hábiles",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443395,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "BOUMH 00945_2026.pdf",
+        "long": 661293,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210173,
+        "titulo": "Extracto de la convocatoria BECAS PARA ESTUDIANTES DEL MÁSTER UNIVERSITARIO EN ESTUDIOS CULTURALES Y ARTES VISUALES (PERSPECTIVAS FEMINISTAS Y CUIR/QUEER) DE LA UMH CURSO ACADÉMICO 2025-2026, FINANCIADA POR EL INSTITUTO DE LAS MUJERES (Código línea de beca: 08-324-4-2026-0053-S)",
+        "tituloLeng": "Extracte de la convocatòria BEQUES PER A ESTUDIANTS DEL MÀSTER UNIVERSITARI EN ESTUDIS CULTURALS I ARTS VISUALS (PERSPECTIVES FEMINISTES I CUIR/QUEER) DE LA UMH, CURS ACADÈMIC 2025-2026, FINANÇADA PER L'INSTITUT DE LES DONES (codi de línia de beca 08-324-4-2026-0053-S)",
+        "texto": "<p>De conformidad con lo previsto en los artículos 17.3.b y 20.8.a de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, se publica el extracto de la convocatoria cuyo texto completo puede consultarse en la Base de Datos Nacional de Subvenciones (http://www.pap.minhap.gob.es/bdnstrans):</p><p></p><p>Primero. Beneficiarios.</p><p>Estudiantes matriculados en el Máster Universitario en Estudios Culturales y Artes Visuales (perspectivas feministas y cuir/queer) de la UMH en el curso académico 2025/2026.</p><p></p><p>Segundo. Objeto.</p><p>La finalidad de estas becas tiene como fin el pago de matrícula de estudiantes del Máster en Estudios Culturales y Artes Visuales (perspectivas feministas y cuir/queer) para el curso 2025-2026, ofreciendo una ayuda a las personas beneficiarias en la forma y requisitos que se establezcan en la convocatoria.</p><p></p><p>Tercero. Bases reguladoras.</p><p>https://boumh.umh.es/files/2026/04/RR_00945_2026.pdf</p><p></p><p>Cuarto. Cuantía.</p><p>Se conceden becas con una dotación máxima del importe total de las tasas académicas para el curso 2025-2026 por una cuantía máxima de 8.000 €. En todo caso, la dotación de cada beca se ajustará proporcionalmente al crédito definitivo concedido por el Instituto de las Mujeres, y su disponibilidad en la partida presupuestaria recogida en la convocatoria.</p><p></p><p>Quinto. Plazo de presentación de solicitudes.</p><p>Las solicitudes podrán ser presentadas desde el día siguiente al de la publicación de esta convocatoria en el DOGV y hasta 10 días hábiles después.</p><p></p><p>Sexto. Otros datos.</p>",
+        "textoLeng": "<p>De conformitat amb el que estableixen els articles 17.3.b i 20.8.a de la Llei 38/2003, de 17 de novembre, general de subvencions, se'n publica l'extracte de la convocatòria, el text complet de la qual podeu consultar en la Base de Dades Nacional de Subvencions (http://www.pap.minhap.gob.es/bdnstrans):</p><p></p><p>Primer. Beneficiaris.</p><p>Estudiants matriculats en el màster universitari en Estudis Culturals i Arts Visuals (Perspectives Feministes i Cuir/Queer) de la UMH en el curs acadèmic 2025/2026.</p><p></p><p>Segon. Objecte.</p><p>La finalitat d'aquestes beques és pagar la matrícula d'estudiants del màster en Estudis Culturals i Arts Visuals (Perspectives Feministes i Cuir/Queer) per al curs 2025-2026, oferint una ajuda a les persones beneficiàries en la forma i els requisits que s'establisquen en la convocatòria.</p><p></p><p>Tercer. Bases reguladores.</p><p>https://boumh.umh.es/files/2026/04/RR_00945_2026.pdf</p><p></p><p>Quart. Quantia.</p><p>Es concedeixen beques amb una dotació màxima de l'import total de les taxes acadèmiques per al curs 2025-2026 per una quantia màxima de 8.000 €. En tot cas, la dotació de cada beca s'ajustarà proporcionalment al crèdit definitiu concedit per l'Institut de les Dones, i la seua disponibilitat en la partida pressupostària que arreplega la convocatòria.</p><p></p><p>Quint. Termini de presentació de sol·licituds.</p><p>Les sol·licituds es poden presentar des de l'endemà de la publicació d'aquesta convocatòria en el DOGV i fins a 10 dies hàbils després.</p><p></p><p>Sisè. Altres dades.</p>",
+        "url": "https://dogv.gva.es/va/resultat-dogv?signatura=2026/12304",
+        "cve": "DOGV-V-2026-12304",
+        "desDiarioOficial": "DOCV. D.O. DE LA COMUNITAT VALENCIANA",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

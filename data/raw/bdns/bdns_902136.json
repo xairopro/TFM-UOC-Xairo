@@ -1,0 +1,110 @@
+{
+  "id": "BDNS-902136",
+  "id_interno": 1103697,
+  "numero_convocatoria": "902136",
+  "organismo": "AUTONOMICA — COMUNITAT VALENCIANA — SUBSECRETARÍA - CONSELLERIA DE JUSTICIA E INTERIOR",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "2026-01-01",
+  "fecha_fin_solicitud": "",
+  "abierto": true,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "SUBVENCION GASTOS FUNCIONAMIENTO PARTIDOS POLÍTICOS",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+  "regiones": "ES52 - COMUNIDAD VALENCIANA",
+  "finalidad": "Otras Prestaciones económicas",
+  "bases_reguladoras": "Ley 14/2007, de 26 de diciembre, de la Generalitat, de Medidas Fiscales, de Gestión administrativa y Financiera y de Organización de la Generalitat",
+  "url_bases_reguladoras": "http://www.dogv.gva.es/portal/ficha_disposicion.jsp?id=24&sig=015969/2007&L=1&url_lista=",
+  "presupuesto": "1.764.000,00 €",
+  "presupuesto_total_num": 1764000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902136",
+  "text": "CONVOCATORIA BDNS Nº 902136\nOrganismo: AUTONOMICA — COMUNITAT VALENCIANA — SUBSECRETARÍA - CONSELLERIA DE JUSTICIA E INTERIOR\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud: 2026-01-01 →  (abierto: sí)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 1.764.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO\nRegiones: ES52 - COMUNIDAD VALENCIANA\nFinalidad: Otras Prestaciones económicas\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSUBVENCION GASTOS FUNCIONAMIENTO PARTIDOS POLÍTICOS\n\nBases reguladoras:\nLey 14/2007, de 26 de diciembre, de la Generalitat, de Medidas Fiscales, de Gestión administrativa y Financiera y de Organización de la Generalitat\nURL bases reguladoras: http://www.dogv.gva.es/portal/ficha_disposicion.jsp?id=24&sig=015969/2007&L=1&url_lista=\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902136",
+  "_raw": {
+    "id": 1103697,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "COMUNITAT VALENCIANA",
+      "nivel3": "SUBSECRETARÍA - CONSELLERIA DE JUSTICIA E INTERIOR"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902136",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 1764000,
+    "mrr": false,
+    "descripcion": "SUBVENCION GASTOS FUNCIONAMIENTO PARTIDOS POLÍTICOS",
+    "descripcionLeng": "SUBVENCIÓ DESPESES FUNCIONAMENT PARTITS POLÍTICS",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES52 - COMUNIDAD VALENCIANA"
+      }
+    ],
+    "descripcionFinalidad": "Otras Prestaciones económicas",
+    "descripcionBasesReguladoras": "Ley 14/2007, de 26 de diciembre, de la Generalitat, de Medidas Fiscales, de Gestión administrativa y Financiera y de Organización de la Generalitat",
+    "urlBasesReguladoras": "http://www.dogv.gva.es/portal/ficha_disposicion.jsp?id=24&sig=015969/2007&L=1&url_lista=",
+    "sePublicaDiarioOficial": false,
+    "abierto": true,
+    "fechaInicioSolicitud": "2026-01-01",
+    "fechaFinSolicitud": null,
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444257,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "LEY 6 2025 Presupuesto 2025 GVA.pdf",
+        "long": 3684090,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444258,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "LLEI 6 2025, de 30 de maig, de pressupostos de la Generalitat per a l'exercici 2025.pdf",
+        "long": 3630472,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444259,
+        "descripcion": "Decreto 204/2025,del Consell, por el que se establecen los criterios de aplicación de la prórroga automática de los presupuestos de la Generalitat para 2025",
+        "nombreFic": "Decreto 204 2025 prórroga presupuestos 2025.pdf",
+        "long": 417093,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

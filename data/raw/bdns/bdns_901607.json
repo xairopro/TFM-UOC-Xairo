@@ -1,0 +1,138 @@
+{
+  "id": "BDNS-901607",
+  "id_interno": 1103168,
+  "numero_convocatoria": "901607",
+  "organismo": "LOCAL — CONSELL COMARCAL DEL GIRONÈS — CONSELL COMARCAL DEL GIRONÈS",
+  "sede_electronica": "www.girones.cat",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "2026-09-17",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Convocatoria para el otorgamiento de subvenciones para los Ayuntamientos de la Comarca del Gironès para la organización de festivales con trascendencia supramunicipal y ferias de desarrollo local para el ejercicio 2026.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+  "regiones": "ES512 - Girona",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Bases específicas reguladoras de las subvenciones dirigidas a los ayuntamientos de la comarca del Gironès para la organización de festivales con trascendencia supramunicipal y ferias de desarrollo local",
+  "url_bases_reguladoras": "https://www.girones.cat/2026/04/24/convocatoria-per-a-latorgament-de-subvencions-per-lorganitzacio-de-festivals-i-fires-2/",
+  "presupuesto": "16.000,00 €",
+  "presupuesto_total_num": 16000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901607",
+  "text": "CONVOCATORIA BDNS Nº 901607\nOrganismo: LOCAL — CONSELL COMARCAL DEL GIRONÈS — CONSELL COMARCAL DEL GIRONÈS\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  → 2026-09-17 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 16.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO\nRegiones: ES512 - Girona\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria para el otorgamiento de subvenciones para los Ayuntamientos de la Comarca del Gironès para la organización de festivales con trascendencia supramunicipal y ferias de desarrollo local para el ejercicio 2026.\n\nBases reguladoras:\nBases específicas reguladoras de las subvenciones dirigidas a los ayuntamientos de la comarca del Gironès para la organización de festivales con trascendencia supramunicipal y ferias de desarrollo local\nURL bases reguladoras: https://www.girones.cat/2026/04/24/convocatoria-per-a-latorgament-de-subvencions-per-lorganitzacio-de-festivals-i-fires-2/\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901607",
+  "_raw": {
+    "id": 1103168,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "CONSELL COMARCAL DEL GIRONÈS",
+      "nivel3": "CONSELL COMARCAL DEL GIRONÈS"
+    },
+    "sedeElectronica": "www.girones.cat",
+    "codigoBDNS": "901607",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 16000,
+    "mrr": false,
+    "descripcion": "Convocatoria para el otorgamiento de subvenciones para los Ayuntamientos de la Comarca del Gironès para la organización de festivales con trascendencia supramunicipal y ferias de desarrollo local para el ejercicio 2026.",
+    "descripcionLeng": "Convocatòria per a l'atorgament de subvencions adreçades a ajuntaments de la comarca del Gironès per l'organització de festivals amb trascendència supramunicipal i fires locals per a l'exercici 2026.",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES512 - Girona"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Bases específicas reguladoras de las subvenciones dirigidas a los ayuntamientos de la comarca del Gironès para la organización de festivales con trascendencia supramunicipal y ferias de desarrollo local",
+    "urlBasesReguladoras": "https://www.girones.cat/2026/04/24/convocatoria-per-a-latorgament-de-subvencions-per-lorganitzacio-de-festivals-i-fires-2/",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": "2026-09-17",
+    "textInicio": "A partir del dia siguiente de la publicación de la convocatoria en el BOP de Girona",
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442833,
+        "descripcion": "Bases subvenciones ajuntaments català",
+        "nombreFic": "Bases subvencions ajuntaments festivals i fires.PDF",
+        "long": 511800,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1442835,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "Extracte BDNS català.pdf",
+        "long": 419943,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1442829,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Extracte BDNS castellà.pdf",
+        "long": 218122,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1442834,
+        "descripcion": "Modelo solicitud",
+        "nombreFic": "Model de sol·licitud 2026.pdf",
+        "long": 1444281,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1442832,
+        "descripcion": "Bases subvenciones ayuntamientos castellano",
+        "nombreFic": "Bases subvenciones ayuntamientos (Castellano).pdf",
+        "long": 400997,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210210,
+        "titulo": "Convocatoria para el otorgamiento de subvenciones para los Ayuntamientos de la Comarca del Gironès para la organización de festivales con trascendencia supramunicipal y ferias de desarrollo local para el ejercicio 2026",
+        "tituloLeng": "Convocatòria per a l'atorgament de subvencions pels Ajuntaments de la Comarca del Gironès per l'organització de festivals amb trascendència supramunicipal i fires locals per a l'exercici 2026",
+        "texto": "<p>Mediante acuerdo del Consell de Presidència del Consell Comarcal del Gironès de fecha 22 de abril de 2026 se abre la convocatoria para el otorgamiento de subvenciones dirigidas a ayuntamientos de la comarca del Gironès para la organización de festivales con trascendéncia supramunicipal y ferias de desarrollo local para el ejercicio 2026. De conformidad con lo previsto en los artículos 17.3.b y 20.8.a de la Ley 38/2003, de 17 de noviembre, general de subvenciones, se publica el extracto de la convocatoria con el texto completo que se puede consultar en la Base de Datos Nacional de Subvenciones (BDNS).</p><p>Primero.- Objeto</p><p>El objeto de esta convocatoria es el otorgamiento de subvenciones dirigidas a ayuntamientos de la comarca del Gironès para la organización de festivales con trascendéncia supramunicipal y ferias de desarrollo local para el ejercicio 2026.</p><p>Segundo.- Solicitantes</p><p>Pueden concurrir a la convocatoria los ayuntamientos de la comarca del Gironès.</p><p> </p><p>Tercero.- Bases reguladoras</p><p>BOP de Girona núm. 56 – 21 de marzo de 2023 y DOGC núm. 8881 – 23 de marzo de 2023.</p><p> </p><p>Cuarto.- Importe</p><p>El importe de la convocatoria es de 16.000,00€. Aplicación presupuestaria 2026.01.9120.462000 del presupuesto general vigente para el ejercicio 2026.</p><p>Quinto.- Plazo de presentación</p><p>El plazo de presentación de solicitudes es desde el día siguiente de la publicación de la convocatoria en el BOP de Girona y hasta el 17 de septiembre de 2026, incluido.</p><p> </p><p> </p><p> </p>",
+        "textoLeng": "<p>Mitjançant acord del Consell de Presidència del Consell Comarcal del Gironès de data 22 d’abril de 2026 s’obre la convocatòria per a l’atorgament de subvencions adreçades a ajuntaments de la comarca del Gironès per l’organització de festivals amb trascendència supramunicipal i fires de desenvolupament local per a l’exercici 2026. De conformitat amb allò previst als articles 17.3.b i 20.8.a de la Llei 38/2003, de 17 de novembre, general de subvencions, es publica l’extracte de la convocatòria amb el text complet el qual es pot consultar a la Base de Dades Nacional de Subvencions (BDNS).</p><p>Primer.- Objecte</p><p>L’objecte d’aquesta convocatòria és l’atorgament de subvencions adreçades a ajuntaments de la comarca del Gironès per l’organització de festivals amb trascendència supramunicipal i fires locals per a l’exercici 2026.</p><p>Segon.- Sol·licitants</p><p>Poden concórrer a la convocatòria els ajuntaments de la comarca del Gironès.</p><p>Tercer.- Bases reguladores</p><p>BOP de Girona núm. 56 – 21 de març de 2023 i DOGC núm. 8881 - 23 de març de 2023.</p><p>Quart.- Import</p><p>L’import de la convocatòria és de 16.000,00 €. Aplicació pressupostària 2026.01.9120.462000  del pressupost general vigent per a l'exercici 2026.</p><p>Cinquè.- Termini de presentació</p><p>El termini de presentació de sol·licituds és des de l’endemà de la publicació de la convocatòria al BOP de Girona i fins al 17 de setembre de 2026, inclòs.</p><p> </p><p> </p><p> </p>",
+        "url": "https://ssl4.ddgi.cat/bopV1/pdf/2026/82/20268203538.pdf",
+        "cve": null,
+        "desDiarioOficial": "B.O.P. DE GIRONA",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

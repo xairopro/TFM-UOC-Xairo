@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-901636",
+  "id_interno": 1103197,
+  "numero_convocatoria": "901636",
+  "organismo": "LOCAL — ALCOBENDAS — AYUNTAMIENTO DE ALCOBENDAS",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Ayudas comedor escolar curso 2025-2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Educación",
+  "regiones": "ES30 - COMUNIDAD DE MADRID",
+  "finalidad": "Educación",
+  "bases_reguladoras": "Ordenanza general reguladora de Subvenciones en materia de educación del Ayuntamiento de Alcobendas",
+  "url_bases_reguladoras": "https://www.bocm.es/boletin/CM_Orden_BOCM/2016/07/26/BOCM-20160726-52.PDF",
+  "presupuesto": "715.000,00 €",
+  "presupuesto_total_num": 715000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901636",
+  "text": "CONVOCATORIA BDNS Nº 901636\nOrganismo: LOCAL — ALCOBENDAS — AYUNTAMIENTO DE ALCOBENDAS\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 715.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Educación\nRegiones: ES30 - COMUNIDAD DE MADRID\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nAyudas comedor escolar curso 2025-2026\n\nBases reguladoras:\nOrdenanza general reguladora de Subvenciones en materia de educación del Ayuntamiento de Alcobendas\nURL bases reguladoras: https://www.bocm.es/boletin/CM_Orden_BOCM/2016/07/26/BOCM-20160726-52.PDF\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901636",
+  "_raw": {
+    "id": 1103197,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "ALCOBENDAS",
+      "nivel3": "AYUNTAMIENTO DE ALCOBENDAS"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901636",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 715000,
+    "mrr": false,
+    "descripcion": "Ayudas comedor escolar curso 2025-2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Educación",
+        "codigo": "85"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES30 - COMUNIDAD DE MADRID"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "Ordenanza general reguladora de Subvenciones en materia de educación del Ayuntamiento de Alcobendas",
+    "urlBasesReguladoras": "https://www.bocm.es/boletin/CM_Orden_BOCM/2016/07/26/BOCM-20160726-52.PDF",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Al día siguiente de la publicación de esta convocatoria en el BOCM",
+    "textFin": "Quince días hábiles a contar desde su publicación en el BOCM",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442931,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Decreto 6455. Convocatoria Ayudas Comedor 2025  2026.pdf",
+        "long": 189041,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

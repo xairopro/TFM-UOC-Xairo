@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-902619",
+  "id_interno": 1104180,
+  "numero_convocatoria": "902619",
+  "organismo": "OTROS — UNIVERSITAT DE VALÈNCIA (ESTUDI GENERAL)",
+  "sede_electronica": "https://www.uv.es/sede-electronica/es/sede-electronica-uv.html",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Becas de movilidad para el curso 2026-2027 y 2027-2028 en el Máster Universitario Erasmus Mundus en Psicología del Trabajo, las Organizaciones y los Recursos Humanos.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Educación terciaria",
+  "regiones": "XXXX - TODO EL MUNDO",
+  "finalidad": "Educación",
+  "bases_reguladoras": "Becas de matrícula para estudiantes que vayan a cursar los estudios oficiales de \"Máster Universitario Erasmus Mundus en Psicología del Trabajo, las Organizaciones y los Recursos Humanos\" durante los cursos 2026-2027 y 2027-2028.",
+  "url_bases_reguladoras": "https://links.uv.es/evw0yM5",
+  "presupuesto": "196.000,00 €",
+  "presupuesto_total_num": 196000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902619",
+  "text": "CONVOCATORIA BDNS Nº 902619\nOrganismo: OTROS — UNIVERSITAT DE VALÈNCIA (ESTUDI GENERAL)\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 196.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Educación terciaria\nRegiones: XXXX - TODO EL MUNDO\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nBecas de movilidad para el curso 2026-2027 y 2027-2028 en el Máster Universitario Erasmus Mundus en Psicología del Trabajo, las Organizaciones y los Recursos Humanos.\n\nBases reguladoras:\nBecas de matrícula para estudiantes que vayan a cursar los estudios oficiales de \"Máster Universitario Erasmus Mundus en Psicología del Trabajo, las Organizaciones y los Recursos Humanos\" durante los cursos 2026-2027 y 2027-2028.\nURL bases reguladoras: https://links.uv.es/evw0yM5\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902619",
+  "_raw": {
+    "id": 1104180,
+    "organo": {
+      "nivel1": "OTROS",
+      "nivel2": "UNIVERSITAT DE VALÈNCIA (ESTUDI GENERAL)",
+      "nivel3": null
+    },
+    "sedeElectronica": "https://www.uv.es/sede-electronica/es/sede-electronica-uv.html",
+    "codigoBDNS": "902619",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 196000,
+    "mrr": false,
+    "descripcion": "Becas de movilidad para el curso 2026-2027 y 2027-2028 en el Máster Universitario Erasmus Mundus en Psicología del Trabajo, las Organizaciones y los Recursos Humanos.",
+    "descripcionLeng": "Beques de mobilitat per al curs 2026-2027 i 2027-2028 al Màster Universitari Erasmus Mundus en Psicologia del Treball, les Organitzacions i els Recursos Humans.",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Educación terciaria",
+        "codigo": "85.4"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "XXXX - TODO EL MUNDO"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "Becas de matrícula para estudiantes que vayan a cursar los estudios oficiales de \"Máster Universitario Erasmus Mundus en Psicología del Trabajo, las Organizaciones y los Recursos Humanos\" durante los cursos 2026-2027 y 2027-2028.",
+    "urlBasesReguladoras": "https://links.uv.es/evw0yM5",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "a partir del día siguiente de la publicación del extracto en el DOGV",
+    "textFin": "Finaliza el 25 de mayo de 2026, a las 23:59 horas",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445861,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "convocatoria_becas_em_wop_26-28_val_fir.pdf",
+        "long": 440292,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445860,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "convocatoria_becas_em_wop_26-28_cas_fir.pdf",
+        "long": 443062,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

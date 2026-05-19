@@ -1,0 +1,106 @@
+{
+  "id": "BDNS-902255",
+  "id_interno": 1103816,
+  "numero_convocatoria": "902255",
+  "organismo": "LOCAL — DIPUTACIÓN PROV. DE JAÉN — DIPUTACIÓN PROVINCIAL DE JAÉN",
+  "sede_electronica": "https://sede.dipujaen.es/",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "2026-05-20",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA DESTINADA A ASOCIACIONES E INSTITUCIONES SIN ÁNIMO DE LUCRO PARA EVENTOS DE PROMOCIÓN TURÍSTICA Y ESPECIAL INTERÉS RELACIONADOS CON EL PATRIMONIO CULTURAL Y/O NATURAL, Y CON CAPACIDAD DE ATRACCIÓN DE VISITANTES",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Administración pública y de la política económica, social y medioambiental",
+  "regiones": "ES616 - Jaén",
+  "finalidad": "Comercio, Turismo y Pymes",
+  "bases_reguladoras": "RESOLUCION/ACUERDO DE CONCESION DE LA SUBVENCION PARA EL AÑO 2026",
+  "url_bases_reguladoras": "https://www.dipujaen.es/export/files/transparencia/presupuesto2026/presupuestos2026.html",
+  "presupuesto": "97.200,00 €",
+  "presupuesto_total_num": 97200,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902255",
+  "text": "CONVOCATORIA BDNS Nº 902255\nOrganismo: LOCAL — DIPUTACIÓN PROV. DE JAÉN — DIPUTACIÓN PROVINCIAL DE JAÉN\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud:  → 2026-05-20 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 97.200,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Administración pública y de la política económica, social y medioambiental\nRegiones: ES616 - Jaén\nFinalidad: Comercio, Turismo y Pymes\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA DESTINADA A ASOCIACIONES E INSTITUCIONES SIN ÁNIMO DE LUCRO PARA EVENTOS DE PROMOCIÓN TURÍSTICA Y ESPECIAL INTERÉS RELACIONADOS CON EL PATRIMONIO CULTURAL Y/O NATURAL, Y CON CAPACIDAD DE ATRACCIÓN DE VISITANTES\n\nBases reguladoras:\nRESOLUCION/ACUERDO DE CONCESION DE LA SUBVENCION PARA EL AÑO 2026\nURL bases reguladoras: https://www.dipujaen.es/export/files/transparencia/presupuesto2026/presupuestos2026.html\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902255",
+  "_raw": {
+    "id": 1103816,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DIPUTACIÓN PROV. DE JAÉN",
+      "nivel3": "DIPUTACIÓN PROVINCIAL DE JAÉN"
+    },
+    "sedeElectronica": "https://sede.dipujaen.es/",
+    "codigoBDNS": "902255",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 97200,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA DESTINADA A ASOCIACIONES E INSTITUCIONES SIN ÁNIMO DE LUCRO PARA EVENTOS DE PROMOCIÓN TURÍSTICA Y ESPECIAL INTERÉS RELACIONADOS CON EL PATRIMONIO CULTURAL Y/O NATURAL, Y CON CAPACIDAD DE ATRACCIÓN DE VISITANTES",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Administración pública y de la política económica, social y medioambiental",
+        "codigo": "84.1"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES616 - Jaén"
+      }
+    ],
+    "descripcionFinalidad": "Comercio, Turismo y Pymes",
+    "descripcionBasesReguladoras": "RESOLUCION/ACUERDO DE CONCESION DE LA SUBVENCION PARA EL AÑO 2026",
+    "urlBasesReguladoras": "https://www.dipujaen.es/export/files/transparencia/presupuesto2026/presupuestos2026.html",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": "2026-05-20",
+    "textInicio": "Día siguiente de la publicación del extracto en el BOP",
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444759,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "RESOLUCION_APROB.AUT.GTO._Y_CONV.SUBVS._EVENTOS_ASOCIACIONES.pdf",
+        "long": 324209,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210392,
+        "titulo": "EXTRACTO DE LA CONVOCATORIA DESTINADA A ASOCIACIONES E INSTITUCIONES SIN ÁNIMO DE LUCRO PARA EVENTOS DE PROMOCIÓN TURÍSTICA Y ESPECIAL INTERÉS RELACIONADOS CON EL PATRIMONIO CULTURAL Y/O NATURAL, Y CON CAPACIDAD DE ATRACCIÓN DE VISITANTES, PARA EL EJERCICIO 2026",
+        "tituloLeng": null,
+        "texto": "<p></p><p></p><p></p><p>ANUNCIO</p><p></p><p>Primero: Beneficiarios</p><p>Podrán acogerse a los beneficios de esta Convocatoria de subvenciones las asociaciones e instituciones sin ánimo de lucro, que estén legalmente constituidas e inscritas en el Registro correspondiente, pudiendo presentar cada una de ellas una única solicitud. </p><p></p><p>No podrán solicitar estas subvenciones las agrupaciones de personas físicas o jurídicas, las comunidades de bienes o cualquier otro tipo de unidad económica o patrimonio separado, carentes de personalidad jurídica propia. </p><p></p><p>Segundo: Objeto.</p><p>Regular las subvenciones del Área de Promoción y Turismo, en el marco del Presupuesto para el ejercicio 2026, destinadas a asociaciones e instituciones sin ánimo de lucro para eventos de promoción turística y especial interés relacionados con el patrimonio cultural y/o natural, y con capacidad de atracción de visitantes que contribuyan a la consolidación de la actividad turística como un sector económico estratégico para el desarrollo sostenible de la provincia. </p><p></p><p>Tercero: Bases reguladoras.</p><p>Bases de Ejecución del Presupuesto General de la Diputación Provincial de Jaén para el año 2026 (BOP, número 248, de 30 de diciembre de 2025).</p><p></p><p>Cuarto: Cuantía.</p><p>Cuantía total: 97.200,00 ¿</p><p>Cuantía de la subvención: Hasta el 75% del coste final de los gastos subvencionables, con un máximo de 8.000 ¿ por beneficiario. </p><p></p><p>Quinto: Plazo de presentación de solicitudes.</p><p>Comenzará a partir del día siguiente de la fecha de publicación del presente extracto en el Boletín Oficial de la Provincia y finalizará el 20 de mayo de 2026.</p><p></p><p>Sexto. Otros datos de interés.</p><p>Las subvenciones que se regulan consisten en la colaboración económica para el diseño, organización, promoción y desarrollo de eventos de promoción turística y especial interés relacionados con el patrimonio cultural y/o natural, y con capacidad de atracción de visitantes.</p><p></p><p>La actividad a subvencionar tendrá que tener cabida dentro del objeto o fines sociales de la entidad solicitante.</p><p></p><p>Quedan excluidas de la presente Convocatoria las actuaciones consistentes en la adquisición, construcción, rehabilitación y mejora de bienes inventariables, así como equipamiento de cualquier tipo.</p><p></p><p>Gastos subvencionables:</p><p>Son los previstos en el artículo 22 de la Convocatoria.</p><p></p><p>Compatibilidad: Sí.</p><p></p><p>Documentación: </p><p>La prevista en el artículo 10 de la Convocatoria.</p><p></p><p>Criterios de valoración: </p><p>Se contienen en el artículo 15 de la Convocatoria.</p><p></p><p>Forma de pago: </p><p>La subvención se hará efectiva en un único pago, previa justificación del gasto realizado.</p><p></p><p>Plazo de Ejecución:</p><p>Desde el 1 de enero de 2026 hasta el 31 de marzo de 2027.</p><p></p><p>Forma de justificación: </p><p>Será necesario presentar la documentación señalada en el artículo 24 de la convocatoria.</p><p></p><p>Plazo máximo de justificación: </p><p>Hasta el 30 de junio de 2027.</p><p></p><p>Lo que se hace público para general conocimiento.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>",
+        "textoLeng": null,
+        "url": "http://bop.dipujaen.es/validaCVE?cve=BOP-2026-2000",
+        "cve": "BOP-2026-2000",
+        "desDiarioOficial": "B.O.P. DE JAÉN",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

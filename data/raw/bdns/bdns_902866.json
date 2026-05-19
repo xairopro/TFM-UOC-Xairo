@@ -1,0 +1,109 @@
+{
+  "id": "BDNS-902866",
+  "id_interno": 1104427,
+  "numero_convocatoria": "902866",
+  "organismo": "AUTONOMICA — COMUNITAT VALENCIANA — SECRETARÍA AUTONÓMICA DE CULTURA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "2026-01-01",
+  "fecha_fin_solicitud": "2026-12-31",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "INSTITUT VALENCIÀ DE CONSERVACIÓ, RESTAURACIÓ I INVESTIGACIÓ, PARA LA FINANCIACIÓN DE INVERSIONES Y OPERACIONES DE CAPITAL DE LA ENTIDAD",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "GRAN EMPRESA",
+  "sectores": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+  "regiones": "ES52 - COMUNIDAD VALENCIANA",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "DECRETO 204/2025, de 26 de diciembre, del Consell, por el que se establecen los criterios de aplicación de la prórroga automática de los presupuestos de la Generalitat para 2025, hasta la entrada en vigor de los presupuestos para 2026.",
+  "url_bases_reguladoras": "https://dogv.gva.es/datos/2025/12/31/pdf/2025_52312_es.pdf",
+  "presupuesto": "565.100,00 €",
+  "presupuesto_total_num": 565100,
+  "ayuda_estado": "SA.123155",
+  "url_ayuda_estado": "https://competition-cases.ec.europa.eu/cases/SA.123155",
+  "fondos": "",
+  "reglamento": "REG (UE) 651/2014, DE 17 DE JUNIO, de exención de notificación",
+  "objetivos": "ART. 53 AYUDAS A LA CULTURA Y LA CONSERVACIÓN DEL PATRIMONIO",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902866",
+  "text": "CONVOCATORIA BDNS Nº 902866\nOrganismo: AUTONOMICA — COMUNITAT VALENCIANA — SECRETARÍA AUTONÓMICA DE CULTURA\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud: 2026-01-01 → 2026-12-31 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 565.100,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: GRAN EMPRESA\nSectores: Actividades de bibliotecas, archivos, museos y otras actividades culturales\nRegiones: ES52 - COMUNIDAD VALENCIANA\nFinalidad: Cultura\nFondos: \nReglamento: REG (UE) 651/2014, DE 17 DE JUNIO, de exención de notificación\nAyuda de Estado: SA.123155\nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nINSTITUT VALENCIÀ DE CONSERVACIÓ, RESTAURACIÓ I INVESTIGACIÓ, PARA LA FINANCIACIÓN DE INVERSIONES Y OPERACIONES DE CAPITAL DE LA ENTIDAD\n\nBases reguladoras:\nDECRETO 204/2025, de 26 de diciembre, del Consell, por el que se establecen los criterios de aplicación de la prórroga automática de los presupuestos de la Generalitat para 2025, hasta la entrada en vigor de los presupuestos para 2026.\nURL bases reguladoras: https://dogv.gva.es/datos/2025/12/31/pdf/2025_52312_es.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902866",
+  "_raw": {
+    "id": 1104427,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "COMUNITAT VALENCIANA",
+      "nivel3": "SECRETARÍA AUTONÓMICA DE CULTURA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902866",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 565100,
+    "mrr": false,
+    "descripcion": "INSTITUT VALENCIÀ DE CONSERVACIÓ, RESTAURACIÓ I INVESTIGACIÓ, PARA LA FINANCIACIÓN DE INVERSIONES Y OPERACIONES DE CAPITAL DE LA ENTIDAD",
+    "descripcionLeng": "INSTITUT VALENCIÀ DE CONSERVACIÓ, RESTAURACIÓ I INVESTIGACIÓ, PER AL FINANÇAMENT D'INVERSIONS I OPERACIONS DE CAPITAL DE L'ENTITAT",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "GRAN EMPRESA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+        "codigo": "91"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES52 - COMUNIDAD VALENCIANA"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "DECRETO 204/2025, de 26 de diciembre, del Consell, por el que se establecen los criterios de aplicación de la prórroga automática de los presupuestos de la Generalitat para 2025, hasta la entrada en vigor de los presupuestos para 2026.",
+    "urlBasesReguladoras": "https://dogv.gva.es/datos/2025/12/31/pdf/2025_52312_es.pdf",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-01-01",
+    "fechaFinSolicitud": "2026-12-31",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": "SA.123155",
+    "urlAyudaEstado": "https://competition-cases.ec.europa.eu/cases/SA.123155",
+    "fondos": [],
+    "reglamento": {
+      "descripcion": "REG (UE) 651/2014, DE 17 DE JUNIO, de exención de notificación",
+      "orden": null
+    },
+    "objetivos": [
+      {
+        "descripcion": "ART. 53 AYUDAS A LA CULTURA Y LA CONSERVACIÓN DEL PATRIMONIO"
+      }
+    ],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446555,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "20260327 RESOLUCIO_IVCRI_VII_2026_cas REVISADO_26-003170_trad_web.pdf",
+        "long": 2366316,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446554,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "20260327 RESOLUCIO_IVCRI_VII_2026_cas Fiscalizada_web.pdf",
+        "long": 2963200,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

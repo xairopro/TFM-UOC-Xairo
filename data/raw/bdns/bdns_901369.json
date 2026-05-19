@@ -1,0 +1,114 @@
+{
+  "id": "BDNS-901369",
+  "id_interno": 1102930,
+  "numero_convocatoria": "901369",
+  "organismo": "AUTONOMICA — COMUNITAT VALENCIANA — SECRETARÍA AUTONÓMICA DE UNIVERSIDADES",
+  "sede_electronica": "https://www.gva.es/es/inicio/procedimientos?id_proc=110938&version=amp",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "2026-04-29",
+  "fecha_fin_solicitud": "2026-05-20",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "RESOLUCIÓN de 24 de abril de 2026, de la Conselleria de Educación, Cultura y Universidades por la que se establecen las bases reguladoras y se convocan para el curso 2024-2025 becas GV-TALENT",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Educación terciaria",
+  "regiones": "ES52 - COMUNIDAD VALENCIANA",
+  "finalidad": "Educación",
+  "bases_reguladoras": "RESOLUCIÓN de 24 de abril de 2026, de la Conselleria de Educación, Cultura y Universidades por la que se establecen las bases reguladoras y se convocan para el curso 2024-2025 becas GV-TALENT",
+  "url_bases_reguladoras": "https://universitats.gva.es/es/beca-gv-talent",
+  "presupuesto": "1.600.000,00 €",
+  "presupuesto_total_num": 1600000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901369",
+  "text": "CONVOCATORIA BDNS Nº 901369\nOrganismo: AUTONOMICA — COMUNITAT VALENCIANA — SECRETARÍA AUTONÓMICA DE UNIVERSIDADES\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud: 2026-04-29 → 2026-05-20 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 1.600.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Educación terciaria\nRegiones: ES52 - COMUNIDAD VALENCIANA\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nRESOLUCIÓN de 24 de abril de 2026, de la Conselleria de Educación, Cultura y Universidades por la que se establecen las bases reguladoras y se convocan para el curso 2024-2025 becas GV-TALENT\n\nBases reguladoras:\nRESOLUCIÓN de 24 de abril de 2026, de la Conselleria de Educación, Cultura y Universidades por la que se establecen las bases reguladoras y se convocan para el curso 2024-2025 becas GV-TALENT\nURL bases reguladoras: https://universitats.gva.es/es/beca-gv-talent\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901369",
+  "_raw": {
+    "id": 1102930,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "COMUNITAT VALENCIANA",
+      "nivel3": "SECRETARÍA AUTONÓMICA DE UNIVERSIDADES"
+    },
+    "sedeElectronica": "https://www.gva.es/es/inicio/procedimientos?id_proc=110938&version=amp",
+    "codigoBDNS": "901369",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 1600000,
+    "mrr": false,
+    "descripcion": "RESOLUCIÓN de 24 de abril de 2026, de la Conselleria de Educación, Cultura y Universidades por la que se establecen las bases reguladoras y se convocan para el curso 2024-2025 becas GV-TALENT",
+    "descripcionLeng": "RESOLUCIÓ de 24 d'abril de 2026, de la Conselleria d'Educació, Cultura i Universitats per la qual s'establixen les bases reguladores i es convoquen per al curs 2024-2025 beques GV-TALENT",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Educación terciaria",
+        "codigo": "85.4"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES52 - COMUNIDAD VALENCIANA"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "RESOLUCIÓN de 24 de abril de 2026, de la Conselleria de Educación, Cultura y Universidades por la que se establecen las bases reguladoras y se convocan para el curso 2024-2025 becas GV-TALENT",
+    "urlBasesReguladoras": "https://universitats.gva.es/es/beca-gv-talent",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-04-29",
+    "fechaFinSolicitud": "2026-05-20",
+    "textInicio": "Día siguiente al de su publicación en el DOGV",
+    "textFin": "15 días a contar desde el día siguiente a su publicación en el DOGV.",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442118,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Resolución Bases y Convoc -GVTalent 24-25-v2- tras Abogacia-tras Intervencion_rev_firmado.pdf",
+        "long": 395966,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442119,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "Resolucio Bases i Convoc -GVTalent 24-25-v2- tras Abogacia-tras Intervencion_rev_26-002865_trad_firmado.pdf",
+        "long": 405373,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 209964,
+        "titulo": "EXTRACTO de la Resolución de 24 de abril de 2026, de la Conselleria de Educación, Cultura y Universidades por la que se establecen las bases reguladoras y se convocan para el curso académico 2024-2025 las becas GV-TALENT para la excelencia en el rendimiento académico de estudios universitarios de grado y de estudios de enseñanzas artísticas superiores de grado.",
+        "tituloLeng": "EXTRACTE de la Resolució de 24 d'abril de 2026, de la Conselleria d'Educació, Cultura i Universitats per la qual s'establixen les bases reguladores i es convoquen per al curs acadèmic 2024-2025 les beques GV-TALENT per a l'excel·lència en el rendiment acadèmic d'estudis universitaris de grau i d'estudis d'ensenyances artístiques superiors de grau.",
+        "texto": "<p>Primero. Personas beneficiarias\n</p><p>1. Podrán ser personas beneficiarias el estudiantado que se haya matriculado de estudios de modalidad presencial pertenecientes al curso académico 2024-2025 de las siguientes enseñanzas: \n</p><p>a)\tEnseñanzas universitarias adaptadas al Espacio Europeo de Educación Superior conducentes a títulos oficiales de Grado, en alguna de las Universidades del Sistema Universitario Valenciano. \n</p><p>b)\tTítulos de Grado en enseñanzas artísticas superiores en los centros superiores de enseñanzas artísticas de la Comunitat Valenciana.\n</p><p>2. No se incluye el último curso que da acceso a la titulación de grado. \n</p><p>3. No se incluyen los grados obtenidos a partir de procedimientos de adaptación de títulos de licenciado/a, ingeniero/a, arquitecto/a, diplomado/a, maestro/a, ingeniero/a técnico/técnica y arquitecto/a técnico/a.\n</p><p>Segundo. Objeto \n</p><p>Convocar para el curso académico 2024-2025, las becas GV-Talent para la excelencia en el rendimiento académico del estudiantado que cursa estudios universitarios oficiales de grado y doble grado en las universidades que integran el Sistema Universitario Valenciano o centros adscritos a las mismas, así como estudios de enseñanzas artísticas superiores de grado y doble grado en los centros de enseñanzas artísticas superiores que forman parte del Instituto Superior de Enseñanzas Artísticas de la Comunitat Valenciana (ISEACV) o centros autorizados adscritos administrativamente a los mismos. \n</p><p>Tercero. Bases reguladoras\n</p><p>RESOLUCIÓN de la Conselleria de Educación, Cultura y Universidades por la que se establecen las bases reguladoras y se convocan para el curso académico 2024-2025 las becas GV-TALENT para la excelencia en el rendimiento académico de estudios universitarios de grado y de estudios de enseñanzas artísticas superiores de grado.\n</p><p>Cuarto. Cuantía\n</p><p>El importe de la beca dependerá del nivel de renta familiar, cuyos umbrales se establecen en el punto 4 de la base Octava. Si la renta familiar no supera el umbral 1, el importe de la beca será de 1.200 €. Si la renta familiar es superior al umbral 1 pero no supera el umbral 2, el importe de la beca será de 800 €. Si la renta familiar es superior al umbral 2, el importe de la beca será de 400 €. Para ser persona beneficiaria, la solicitante deberá reunir todos los requisitos establecidos en la presente resolución.\n</p><p>Quinto. Presentación de las solicitudes y plazo\n</p><p>1. La presentación de la solicitud se realizará preferentemente por medios electrónicos en la plataforma de tramitación de la Generalitat Valenciana.  El punto de acceso a la tramitación electrónica es la Sede Electrónica de la Generalitat, accesible en la dirección web https://sede.gva.es. El acceso directo a este trámite estará disponible en el siguiente enlace: \n</p><p>https://www.gva.es/es/inicio/procedimientos?id_proc=110938&version=amp\n</p><p>Una vez cumplimentada la solicitud telemática, será firmada por la persona interesada empleando cualquiera de los sistemas de firma electrónica aceptados por la sede electrónica y enviada por el procedimiento telemático establecido, considerándose presentada a todos los efectos, obteniendo el resguardo de la solicitud que deberá ser conservado por la persona solicitante para acreditar, en caso de que resulte necesario, la presentación de su solicitud en el plazo y forma establecidos.\n</p><p>En caso de duda puede consultar la información publicada en el siguiente enlace  https://universitats.gva.es/es/beca-gv-talent, enviar un correo a becatalent@gva.es, o llamar al 012 (si se encuentra dentro de la Comunitat Valenciana) o al 963 866 000 desde fuera de la comunidad.\n</p><p>2. Además de lo previsto en el apartado anterior, la solicitud se podrá presentar en cualquiera de los lugares a que se refiere el artículo 16.4 de la LPAC. En tales casos, en atención a los principios de eficacia, eficiencia y agilidad que deben regir este procedimiento, la presentación de la documentación se realizará preferentemente, en defecto de la vía telemática especificada en el punto 1, en las oficinas de asistencia en materia de registros habilitadas por la Generalitat (oficinas PROP).\n</p><p>3. En el supuesto de presentar más de una solicitud se considerará únicamente válida la última presentada.\n</p><p>4.  El plazo de presentación de solicitudes será de quince días a contar desde el día siguiente al de publicación de esta resolución en el Diari Oficial de la Generalitat Valenciana. \n</p>",
+        "textoLeng": "<p>Primer. Persones beneficiàries\n</p><p>1. Podran ser persones beneficiàries l'estudiantat que s'haja matriculat d'estudis de modalitat presencial pertanyents al curs acadèmic 2024-2025 de les següents ensenyances: \n</p><p>a)\tEnsenyances universitàries adaptades a l'Espai Europeu d'Educació Superior conduents a títols oficials de Grau, en alguna de les Universitats del Sistema Universitari Valencià. \n</p><p>b)\tTítols de Grau en ensenyances artístiques superiors en els centres superiors d'ensenyances artístiques de la Comunitat Valenciana.\n</p><p>2. No s'inclou l'últim curs que dona accés a la titulació de grau. \n</p><p>3. No s'inclouen els graus obtinguts a partir de procediments d'adaptació de títols de llicenciat/a, enginyer/a, arquitecte/a, diplomat/a, mestre/a, enginyer/a tècnic/tècnica i arquitecte/a tècnic/a.\n</p><p>Segon. Objecte \n</p><p>Convocar per al curs acadèmic 2024-2025, les beques GV-Talent per a l'excel·lència en el rendiment acadèmic de l'estudiantat que cursa estudis universitaris oficials de grau i doble grau en les universitats que integren el Sistema Universitari Valencià o centres adscrits a estes, així com estudis d'ensenyances artístiques superiors de grau i doble grau en els centres d'ensenyances artístiques superiors que formen part de l'Institut Superior d'Ensenyances Artístiques de la Comunitat Valenciana (ISEACV) o centres autoritzats adscrits administrativament a estos. \n</p><p>Tercer. Bases reguladores\n</p><p>RESOLUCIÓ de la Conselleria d'Educació, Cultura i Universitats per la qual s'establixen les bases reguladores i es convoquen per al curs acadèmic 2024-2025 les beques GV-TALENT per a l'excel·lència en el rendiment acadèmic d'estudis universitaris de grau i d'estudis d'ensenyances artístiques superiors de grau.\n</p><p>Quart. Quantia\n</p><p>L'import de la beca dependrà del nivell de renda familiar, els llindars de la qual s'establixen en el punt 4 de la base Octava. Si la renda familiar no supera el llindar 1, l'import de la beca serà de 1.200 €. Si la renda familiar és superior al llindar 1 però no supera el llindar 2, l'import de la beca serà de 800 €. Si la renda familiar és superior al llindar 2, l'import de la beca serà de 400 €. Per a ser persona beneficiària, la sol·licitant haurà de reunir tots els requisits establits en la present resolució.\n</p><p>Quint. Presentació de les sol·licituds i termini\n</p><p>1. La presentació de la sol·licitud es realitzarà preferentment per mitjans electrònics en la plataforma de tramitació de la Generalitat Valenciana. El punt d'accés a la tramitació electrònica és la Seu Electrònica de la Generalitat, accessible en l'adreça web https://sede.gva.es. L'accés directe a este tràmit estarà disponible en el següent enllaç: \n</p><p>https://www.gva.es/es/inicio/procedimientos?id_proc=110938&version=amp\n</p><p>Una vegada emplenada la sol·licitud telemàtica, serà firmada per la persona interessada emprant qualsevol dels sistemes de firma electrònica acceptats per la seu electrònica i enviada pel procediment telemàtic establit, considerant-se presentada amb caràcter general, obtenint el resguard de la sol·licitud que haurà de ser conservat per la persona sol·licitant per a acreditar, en cas que resulte necessari, la presentació de la seua sol·licitud en el termini i forma establits.\n</p><p>En cas de dubte pot consultar la informació publicada en el següent enllace https://universitats.gva.es/es/beca-gv-talent, enviar un correu a becatalent@gva.es, o telefonar al 012 (si es troba dins de la Comunitat Valenciana) o al 963 866 000 des de fora de la comunitat.\n</p><p>2. A més del que es preveu en l'apartat anterior, la sol·licitud es podrà presentar en qualsevol dels llocs a què es referix l'article 16.4 de la LPAC. En tals casos, en atenció als principis d'eficàcia, eficiència i agilitat que han de regir este procediment, la presentació de la documentació es realitzarà preferentment, a falta de la via telemàtica especificada en el punt 1, en les oficines d'assistència en matèria de registres habilitades per la Generalitat (oficines PROP).\n</p><p>3. En el supòsit de presentar més d'una sol·licitud es considerarà únicament vàlida l'última presentada.\n</p><p>4. El termini de presentació de sol·licituds serà de quinze dies a comptar des de l'endemà de publicació d'esta resolució en el Diari Oficial de la Generalitat Valenciana.\n</p>",
+        "url": "https://dogv.gva.es/va/resultat-dogv?signatura=2026/12144",
+        "cve": "DOGV-V-2026-12144",
+        "desDiarioOficial": "DOCV. D.O. DE LA COMUNITAT VALENCIANA",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

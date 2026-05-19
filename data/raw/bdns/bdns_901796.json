@@ -1,0 +1,97 @@
+{
+  "id": "BDNS-901796",
+  "id_interno": 1103357,
+  "numero_convocatoria": "901796",
+  "organismo": "AUTONOMICA — COMUNIDAD FORAL DE NAVARRA — DEPARTAMENTO DE DESARROLLO RURAL Y MEDIO AMBIENTE",
+  "sede_electronica": "www.navarra.es",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Convocatoria 2026 de ayudas a la participación en ferias comerciales con productos agroalimentarios",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA",
+  "regiones": "ES22 - COMUNIDAD FORAL DE NAVARRA",
+  "finalidad": "Agricultura, Pesca y Alimentación",
+  "bases_reguladoras": "Ayudas destinadas a la participación en ferias comerciales con productos agroalimentarios,  acogidas al régimen de mínimis, convocatoria 2026",
+  "url_bases_reguladoras": "www.navarra.es",
+  "presupuesto": "700.000,00 €",
+  "presupuesto_total_num": 700000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "REG (UE) 2023/2831 de minimis, General",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901796",
+  "text": "CONVOCATORIA BDNS Nº 901796\nOrganismo: AUTONOMICA — COMUNIDAD FORAL DE NAVARRA — DEPARTAMENTO DE DESARROLLO RURAL Y MEDIO AMBIENTE\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 700.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA\nRegiones: ES22 - COMUNIDAD FORAL DE NAVARRA\nFinalidad: Agricultura, Pesca y Alimentación\nFondos: \nReglamento: REG (UE) 2023/2831 de minimis, General\nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria 2026 de ayudas a la participación en ferias comerciales con productos agroalimentarios\n\nBases reguladoras:\nAyudas destinadas a la participación en ferias comerciales con productos agroalimentarios,  acogidas al régimen de mínimis, convocatoria 2026\nURL bases reguladoras: www.navarra.es\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901796",
+  "_raw": {
+    "id": 1103357,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "COMUNIDAD FORAL DE NAVARRA",
+      "nivel3": "DEPARTAMENTO DE DESARROLLO RURAL Y MEDIO AMBIENTE"
+    },
+    "sedeElectronica": "www.navarra.es",
+    "codigoBDNS": "901796",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 700000,
+    "mrr": false,
+    "descripcion": "Convocatoria 2026 de ayudas a la participación en ferias comerciales con productos agroalimentarios",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA",
+        "codigo": "A"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES22 - COMUNIDAD FORAL DE NAVARRA"
+      }
+    ],
+    "descripcionFinalidad": "Agricultura, Pesca y Alimentación",
+    "descripcionBasesReguladoras": "Ayudas destinadas a la participación en ferias comerciales con productos agroalimentarios,  acogidas al régimen de mínimis, convocatoria 2026",
+    "urlBasesReguladoras": "www.navarra.es",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "A partir del día siguiente a su publicación en el BON",
+    "textFin": "Treinta días a partir del día siguiente a su publicación en el BON",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": {
+      "descripcion": "REG (UE) 2023/2831 de minimis, General",
+      "orden": null
+    },
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443399,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "BBRR ferias 2026_122E-2026_CSV.pdf",
+        "long": 593883,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

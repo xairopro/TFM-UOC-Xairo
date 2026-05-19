@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-901356",
+  "id_interno": 1102917,
+  "numero_convocatoria": "901356",
+  "organismo": "LOCAL — SAN CRISTÓBAL DE LA LAGUNA — AYUNTAMIENTO DE SAN CRISTÓBAL DE LA LAGUNA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "PRESTACIONES ECONÓMICAS MUNICIPALES BLOQUE 2026021639",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "EDUCACIÓN",
+  "regiones": "ES709 - Tenerife",
+  "finalidad": "Servicios Sociales y Promoción Social",
+  "bases_reguladoras": "PRESTACIONES ECONÓMICAS MUNICIPALES BLOQUE 2026021639",
+  "url_bases_reguladoras": "www.aytolalaguna.es",
+  "presupuesto": "14.341,85 €",
+  "presupuesto_total_num": 14341.85,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901356",
+  "text": "CONVOCATORIA BDNS Nº 901356\nOrganismo: LOCAL — SAN CRISTÓBAL DE LA LAGUNA — AYUNTAMIENTO DE SAN CRISTÓBAL DE LA LAGUNA\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 14.341,85 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: EDUCACIÓN\nRegiones: ES709 - Tenerife\nFinalidad: Servicios Sociales y Promoción Social\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nPRESTACIONES ECONÓMICAS MUNICIPALES BLOQUE 2026021639\n\nBases reguladoras:\nPRESTACIONES ECONÓMICAS MUNICIPALES BLOQUE 2026021639\nURL bases reguladoras: www.aytolalaguna.es\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901356",
+  "_raw": {
+    "id": 1102917,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "SAN CRISTÓBAL DE LA LAGUNA",
+      "nivel3": "AYUNTAMIENTO DE SAN CRISTÓBAL DE LA LAGUNA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901356",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 14341.85,
+    "mrr": false,
+    "descripcion": "PRESTACIONES ECONÓMICAS MUNICIPALES BLOQUE 2026021639",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES709 - Tenerife"
+      }
+    ],
+    "descripcionFinalidad": "Servicios Sociales y Promoción Social",
+    "descripcionBasesReguladoras": "PRESTACIONES ECONÓMICAS MUNICIPALES BLOQUE 2026021639",
+    "urlBasesReguladoras": "www.aytolalaguna.es",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "SIN PLAZO",
+    "textFin": "SIN PLAZO",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442078,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "ORDENANZA PEM.pdf",
+        "long": 4210319,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

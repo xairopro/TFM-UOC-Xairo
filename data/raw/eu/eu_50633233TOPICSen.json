@@ -1,0 +1,175 @@
+{
+  "id": "EU-50633233TOPICSen",
+  "topic_id": "50633233TOPICSen",
+  "titulo": "EURES Targeted Mobility Scheme (TMS)",
+  "descripcion": "EURES Targeted Mobility Scheme (TMS)",
+  "organismo": "43254019",
+  "fecha_publicacion": "2026-03-10",
+  "fecha_limite": "2026-05-26",
+  "deadlines_todas": "2026-05-26",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113980\":[{\"action\":\"ESF-2026-EURES-TMS - ESF-PJG ESF Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"17000000\"},\"plannedOpeningDate\":\"2026-03-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-05-26\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "ESF Project Grants",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ESF-2026-EURES-TMS",
+  "text": "EU FUNDING & TENDERS – Topic: 50633233TOPICSen\nProgramme/Organism: 43254019\nTitle: EURES Targeted Mobility Scheme (TMS)\nStatus: Open (31094502)\nType of action: ESF Project Grants\nOpening date: 2026-03-10\nDeadline: 2026-05-26\nAll deadlines: 2026-05-26\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113980\":[{\"action\":\"ESF-2026-EURES-TMS - ESF-PJG ESF Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"17000000\"},\"plannedOpeningDate\":\"2026-03-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-05-26\"]}]}}\n\nDescription / Scope:\nEURES Targeted Mobility Scheme (TMS)\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ESF-2026-EURES-TMS",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "50633233TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ESF-2026-EURES-TMS",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "EURES Targeted Mobility Scheme (TMS)",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "EURES Targeted Mobility Scheme (TMS)",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "66033844BE0F81132B80A3A5E470E75A5D5E181E3E7B41046D273088E414F315",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-03-10T00:01:04.455\",\"content\":\"The submission session is now available for: ESF-2026-EURES-TMS\"}]"
+      ],
+      "es_SortDate": [
+        "2026-03-10T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "ESF-2026-EURES-TMS",
+        "ESF-2026-EURES-TMS"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>Conditions</h4><div><h4>1. Admissibility conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>As described in the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/esf/wp-call/2026/call-fiche_esf-2026-eures-tms_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p><p><br></br></p><p>Applications must be submitted <strong>before the call deadline</strong> and <strong>electronically</strong> via the Funding &amp; Tenders Portal Electronic Submission System. Paper submissions are NOT possible.</p><p>Applications (including annexes and supporting documents) must be submitted using the forms provided inside the Submission System.</p><p>Applications must be complete and contain:</p><ul><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Application Form (Part A)</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Application Form (Part B)</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>Annexes and supporting documents (to be uploaded as PDF files). </li></ul><p>At proposal submission, the lead applicant will have to confirm that it has the <strong>mandate to act</strong> for all applicants; that the information in the application is correct and complete and that the participants comply with the conditions for receiving EU funding (especially eligibility, financial and operational capacity, exclusion, etc.) Before signing the grant, each beneficiary and affiliated entity will have to confirm this again by signing a declaration of honour (DoH).</p><p><strong>Applications must be readable, accessible and printable, not exceeding 70 pages.</strong></p></div></div><div><h4>2. Eligible countries</h4><div class=\"eui-u-mt-s\"><p>As described in the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/esf/wp-call/2026/call-fiche_esf-2026-eures-tms_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>. </p><p><br></br></p></div></div><div><h4>3. Other eligibility conditions</h4><div class=\"eui-u-mt-s\"><p>As described in the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/esf/wp-call/2026/call-fiche_esf-2026-eures-tms_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>As described in the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/esf/wp-call/2026/call-fiche_esf-2026-eures-tms_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>5a. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>As described in the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/esf/wp-call/2026/call-fiche_esf-2026-eures-tms_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>5b. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>The <strong>award criteria</strong> for this call are described in the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/esf/wp-call/2026/call-fiche_esf-2026-eures-tms_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document </a></u>- (full details in section 9. of the call, pages 19-21)</p><ol><li data-list=\"bullet\" class=\"ql-indent-1\"><span class=\"ql-ui\" contenteditable=\"false\"></span><em>Award criteria / Minimum pass score / Maximum score</em></li><li data-list=\"bullet\" class=\"ql-indent-1\"><span class=\"ql-ui\" contenteditable=\"false\"></span><em>Relevance / 28 / 40</em></li><li data-list=\"bullet\" class=\"ql-indent-1\"><span class=\"ql-ui\" contenteditable=\"false\"></span><em>Quality - Project design and implementation / 14 / 20</em></li><li data-list=\"bullet\" class=\"ql-indent-1\"><span class=\"ql-ui\" contenteditable=\"false\"></span><em>Quality - Project team and cooperation arrangements / 14 / 20</em></li><li data-list=\"bullet\" class=\"ql-indent-1\"><span class=\"ql-ui\" contenteditable=\"false\"></span><em>Impact / 14 / 20</em></li><li data-list=\"bullet\" class=\"ql-indent-1\"><span class=\"ql-ui\" contenteditable=\"false\"></span><em>Overall (pass) scores / 70 / 100</em></li><li data-list=\"bullet\" class=\"ql-indent-1\"><span class=\"ql-ui\" contenteditable=\"false\"></span><em>Maximum points: 100 points. </em></li></ol><p>Individual thresholds per criterion: 28/40, 14/20, 14/20 and 14/20 points.</p><p>Overall threshold: 70/100 points.</p><p>Proposals that pass the individual thresholds AND the overall threshold will be considered for funding - within the limits of the available budget (i.e. up to the budget ceiling). Other proposals will be rejected.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>Call opening: 10/03/2026</p><p><u>Deadline for submission: </u><strong><u>26/05/2026 </u></strong><u>– 17:00:00 CET (Brussels) </u></p><p>Evaluation: June – July 2026</p><p>Information on evaluation results: September – October 2026</p><p>GA signature: January – February 2027</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\">\n</div></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Call document and annexes:</h4> <div class=\"eui-u-mt-s\"><p><strong>Call document:</strong></p><p><strong><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/esf/wp-call/2026/call-fiche_esf-2026-eures-tms_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/esf/wp-call/2026/call-fiche_esf-2026-eures-tms_en.pdf</a> </strong></p><p><strong>Annex : <a href=\"https://webgate.ec.europa.eu/circabc-ewpp/ui/group/bab664d7-1188-47b2-9fa6-869902320ba2/library/07b20194-65ad-4c23-a29f-92e29bd69613/details\" rel=\"noopener noreferrer\" target=\"_blank\">EURES TMS Implementing Guide 2026</a> </strong></p><p><a href=\"https://webgate.ec.europa.eu/circabc-ewpp/ui/group/bab664d7-1188-47b2-9fa6-869902320ba2/library/07b20194-65ad-4c23-a29f-92e29bd69613/details?download=true\" rel=\"noopener noreferrer\" target=\"_blank\">https://webgate.ec.europa.eu/circabc-ewpp/ui/group/bab664d7-1188-47b2-9fa6-869902320ba2/library/07b20194-65ad-4c23-a29f-92e29bd69613/details?download=true</a></p><p><br></br></p><p><strong>Application form templates</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/temp-form/af/af_esf-socpl_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (ESF and SOCPL)</a> — the application form specific to this call is available in the Submission System</p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_esf-socpl_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">ESF and SOCPL MGA</a></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://webgate.ec.europa.eu/circabc-ewpp/ui/group/bab664d7-1188-47b2-9fa6-869902320ba2/library/2f8b1df5-e198-4c42-8094-35c1e15905bd?p=1&amp;n=10&amp;sort=modified_DESC\" rel=\"noopener noreferrer\" target=\"_blank\">ESF+ Annual Work Programme</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R1057\" rel=\"noopener noreferrer\" target=\"_blank\">ESF+ Regulation 2021/1057</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a>&#xa0;</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "EURES Targeted Mobility Scheme (TMS)"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "66033844BE0F81132B80A3A5E470E75A5D5E181E3E7B41046D273088E414F315"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43252140"
+      ],
+      "callIdentifier": [
+        "ESF-2026-EURES-TMS"
+      ],
+      "ccm2Id": [
+        "50633233"
+      ],
+      "callccm2Id": [
+        "50633248"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50633233TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"ESF-2026-EURES-TMS\",\"criterionCode\":\"ESF-PJG\",\"criterionDescription\":\"ESF Project Grants\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43656?topic\\u003dESF-2026-EURES-TMS\",\"startDate\":\"1773100800000\",\"endDate\":\"1779753600000\",\"mgaDescription\":\"ESF Action Grant Budget-Based\",\"mgaCode\":\"ESF-AG\"}]"
+      ],
+      "callTitle": [
+        "EURES Targeted Mobility Scheme (TMS)"
+      ],
+      "frameworkProgramme": [
+        "43254019"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Outcome:</p><p>The overall objective of this call for proposals is to ensure around 4 000 placements for mobile jobseekers of all age groups with special focus on young people.</p><p>The action targets the filling of hard-to-fill vacancies and labour shortages as identified in national/EU labour market studies or other data sources.</p><p>The action, being strongly result-oriented, contributes to:</p><ul level=\"0\"><li>a) addressing labour market needs, in particular tackling labour markets' imbalances, as well as labour and skills shortages;</li><li>b) improving the conditions for jobseekers and workers to exercise their right of freedom of movement across the EU;</li><li>c) filling of hard-to-fill vacancies (in the form of either jobs, traineeships or apprenticeships), notably where specific labour shortages have been identified;</li><li>d) enhancing the service catalogue of the EURES organisations;</li><li>e) fostering public-private partnerships within EURES.</li> </ul><p class=\"topicdescriptionkind\">Scope:</p><p>The EURES Targeted Mobility Scheme (TMS) combines tailor-made recruitment, matching, training, and placement services with financial incentives. Support measures may vary based on labour market needs and their analysis. They include provisions for interviews in another EU/EEA country, relocation, linguistic training, recognition of qualifications, as well as recruitment support. The final beneficiaries may include job changers, job/traineeship/apprenticeship seekers, and recruiting businesses, including SMEs, who may receive direct financial support through targeted allowances.</p><p>The activities encompass the provision of direct services to jobseekers and employers, including:</p><ul level=\"0\"><li><strong>information, matching, recruitment and placement</strong>: including innovative approaches and matching/recruitment methods to identify and reach individuals with particular skills, qualifications or profiles in line with the needs of specific labour sectors affected by labour shortages, in identified geographical area.</li><li><strong>pre- and post-placement support</strong> (e.g. profiling and pre-selection of jobseekers, assessment of training needs and skills development, providing interview preparation support, offering information and assistance, addressing challenges that may arise during the early stages of employment, regular monitoring and assessing the performance and satisfaction of placed individuals and respective employers).</li><li><strong>direct financial support to jobseekers</strong> to contribute to interview and relocation expenses, language training, and recognition of qualifications.</li><li><strong>direct financial support to SMEs</strong> for training programmes for newly recruited TMS candidates and for already employed SME workers.</li> </ul><p>The action aims to:</p><ul level=\"0\"><li>reach the target groups aged over 18 and seeking a job, traineeship, or apprenticeship in another EU/EEA country;</li><li>address labour mobility obstacles, such as the cost of moving abroad, lack of language knowledge, integration of mobile workers in destination countries, as well as the need for specific training programs;</li><li>contribute to reducing labour market imbalances and address hard-to-fill vacancies, particularly in sectors with identified labour shortcomings based on recent national/EU labour market studies or other relevant data sources.</li> </ul><p>The activities funded under this call shall support the implementation of the EURES TMS objectives, ensuring the provision of <strong>customized employment services</strong>, including <strong>innovative working</strong> methods to:</p><ol style=\"list-style-type:lower-alpha\" level=\"0\">  <li>Tackle labour and skills shortages.</li><li>Facilitate the matching and recruitment process supporting the placement of jobseekers in quality jobs, as well as the integration of mobile workers in the host countries.</li><li>Provide financial incentives, in compliance with Annex I (<em>Implementing Guide</em>).</li><li>Promote and disseminate activities/results to maximize impacts, addressing the challenges posed by labour shortages in identified economic sectors.</li> </ol>"
+      ],
+      "identifier": [
+        "ESF-2026-EURES-TMS"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43254027"
+      ],
+      "crossCuttingPriorities": [
+        "DigitalAgenda",
+        "AI"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-03-03T00:01:31.437+0100"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-05-26T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-03-10T00:02:32.190+0100"
+      ],
+      "typesOfAction": [
+        "ESF Project Grants"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ESF-2026-EURES-TMS"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ESF-2026-EURES-TMS"
+      ],
+      "tags": [],
+      "cenTagsA": [
+        "TOPICS-014967",
+        "TOPICS-014968",
+        "TOPICS-014969",
+        "TOPICS-001121"
+      ],
+      "esDA_QueueDate": [
+        "2026-03-10T00:02:32.176+0100"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"ESF-PJG ESF Project Grants\",\"typeOfMGA\":[{\"id\":43252140,\"abbreviation\":\"ESF-AG\",\"description\":\"ESF Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-03-10\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-05-26\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113980\":[{\"action\":\"ESF-2026-EURES-TMS - ESF-PJG ESF Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"17000000\"},\"plannedOpeningDate\":\"2026-03-10\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-05-26\"]}]}}"
+      ],
+      "startDate": [
+        "2026-03-10T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?order=DESC&amp;pageNumber=1&amp;pageSize=10&amp;sortBy=publicationDate&amp;isExactMatch=true&amp;type=1&amp;grantCategories=p_submission_eval\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ – Submission of proposals</a>.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> – Step-by-step online guide through the Portal processes from proposal preparation and evaluation to reporting on your ongoing project. Valid for all 2021-2027 programmes.</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/IT/IT+How+to\" rel=\"noopener noreferrer\" target=\"_blank\">IT How to - IT How To - Funding Tenders Opportunities</a> - Detailed instructions on how to apply for EU funding, from how to register your organisation, how to manage the roles and access rights to your organisations, proposals and to how to submit your proposal. It gives also detailed instructions on and on how to manage your grant if you are selected.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/support\" rel=\"noopener noreferrer\" target=\"_blank\">Support overview</a>: Page gathering all support tools (overview, guidance and manuals, FAQ's, helpdesk, support videos)</p><p><a href=\"https://ec.europa.eu/european-social-fund-plus/en/esf-direct-easi\" rel=\"noopener noreferrer\" target=\"_blank\">ESF+ direct (EaSI)</a></p><p>For help related to this call<strong>, if you did not find an answer in the various support means</strong>, please contact:</p><p>− general questions on ESF+: <a href=\"mailto:EMPL-EaSI@ec.europa.eu\" rel=\"noopener noreferrer\" target=\"_blank\">EMPL-EaSI@ec.europa.eu</a></p><p>− call-specific questions: <a href=\"mailto:EMPL-ESF-2026-EURES-TMS@ec.europa.eu\" rel=\"noopener noreferrer\" target=\"_blank\">EMPL-ESF-2026-EURES-TMS@ec.europa.eu</a></p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "EURES Targeted Mobility Scheme (TMS). Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ESF-2026-EURES-TMS",
+    "score": 3.0
+  }
+}

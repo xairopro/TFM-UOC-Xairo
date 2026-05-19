@@ -1,0 +1,136 @@
+{
+  "id": "EU-186556PROSPECTSEN",
+  "topic_id": "186556PROSPECTSEN",
+  "titulo": "República Dominicana: Convocatoria temática para las Organizaciones de la Sociedad Civil (CSO) y los Derechos Humanos (HRD)",
+  "descripcion": "República Dominicana: Convocatoria temática para las Organizaciones de la Sociedad Civil (CSO) y los Derechos Humanos (HRD)",
+  "organismo": "111111",
+  "fecha_publicacion": "2026-04-15",
+  "fecha_limite": "2026-06-01",
+  "deadlines_todas": "2026-06-01",
+  "presupuesto": "2734000",
+  "duracion": "",
+  "tipo_accion": "",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186556",
+  "text": "EU FUNDING & TENDERS – Topic: 186556PROSPECTSEN\nProgramme/Organism: 111111\nTitle: República Dominicana: Convocatoria temática para las Organizaciones de la Sociedad Civil (CSO) y los Derechos Humanos (HRD)\nStatus: Open (31094502)\nType of action: \nOpening date: 2026-04-15\nDeadline: 2026-06-01\nAll deadlines: 2026-06-01\nDuration: \nBudget overview: 2734000\n\nDescription / Scope:\nRepública Dominicana: Convocatoria temática para las Organizaciones de la Sociedad Civil (CSO) y los Derechos Humanos (HRD)\n\nMore info: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186556",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "186556PROSPECTSEN",
+    "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186556",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "República Dominicana: Convocatoria temática para las Organizaciones de la Sociedad Civil (CSO) y los Derechos Humanos (HRD)",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "República Dominicana: Convocatoria temática para las Organizaciones de la Sociedad Civil (CSO) y los Derechos Humanos (HRD)",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "A8F007270E06F12129BA0A44F3E0EA02043240E7A39436E668A947599F4DB374",
+    "metadata": {
+      "updateDate": [
+        "2026-04-14T23:18:53.000+0000"
+      ],
+      "es_SortDate": [
+        "2026-04-15T13:00:39.000+0000"
+      ],
+      "beneficiaryAdministration": [],
+      "sortStatus": [
+        "1"
+      ],
+      "contractType": [
+        "42893160"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "República Dominicana: Convocatoria temática para las Organizaciones de la Sociedad Civil (CSO) y los Derechos Humanos (HRD)"
+      ],
+      "type": [
+        "2"
+      ],
+      "esST_checksum": [
+        "A8F007270E06F12129BA0A44F3E0EA02043240E7A39436E668A947599F4DB374"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "callIdentifier": [
+        "186556"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "186556PROSPECTSEN"
+      ],
+      "currency": [
+        "EUR"
+      ],
+      "frameworkProgramme": [
+        "111111"
+      ],
+      "budget": [
+        "2734000"
+      ],
+      "identifier": [
+        "EuropeAid/186556/DD/ACT/DO"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "geographicalZones": [
+        "20000877"
+      ],
+      "publicationDocuments": [
+        "[{\"nameDoc\":\"Guía para solicitantes de subvenciones\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 15:00:43.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2154598&lang=ES\"},{\"nameDoc\":\"Anexo A1 - Formulario de solicitud de subvención, documento de síntesis\",\"typeDoc\":\"rtf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 15:00:51.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2151845&lang=ES\"},{\"nameDoc\":\"Anexo A2 - Formulario de solicitud de subvención, solicitud completa\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 15:00:10.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2151846&lang=ES\"},{\"nameDoc\":\"Anexo B - Presupuesto\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 15:00:12.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2151847&lang=ES\"},{\"nameDoc\":\"Anexo C - Matriz de marco lógico\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 15:00:33.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2150884&lang=ES\"},{\"nameDoc\":\"Anexo D - Formulario de Identificación persona jurídica (Organizmo de Derecho Privado))\",\"typeDoc\":\"pdf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 15:00:01.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2150885&lang=ES\"},{\"nameDoc\":\"Anexo D - Formulario de Identificación persona jurídica (Organismo de Derecho Público)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 15:00:42.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2150888&lang=ES\"},{\"nameDoc\":\"Anexo F - PADOR Formulario de Registro Offline\",\"typeDoc\":\"pdf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 15:00:48.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2150882&lang=ES\"},{\"nameDoc\":\"Anexo G - Contrato de subvencion (modelo estándar)\",\"typeDoc\":\"zip\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 15:00:29.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2151849&lang=ES\"},{\"nameDoc\":\"Anexo H - Declaración jurada sobre los criterios de exclusión\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 15:00:43.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2150879&lang=ES\"},{\"nameDoc\":\"Anexo J - Información sobre el régimen fiscal aplicable a los contratos de subvención\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 15:00:39.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2151850&lang=ES\"},{\"nameDoc\":\"Anexo L - Autoevaluación sobre explotación, abuso y acoso sexuales\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 15:00:14.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2150877&lang=ES\"},{\"nameDoc\":\"e-Calls PADOR declaración de proteción de datos\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-15 15:00:53.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2150889&lang=ES\"}]"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-04-15T15:01:00.473+0200"
+      ],
+      "programmePeriod": [
+        "2014 - 2020",
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-06-01T21:00:05.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-15T15:01:00.473+0200"
+      ],
+      "url": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186556"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186556"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-15T15:01:00.449+0200"
+      ],
+      "programmeDivisionProspect": [
+        "43072409"
+      ],
+      "geographicalZone": [
+        "20000877"
+      ],
+      "startDate": [
+        "2026-04-15T13:00:39.000+0000"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "República Dominicana: Convocatoria temática para las Organizaciones de la Sociedad Civil (CSO) y los Derechos Humanos (HRD). Available at: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186556",
+    "score": 3.0
+  }
+}

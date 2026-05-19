@@ -1,0 +1,98 @@
+{
+  "id": "BDNS-901664",
+  "id_interno": 1103225,
+  "numero_convocatoria": "901664",
+  "organismo": "LOCAL — ALHAMA DE MURCIA — AYUNTAMIENTO DE ALHAMA DE MURCIA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "2026-02-09",
+  "fecha_fin_solicitud": "2026-03-06",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Concurso Literario de la Concejalía de Igualdad del Ayuntamiento de Alhama de Murcia: “8 DE MARZO: Día Internacional de las Mujeres”",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "EDUCACIÓN",
+  "regiones": "ES620 - Murcia",
+  "finalidad": "Educación",
+  "bases_reguladoras": "Concurso Literario de la Concejalía de Igualdad del Ayuntamiento de Alhama de Murcia: “8 DE MARZO: Día Internacional de las Mujeres”",
+  "url_bases_reguladoras": "https://ayuntamiento.alhamademurcia.es/",
+  "presupuesto": "450,00 €",
+  "presupuesto_total_num": 450,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "FSE - FONDO SOCIAL EUROPEO",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901664",
+  "text": "CONVOCATORIA BDNS Nº 901664\nOrganismo: LOCAL — ALHAMA DE MURCIA — AYUNTAMIENTO DE ALHAMA DE MURCIA\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud: 2026-02-09 → 2026-03-06 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 450,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: EDUCACIÓN\nRegiones: ES620 - Murcia\nFinalidad: Educación\nFondos: FSE - FONDO SOCIAL EUROPEO\nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConcurso Literario de la Concejalía de Igualdad del Ayuntamiento de Alhama de Murcia: “8 DE MARZO: Día Internacional de las Mujeres”\n\nBases reguladoras:\nConcurso Literario de la Concejalía de Igualdad del Ayuntamiento de Alhama de Murcia: “8 DE MARZO: Día Internacional de las Mujeres”\nURL bases reguladoras: https://ayuntamiento.alhamademurcia.es/\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901664",
+  "_raw": {
+    "id": 1103225,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "ALHAMA DE MURCIA",
+      "nivel3": "AYUNTAMIENTO DE ALHAMA DE MURCIA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901664",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 450,
+    "mrr": false,
+    "descripcion": "Concurso Literario de la Concejalía de Igualdad del Ayuntamiento de Alhama de Murcia: “8 DE MARZO: Día Internacional de las Mujeres”",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES620 - Murcia"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "Concurso Literario de la Concejalía de Igualdad del Ayuntamiento de Alhama de Murcia: “8 DE MARZO: Día Internacional de las Mujeres”",
+    "urlBasesReguladoras": "https://ayuntamiento.alhamademurcia.es/",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-02-09",
+    "fechaFinSolicitud": "2026-03-06",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [
+      {
+        "descripcion": "FSE - FONDO SOCIAL EUROPEO "
+      }
+    ],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442991,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Basesconcursoliteratura2026.pdf",
+        "long": 259355,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

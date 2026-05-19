@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-902092",
+  "id_interno": 1103653,
+  "numero_convocatoria": "902092",
+  "organismo": "LOCAL — NAVAS DEL REY — AYUNTAMIENTO DE NAVAS DEL REY",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "2026-01-01",
+  "fecha_fin_solicitud": "2026-12-31",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - canónica",
+  "descripcion": "2026-0276 de 13 de febrero de 2026 de la Alcaldía (Ayuntamiento Navas del Rey) por la que se convoca patrocinio para la difusión y\npublicidad del escudo municipal en los eventos deportivos en los que participa como jugador profesional de pádel.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+  "regiones": "ES - ESPAÑA",
+  "finalidad": "Otras Prestaciones económicas",
+  "bases_reguladoras": "Los beneficiarios deberán justificar la subvención presentando un dossier que demuestre su participación en eventos deportivos,\nincluyendo pruebas gráficas o documentales donde se vea la utilización del escudo del municipio.",
+  "url_bases_reguladoras": "https://gestiona- 09.espublico.com/dossierh.14?x=g8bvrxvPIIr1GVxxNlXAh1W OH1T6u8yIokNwsMfTgnsEuuPGvwGAN7RkkMveUnyjbSQj0alK UiJ4mPDPcMhd-Xbau6QnlD4zI-I6erXLrw9o- RzKuFuz0UFdZBYsSIlO0yfA9AkiFSvjvFRQdTVKv0r*LBarsbCxr aHmRuDImgc",
+  "presupuesto": "1.200,00 €",
+  "presupuesto_total_num": 1200,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902092",
+  "text": "CONVOCATORIA BDNS Nº 902092\nOrganismo: LOCAL — NAVAS DEL REY — AYUNTAMIENTO DE NAVAS DEL REY\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud: 2026-01-01 → 2026-12-31 (abierto: no)\nTipo de convocatoria: Concesión directa - canónica\nPresupuesto total: 1.200,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO\nRegiones: ES - ESPAÑA\nFinalidad: Otras Prestaciones económicas\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\n2026-0276 de 13 de febrero de 2026 de la Alcaldía (Ayuntamiento Navas del Rey) por la que se convoca patrocinio para la difusión y\npublicidad del escudo municipal en los eventos deportivos en los que participa como jugador profesional de pádel.\n\nBases reguladoras:\nLos beneficiarios deberán justificar la subvención presentando un dossier que demuestre su participación en eventos deportivos,\nincluyendo pruebas gráficas o documentales donde se vea la utilización del escudo del municipio.\nURL bases reguladoras: https://gestiona- 09.espublico.com/dossierh.14?x=g8bvrxvPIIr1GVxxNlXAh1W OH1T6u8yIokNwsMfTgnsEuuPGvwGAN7RkkMveUnyjbSQj0alK UiJ4mPDPcMhd-Xbau6QnlD4zI-I6erXLrw9o- RzKuFuz0UFdZBYsSIlO0yfA9AkiFSvjvFRQdTVKv0r*LBarsbCxr aHmRuDImgc\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902092",
+  "_raw": {
+    "id": 1103653,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "NAVAS DEL REY",
+      "nivel3": "AYUNTAMIENTO DE NAVAS DEL REY"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902092",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - canónica",
+    "presupuestoTotal": 1200,
+    "mrr": false,
+    "descripcion": "2026-0276 de 13 de febrero de 2026 de la Alcaldía (Ayuntamiento Navas del Rey) por la que se convoca patrocinio para la difusión y\npublicidad del escudo municipal en los eventos deportivos en los que participa como jugador profesional de pádel.",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES - ESPAÑA "
+      }
+    ],
+    "descripcionFinalidad": "Otras Prestaciones económicas",
+    "descripcionBasesReguladoras": "Los beneficiarios deberán justificar la subvención presentando un dossier que demuestre su participación en eventos deportivos,\nincluyendo pruebas gráficas o documentales donde se vea la utilización del escudo del municipio.",
+    "urlBasesReguladoras": "https://gestiona- 09.espublico.com/dossierh.14?x=g8bvrxvPIIr1GVxxNlXAh1W OH1T6u8yIokNwsMfTgnsEuuPGvwGAN7RkkMveUnyjbSQj0alK UiJ4mPDPcMhd-Xbau6QnlD4zI-I6erXLrw9o- RzKuFuz0UFdZBYsSIlO0yfA9AkiFSvjvFRQdTVKv0r*LBarsbCxr aHmRuDImgc",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-01-01",
+    "fechaFinSolicitud": "2026-12-31",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444142,
+        "descripcion": "Convenio firmado por el representante del ayuntamiento y la interesada.",
+        "nombreFic": "20260428_Convenio Amanda López Moral.pdf",
+        "long": 142104,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444137,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "20260331_Acuerdo_DECRETO 2026-0276 [Resolución de Alcaldía]-4.pdf",
+        "long": 369425,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

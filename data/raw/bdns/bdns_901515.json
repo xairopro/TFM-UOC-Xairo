@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-901515",
+  "id_interno": 1103076,
+  "numero_convocatoria": "901515",
+  "organismo": "LOCAL — DIPUTACIÓN PROV. DE A CORUÑA — DIPUTACIÓN PROVINCIAL DE CORUÑA, A",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "2026-01-01",
+  "fecha_fin_solicitud": "2026-04-06",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Convenio con el Club Universitario de Ferrol para la cofinanciación de los gastos de participación del año 2025 del equipo de baloncesto femenino en las eliminatorias de la competición internacional EuroCup Women 2024-25.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades deportivas, recreativas y de entretenimiento",
+  "regiones": "ES111 - A Coruña",
+  "finalidad": "Otras actuaciones de carácter económico",
+  "bases_reguladoras": "Ordenanza general de subvenciones y transferencias de la Diputación Provincial de A Coruña",
+  "url_bases_reguladoras": "https://bop.dacoruna.gal/bopportal/publicado/2025/09/29/2025_0000006296.pdf",
+  "presupuesto": "30.000,00 €",
+  "presupuesto_total_num": 30000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901515",
+  "text": "CONVOCATORIA BDNS Nº 901515\nOrganismo: LOCAL — DIPUTACIÓN PROV. DE A CORUÑA — DIPUTACIÓN PROVINCIAL DE CORUÑA, A\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud: 2026-01-01 → 2026-04-06 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 30.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades deportivas, recreativas y de entretenimiento\nRegiones: ES111 - A Coruña\nFinalidad: Otras actuaciones de carácter económico\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvenio con el Club Universitario de Ferrol para la cofinanciación de los gastos de participación del año 2025 del equipo de baloncesto femenino en las eliminatorias de la competición internacional EuroCup Women 2024-25.\n\nBases reguladoras:\nOrdenanza general de subvenciones y transferencias de la Diputación Provincial de A Coruña\nURL bases reguladoras: https://bop.dacoruna.gal/bopportal/publicado/2025/09/29/2025_0000006296.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901515",
+  "_raw": {
+    "id": 1103076,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DIPUTACIÓN PROV. DE A CORUÑA",
+      "nivel3": "DIPUTACIÓN PROVINCIAL DE CORUÑA, A"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901515",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 30000,
+    "mrr": false,
+    "descripcion": "Convenio con el Club Universitario de Ferrol para la cofinanciación de los gastos de participación del año 2025 del equipo de baloncesto femenino en las eliminatorias de la competición internacional EuroCup Women 2024-25.",
+    "descripcionLeng": "Convenio co Club Universitario de Ferrol para o cofinanciamento dos gastos de participación do ano 2025 do equipo de baloncesto feminino nas eliminatorias da competición internacional EuroCup Women 2024-25.",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades deportivas, recreativas y de entretenimiento",
+        "codigo": "93"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES111 - A Coruña"
+      }
+    ],
+    "descripcionFinalidad": "Otras actuaciones de carácter económico",
+    "descripcionBasesReguladoras": "Ordenanza general de subvenciones y transferencias de la Diputación Provincial de A Coruña",
+    "urlBasesReguladoras": "https://bop.dacoruna.gal/bopportal/publicado/2025/09/29/2025_0000006296.pdf",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-01-01",
+    "fechaFinSolicitud": "2026-04-06",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442456,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "Acordo plenario polo que se aproba o convenio.pdf",
+        "long": 192580,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442455,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Acuerdo plenario por el que se aprueba el convenio.pdf",
+        "long": 195330,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

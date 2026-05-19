@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902040",
+  "id_interno": 1103601,
+  "numero_convocatoria": "902040",
+  "organismo": "OTROS — UNIVERSIDAD DE HUELVA",
+  "sede_electronica": "https://app.santanderopenacademy.com/es/program/summerschool-huelva- 2026",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Convocatoria de Ayudas para cursar estudios de español como Lengua Extranjera en la Summer School Huelva 2026.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "EDUCACIÓN",
+  "regiones": "ES615 - Huelva",
+  "finalidad": "Educación",
+  "bases_reguladoras": "Bases Reguladoras para la concesión en régimen de concurrencia competitiva de becas y ayudas concedidas para la realización de cursos intensivos de español como lengua extranjera en la Universidad de Huelva (BOJA de 26 de marzo de 2026).",
+  "url_bases_reguladoras": "https://www.juntadeandalucia.es/boja/2026/59/s51",
+  "presupuesto": "8.800,00 €",
+  "presupuesto_total_num": 8800,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902040",
+  "text": "CONVOCATORIA BDNS Nº 902040\nOrganismo: OTROS — UNIVERSIDAD DE HUELVA\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 8.800,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: EDUCACIÓN\nRegiones: ES615 - Huelva\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria de Ayudas para cursar estudios de español como Lengua Extranjera en la Summer School Huelva 2026.\n\nBases reguladoras:\nBases Reguladoras para la concesión en régimen de concurrencia competitiva de becas y ayudas concedidas para la realización de cursos intensivos de español como lengua extranjera en la Universidad de Huelva (BOJA de 26 de marzo de 2026).\nURL bases reguladoras: https://www.juntadeandalucia.es/boja/2026/59/s51\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902040",
+  "_raw": {
+    "id": 1103601,
+    "organo": {
+      "nivel1": "OTROS",
+      "nivel2": "UNIVERSIDAD DE HUELVA",
+      "nivel3": null
+    },
+    "sedeElectronica": "https://app.santanderopenacademy.com/es/program/summerschool-huelva- 2026",
+    "codigoBDNS": "902040",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 8800,
+    "mrr": false,
+    "descripcion": "Convocatoria de Ayudas para cursar estudios de español como Lengua Extranjera en la Summer School Huelva 2026.",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES615 - Huelva"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "Bases Reguladoras para la concesión en régimen de concurrencia competitiva de becas y ayudas concedidas para la realización de cursos intensivos de español como lengua extranjera en la Universidad de Huelva (BOJA de 26 de marzo de 2026).",
+    "urlBasesReguladoras": "https://www.juntadeandalucia.es/boja/2026/59/s51",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Al día siguiente de la publicación de la presente convocatoria en BOJA.",
+    "textFin": "20 días hábiles siguientes a su publicación en BOJA.",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444031,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Convocatoria Summer School 2026-.report.pdf",
+        "long": 736296,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

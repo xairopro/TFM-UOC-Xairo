@@ -1,0 +1,150 @@
+{
+  "id": "BDNS-901954",
+  "id_interno": 1103515,
+  "numero_convocatoria": "901954",
+  "organismo": "AUTONOMICA — PRINCIPADO DE ASTURIAS — CONSEJERÍA DE PRESIDENCIA, RETO DEMOGRÁFICO, IGUALDAD Y TURISMO",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "2026-01-01",
+  "fecha_fin_solicitud": "2026-12-31",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "CONCESIÓN DIRECTA SUBVENCIÓN NOMINATIVA A FADE PARA PROYECTO LIDERAZGO EMPRESARIAL",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades auxiliares a la educación, Actividades de intermediación para reparación y mantenimiento de ordenadores, artículos personales y enseres domésticos y vehículos de motor y motocicletas, Actividades de intermediación para servicios de apoyo a las empresas n.c.o.p., Actividades de intermediación para servicios de construcción especializada, Actividades de intermediación para servicios personales, Actividades de reventa de telecomunicaciones y servicios de intermediación para telecomunicaciones, Actividades de servicios de intermediación para el comercio al por menor, Intermediarios del comercio al por mayor, Otras actividades de apoyo a las empresas n.c.o.p., Otras actividades de asistencia en establecimientos residenciales, Otras actividades sanitarias, Servicios de intermediación para el alquiler de bienes tangibles y de activos intangibles no financieros, Servicios de intermediación para las actividades postales y de mensajería",
+  "regiones": "ES120 - Asturias",
+  "finalidad": "Servicios Sociales y Promoción Social",
+  "bases_reguladoras": "Ley del Principado de Asturias 5/2025, de 31 de diciembre, de Presupuestos Generales para 2026",
+  "url_bases_reguladoras": "https://www.boe.es/eli/es-as/l/2025/12/31/5",
+  "presupuesto": "50.000,00 €",
+  "presupuesto_total_num": 50000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901954",
+  "text": "CONVOCATORIA BDNS Nº 901954\nOrganismo: AUTONOMICA — PRINCIPADO DE ASTURIAS — CONSEJERÍA DE PRESIDENCIA, RETO DEMOGRÁFICO, IGUALDAD Y TURISMO\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud: 2026-01-01 → 2026-12-31 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 50.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades auxiliares a la educación, Actividades de intermediación para reparación y mantenimiento de ordenadores, artículos personales y enseres domésticos y vehículos de motor y motocicletas, Actividades de intermediación para servicios de apoyo a las empresas n.c.o.p., Actividades de intermediación para servicios de construcción especializada, Actividades de intermediación para servicios personales, Actividades de reventa de telecomunicaciones y servicios de intermediación para telecomunicaciones, Actividades de servicios de intermediación para el comercio al por menor, Intermediarios del comercio al por mayor, Otras actividades de apoyo a las empresas n.c.o.p., Otras actividades de asistencia en establecimientos residenciales, Otras actividades sanitarias, Servicios de intermediación para el alquiler de bienes tangibles y de activos intangibles no financieros, Servicios de intermediación para las actividades postales y de mensajería\nRegiones: ES120 - Asturias\nFinalidad: Servicios Sociales y Promoción Social\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONCESIÓN DIRECTA SUBVENCIÓN NOMINATIVA A FADE PARA PROYECTO LIDERAZGO EMPRESARIAL\n\nBases reguladoras:\nLey del Principado de Asturias 5/2025, de 31 de diciembre, de Presupuestos Generales para 2026\nURL bases reguladoras: https://www.boe.es/eli/es-as/l/2025/12/31/5\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901954",
+  "_raw": {
+    "id": 1103515,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "PRINCIPADO DE ASTURIAS",
+      "nivel3": "CONSEJERÍA DE PRESIDENCIA, RETO DEMOGRÁFICO, IGUALDAD Y TURISMO"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901954",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 50000,
+    "mrr": false,
+    "descripcion": "CONCESIÓN DIRECTA SUBVENCIÓN NOMINATIVA A FADE PARA PROYECTO LIDERAZGO EMPRESARIAL",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades auxiliares a la educación",
+        "codigo": "85.6"
+      },
+      {
+        "descripcion": "Actividades de intermediación para reparación y mantenimiento de ordenadores, artículos personales y enseres domésticos y vehículos de motor y motocicletas",
+        "codigo": "95.4"
+      },
+      {
+        "descripcion": "Actividades de intermediación para servicios de apoyo a las empresas n.c.o.p.",
+        "codigo": "82.4"
+      },
+      {
+        "descripcion": "Actividades de intermediación para servicios de construcción especializada",
+        "codigo": "43.6"
+      },
+      {
+        "descripcion": "Actividades de intermediación para servicios personales",
+        "codigo": "96.4"
+      },
+      {
+        "descripcion": "Actividades de reventa de telecomunicaciones y servicios de intermediación para telecomunicaciones",
+        "codigo": "61.2"
+      },
+      {
+        "descripcion": "Actividades de servicios de intermediación para el comercio al por menor",
+        "codigo": "47.9"
+      },
+      {
+        "descripcion": "Intermediarios del comercio al por mayor",
+        "codigo": "46.1"
+      },
+      {
+        "descripcion": "Otras actividades de apoyo a las empresas n.c.o.p.",
+        "codigo": "82.9"
+      },
+      {
+        "descripcion": "Otras actividades de asistencia en establecimientos residenciales",
+        "codigo": "87.9"
+      },
+      {
+        "descripcion": "Otras actividades sanitarias",
+        "codigo": "86.9"
+      },
+      {
+        "descripcion": "Servicios de intermediación para el alquiler de bienes tangibles y de activos intangibles no financieros",
+        "codigo": "77.5"
+      },
+      {
+        "descripcion": "Servicios de intermediación para las actividades postales y de mensajería",
+        "codigo": "53.3"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES120 - Asturias"
+      }
+    ],
+    "descripcionFinalidad": "Servicios Sociales y Promoción Social",
+    "descripcionBasesReguladoras": "Ley del Principado de Asturias 5/2025, de 31 de diciembre, de Presupuestos Generales para 2026",
+    "urlBasesReguladoras": "https://www.boe.es/eli/es-as/l/2025/12/31/5",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-01-01",
+    "fechaFinSolicitud": "2026-12-31",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443794,
+        "descripcion": "RESOLUCIÓN CONCESIÓN DIRECTA DE SUBVENCIÓN NOMINATIVA FADE PROYECTO DE LIDERAZGO EMPRESARIAL",
+        "nombreFic": "Resolucion_Cons._de_Presidencia__Reto_Demografico__Igualdad_y_Turismo_Firma_Consejero (13).pdf",
+        "long": 320794,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443793,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Presupuestos 2026.pdf",
+        "long": 487858,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

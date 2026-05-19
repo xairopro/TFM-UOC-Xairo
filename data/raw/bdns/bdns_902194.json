@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902194",
+  "id_interno": 1103755,
+  "numero_convocatoria": "902194",
+  "organismo": "LOCAL — PINÓS, EL/PINOSO — AYUNTAMIENTO DE PINÓS, EL/PINOSO",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "2025-01-01",
+  "fecha_fin_solicitud": "2025-04-16",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CERTÁMEN NACIONAL DE POESÍA MAXI BANEGAS 2025",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+  "regiones": "ES521 - Alicante / Alacant",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "CERTÁMEN NACIONAL DE POESÍA MAXI BANEGAS 2025",
+  "url_bases_reguladoras": "https://www.pap.hacienda.gob.es/bdnstrans/inicio",
+  "presupuesto": "1.800,00 €",
+  "presupuesto_total_num": 1800,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902194",
+  "text": "CONVOCATORIA BDNS Nº 902194\nOrganismo: LOCAL — PINÓS, EL/PINOSO — AYUNTAMIENTO DE PINÓS, EL/PINOSO\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud: 2025-01-01 → 2025-04-16 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 1.800,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO\nRegiones: ES521 - Alicante / Alacant\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCERTÁMEN NACIONAL DE POESÍA MAXI BANEGAS 2025\n\nBases reguladoras:\nCERTÁMEN NACIONAL DE POESÍA MAXI BANEGAS 2025\nURL bases reguladoras: https://www.pap.hacienda.gob.es/bdnstrans/inicio\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902194",
+  "_raw": {
+    "id": 1103755,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "PINÓS, EL/PINOSO",
+      "nivel3": "AYUNTAMIENTO DE PINÓS, EL/PINOSO"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902194",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 1800,
+    "mrr": false,
+    "descripcion": "CERTÁMEN NACIONAL DE POESÍA MAXI BANEGAS 2025",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES521 - Alicante / Alacant"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "CERTÁMEN NACIONAL DE POESÍA MAXI BANEGAS 2025",
+    "urlBasesReguladoras": "https://www.pap.hacienda.gob.es/bdnstrans/inicio",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2025-01-01",
+    "fechaFinSolicitud": "2025-04-16",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444417,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "2025_CERTAMEN_POESIA_GESTDOC_7B3F9A2EF980CF45B603A1FD7DB62EA0.pdf",
+        "long": 620903,
+        "datMod": "2026-04-28",
+        "datPublicacion": null
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

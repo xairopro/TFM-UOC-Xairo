@@ -1,0 +1,177 @@
+{
+  "id": "BDNS-902979",
+  "id_interno": 1104540,
+  "numero_convocatoria": "902979",
+  "organismo": "AUTONOMICA — CANARIAS — SERVICIO CANARIO DE EMPLEO",
+  "sede_electronica": "https://sede.gobiernodecanarias.org/sede/procedimientos_servicios/tramites/10923",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "2026-10-15",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - canónica",
+  "descripcion": "SUBV. CONCILIACIÓN VIDA FAMILIAR Y LABORAL PERSONAS TRABAJADORAS AUTÓNOMAS",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS AUXILIARES, ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, ACTIVIDADES DE EDICIÓN, RADIODIFUSIÓN Y PRODUCCIÓN Y DISTRIBUCIÓN DE CONTENIDOS, ACTIVIDADES DE LOS HOGARES COMO EMPLEADORES Y COMO PRODUCTORES DE BIENES Y SERVICIOS NO DIFERENCIADOS PARA USO PROPIO, ACTIVIDADES FINANCIERAS Y DE SEGUROS, ACTIVIDADES INMOBILIARIAS, ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS, ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES, ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA, COMERCIO AL POR MAYOR Y AL POR MENOR, CONSTRUCCIÓN, EDUCACIÓN, HOSTELERÍA, INDUSTRIA MANUFACTURERA, INDUSTRIAS EXTRACTIVAS, ORGANISMOS EXTRATERRITORIALES, OTROS SERVICIOS, SUMINISTRO DE AGUA, ACTIVIDADES DE SANEAMIENTO, GESTIÓN DE RESIDUOS Y DESCONTAMINACIÓN, SUMINISTRO DE ENERGIA ELECTRICA, GAS, VAPOR Y AIRE ACONDICIONADO, TELECOMUNICACIONES, PROGRAMACIÓN INFORMÁTICA, CONSULTORÍA, INFRAESTRUCTURA INFORMÁTICA Y OTROS SERVICIOS DE INFORMACIÓN, TRANSPORTE Y ALMACENAMIENTO",
+  "regiones": "ES70 - CANARIAS",
+  "finalidad": "Fomento del Empleo",
+  "bases_reguladoras": "SUBV. CONCILIACIÓN VIDA FAMILIAR Y LABORAL PERS. TRAB. AUTÓNOMAS Y PRIMERA CONTRAT. INCORP. 52 AÑOS O MÁS",
+  "url_bases_reguladoras": "https://www.gobiernodecanarias.org/boc/2026/073/1186.html",
+  "presupuesto": "400.000,00 €",
+  "presupuesto_total_num": 400000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "REG (UE) 2023/2831 de minimis, General",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902979",
+  "text": "CONVOCATORIA BDNS Nº 902979\nOrganismo: AUTONOMICA — CANARIAS — SERVICIO CANARIO DE EMPLEO\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud:  → 2026-10-15 (abierto: no)\nTipo de convocatoria: Concesión directa - canónica\nPresupuesto total: 400.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS AUXILIARES, ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, ACTIVIDADES DE EDICIÓN, RADIODIFUSIÓN Y PRODUCCIÓN Y DISTRIBUCIÓN DE CONTENIDOS, ACTIVIDADES DE LOS HOGARES COMO EMPLEADORES Y COMO PRODUCTORES DE BIENES Y SERVICIOS NO DIFERENCIADOS PARA USO PROPIO, ACTIVIDADES FINANCIERAS Y DE SEGUROS, ACTIVIDADES INMOBILIARIAS, ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS, ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES, ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA, COMERCIO AL POR MAYOR Y AL POR MENOR, CONSTRUCCIÓN, EDUCACIÓN, HOSTELERÍA, INDUSTRIA MANUFACTURERA, INDUSTRIAS EXTRACTIVAS, ORGANISMOS EXTRATERRITORIALES, OTROS SERVICIOS, SUMINISTRO DE AGUA, ACTIVIDADES DE SANEAMIENTO, GESTIÓN DE RESIDUOS Y DESCONTAMINACIÓN, SUMINISTRO DE ENERGIA ELECTRICA, GAS, VAPOR Y AIRE ACONDICIONADO, TELECOMUNICACIONES, PROGRAMACIÓN INFORMÁTICA, CONSULTORÍA, INFRAESTRUCTURA INFORMÁTICA Y OTROS SERVICIOS DE INFORMACIÓN, TRANSPORTE Y ALMACENAMIENTO\nRegiones: ES70 - CANARIAS\nFinalidad: Fomento del Empleo\nFondos: \nReglamento: REG (UE) 2023/2831 de minimis, General\nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSUBV. CONCILIACIÓN VIDA FAMILIAR Y LABORAL PERSONAS TRABAJADORAS AUTÓNOMAS\n\nBases reguladoras:\nSUBV. CONCILIACIÓN VIDA FAMILIAR Y LABORAL PERS. TRAB. AUTÓNOMAS Y PRIMERA CONTRAT. INCORP. 52 AÑOS O MÁS\nURL bases reguladoras: https://www.gobiernodecanarias.org/boc/2026/073/1186.html\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902979",
+  "_raw": {
+    "id": 1104540,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "CANARIAS",
+      "nivel3": "SERVICIO CANARIO DE EMPLEO"
+    },
+    "sedeElectronica": "https://sede.gobiernodecanarias.org/sede/procedimientos_servicios/tramites/10923",
+    "codigoBDNS": "902979",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - canónica",
+    "presupuestoTotal": 400000,
+    "mrr": false,
+    "descripcion": "SUBV. CONCILIACIÓN VIDA FAMILIAR Y LABORAL PERSONAS TRABAJADORAS AUTÓNOMAS",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ADMINISTRATIVAS Y SERVICIOS AUXILIARES",
+        "codigo": "O"
+      },
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      },
+      {
+        "descripcion": "ACTIVIDADES DE EDICIÓN, RADIODIFUSIÓN Y PRODUCCIÓN Y DISTRIBUCIÓN DE CONTENIDOS",
+        "codigo": "J"
+      },
+      {
+        "descripcion": "ACTIVIDADES DE LOS HOGARES COMO EMPLEADORES Y COMO PRODUCTORES DE BIENES Y SERVICIOS NO DIFERENCIADOS PARA USO PROPIO",
+        "codigo": "U"
+      },
+      {
+        "descripcion": "ACTIVIDADES FINANCIERAS Y DE SEGUROS",
+        "codigo": "L"
+      },
+      {
+        "descripcion": "ACTIVIDADES INMOBILIARIAS",
+        "codigo": "M"
+      },
+      {
+        "descripcion": "ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS",
+        "codigo": "N"
+      },
+      {
+        "descripcion": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+        "codigo": "R"
+      },
+      {
+        "descripcion": "ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA",
+        "codigo": "P"
+      },
+      {
+        "descripcion": "COMERCIO AL POR MAYOR Y AL POR MENOR",
+        "codigo": "G"
+      },
+      {
+        "descripcion": "CONSTRUCCIÓN",
+        "codigo": "F"
+      },
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      },
+      {
+        "descripcion": "HOSTELERÍA",
+        "codigo": "I"
+      },
+      {
+        "descripcion": "INDUSTRIA MANUFACTURERA",
+        "codigo": "C"
+      },
+      {
+        "descripcion": "INDUSTRIAS EXTRACTIVAS",
+        "codigo": "B"
+      },
+      {
+        "descripcion": "ORGANISMOS EXTRATERRITORIALES",
+        "codigo": "V"
+      },
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      },
+      {
+        "descripcion": "SUMINISTRO DE AGUA, ACTIVIDADES DE SANEAMIENTO, GESTIÓN DE RESIDUOS Y DESCONTAMINACIÓN",
+        "codigo": "E"
+      },
+      {
+        "descripcion": "SUMINISTRO DE ENERGIA ELECTRICA, GAS, VAPOR Y AIRE ACONDICIONADO",
+        "codigo": "D"
+      },
+      {
+        "descripcion": "TELECOMUNICACIONES, PROGRAMACIÓN INFORMÁTICA, CONSULTORÍA, INFRAESTRUCTURA INFORMÁTICA Y OTROS SERVICIOS DE INFORMACIÓN",
+        "codigo": "K"
+      },
+      {
+        "descripcion": "TRANSPORTE Y ALMACENAMIENTO",
+        "codigo": "H"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES70 - CANARIAS"
+      }
+    ],
+    "descripcionFinalidad": "Fomento del Empleo",
+    "descripcionBasesReguladoras": "SUBV. CONCILIACIÓN VIDA FAMILIAR Y LABORAL PERS. TRAB. AUTÓNOMAS Y PRIMERA CONTRAT. INCORP. 52 AÑOS O MÁS",
+    "urlBasesReguladoras": "https://www.gobiernodecanarias.org/boc/2026/073/1186.html",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": "2026-10-15",
+    "textInicio": "Día siguiente de la publicación del extracto de la presente convocatoria en el BOC",
+    "textFin": "15 de octubre de 2026",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": {
+      "descripcion": "REG (UE) 2023/2831 de minimis, General",
+      "orden": null
+    },
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446814,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Documento convocatoria castellano.PDF",
+        "long": 223503,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

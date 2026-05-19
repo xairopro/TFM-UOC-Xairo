@@ -1,0 +1,114 @@
+{
+  "id": "BDNS-901290",
+  "id_interno": 1102851,
+  "numero_convocatoria": "901290",
+  "organismo": "AUTONOMICA — CASTILLA-LA MANCHA — DIRECCIÓN GENERAL DE HUMANIZACIÓN Y ATENCIÓN SOCIOSANITARIA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Resolución de convocatoria de subvenciones a asociaciones y entidades privadas sin ánimo de lucro para el desarrollo de programas, actividades y la prestación de servicios en materia sociosanitaria 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "EDUCACIÓN",
+  "regiones": "ES42 - CASTILLA LA MANCHA",
+  "finalidad": "Sanidad",
+  "bases_reguladoras": "Orden 30/2026, de 23 de febrero, de bases reguladoras",
+  "url_bases_reguladoras": "https://docm.jccm.es/docm/detalleDocumento.do?idDisposicion=1772188112805700058",
+  "presupuesto": "2.000.000,00 €",
+  "presupuesto_total_num": 2000000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901290",
+  "text": "CONVOCATORIA BDNS Nº 901290\nOrganismo: AUTONOMICA — CASTILLA-LA MANCHA — DIRECCIÓN GENERAL DE HUMANIZACIÓN Y ATENCIÓN SOCIOSANITARIA\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 2.000.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: EDUCACIÓN\nRegiones: ES42 - CASTILLA LA MANCHA\nFinalidad: Sanidad\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nResolución de convocatoria de subvenciones a asociaciones y entidades privadas sin ánimo de lucro para el desarrollo de programas, actividades y la prestación de servicios en materia sociosanitaria 2026\n\nBases reguladoras:\nOrden 30/2026, de 23 de febrero, de bases reguladoras\nURL bases reguladoras: https://docm.jccm.es/docm/detalleDocumento.do?idDisposicion=1772188112805700058\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901290",
+  "_raw": {
+    "id": 1102851,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "CASTILLA-LA MANCHA",
+      "nivel3": "DIRECCIÓN GENERAL DE HUMANIZACIÓN Y ATENCIÓN SOCIOSANITARIA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901290",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 2000000,
+    "mrr": false,
+    "descripcion": "Resolución de convocatoria de subvenciones a asociaciones y entidades privadas sin ánimo de lucro para el desarrollo de programas, actividades y la prestación de servicios en materia sociosanitaria 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES42 - CASTILLA LA MANCHA"
+      }
+    ],
+    "descripcionFinalidad": "Sanidad",
+    "descripcionBasesReguladoras": "Orden 30/2026, de 23 de febrero, de bases reguladoras",
+    "urlBasesReguladoras": "https://docm.jccm.es/docm/detalleDocumento.do?idDisposicion=1772188112805700058",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "El día siguiente al de la publicación en el DOCM",
+    "textFin": "15 días hábiles desde el día siguiente al de la publicación en el DOCM",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1441912,
+        "descripcion": "Extracto Resolución convocatoria subvenciones sociosanitarias 2026",
+        "nombreFic": "EXTRACTO 2026 V2 FIRMADO_142909.PDF",
+        "long": 432640,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1441911,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "RESOLUCION CONVOCATORIA SUBVENCIONES SOCIOSANITARIAS 2026_142800.PDF",
+        "long": 353527,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 209925,
+        "titulo": "Extracto de la Resolución de la Dirección General de Humanización y Atención Sociosanitaria, por la que se aprueba para el año 2026 la convocatoria de concesión de subvenciones a asociaciones y entidades privadas sin ánimo de lucro para el desarrollo de programas, actividades y la prestación de servicios en materia sociosanitaria.",
+        "tituloLeng": null,
+        "texto": "<p></p><p> Primero. Entidades y asociaciones beneficiarias</p><p> Podrán concurrir a la convocatoria de estas subvenciones las asociaciones de pacientes y de personas afectadas por patologías crónic as o que precisen de cuidados sociosanitarios y entidades privadas de análoga actividad, con naturaleza jurídica propia, sin ánimo de lucro y válidamente constituidas.</p><p> </p><p> Segundo. Objeto</p><p> La presente resolución tiene como objeto la convocatoria para el año 2026 de subvenciones públicas destinadas a asociaciones y entidades privadas sin ánimo de lucro que desarrollen su actividad en Castilla-La Mancha, para financiar la realización de programas o proyectos de interés sociosanitario destinados a personas con enfermedades crónicas o que precisen cuidados sociosanitarios.</p><p> </p><p> Tercero. Bases reguladoras</p><p> La Orden 30/2026, de 23 de febrero, de la Consejería de Sanidad por la que se establecen las bases reguladoras de subvenciones a asociaciones y entidades privadas sin ánimo de lucro para el desarrollo de programas, actividades y la prestación de servicios en materia sociosanitaria (Publicada en el DOCM nº 45, de 6 de marzo de 2026).</p><p> </p><p> Cuarto. Cuantía</p><p> La financiación de esta convocatoria para 2026 se efectuará con cargo al Plan Estratégico de Subvenciones del presupuesto de la Consejería de Sanidad en el objetivo 162 \"Asistencia social y sanitaria\", línea 1052 \"Actividades en materia sociosanitaria\", en la aplicación presupuestaria 2610G/413D/48212. La cuantía máxima destinada a esta convocatoria es de 2.000.000 euros. Se podrá financiar hasta el 100% del coste total del programa o proyecto, con un límite máximo por entidad beneficiaria de 40.000 euros.</p><p> </p><p> Quinto. Plazo de presentación de solicitudes</p><p> El plazo de presentación de solicitudes será de 15 días hábiles, contados a partir del día siguiente al de la publicación de la conv ocatoria y de su extracto en el Diario Oficial de Castilla-La Mancha.</p><p> </p><p> Sexto. Otros datos</p><p> Las solicitudes se presentarán únicamente de forma telemática con firma electrónica, y se dirigirán a la Dirección General de Humanización y Atención Sociosanitaria a través del formulario incluido en la sede electrónica de la Administración de la Junta de Comunidades de Castilla-La Mancha (https://www.jccm.es).</p><p> </p>",
+        "textoLeng": null,
+        "url": "https://docm.jccm.es/docm/descargarArchivo.do?ruta=2026/04/30/pdf/2026_3245.pdf&tipo=rutaDocm",
+        "cve": null,
+        "desDiarioOficial": "DOCM. D.O. DE CASTILLA-LA MANCHA",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "BDNS-902976",
+  "id_interno": 1104537,
+  "numero_convocatoria": "902976",
+  "organismo": "ESTADO — MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA — ICEX ESPAÑA EXPORTACIÓN E INVERSIONES, EP E.",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "2026-04-30",
+  "fecha_fin_solicitud": "2026-10-13",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Resolución de 23 de abril de 2026 de ICEX España Exportación e Inversiones, E.P.E. por la que se convoca concesión de ayudas para la Participación Agrupada en la FA FORMNEXT- Frankfurt (ALEMANIA) -17 al 20 de noviembre de 2026 - AFM",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Fabricación de maquinaria y equipo n.c.o.p.",
+  "regiones": "ES - ESPAÑA",
+  "finalidad": "Comercio, Turismo y Pymes",
+  "bases_reguladoras": "Procedimiento para la concesión de ayudas dinerarias sin contraprestación realizadas por la Entidad Pública Empresarial ICEX España Exportación e Inversiones, E.P.E.",
+  "url_bases_reguladoras": "https://www.icex.es/content/dam/icex/asset-generales/documentos/servicios/ayuda-y-financiacion/ayudas-icex/ayudas-a-entidades-colaboradoras-y-empresas/normativa/2025/normativa-concesion-ayudas-icex-empresas.pdf",
+  "presupuesto": "39.990,00 €",
+  "presupuesto_total_num": 39990,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "REG (UE) 2023/2831 de minimis, General",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902976",
+  "text": "CONVOCATORIA BDNS Nº 902976\nOrganismo: ESTADO — MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA — ICEX ESPAÑA EXPORTACIÓN E INVERSIONES, EP E.\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud: 2026-04-30 → 2026-10-13 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 39.990,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Fabricación de maquinaria y equipo n.c.o.p.\nRegiones: ES - ESPAÑA\nFinalidad: Comercio, Turismo y Pymes\nFondos: \nReglamento: REG (UE) 2023/2831 de minimis, General\nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nResolución de 23 de abril de 2026 de ICEX España Exportación e Inversiones, E.P.E. por la que se convoca concesión de ayudas para la Participación Agrupada en la FA FORMNEXT- Frankfurt (ALEMANIA) -17 al 20 de noviembre de 2026 - AFM\n\nBases reguladoras:\nProcedimiento para la concesión de ayudas dinerarias sin contraprestación realizadas por la Entidad Pública Empresarial ICEX España Exportación e Inversiones, E.P.E.\nURL bases reguladoras: https://www.icex.es/content/dam/icex/asset-generales/documentos/servicios/ayuda-y-financiacion/ayudas-icex/ayudas-a-entidades-colaboradoras-y-empresas/normativa/2025/normativa-concesion-ayudas-icex-empresas.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902976",
+  "_raw": {
+    "id": 1104537,
+    "organo": {
+      "nivel1": "ESTADO",
+      "nivel2": "MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA",
+      "nivel3": "ICEX ESPAÑA EXPORTACIÓN E INVERSIONES, EP E."
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902976",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 39990,
+    "mrr": false,
+    "descripcion": "Resolución de 23 de abril de 2026 de ICEX España Exportación e Inversiones, E.P.E. por la que se convoca concesión de ayudas para la Participación Agrupada en la FA FORMNEXT- Frankfurt (ALEMANIA) -17 al 20 de noviembre de 2026 - AFM",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Fabricación de maquinaria y equipo n.c.o.p.",
+        "codigo": "28"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES - ESPAÑA "
+      }
+    ],
+    "descripcionFinalidad": "Comercio, Turismo y Pymes",
+    "descripcionBasesReguladoras": "Procedimiento para la concesión de ayudas dinerarias sin contraprestación realizadas por la Entidad Pública Empresarial ICEX España Exportación e Inversiones, E.P.E.",
+    "urlBasesReguladoras": "https://www.icex.es/content/dam/icex/asset-generales/documentos/servicios/ayuda-y-financiacion/ayudas-icex/ayudas-a-entidades-colaboradoras-y-empresas/normativa/2025/normativa-concesion-ayudas-icex-empresas.pdf",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-04-30",
+    "fechaFinSolicitud": "2026-10-13",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": {
+      "descripcion": "REG (UE) 2023/2831 de minimis, General",
+      "orden": null
+    },
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446809,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "4. FA FORMNEXT 26.pdf",
+        "long": 701355,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

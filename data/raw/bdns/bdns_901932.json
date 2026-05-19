@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-901932",
+  "id_interno": 1103493,
+  "numero_convocatoria": "901932",
+  "organismo": "LOCAL — BREÑA BAJA — AYUNTAMIENTO DE BREÑA BAJA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA DE AYUDAS AL FOMENTO DE LA REHABILITACIÓN DE VIVIENDAS DE TITULARIDAD PRIVADA, DENTRO DEL PROGRAMA PARA COMBATIR LA DESPOBLACIÓN EN EL MEDIO RURAL DEL PLAN DE VIVIENDA DE CANARIAS, DEL AYUNTAMIENTO DE BREÑA BAJA. ANUALIDAD 2024.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "OTROS SERVICIOS",
+  "regiones": "ES707 - La Palma",
+  "finalidad": "Acceso a la vivienda y fomento de la edificación",
+  "bases_reguladoras": "AYUDAS AL FOMENTO DE LA REHABILITACIÓN DE VIVIENDAS DE TITULARIDAD PRIVADA DENTRO DEL PROGRAMA PARA COMBATIR LA DESPOBLACIÓN EN EL MEDIO RURAL DEL PLAN DE VIVIENDA DE CANARIAS DEL AYUNTAMIENTO DE BREÑA BAJA. ANUALIDAD 2024",
+  "url_bases_reguladoras": "https://www.bopsantacruzdetenerife.es/bopsc2/index.php",
+  "presupuesto": "126.613,04 €",
+  "presupuesto_total_num": 126613.04,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901932",
+  "text": "CONVOCATORIA BDNS Nº 901932\nOrganismo: LOCAL — BREÑA BAJA — AYUNTAMIENTO DE BREÑA BAJA\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 126.613,04 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: OTROS SERVICIOS\nRegiones: ES707 - La Palma\nFinalidad: Acceso a la vivienda y fomento de la edificación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA DE AYUDAS AL FOMENTO DE LA REHABILITACIÓN DE VIVIENDAS DE TITULARIDAD PRIVADA, DENTRO DEL PROGRAMA PARA COMBATIR LA DESPOBLACIÓN EN EL MEDIO RURAL DEL PLAN DE VIVIENDA DE CANARIAS, DEL AYUNTAMIENTO DE BREÑA BAJA. ANUALIDAD 2024.\n\nBases reguladoras:\nAYUDAS AL FOMENTO DE LA REHABILITACIÓN DE VIVIENDAS DE TITULARIDAD PRIVADA DENTRO DEL PROGRAMA PARA COMBATIR LA DESPOBLACIÓN EN EL MEDIO RURAL DEL PLAN DE VIVIENDA DE CANARIAS DEL AYUNTAMIENTO DE BREÑA BAJA. ANUALIDAD 2024\nURL bases reguladoras: https://www.bopsantacruzdetenerife.es/bopsc2/index.php\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901932",
+  "_raw": {
+    "id": 1103493,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "BREÑA BAJA",
+      "nivel3": "AYUNTAMIENTO DE BREÑA BAJA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901932",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 126613.04,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA DE AYUDAS AL FOMENTO DE LA REHABILITACIÓN DE VIVIENDAS DE TITULARIDAD PRIVADA, DENTRO DEL PROGRAMA PARA COMBATIR LA DESPOBLACIÓN EN EL MEDIO RURAL DEL PLAN DE VIVIENDA DE CANARIAS, DEL AYUNTAMIENTO DE BREÑA BAJA. ANUALIDAD 2024.",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES707 - La Palma"
+      }
+    ],
+    "descripcionFinalidad": "Acceso a la vivienda y fomento de la edificación",
+    "descripcionBasesReguladoras": "AYUDAS AL FOMENTO DE LA REHABILITACIÓN DE VIVIENDAS DE TITULARIDAD PRIVADA DENTRO DEL PROGRAMA PARA COMBATIR LA DESPOBLACIÓN EN EL MEDIO RURAL DEL PLAN DE VIVIENDA DE CANARIAS DEL AYUNTAMIENTO DE BREÑA BAJA. ANUALIDAD 2024",
+    "urlBasesReguladoras": "https://www.bopsantacruzdetenerife.es/bopsc2/index.php",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Al día siguiente de lapublicación de la convocatoria en el BOP Santa Cruz de Tenerife",
+    "textFin": "20 días hábiles",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443748,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "20260424_Resolución_Decreto_DECRETO 2026-0537 [RESOLUCIÓN APROBACIÓN CONVOCATORIA]-1.pdf",
+        "long": 1003635,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "id": "EU-50895043TOPICSen",
+  "topic_id": "50895043TOPICSen",
+  "titulo": "Setting up of Cross-Border Coordination Points",
+  "descripcion": "Setting up of Cross-Border Coordination Points",
+  "organismo": "43637601",
+  "fecha_publicacion": "2026-03-24",
+  "fecha_limite": "2026-06-09",
+  "deadlines_todas": "2026-06-09",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2025\"],\"budgetTopicActionMap\":{\"114203\":[{\"action\":\"PPPA-2026-BRIDGEFOREU2 - PPPA-PJG PPPA Project Grants\",\"expectedGrants\":15,\"minContribution\":0,\"maxContribution\":120000,\"budgetYearMap\":{\"2025\":\"1561970\"},\"plannedOpeningDate\":\"2026-03-24\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-06-09\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "PPPA Project Grants",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/PPPA-2026-BRIDGEFOREU2",
+  "text": "EU FUNDING & TENDERS – Topic: 50895043TOPICSen\nProgramme/Organism: 43637601\nTitle: Setting up of Cross-Border Coordination Points\nStatus: Open (31094502)\nType of action: PPPA Project Grants\nOpening date: 2026-03-24\nDeadline: 2026-06-09\nAll deadlines: 2026-06-09\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2025\"],\"budgetTopicActionMap\":{\"114203\":[{\"action\":\"PPPA-2026-BRIDGEFOREU2 - PPPA-PJG PPPA Project Grants\",\"expectedGrants\":15,\"minContribution\":0,\"maxContribution\":120000,\"budgetYearMap\":{\"2025\":\"1561970\"},\"plannedOpeningDate\":\"2026-03-24\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-06-09\"]}]}}\n\nDescription / Scope:\nSetting up of Cross-Border Coordination Points\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/PPPA-2026-BRIDGEFOREU2",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "50895043TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/PPPA-2026-BRIDGEFOREU2",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Setting up of Cross-Border Coordination Points",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Setting up of Cross-Border Coordination Points",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "EF09090054DFAE2DAA29DE27AD3B7725207B0CDAABCD3CBC88D58633AD02FC2F",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-03-25T15:07:42.033\",\"content\":\"The submission session is now available for: PPPA-2026-BRIDGEFOREU2\"}]"
+      ],
+      "es_SortDate": [
+        "2026-03-24T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "PPPA-2026-BRIDGEFOREU2",
+        "PPPA-2026-BRIDGEFOREU2"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>Conditions</h4><div><h4>1. Admissibility conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>described in section 5 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/pppa/wp-call/2026/call-fiche_pppa-2026-bridgeforeu2_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p></div></div><div><h4>2. Eligible countries</h4><div class=\"eui-u-mt-s\"><p>described in section 6 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/pppa/wp-call/2026/call-fiche_pppa-2026-bridgeforeu2_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>3. Other eligibility conditions</h4><div class=\"eui-u-mt-s\"><p>described in section 6 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/pppa/wp-call/2026/call-fiche_pppa-2026-bridgeforeu2_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in section 7 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/pppa/wp-call/2026/call-fiche_pppa-2026-bridgeforeu2_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>5a. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>described section 8 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/pppa/wp-call/2026/call-fiche_pppa-2026-bridgeforeu2_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u> and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5b. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>described in section 9 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/pppa/wp-call/2026/call-fiche_pppa-2026-bridgeforeu2_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in section 4 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/pppa/wp-call/2026/call-fiche_pppa-2026-bridgeforeu2_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>described in section 10 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/pppa/wp-call/2026/call-fiche_pppa-2026-bridgeforeu2_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Call document and annexes:</h4> <div class=\"eui-u-mt-s\"><p><u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/pppa/wp-call/2026/call-fiche_pppa-2026-bridgeforeu2_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Call document</a></u></p><p><strong>Application form templates</strong></p><p>The application form specific to this call is available in the Submission System</p><p>Acknowledgement letter (mandatory annex to the application form)</p><p><strong>Model Grant Agreements (MGA)</strong></p><p><strong><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/pppa/agr-contr/mga_pppa_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Pilot Projects and Preparatory Actions MGA</a></strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_v1.0_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">General MGA</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/ls-mga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Lump Sum MGA</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/og-mga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Operating Grants MGA</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/fpa_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Framework Partnership Agreement FPA</a></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a></p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "Setting up of Cross-Border Coordination Points"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "EF09090054DFAE2DAA29DE27AD3B7725207B0CDAABCD3CBC88D58633AD02FC2F"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "47421168"
+      ],
+      "callIdentifier": [
+        "PPPA-2026-BRIDGEFOREU2"
+      ],
+      "ccm2Id": [
+        "50895043"
+      ],
+      "callccm2Id": [
+        "50895057"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50895043TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"PPPA-2026-BRIDGEFOREU2\",\"criterionCode\":\"PPPA-PJG\",\"criterionDescription\":\"PPPA Project Grants\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43732?topic\\u003dPPPA-2026-BRIDGEFOREU2\",\"startDate\":\"1774310400000\",\"endDate\":\"1780963200000\",\"mgaDescription\":\"PPPA Action Grant Budget-Based\",\"mgaCode\":\"PPPA-AG\"}]"
+      ],
+      "callTitle": [
+        "Setting up of Cross-Border Coordination Points"
+      ],
+      "frameworkProgramme": [
+        "43637601"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Impact:</p><p>The present call for proposals is expected to support the setting up of approximately 14 CBCP in accordance with the Regulation. </p><p class=\"topicdescriptionkind\">Expected Outcome:</p><p>Setting up of 14 Cross-Border Coordination Points, in accordance with Regulation (EU) 2025/925 of the European Parliament and of the Council of 7 May 2025 on a “Border Regions’ instrument for development and growth (BRIDGEforEU)”, involving approximately 14 Member States of the European Union. </p><p class=\"topicdescriptionkind\">Objective:</p><p></p><p>The present call aims at supporting the operational setting up of CBCP, in the framework of BRIDGEforEU. Its main objective is to facilitate MS in the process of setting up said points, by providing financial support. The applicants to the present call should present proposals describing the process of operational setting up of CBCP. </p><p>Article 4(2) of the Regulation allows for neighbouring MS to create “joint cross-border coordination points”. Taking that into account, proposals may be submitted by joint CBCP already set, or prospective joint CPCP. In such cases, only one of the MS co-creators of the joint CBCP must provide the letter of Acknowledgment, referred to in section 5. </p><p class=\"topicdescriptionkind\">Scope:</p><p>BCP and prospective CBCP set-up according to the Regulation aim at providing solution of legal and administrative obstacles in a cross-border context and in land or maritime border regions of neighbouring Member States. </p><p>Any activity for the operational setting-up of CBCP, such as (indicative and not exhaustive list only): rent or purchase of real estate, <i>of </i>digital equipment or systems, of furniture and office equipment; procurement of studies and advise to define the CBCP functioning model; purchase of office supplies; purchase of design and development of web pages; legal consulting; legal assessment of the first files (as defined in articles 7 and 8 of the Regulation) received by the CBCP; </p><p>Any communication activity related to the CBCP. </p>"
+      ],
+      "identifier": [
+        "PPPA-2026-BRIDGEFOREU2"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43637633"
+      ],
+      "crossCuttingPriorities": [],
+      "esDA_FirstIngestDate": [
+        "2026-03-25T12:48:33.317+0100"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-06-09T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-03-25T15:08:33.895+0100"
+      ],
+      "typesOfAction": [
+        "PPPA Project Grants"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/PPPA-2026-BRIDGEFOREU2"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/PPPA-2026-BRIDGEFOREU2"
+      ],
+      "tags": [
+        "coordination point",
+        "cross-border"
+      ],
+      "cenTagsA": [
+        "TOPICS-014528",
+        "TOPICS-014529",
+        "TOPICS-014530",
+        "TOPICS-014531",
+        "TOPICS-014532",
+        "TOPICS-014533",
+        "TOPICS-014534",
+        "TOPICS-014535",
+        "TOPICS-014536",
+        "TOPICS-014537",
+        "TOPICS-001866",
+        "TOPICS-014538"
+      ],
+      "esDA_QueueDate": [
+        "2026-03-25T15:08:33.856+0100"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"PPPA-PJG PPPA Project Grants\",\"typeOfMGA\":[{\"id\":47421168,\"abbreviation\":\"PPPA-AG\",\"description\":\"PPPA Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-03-24\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-06-09\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2025\"],\"budgetTopicActionMap\":{\"114203\":[{\"action\":\"PPPA-2026-BRIDGEFOREU2 - PPPA-PJG PPPA Project Grants\",\"expectedGrants\":15,\"minContribution\":0,\"maxContribution\":120000,\"budgetYearMap\":{\"2025\":\"1561970\"},\"plannedOpeningDate\":\"2026-03-24\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-06-09\"]}]}}"
+      ],
+      "startDate": [
+        "2026-03-24T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p>For help related to this call, please contact <a href=\"mailto:REGIO-CONTRACTS@EC.EUROPA.EU\" rel=\"noopener noreferrer\" target=\"_blank\">REGIO-CONTRACTS@EC.EUROPA.EU</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?order=DESC&amp;pageNumber=1&amp;pageSize=10&amp;sortBy=publicationDate&amp;isExactMatch=true&amp;type=1&amp;grantCategories=p_submission_eval\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ – Submission of proposals</a>.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> – Step-by-step online guide through the Portal processes from proposal preparation and evaluation to reporting on your ongoing project. Valid for all 2021-2027 programmes.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Setting up of Cross-Border Coordination Points. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/PPPA-2026-BRIDGEFOREU2",
+    "score": 3.0
+  }
+}

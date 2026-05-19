@@ -1,0 +1,183 @@
+{
+  "id": "EU-50148683TOPICSen",
+  "topic_id": "50148683TOPICSen",
+  "titulo": "MSCA Postdoctoral Fellowships 2026",
+  "descripcion": "MSCA Postdoctoral Fellowships 2026",
+  "organismo": "43108390",
+  "fecha_publicacion": "2026-04-09",
+  "fecha_limite": "2026-09-09",
+  "deadlines_todas": "2026-09-09",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113229\":[{\"action\":\"HORIZON-MSCA-2026-PF-01-01 - HORIZON-TMA-MSCA-PF-GF HORIZON TMA MSCA Postdoctoral Fellowships - Global Fellowships\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"59857539\"},\"plannedOpeningDate\":\"2026-04-09\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-09\"]}],\"113228\":[{\"action\":\"HORIZON-MSCA-2026-PF-01-01 - HORIZON-TMA-MSCA-PF-EF HORIZON TMA MSCA Postdoctoral Fellowships - European Fellowships\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"339192721\"},\"plannedOpeningDate\":\"2026-04-09\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-09\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "HORIZON TMA MSCA Postdoctoral Fellowships - European Fellowships",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MSCA-2026-PF-01-01",
+  "text": "EU FUNDING & TENDERS – Topic: 50148683TOPICSen\nProgramme/Organism: 43108390\nTitle: MSCA Postdoctoral Fellowships 2026\nStatus: Open (31094502)\nType of action: HORIZON TMA MSCA Postdoctoral Fellowships - European Fellowships\nOpening date: 2026-04-09\nDeadline: 2026-09-09\nAll deadlines: 2026-09-09\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113229\":[{\"action\":\"HORIZON-MSCA-2026-PF-01-01 - HORIZON-TMA-MSCA-PF-GF HORIZON TMA MSCA Postdoctoral Fellowships - Global Fellowships\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"59857539\"},\"plannedOpeningDate\":\"2026-04-09\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-09\"]}],\"113228\":[{\"action\":\"HORIZON-MSCA-2026-PF-01-01 - HORIZON-TMA-MSCA-PF-EF HORIZON TMA MSCA Postdoctoral Fellowships - European Fellowships\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"339192721\"},\"plannedOpeningDate\":\"2026-04-09\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-09\"]}]}}\n\nDescription / Scope:\nMSCA Postdoctoral Fellowships 2026\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MSCA-2026-PF-01-01",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "50148683TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MSCA-2026-PF-01-01",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "MSCA Postdoctoral Fellowships 2026",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "MSCA Postdoctoral Fellowships 2026",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "3B48769472750FA4FE1D9C9BFA1FC01C204D99EECFECBA608B8C7D99486E5BB7",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-04-20T18:06:00.701\",\"content\":\"\\u003cp\\u003eThe submission session is now available for: HORIZON-MSCA-2026-PF-01-01 (HORIZON-TMA-MSCA-PF-EF and HORIZON-TMA-MSCA-PF-GF).\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-04-09T08:45:16.820\",\"content\":\"\\u003cp\\u003eDear applicant,\\u003c/p\\u003e\\u003cp\\u003ethe proposal submission links for the HORIZON-MSCA-2026-PF call will be available shortly, apologies for the inconvenience.\\u003c/p\\u003e\\u003cp\\u003eAnother call update will be published in the coming days to inform you as soon as the submission links will be active. \\u003c/p\\u003e\\u003cp\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\\u003cp\\u003eBest regards,\\u003c/p\\u003e\\u003cp\\u003eMSCA Postdoctoral Fellowship team\\u003c/p\\u003e\\u003cp\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\"}]"
+      ],
+      "es_SortDate": [
+        "2026-04-09T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "HORIZON-MSCA-2026-PF-01-01",
+        "HORIZON-MSCA-2026-PF-01"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "destination": [
+        "48080587"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex A</a> and <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex E</a> of the Horizon Europe Work Programme General Annexes.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p>A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a>.</p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex C</a> of the Work Programme General Annexes.</p></div></div><div><h4>5a. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex D</a> of the Work Programme General Annexes.</p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex G</a> of the Work Programme General Annexes.</p></div></div></div><div class=\"eui-u-mt-l\"><h4>Specific conditions</h4> <div class=\"eui-u-mt-s\"><p>described in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-2-marie-sklodowska-curie-actions_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">MSCA part of the Work Programme</a></p></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Application and evaluation forms and model grant agreement (MGA):</h4> <div class=\"eui-u-mt-s\"><p><strong>Application form templates</strong> <em>— the application form specific to this call is available in the Submission System</em></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-msca-pf_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (HE MSCA PF)</a></p><p><strong>Evaluation form templates</strong> <em>— will be used with the necessary adaptations</em> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/ef/ef_he-msca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard evaluation form (HE MSCA)</a> </p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a> </p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/agr-contr/unit-mga_he_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Unit MGA</a> </p><p><strong>Call-specific instructions</strong> </p><p><a href=\"https://circabc.europa.eu/ui/group/9a4230a6-2769-4067-b136-3e238ae65fa6/library/e0d357f1-bc98-4e39-a954-b4af13f57c33?p=1&amp;n=10&amp;sort=security_ranking_ASC\" rel=\"noopener noreferrer\" target=\"_blank\">\"HE-MSCA-PF Guide for Applicants\" and other useful documents</a></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-1-general-introduction_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 1. General Introduction</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-2-marie-sklodowska-curie-actions_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026–2027 – 2. Marie Skłodowska-Curie Actions</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 15. General Annexes</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0695\" rel=\"noopener noreferrer\" target=\"_blank\">HE Framework Programme 2021/695</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021D0764\" rel=\"noopener noreferrer\" target=\"_blank\">HE Specific Programme Decision 2021/764</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Decision authorising the use of lump sum contributions under the Horizon Europe Programme</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a></p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "MSCA Postdoctoral Fellowships 2026"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "3B48769472750FA4FE1D9C9BFA1FC01C204D99EECFECBA608B8C7D99486E5BB7"
+      ],
+      "focusArea": [],
+      "destinationDetails": [
+        "<p>The goal of MSCA Postdoctoral Fellowships is to enhance the creative and innovative potential of researchers holding a PhD and who wish to acquire new skills through advanced training, international, inter-sectoral and interdisciplinary mobility. MSCA Postdoctoral Fellowships will be open to excellent researchers of any nationality. The scheme also encourages researchers to work on research and innovation projects in the non-academic sector and is open to researchers wishing to reintegrate in Europe, to those who are displaced by conflict, as well as to researchers with high potential who are seeking to restart their careers in research.</p><p>Through the implementation of an original and personalised research project, MSCA Postdoctoral Fellowships aim to foster excellence through training and mobility and to equip researchers with new skills and competences in order to identify solutions to current and future challenges. Postdoctoral researchers are encouraged to engage with society at large to make the results of their research visible to citizens and to involve citizens, civil society and end-users in co-creation of research content when relevant.</p><p><u>Expected impact</u></p><p>Proposals under this Action should contribute to the following expected impacts:</p><ul level=\"0\"><li>Enhance the creative and innovative potential of researchers holding a PhD and wishing to diversify their individual competences and skills through advanced training, international, interdisciplinary and inter-sectoral mobility while implementing excellent research projects across all sectors of research;</li><li>Strengthen Europe's human capital base in R&amp;I with better trained, innovative and entrepreneurial researchers;</li><li>Enhance the quality of R&amp;I contributing to Europe's competitiveness and growth;</li><li>Contribute to Europe's attractiveness as a leading destination for R&amp;I and for good working conditions of researchers;</li><li>Facilitate knowledge transfer and brain circulation across the ERA;</li><li>Foster the culture of open science, innovation and entrepreneurship.</li> </ul>"
+      ],
+      "typeOfMGAs": [
+        "43251971",
+        "43251971"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "ccm2Id": [
+        "50148683"
+      ],
+      "callIdentifier": [
+        "HORIZON-MSCA-2026-PF-01"
+      ],
+      "callccm2Id": [
+        "50148693"
+      ],
+      "destinationGroup": [
+        "45355208"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50148683TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"HORIZON-MSCA-2026-PF-01\",\"criterionCode\":\"HORIZON-TMA-MSCA-PF-GF\",\"criterionDescription\":\"HORIZON TMA MSCA Postdoctoral Fellowships - Global Fellowships\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43856?topic\\u003dHORIZON-MSCA-2026-PF-01-01\",\"startDate\":\"1775692800000\",\"endDate\":\"1788912000000\",\"mgaDescription\":\"HORIZON Unit Grant\",\"mgaCode\":\"HORIZON-AG-UN\"},{\"callIdentifier\":\"HORIZON-MSCA-2026-PF-01\",\"criterionCode\":\"HORIZON-TMA-MSCA-PF-EF\",\"criterionDescription\":\"HORIZON TMA MSCA Postdoctoral Fellowships - European Fellowships\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43855?topic\\u003dHORIZON-MSCA-2026-PF-01-01\",\"startDate\":\"1775692800000\",\"endDate\":\"1788912000000\",\"mgaDescription\":\"HORIZON Unit Grant\",\"mgaCode\":\"HORIZON-AG-UN\"}]"
+      ],
+      "callTitle": [
+        "MSCA Postdoctoral Fellowships 2026"
+      ],
+      "frameworkProgramme": [
+        "43108390"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Outcome:</p><p>Project results are expected to contribute to the following outcomes:</p><p>For supported postdoctoral fellows</p><ul level=\"0\"><li>Increased set of research and transferable skills and competences, leading to improved employability and career prospects of MSCA postdoctoral fellows within academia and beyond;</li><li>New mind-sets and approaches to R&amp;I work forged through international, inter-sectoral and interdisciplinary experience;</li><li>Enhanced networking and communication capacities with scientific peers, as well as with the general public that will increase and broaden the research and innovation impact.</li> </ul><p>For participating organisations</p><ul level=\"0\"><li>Increased alignment of working conditions for researchers in accordance with the principles set out in the European Charter for Researchers;</li><li>Enhanced quality and sustainability of research training and supervision;</li><li>Increased global attractiveness, visibility and reputation of the participating organisation(s);</li><li>Stronger R&amp;I capacity and output among participating organisations; better transfer of knowledge;</li><li>Regular feedback of research results into teaching and education at participating organisations.</li> </ul><p class=\"topicdescriptionkind\">Scope:</p><p>Fellowships will be provided to excellent researchers undertaking international mobility. Applications will be made jointly by the researcher and a beneficiary in the academic or non-academic sector.</p><p>Postdoctoral Fellowships either can take place in Europe (i.e. in an EU Member State or a Horizon Europe Associated Country) or in a Third Country not associated to Horizon Europe:</p><ul level=\"0\"><li><u>European Postdoctoral Fellowships</u> are open to researchers of any nationality who wish to engage in R&amp;I projects by either coming to Europe from any country in the world or moving within Europe. The standard duration of these fellowships must be between 12 and 24 months.</li><li><u>Global Postdoctoral Fellowships</u> are open to European nationals or long-term residents<sup>[1]</sup> who wish to engage in R&amp;I projects with organisations outside EU Member States and Horizon Europe Associated Countries. These fellowships require an outgoing phase of minimum 12 and maximum 24 months in a non-associated Third Country, and a mandatory 12-month return phase to a host organisation based in an EU Member State or a Horizon Europe Associated Country.</li> </ul><p>Specific eligibility conditions apply to MSCA Postdoctoral Fellowships in the research areas covered by the Euratom Research and Training Programme <sup>[1]</sup>.</p><p><em>Secondments</em></p><p>Researchers receiving a Postdoctoral Fellowship may opt to include a secondment phase, within the overall duration of their fellowship in any country worldwide. The secondment phase can be a single period or be divided into shorter mobility periods.</p><p>For European Postdoctoral Fellowships, secondments cannot exceed half of the requested duration of the action (excluding from the duration of the action any additional period for a non-academic placement) and should be in line with the project objectives, adding significant value and impact to the fellowship.</p><p>For Global Postdoctoral Fellowships, optional secondments are permitted for up to half of the outgoing phase. A maximum of three months of such secondments can be spent at the start of the project at the beneficiary (or associated partners linked to the beneficiary), allowing the researcher to spend time there before going to the associated partner in the Third Country. This period of maximum three months will be considered as part of the outgoing phase.</p><p>Secondments cannot take place during the mandatory twelve-month return period to the host organisation in an EU Member State or Horizon Europe Associated Country.</p><p><em>Placements in the non-academic sector</em></p><p>Postdoctoral Fellowships can provide an additional period of up to six months to support researchers opting for a placement at the end of the project to work on R&amp;I projects in an organisation from the non-academic sector established in an EU Member State or Horizon Europe Associated Country<sup>[3]</sup>. While this possibility is also available to fellows recruited in the non-academic sector, such a placement must be implemented at a different non-academic host organisation established in an EU Member State or Horizon Europe Associated Country<sup>[4]</sup>. The request for such a non-academic placement must be an integral part of the proposal, explaining the added-value for the project and for the career development of the researcher, and will be subject to evaluation. This incentive aims at promoting career moves between sectors and organisations and thereby stimulate innovation and knowledge transfer while expanding career opportunities for researchers.</p><p>If the placement does not meet the requirements (taking place in an academic organisation or in a Third Country), the proposal will be evaluated without taking into account the placement. This might affect the final score.</p><p><em>Training activities</em></p><p>The training activities implemented under the Postdoctoral Fellowships should integrate key transferable skills and competences common to all fields, including digital ones (e.g. generative AI), and foster the culture of Open Science, knowledge valorisation<sup>[5]</sup>, and when applicable innovation and entrepreneurship, as well as good scientific conduct such as research integrity. In particular, the Postdoctoral Fellowships should empower fellows to pursue a career in research and adequately prepare them for increased research collaboration and information-sharing made possible by new (digital) technologies (e.g. collaborative tools, opening access to publications and to other research outputs including data, FAIR data management, societal engagement and citizen science, etc.).</p><p><em>Career Development Plan</em></p><p>In order to equip MSCA postdoctoral fellows with skills that enhance and expand their career opportunities inside and outside academia, a Career Development Plan should be established jointly by the supervisor(s) and the researcher. In addition to research objectives, this plan should comprise the researcher's training and career needs, including training on transferable skills, teaching, planning for publications and participation in conferences and events aiming at opening science and research to citizens. The Plan will have to be submitted as a project deliverable at the beginning of the action and can be updated when needed.</p><p><em>Euratom</em></p><p>Aiming to enhance nuclear expertise and excellence as well as synergies between Programmes, organisations active in nuclear research established in one of EU Member States or countries associated to the Euratom Research and Training programme, are eligible to participate<sup>[6]</sup>. MSCA Postdoctoral Fellowships in this area of research will be supported by the Euratom Research and Training Programme through an indicative annual financial contribution of EUR 1 million to the MSCA Postdoctoral Fellowships call<sup>[7]</sup>.</p><p><em>ERA Fellowships</em></p><p>The ERA Fellowships implemented through Work Programme Annex 11, Widening Participation and Strengthening the European Research Area, provide specific support to researchers to undertake their fellowship in a widening country<sup>[8]</sup>. This will help spread excellence and contribute to fostering balanced brain circulation in widening countries.</p><p class=\"eui-u-font-s\">[1] See eligibility conditions at the end of this Work Programme part.</p><p class=\"eui-u-font-s\">[2] See eligibility conditions at the end of this Work Programme part.</p><p class=\"eui-u-font-s\">[3] For proposals in the research areas covered by the Euratom Research and Training Programme, the organisation from the non-academic sector must be established in an EU Member State or a country associated to the Euratom Research and Training Programme </p><p class=\"eui-u-font-s\">[4] idem</p><p class=\"eui-u-font-s\">[5] “Knowledge valorisation” is the process of creating social and economic value from knowledge by linking different areas and sectors and by transforming data, know-how and research results into sustainable products, services, solutions and knowledge-based policies that benefit society” (<a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022H2415&amp;qid=1670573108748\">EUR-Lex - 32022H2415 - EN - EUR-Lex</a>).</p><p>For more guidance on specific areas of knowledge valorisation, see the European Commission’s Codes of Practice on <a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023H0499&amp;qid=1678171231088\">intellectual assets management</a>, on <a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023H0498&amp;qid=1678171117168\">standardisation</a>, on <a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024H0774&amp;qid=1709626992959\">industry-academia co-creation</a> and on <a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024H0736&amp;qid=1709626992959\">citizen engagement</a> for knowledge valorisation</p><p class=\"eui-u-font-s\">[6] See eligibility conditions at the end of this Work Programme part</p><p class=\"eui-u-font-s\">[7] As indicated in the Euratom Work Programme</p><p class=\"eui-u-font-s\">[8] These countries are aligned with Work Programme part 11, Widening Participation and Strengthening the European Research Area</p>"
+      ],
+      "identifier": [
+        "HORIZON-MSCA-2026-PF-01-01"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43108390",
+        "43108394",
+        "43108473",
+        "43108493"
+      ],
+      "crossCuttingPriorities": [],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "esDA_FirstIngestDate": [
+        "2025-12-16T18:52:27.939+0100"
+      ],
+      "deadlineDate": [
+        "2026-09-09T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-20T18:07:10.302+0200"
+      ],
+      "typesOfAction": [
+        "HORIZON TMA MSCA Postdoctoral Fellowships - European Fellowships",
+        "HORIZON TMA MSCA Postdoctoral Fellowships - Global Fellowships"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MSCA-2026-PF-01-01"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MSCA-2026-PF-01-01"
+      ],
+      "tags": [],
+      "esDA_QueueDate": [
+        "2026-04-20T18:07:10.286+0200"
+      ],
+      "destinationDescription": [
+        "MSCA Postdoctoral Fellowships (2026-27)"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"HORIZON-TMA-MSCA-PF-EF HORIZON TMA MSCA Postdoctoral Fellowships - European Fellowships\",\"typeOfMGA\":[{\"id\":43251971,\"abbreviation\":\"HORIZON-AG-UN\",\"description\":\"HORIZON Unit Grant\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-04-09\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-09-09\"]},{\"types\":[{\"typeOfAction\":\"HORIZON-TMA-MSCA-PF-GF HORIZON TMA MSCA Postdoctoral Fellowships - Global Fellowships\",\"typeOfMGA\":[{\"id\":43251971,\"abbreviation\":\"HORIZON-AG-UN\",\"description\":\"HORIZON Unit Grant\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-04-09\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-09-09\"]}]"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113229\":[{\"action\":\"HORIZON-MSCA-2026-PF-01-01 - HORIZON-TMA-MSCA-PF-GF HORIZON TMA MSCA Postdoctoral Fellowships - Global Fellowships\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"59857539\"},\"plannedOpeningDate\":\"2026-04-09\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-09\"]}],\"113228\":[{\"action\":\"HORIZON-MSCA-2026-PF-01-01 - HORIZON-TMA-MSCA-PF-EF HORIZON TMA MSCA Postdoctoral Fellowships - European Fellowships\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"339192721\"},\"plannedOpeningDate\":\"2026-04-09\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-09\"]}]}}"
+      ],
+      "startDate": [
+        "2026-04-09T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [],
+      "status": [
+        "31094502"
+      ],
+      "supportInfo": [
+        "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> – find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> – ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> – get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (‘third-countries’).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> – contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> – the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> – consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "MSCA Postdoctoral Fellowships 2026. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MSCA-2026-PF-01-01",
+    "score": 3.0
+  }
+}

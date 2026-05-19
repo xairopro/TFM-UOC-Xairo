@@ -1,0 +1,114 @@
+{
+  "id": "BDNS-902546",
+  "id_interno": 1104107,
+  "numero_convocatoria": "902546",
+  "organismo": "LOCAL — HOSTALRIC — AYUNTAMIENTO DE HOSTALRIC",
+  "sede_electronica": "https://www.seu-e.cat/web/hostalric/seu-electronica",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA PARA LA CONCESION DE SUBVENCIONES PARA ACTIVIDADES DESARROLLADAS POR DEPORTISTAS INDIVIDUALES DEL MUNICIPIO DE HOSTALRIC",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+  "regiones": "ES512 - Girona",
+  "finalidad": "Educación",
+  "bases_reguladoras": "BASES ESPECIFICAS REGULADORAS DE SUBVENCIONES PARA ACTIVIDADES DESARROLLADAS POR DEPORTISTAS INDIVIDUALES DEL MUNICIPIO DE HOSTALRIC",
+  "url_bases_reguladoras": "https://www.hostalric.cat/noticia/238/lajuntament-aprovaunes- bases-per-regular-latorgament-de-subvencions-a-lesentitats- locals",
+  "presupuesto": "2.000,00 €",
+  "presupuesto_total_num": 2000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902546",
+  "text": "CONVOCATORIA BDNS Nº 902546\nOrganismo: LOCAL — HOSTALRIC — AYUNTAMIENTO DE HOSTALRIC\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 2.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO\nRegiones: ES512 - Girona\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA PARA LA CONCESION DE SUBVENCIONES PARA ACTIVIDADES DESARROLLADAS POR DEPORTISTAS INDIVIDUALES DEL MUNICIPIO DE HOSTALRIC\n\nBases reguladoras:\nBASES ESPECIFICAS REGULADORAS DE SUBVENCIONES PARA ACTIVIDADES DESARROLLADAS POR DEPORTISTAS INDIVIDUALES DEL MUNICIPIO DE HOSTALRIC\nURL bases reguladoras: https://www.hostalric.cat/noticia/238/lajuntament-aprovaunes- bases-per-regular-latorgament-de-subvencions-a-lesentitats- locals\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902546",
+  "_raw": {
+    "id": 1104107,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "HOSTALRIC",
+      "nivel3": "AYUNTAMIENTO DE HOSTALRIC"
+    },
+    "sedeElectronica": "https://www.seu-e.cat/web/hostalric/seu-electronica",
+    "codigoBDNS": "902546",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 2000,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA PARA LA CONCESION DE SUBVENCIONES PARA ACTIVIDADES DESARROLLADAS POR DEPORTISTAS INDIVIDUALES DEL MUNICIPIO DE HOSTALRIC",
+    "descripcionLeng": "CONVOCATÒRIA PER A LA CONCESSIÓ DE SUBVENCIONS PER ACTIVITATS DESENVOLUPADES PER ESPORTISTES INDIVIDUALS DEL MUNICIPI D'HOSTALRIC",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES512 - Girona"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "BASES ESPECIFICAS REGULADORAS DE SUBVENCIONES PARA ACTIVIDADES DESARROLLADAS POR DEPORTISTAS INDIVIDUALES DEL MUNICIPIO DE HOSTALRIC",
+    "urlBasesReguladoras": "https://www.hostalric.cat/noticia/238/lajuntament-aprovaunes- bases-per-regular-latorgament-de-subvencions-a-lesentitats- locals",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "30 días naturales a partir del día siguiente de la publicación de la convocatoria en el BOPG",
+    "textFin": "30 días naturales des del día siguiente de la publicación de la convocatoria en el BOPG",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445647,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "Extracte.pdf",
+        "long": 139344,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445645,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Extracto.pdf",
+        "long": 137437,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210518,
+        "titulo": "Convocatoria para la concesión de subvenciones para actividades desarrolladas por deportistas individuales del municipio de Hostalric",
+        "tituloLeng": "Convocatòria per a la concessió de subvencions per activitats desenvolupades per esportistes individuals del municipi d'Hostalric",
+        "texto": "<p>EXTRACTO DE LA CONVOCATORIA PARA LA CONCESION DE SUBVENCIONES PARA ACTIVITADES DESARROLLADAS POR DEPORTISTAS INDIVIDUALES DEL MUNICIPIO DE HOSTALRIC</p><p>Mediante acuerdo de la Junta de Gobierno del Ayuntamiento de Hostalric, en sesión ordinaria de fecha 27 de abril de 2026, se abre la convocatoria para el otorgamiento de las subvenciones para actividades desarrolladas por deportistas individuales del municipio de Hostalric.</p><p>Primero. Beneficiarios</p><p>Personas físicas empadronadas en Hostalric, al momento de la presente convocatoria, que compitan en campeonatos o actividades federadas oficiales individuales reconocidas por el Consejo Catalán del Deporte, de carácter provincial, autonómico, estatal e internacional, y que no que realicen la actividad en nombre de una entidad deportiva municipal.</p><p>Segundo. Objeto</p><p>Financiar proyectos de promoción de la actividad físico-deportiva y de competición federada a deportistas individuales empadronados en el municipio de Hostalric.</p><p>Tercero. Bases reguladoras</p><p>La convocatoria para el otorgamiento de las subvenciones para actividades desarrolladas por deportistas individuales del municipio de Hostalric se aprueban, en el marco de las Bases Reguladoras Específicas publicadas en el BOPG número 81, número de edicto 1561, de fecha 25 de abril de 2024. La eficacia de la presente convocatoria queda condicionada a la finalización del trámite de información pública.</p><p>Cuarto. Importe</p><p>El importe de la convocatoria para el ejercicio 2026 es de 2.000 euros.</p><p>El importe de las subvenciones que se otorguen no excederá, en cualquier caso, de un máximo de 500,00 €.</p><p>No podrán otorgarse subvenciones por importe superior al mencionado.</p><p>Quinto. Plazo de presentación</p><p>El plazo de presentación de las solicitudes será de treinta días naturales contados a partir del día siguiente de la publicación de la convocatoria en el Boletín Oficial de la Provincia de Girona.</p><p>Las solicitudes deben enviarse mediante la instancia genérica de la sede electrónica del Ayuntamiento https://www.seu-e.cat/web/hostalric/seu-electronica  (es necesario disponer de certificado digital para poder hacer el trámite) o presencialmente en la Oficina de Registro del Ayuntamiento de Hostalric, de lunes a viernes de 8 h. a 14 h.</p><p> </p>",
+        "textoLeng": "<p>EXTRACTE DE LA CONVOCATÒRIA PER LA CONCESSIÓ DE SUBVENCIONS PER ACTIVITATS DESENVOLUPADES PER ESPORTISTES INDIVIDUALS DEL MUNICIPI D’HOSTALRIC</p><p>Mitjançant acord de la Junta de Govern de l’Ajuntament d’Hostalric, en sessió ordinària de data 27 d’abril de 2026, s’obre la convocatòria per a l’atorgament de les subvencions per activitats desenvolupades per a esportistes individuals del municipi d’Hostalric.</p><p>Primer. Beneficiaris</p><p>Persones físiques empadronades a Hostalric, al moment de la present convocatòria, que competeixin en campionats o activitats federades oficials individuals reconegudes pel Consell Català de l’Esport, de caràcter provincial, autonòmic, estatal i internacional, i que no que realitzin l'activitat en nom d'una entitat esportiva municipal.</p><p>Segon. Objecte</p><p>Finançar projectes de promoció de l’activitat fisicoesportiva i de competició federada a esportistes individuals empadronats al municipi d’Hostalric.</p><p>Tercer. Bases reguladores</p><p>La convocatòria per a l’atorgament de les subvencions per activitats desenvolupades per a esportistes individuals del municipi d’Hostalric s’aproven, en el marc de les Bases Reguladores Específiques publicades al BOPG número 81, número d’edicte 1561, de data 25 d’abril de 2024. L’eficàcia de la present convocatòria resta condicionada a la finalització del tràmit d’informació pública.</p><p>Quart. Import</p><p>L’import de la convocatòria per a l’exercici 2026 és de 2.000 euros.</p><p>L'import de les subvencions que s'atorguin no excedirà, en qualsevol cas, d’un màxim de 500,00 €.</p><p>No podran atorgar-se subvencions per import superior a l’esmentat.</p><p>Cinquè. Termini de presentació</p><p>El termini de presentació de les sol·licituds serà de trenta dies naturals comptats a partir de l'endemà de la publicació de la convocatòria al Butlletí Oficial de la Província de Girona.</p><p>Les sol·licituds s’han de fer arribar mitjançant la instància genèrica de la seu-electrònica de l’Ajuntament https://www.seu-e.cat/web/hostalric/seu-electronica  (és necessari disposar de certificat digital per poder fer el tràmit) o presencialment a l’Oficina de Registre de l’Ajuntament d’Hostalric, de dilluns a divendres de 8 h. a 14h.</p><p> </p>",
+        "url": "https://ssl4.ddgi.cat/bopV1/pdf/2026/84/20268403628.pdf",
+        "cve": null,
+        "desDiarioOficial": "B.O.P. DE GIRONA",
+        "datPublicacion": "2026-05-05"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

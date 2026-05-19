@@ -1,0 +1,110 @@
+{
+  "id": "BDNS-901609",
+  "id_interno": 1103170,
+  "numero_convocatoria": "901609",
+  "organismo": "LOCAL — VALLS — PATRONAT MUNICIPAL D'ESPORTS (VALLS)",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "2024-08-21",
+  "fecha_fin_solicitud": "2024-10-30",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "CONVENIO REGULADOR DE LA SUBVENCIÓN AL HOQUEI CLUB VALLS PARA LA PROMOCION DEPORTIVA. 2024",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+  "regiones": "ES514 - Tarragona",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "CONVENIO REGULADOR DE LA SUBVENCIÓN AL HOQUEI CLUB VALLS PARA LA PROMOCION DEPORTIVA. 2024",
+  "url_bases_reguladoras": "https://www.diputaciodetarragona.cat/ebop/index.php?op=anunci&id=8393&ebop_any=2021",
+  "presupuesto": "6.000,00 €",
+  "presupuesto_total_num": 6000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901609",
+  "text": "CONVOCATORIA BDNS Nº 901609\nOrganismo: LOCAL — VALLS — PATRONAT MUNICIPAL D'ESPORTS (VALLS)\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud: 2024-08-21 → 2024-10-30 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 6.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de bibliotecas, archivos, museos y otras actividades culturales\nRegiones: ES514 - Tarragona\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVENIO REGULADOR DE LA SUBVENCIÓN AL HOQUEI CLUB VALLS PARA LA PROMOCION DEPORTIVA. 2024\n\nBases reguladoras:\nCONVENIO REGULADOR DE LA SUBVENCIÓN AL HOQUEI CLUB VALLS PARA LA PROMOCION DEPORTIVA. 2024\nURL bases reguladoras: https://www.diputaciodetarragona.cat/ebop/index.php?op=anunci&id=8393&ebop_any=2021\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901609",
+  "_raw": {
+    "id": 1103170,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "VALLS",
+      "nivel3": "PATRONAT MUNICIPAL D'ESPORTS (VALLS)"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901609",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 6000,
+    "mrr": false,
+    "descripcion": "CONVENIO REGULADOR DE LA SUBVENCIÓN AL HOQUEI CLUB VALLS PARA LA PROMOCION DEPORTIVA. 2024",
+    "descripcionLeng": "CONVENI REGULADOR DE LA SUBVENCIÓ AL HOQUEI CLUB VALLS PER LA PROMOCIÓ ESPORTIVA. 2024",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+        "codigo": "91"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES514 - Tarragona"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "CONVENIO REGULADOR DE LA SUBVENCIÓN AL HOQUEI CLUB VALLS PARA LA PROMOCION DEPORTIVA. 2024",
+    "urlBasesReguladoras": "https://www.diputaciodetarragona.cat/ebop/index.php?op=anunci&id=8393&ebop_any=2021",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2024-08-21",
+    "fechaFinSolicitud": "2024-10-30",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442852,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "CLUB HOQUEI VALLS.pdf",
+        "long": 117788,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1442853,
+        "descripcion": "Convenio regulador firmado",
+        "nombreFic": "CLUB HOQUEI VALLS.pdf",
+        "long": 117788,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1442851,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Resolución aprobación Club hoquei.pdf",
+        "long": 195961,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

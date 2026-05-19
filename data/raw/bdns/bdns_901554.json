@@ -1,0 +1,98 @@
+{
+  "id": "BDNS-901554",
+  "id_interno": 1103115,
+  "numero_convocatoria": "901554",
+  "organismo": "AUTONOMICA — CANARIAS — SERVICIO CANARIO DE LA SALUD",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "2027-01-01",
+  "fecha_fin_solicitud": "2027-02-28",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "SUBVENCIÓN DE ATENCIÓN A LAS DROGODEPENDENCIAS",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES, EDUCACIÓN",
+  "regiones": "ES70 - CANARIAS",
+  "finalidad": "Sanidad",
+  "bases_reguladoras": "SUBVENCIÓN PROYECTO DE ATENCIÓN A LAS DROGODEPENDENCIAS",
+  "url_bases_reguladoras": "http://www.gobiernodecanarias.org",
+  "presupuesto": "2.152.726,00 €",
+  "presupuesto_total_num": 2152726,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901554",
+  "text": "CONVOCATORIA BDNS Nº 901554\nOrganismo: AUTONOMICA — CANARIAS — SERVICIO CANARIO DE LA SALUD\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud: 2027-01-01 → 2027-02-28 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 2.152.726,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES, EDUCACIÓN\nRegiones: ES70 - CANARIAS\nFinalidad: Sanidad\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSUBVENCIÓN DE ATENCIÓN A LAS DROGODEPENDENCIAS\n\nBases reguladoras:\nSUBVENCIÓN PROYECTO DE ATENCIÓN A LAS DROGODEPENDENCIAS\nURL bases reguladoras: http://www.gobiernodecanarias.org\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901554",
+  "_raw": {
+    "id": 1103115,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "CANARIAS",
+      "nivel3": "SERVICIO CANARIO DE LA SALUD"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901554",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 2152726,
+    "mrr": false,
+    "descripcion": "SUBVENCIÓN DE ATENCIÓN A LAS DROGODEPENDENCIAS",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+        "codigo": "R"
+      },
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES70 - CANARIAS"
+      }
+    ],
+    "descripcionFinalidad": "Sanidad",
+    "descripcionBasesReguladoras": "SUBVENCIÓN PROYECTO DE ATENCIÓN A LAS DROGODEPENDENCIAS",
+    "urlBasesReguladoras": "http://www.gobiernodecanarias.org",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2027-01-01",
+    "fechaFinSolicitud": "2027-02-28",
+    "textInicio": "SUBVENCIÓN DE ATENCIÓN A LAS DROGODEPENDENCIAS",
+    "textFin": "SUBVENCIÓN DE ATENCIÓN A LAS DROGODEPENDENCIAS",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442584,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Documento convocatoria castellano.PDF",
+        "long": 229924,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "BDNS-901760",
+  "id_interno": 1103321,
+  "numero_convocatoria": "901760",
+  "organismo": "AUTONOMICA — EXTREMADURA — EXTREMADURA AVANTE SERVICIOS AVANZADOS A PYMES, S.L.U.",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Ayudas Extremadura Avante a empresas para participación agrupada en la Feria SIAL PARÍS 2026, según el Acuerdo de 22 de abril de 2026 que las convoca.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA, COMERCIO AL POR MAYOR Y AL POR MENOR, INDUSTRIA MANUFACTURERA",
+  "regiones": "ES43 - EXTREMADURA",
+  "finalidad": "Comercio, Turismo y Pymes",
+  "bases_reguladoras": "Decreto 137/2024, de 5 de noviembre, por el que se establecen las bases reguladoras para la concesión de ayudas por parte de Extremadura Avante Servicios Avanzados a Pymes, SLU, dirigidas a la promoción internacional de la pyme extremeña",
+  "url_bases_reguladoras": "https://doe.juntaex.es/pdfs/doe/2024/2200o/24040230.pdf",
+  "presupuesto": "250.000,00 €",
+  "presupuesto_total_num": 250000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "FEDER - FONDO EUROPEO DE DESARROLLO REGIONAL",
+  "reglamento": "REG (UE) 2023/2831 de minimis, General",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901760",
+  "text": "CONVOCATORIA BDNS Nº 901760\nOrganismo: AUTONOMICA — EXTREMADURA — EXTREMADURA AVANTE SERVICIOS AVANZADOS A PYMES, S.L.U.\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 250.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA, COMERCIO AL POR MAYOR Y AL POR MENOR, INDUSTRIA MANUFACTURERA\nRegiones: ES43 - EXTREMADURA\nFinalidad: Comercio, Turismo y Pymes\nFondos: FEDER - FONDO EUROPEO DE DESARROLLO REGIONAL\nReglamento: REG (UE) 2023/2831 de minimis, General\nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nAyudas Extremadura Avante a empresas para participación agrupada en la Feria SIAL PARÍS 2026, según el Acuerdo de 22 de abril de 2026 que las convoca.\n\nBases reguladoras:\nDecreto 137/2024, de 5 de noviembre, por el que se establecen las bases reguladoras para la concesión de ayudas por parte de Extremadura Avante Servicios Avanzados a Pymes, SLU, dirigidas a la promoción internacional de la pyme extremeña\nURL bases reguladoras: https://doe.juntaex.es/pdfs/doe/2024/2200o/24040230.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901760",
+  "_raw": {
+    "id": 1103321,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "EXTREMADURA",
+      "nivel3": "EXTREMADURA AVANTE SERVICIOS AVANZADOS A PYMES, S.L.U."
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901760",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 250000,
+    "mrr": false,
+    "descripcion": "Ayudas Extremadura Avante a empresas para participación agrupada en la Feria SIAL PARÍS 2026, según el Acuerdo de 22 de abril de 2026 que las convoca.",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA",
+        "codigo": "A"
+      },
+      {
+        "descripcion": "COMERCIO AL POR MAYOR Y AL POR MENOR",
+        "codigo": "G"
+      },
+      {
+        "descripcion": "INDUSTRIA MANUFACTURERA",
+        "codigo": "C"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES43 - EXTREMADURA"
+      }
+    ],
+    "descripcionFinalidad": "Comercio, Turismo y Pymes",
+    "descripcionBasesReguladoras": "Decreto 137/2024, de 5 de noviembre, por el que se establecen las bases reguladoras para la concesión de ayudas por parte de Extremadura Avante Servicios Avanzados a Pymes, SLU, dirigidas a la promoción internacional de la pyme extremeña",
+    "urlBasesReguladoras": "https://doe.juntaex.es/pdfs/doe/2024/2200o/24040230.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Día siguiente a publicación en DOE",
+    "textFin": "6 días hábiles desde el día siguiente a publicación convocatoria en DOE",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [
+      {
+        "descripcion": "FEDER - FONDO EUROPEO DE DESARROLLO REGIONAL"
+      }
+    ],
+    "reglamento": {
+      "descripcion": "REG (UE) 2023/2831 de minimis, General",
+      "orden": null
+    },
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443241,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Convocatoria.PDF",
+        "long": 492381,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210143,
+        "titulo": "EXTRACTO del Acuerdo del Consejero Delegado, por el que se realiza la convocatoria de las ayudas por Extremadura Avante Servicios Avanzados a Pymes, SLU, para la participación agrupada en la Feria SIAL París 2026 (Código FI26SIALPA).",
+        "tituloLeng": null,
+        "texto": "<p>De conformidad con lo previsto en los artículos 17.3.b y 20.8.a de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, se p</p><p>ublica el extracto de la convocatoria cuyo texto completo puede consultarse en la Base de Datos Nacional de Subvenciones (http://www</p><p>.infosubvenciones.gob.es ) y en el presente DOE.\n\nPrimero. Beneficiarios.\n\nPodrán tener la condición de beneficiarios de las ayudas</p><p>reguladas en el presente Acuerdo, las personas físicas y jurídicas que, cumpliendo los requisitos establecidos en la misma, tengan l</p><p>a consideración de pequeña y mediana empresa y ejerzan una actividad económica en el territorio de la Comunidad Autónoma de Extremad</p><p>ura, y que cumplan con los requisitos exigidos en el artículo 3 del Decreto 137/2024 de 5 de noviembre.\n\nSegundo. Convocatoria y obj</p><p>eto.\n\nEl presente acuerdo tiene por objeto realizar la convocatoria de las ayudas en especie, en régimen de concurrencia competitiva</p><p> y en cumplimiento del Decreto 137/2024 de 5 de noviembre 2024, publicada en DOE n.º 220, de 12 de noviembre de 2024, para la realiz</p><p>ación de las siguientes acciones de promoción de carácter internacional. \n\nFERIA SIAL PARÍS 2026\nCódigo de la acción de promoción: F</p><p>I26SIALPA\nParís (Francia). Del 17 al 21 de octubre de 2026.\n\nTercero. Bases reguladoras.\n\nEl Decreto 137/2024 de 5 de noviembre 2024</p><p> por el que se establecen las bases reguladoras para la concesión de ayudas por parte de Extremadura Avante Servicios Avanzados a Py</p><p>mes, S.L.U, dirigidas a la promoción internacional de la PYME extremeña. \n\nCuarto. Plazo de presentación de solicitudes.\n\nEl plazo p</p><p>ara la presentación de solicitudes será de 6 días hábiles, y se computará a partir del día siguiente a la fecha de la publicación de</p><p> la convocatoria y el presente extracto, en el Diario Oficial de Extremadura.\n\n\nQuinto Cuantía.\nPara la acción de promoción objeto d</p><p>e la convocatoria, se indican el importe máximo de la convocatoria y la cuantía máxima de la ayuda por beneficiario:\nFERIA SIAL PARÍ</p><p>S 2026\nImporte máximo de la convocatoria: 250.000,00€\nImporte máximo de la ayuda por beneficiario: 15.625,00 €\nNúmero máximo de bene</p><p>ficiarios a seleccionar: 16\n\nSexto. Financiación. \n1. Las ayudas que regula este Acuerdo de convocatoria se financiarán con cargo al</p><p> Programa Operativo FEDER de Extremadura 2021-2027, recibiendo una cofinanciación de 85% del fondo, y estando encuadrada en el Objet</p><p>ivo Político 1: “Una Europa más competitiva y más inteligente”, Prioridad de Inversión: 1.A 'Transición Digital e Inteligente', Obje</p><p>tivo específico 1 iii). “el refuerzo del crecimiento sostenible y la competitividad de las pymes y la creación de empleo en estas, t</p><p>ambién mediante inversiones productivas”. \n2. La acción de promoción de carácter internacional será financiada con base en la transf</p><p>erencia presupuestaria que figurar en los Presupuestos Generales de la Comunidad Autónoma de Extremadura TE: “EXTREMADURA AVANTE SER</p><p>VICIOS AVANZADOS PYMES: PROMOCIÓN INTERNACIONAL DE LA PYME EXTREMEÑA”, formalizada a través de la firma del Convenio por el que se f</p><p>ormaliza una transferencia específica de carácter plurianual a favor de la Empresa Pública Extremadura Avante Servicios Avanzados a</p><p>Pymes, S.L.U. para la ejecución del programa de promoción internacional de la pyme extremeña para el periodo 2023-2026.\n\nSéptimo. Ot</p><p>ros.\n\nLas ayudas previstas en esta convocatoria se hallan acogidas al régimen de mínimis, sujetándose a lo establecido en el Reglame</p><p>nto (UE) 2023/2831, de la Comisión de 13 de diciembre de 2023, relativo a la aplicación de los artículos 107 y 108 del Tratado de Fu</p><p>ncionamiento de la Unión Europea a las ayudas de mínimis (DOUE Serie L, de 15 de diciembre), no pudiendo superar la ayuda total de m</p><p>ínimis la cantidad de 300.000 euros en los tres años previos.</p>",
+        "textoLeng": null,
+        "url": "https://doe.juntaex.es/pdfs/doe/2026/820o/26AC0031.pdf",
+        "cve": null,
+        "desDiarioOficial": "DOE. D.O. DE EXTREMADURA",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

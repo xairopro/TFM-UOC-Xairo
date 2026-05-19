@@ -1,0 +1,97 @@
+{
+  "id": "BDNS-901820",
+  "id_interno": 1103381,
+  "numero_convocatoria": "901820",
+  "organismo": "LOCAL — BURGOS — AYUNTAMIENTO DE BURGOS",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Subvenciones para Asociaciones Juveniles y Grupos de Jóvenes 2026.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades asociativas",
+  "regiones": "ES412 - Burgos",
+  "finalidad": "Servicios Sociales y Promoción Social",
+  "bases_reguladoras": "Ordenanza General de Subvenciones del Ayuntamiento de Burgos",
+  "url_bases_reguladoras": "http://www.aytoburgos.es/normativa/ordenanza-general-de-subvenciones",
+  "presupuesto": "78.500,00 €",
+  "presupuesto_total_num": 78500,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901820",
+  "text": "CONVOCATORIA BDNS Nº 901820\nOrganismo: LOCAL — BURGOS — AYUNTAMIENTO DE BURGOS\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 78.500,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades asociativas\nRegiones: ES412 - Burgos\nFinalidad: Servicios Sociales y Promoción Social\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSubvenciones para Asociaciones Juveniles y Grupos de Jóvenes 2026.\n\nBases reguladoras:\nOrdenanza General de Subvenciones del Ayuntamiento de Burgos\nURL bases reguladoras: http://www.aytoburgos.es/normativa/ordenanza-general-de-subvenciones\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901820",
+  "_raw": {
+    "id": 1103381,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "BURGOS",
+      "nivel3": "AYUNTAMIENTO DE BURGOS"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901820",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 78500,
+    "mrr": false,
+    "descripcion": "Subvenciones para Asociaciones Juveniles y Grupos de Jóvenes 2026.",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades asociativas",
+        "codigo": "94"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES412 - Burgos"
+      }
+    ],
+    "descripcionFinalidad": "Servicios Sociales y Promoción Social",
+    "descripcionBasesReguladoras": "Ordenanza General de Subvenciones del Ayuntamiento de Burgos",
+    "urlBasesReguladoras": "http://www.aytoburgos.es/normativa/ordenanza-general-de-subvenciones",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Desde el día siguiente al de la publicación en el B.O.P. de Burgos",
+    "textFin": "20 naturales a partir del día siguiente al de la publicación el B.O.P. de Burgos",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443492,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "BASES 2026.- BDNS.PDF",
+        "long": 435947,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

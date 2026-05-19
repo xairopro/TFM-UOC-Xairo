@@ -1,0 +1,182 @@
+{
+  "id": "EU-50930144TOPICSen",
+  "topic_id": "50930144TOPICSen",
+  "titulo": "Cooperation of Artificial Intelligence Factories and Factories Antennas",
+  "descripcion": "Cooperation of Artificial Intelligence Factories and Factories Antennas",
+  "organismo": "43108390",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_limite": "2026-06-23",
+  "deadlines_todas": "2026-06-23",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2025\"],\"budgetTopicActionMap\":{\"114061\":[{\"action\":\"HORIZON-JU-EUROHPC-2026-COAIF-03 - HORIZON-JU-RIA HORIZON JU Research and Innovation Actions\",\"expectedGrants\":1,\"minContribution\":0,\"maxContribution\":12500000,\"budgetYearMap\":{\"2025\":\"25000000\"},\"plannedOpeningDate\":\"2026-04-28\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-06-23\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "HORIZON JU Research and Innovation Actions",
+  "estado": "Forthcoming",
+  "estado_codigo": "31094501",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-EUROHPC-2026-COAIF-03",
+  "text": "EU FUNDING & TENDERS – Topic: 50930144TOPICSen\nProgramme/Organism: 43108390\nTitle: Cooperation of Artificial Intelligence Factories and Factories Antennas\nStatus: Forthcoming (31094501)\nType of action: HORIZON JU Research and Innovation Actions\nOpening date: 2026-04-28\nDeadline: 2026-06-23\nAll deadlines: 2026-06-23\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2025\"],\"budgetTopicActionMap\":{\"114061\":[{\"action\":\"HORIZON-JU-EUROHPC-2026-COAIF-03 - HORIZON-JU-RIA HORIZON JU Research and Innovation Actions\",\"expectedGrants\":1,\"minContribution\":0,\"maxContribution\":12500000,\"budgetYearMap\":{\"2025\":\"25000000\"},\"plannedOpeningDate\":\"2026-04-28\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-06-23\"]}]}}\n\nDescription / Scope:\nCooperation of Artificial Intelligence Factories and Factories Antennas\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-EUROHPC-2026-COAIF-03",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "50930144TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-EUROHPC-2026-COAIF-03",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Cooperation of Artificial Intelligence Factories and Factories Antennas",
+    "weight": 3.0,
+    "groupById": "2",
+    "content": "Cooperation of Artificial Intelligence Factories and Factories Antennas",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "3C13770A785B4C040577873DAC9613BB01B85B293B3DA2FF3666EF6F819EDADD",
+    "metadata": {
+      "latestInfos": [
+        "[]"
+      ],
+      "es_SortDate": [
+        "2026-04-28T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>The submission system is planned to be opened on the date stated on the topic header.</p>"
+      ],
+      "keywords": [
+        "HORIZON-JU-EUROHPC-2026-COAIF-03",
+        "HORIZON-JU-EUROHPC-2026-COAIF-03",
+        "Artificial intelligence",
+        "High performance computing"
+      ],
+      "sortStatus": [
+        "2"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>The page limit of the application is <strong>70</strong> pages.</p></div><div class=\"eui-u-mt-s\"><p><strong><em>﻿</em></strong>The conditions are  described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex A</a> and <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex E</a> of the Horizon Europe Work Programme General Annexes.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p></div></div><div><h4>2. Eligible countries</h4><div class=\"eui-u-mt-s\"><p>The conditions are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p>A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a>.</p></div></div><div><h4>3. Other Eligibility Conditions</h4><div class=\"eui-u-mt-s\"><p>The conditions are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex C</a> of the Work Programme General Annexes.</p></div></div><div><h4>5a. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>The granting authority can fund a maximum of one project.</p></div><div class=\"eui-u-mt-s\"><p>The conditions are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex D</a> of the Work Programme General Annexes.</p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>As an exception from General Annex G of the Horizon Europe Work Programme, the EU-funding rate for eligible costs in grants awarded by the JU for this topic will be up to <strong>50%</strong> of the eligible costs.</p></div><div class=\"eui-u-mt-s\"><p>The JU estimates that an EU contribution of EUR 12.5 million would allow the outcomes of this action to be addressed appropriately. Nonetheless, this does not preclude submission and selection of a proposal requesting different amounts.</p><p>The rules are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex G</a> of the Work Programme General Annexes.</p></div></div></div><div class=\"eui-u-mt-s\"><p>described in the <a href=\"https://www.eurohpc-ju.europa.eu/document/60f0d033-ca92-4aab-aea0-c5e572a2b04c_en\" rel=\"noopener noreferrer\" target=\"_blank\">EuroHPC JU Work Programme</a> </p></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Application and evaluation forms and model grant agreement (MGA):</h4> <div class=\"eui-u-mt-s\"><p><strong>Application form templates</strong></p><p>Please use the application form that you will find in the Submission System. You can find examples of standard application forms in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?programmePeriod=2021-2027&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Reference Documents page</a>.</p><p><strong>Evaluation form templates</strong> <em>— will be used with the necessary adaptations</em></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/ef/ef_he-ria-ia_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard evaluation form (HE RIA, IA)</a> </p><p><br></br></p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a>&#xa0;</p><p><br></br></p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE MGA</a>&#xa0;</p><p>&#xa0;</p><p><strong>Call-specific instructions</strong>&#xa0;</p><p><br></br></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://www.eurohpc-ju.europa.eu/document/60f0d033-ca92-4aab-aea0-c5e572a2b04c_en\" rel=\"noopener noreferrer\" target=\"_blank\">EuroHPC JU Decision No 15/2026 - Amending the Joint Undertaking's Work Programme and Budget for the year 2026 (Amendment No 2)</a></p><p><a href=\"https://www.eurohpc-ju.europa.eu/document/download/2eebc3f6-bd4d-4908-8e55-db5e8d588051_en?filename=EuroHPC%20Regulation%202026-150.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">COUNCIL REGULATION (EU) 2026/150 of 16 January 2026 amending Regulation (EU) 2021/1173 on establishing the European High Performance Computing Joint Undertaking</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-1-general-introduction_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 1. General Introduction</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-2-marie-sklodowska-curie-actions_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 2. Marie Skłodowska-Curie Actions (MSCA)</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-3-research-infrastructures_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 3. Research Infrastructures</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-4-health_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 4. Health</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-5-culture-creativity-and-inclusive-society_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 5. Culture, Creativity and Inclusive Society</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-6-civil-security-for-society_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 6. Civil Security for Society</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-7-digital-industry-and-space_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 7. Digital, Industry and Space</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-8-climate-energy-and-mobility_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 8. Climate, Energy and Mobility</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-9-food-bioeconomy-natural-resources-agriculture-and-environment_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 9. Food, Bioeconomy, Natural Resources, Agriculture and Environment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-10-european-innovation-ecosystems_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 10. European Innovation Ecosystems (EIE)</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-11-widening-participation-and-strengthening-the-european-research-area_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 11. Widening participation and strengthening the European Research Area</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-12-missions_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 12. Missions</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-13-new-european-bauhaus-facility_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 13. New European Bauhaus Facility (NEB)</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-14-horizontal-activities_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 14. Horizontal Activities</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 15. General Annexes</a></p><p><a href=\"https://eic.ec.europa.eu/eic-2026-work-programme_en\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026/wp_horizon-erc-2026_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">ERC Work Programme 2026</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0695\" rel=\"noopener noreferrer\" target=\"_blank\">HE Framework Programme and Rules for Participation Regulation 2021/695</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021D0764\" rel=\"noopener noreferrer\" target=\"_blank\">HE Specific Programme Decision 2021/764</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Decision authorising the use of lump sum contributions under the Horizon Europe Programme</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a></p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "Cooperation of Artificial Intelligence Factories and Factories Antennas"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "3C13770A785B4C040577873DAC9613BB01B85B293B3DA2FF3666EF6F819EDADD"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43027846"
+      ],
+      "callIdentifier": [
+        "HORIZON-JU-EUROHPC-2026-COAIF-03"
+      ],
+      "ccm2Id": [
+        "50930144"
+      ],
+      "callccm2Id": [
+        "50930164"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50930144TOPICSen"
+      ],
+      "links": [
+        "[]"
+      ],
+      "callTitle": [
+        "Cooperation of Artificial Intelligence Factories and Factories Antennas"
+      ],
+      "frameworkProgramme": [
+        "43108390"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Outcome:</p><p>Upon completion of the Action, the European HPC and AI ecosystems will be strengthened through an effective network of AI Factories supporting the adoption and use of HPC in the development of trustworthy artificial intelligence (AI) by startups and SMEs, but also by the private and public sector in general, taking into account the specific needs of the local and national ecosystems. The coordinated network will facilitate synergies and assets reutilisation, support, training, staff exchange, knowledge transfer between, AIF+As, as well as prevent duplication of efforts.</p><p>The Action will ensure the network of AIF+As will be embedded in an enhanced European AI/ HPC ecosystem with strong links to other European HPC, AI, and data initiatives (see above).</p><p>Moreover, the Action will result in:</p><ul level=\"0\"><li>Contribution to the realisation of the EuroHPC overall and specific objectives.</li><li>A common governance baseline across AIF+As to ensure the full interoperability and the collective compliance or the network of AIF+As.</li><li>Seamless user experience across AIF+As, with users receiving a consistent offer of core services.</li><li>Effective coordination and exchange of best practices and information among the network of AIF+As.</li><li>Establishment of a network of AIF Data Labs in 7-8 strategic domains, including a common framework for data access and data management.</li><li>Easy access across AIF+As to up-to-date, rich, high-quality open web data compliant with EU regulations and values.</li><li>Curated access to services and facilities offered by AIF+As.</li><li>Maximised visibility and outreach of AIF+As, in particular to AI startups, SMEs and industry.</li><li>Improved coordination and increased availability of training activities across AIF+As and within the European HPC ecosystem.</li><li>Contribution to the attraction of HPC/AI talent and development of a distributed pool of experts in Europe.</li> </ul><p>The JU considers that proposals requesting a contribution from the EU of up to EUR 12.5 million and a duration of 3 years would allow this specific challenge to be addressed appropriately, with the following indicative EU budget distribution per subtopic:</p><ul level=\"0\"><li>General coordination and networking: EUR 2.5 million</li><li>Networking of AIF Data Labs: EUR 7.5 million</li><li>Provision of EU open web data: EUR 2.5 million</li> </ul><p>Nonetheless, this does not preclude submission and selection of proposals requesting another duration or other amounts. Only one proposal, covering all three subtopics in the scope, will be selected.</p><p class=\"topicdescriptionkind\">Scope:</p><p><strong>A. General coordination and networking</strong></p><p>Proposals should aim at coordinating and promoting networking and collaboration of the AIF+As. They are expected to establish a communication platform, facilitate dialogue, enable asset sharing, promote the objectives of the AIF+As, and organize outreach events and workshops on topics of interest to the AIF+As and their communities.</p><p>The Action will support and enhance the alignment of AIF+As through targeted activities, building common standards of service to provide a harmonised experience to users. The activities should leverage on synergies and complementarity of the AIF+As. It is expected to identify solutions and tools available from the AIF+As network to support and assist AIF+As in addressing requests and needs of their constituencies.</p><p>The Action should:</p><ul level=\"0\"><li>Assist the development of the AIF+As and coordinate their collaboration, ensuring a seamless user experience across all facilities. Coordinate the joint activities and exchange of best practices across the AIF+As, including the sharing of assets and knowledge to prevent duplication of efforts and speed up developments, and support projects spanning across two or more AIF+As or federating/distributed learning and inference when applicable.</li><li>Attract new European user communities and support the engagement of startups, industry, and SMEs in AIF+As activities, while maximizing visibility and outreach to these groups.</li><li>Promote joint training offerings and the exchange of training materials and courses. Support talent detection, attraction, and development, and enhance mobility of HPC/AI specialists between communities, academia, public, and private sectors.</li><li>Implement and coordinate technology transfer activities at the European level and for the Digital Single Market, and promote the adoption of developed methods and technologies by AIF+As users and the wider European HPC/AI communities.</li><li>Develop a comprehensive AIF service directory, detailing all services offered by AIF+As, including both HPC and cloud-based solutions, as well as associated support services, and advise and support AIF+As with the development of sustainability.</li><li>Support an Annual European AI Factories event connecting all the AI community in Europe, in collaboration with the EuroHPC JU, and promote the networking of AIF+As users, especially for different users’ profiles and sectors, to foster innovation.</li><li>Identify and collect meaningful qualitative and quantitative common KPIs for AIF+As to measure the impact of this initiative on the European HPC and AI ecosystems.</li> </ul><p><strong>B. Networking of AIF Data Labs</strong></p><p>Data Labs contribute to the objectives of the European Data Union Strategy by scaling up access to data for AI. They create the link between data holders, Common European Data Spaces<sup>[1]</sup>, domain-specific data ecosystems, and the AIF+As and the AI innovation ecosystem. Their role is to facilitate the availability and use of high-quality data under appropriate technical, governance, and regulatory conditions in close collaboration with relevant EU initiatives. AIF Data Labs are operational components within the AIF+As that will provide AI developers with access to technical infrastructure, data management tools, and large datasets required for the development, testing, and validation of AI models.</p><p>Each Data Lab will offer a consistent set of services, including data discovery, standardisation, cleaning, enrichment, and synthetic data generation, as well as guidance on data governance and compliance with EU legislation. Data Labs will also play a key role in supporting legal and regulatory compliance by providing services such as pseudonymisation and anonymisation of datasets, the use of secure processing environments, and legal assistance on the use of data.</p><p>Data Labs will be implemented across a set of priority sectors aligned with those identified by the Apply AI Strategy as having high potential for the development and deployment of trustworthy and impactful AI solutions. These include healthcare and life sciences, manufacturing and robotics, public administration, cybersecurity and internal security, culture and languages, scientific research, and climate and environmental modelling.</p><p>The Action should:</p><ul level=\"0\"><li>Support the networking and federation of Data Labs across AIF+As into a common European framework, with a strong emphasis on the use of the Simpl open-source middleware as the core interoperability platform between the different data facilities involved in each Data Lab. This framework should ensure interoperability, secure data exchange, and federated access across the AIF+As, while connecting Data Labs to the corresponding Common European Data Spaces<sup>[2]</sup>, and AI flagship initiatives in line with European priorities.</p> </li><li>Enable efficient data use across sectors and borders, ensure regulatory and technical alignment, and promote the reuse of shared tools and resources.</li><li>Integrate Data Labs activities with AIF+As, ensuring that AI developers can seamlessly use datasets and tools provided by the Data Labs in model development and testing.</li><li>Enable the exchange and reuse of data management and processing tools, including for data discovery, cleaning, enrichment, and synthetic data generation.</li><li>Develop legal and regulatory compliance-enabling services within Data Labs, including mechanisms for pseudonymisation and anonymisation, the provision of secure and compliant data processing environments, and guidance on the lawful use and sharing of data.</li> </ul><p><strong>C</strong><strong>. Provision of EU open web data</strong></p><p>Proposals should develop, deploy and operate across AIF+As a European federated web data service to ensure sovereignty in the open web data (OWD) independently of external sources.</p><p>The Action should:</p><ul level=\"0\"><li>Develop services and best practices around open web data for training and fine-tuning of AI models, AI applications, and AI-based search.</li><li>Deploy and operate a web data service, encompassing general/focused crawling to generate multi-modal raw data (text, image, audio, video) covering all EU languages, metadata creation, indexing, searching, and use case partitioning into domain-specific data pools.</li><li>Collaborate with existing EU initiatives providing web data services.</li><li>Integrate the EU open web service into the AIF Data Labs ecosystem.</li> </ul><p class=\"eui-u-font-s\">[1] Including the Simpl platform supporting data access and interoperability among European data spaces.</p><p>Including EOSC to facilitate research data access across the EU.</p><p class=\"eui-u-font-s\">[2] Including the Simpl platform supporting data access and interoperability among European data spaces. <p> </p> <p>Including EOSC to facilitate research data access across the EU.</p>"
+      ],
+      "identifier": [
+        "HORIZON-JU-EUROHPC-2026-COAIF-03"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43120193",
+        "43108541",
+        "43108390"
+      ],
+      "crossCuttingPriorities": [
+        "AI",
+        "DigitalAgenda"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-04-27T14:50:10.474+0200"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-06-23T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-28T06:41:10.194+0200"
+      ],
+      "typesOfAction": [
+        "HORIZON JU Research and Innovation Actions"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-EUROHPC-2026-COAIF-03"
+      ],
+      "es_Combine": [
+        "2"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-EUROHPC-2026-COAIF-03"
+      ],
+      "tags": [],
+      "cenTagsA": [
+        "TOPICS-065420",
+        "TOPICS-065421",
+        "TOPICS-065422",
+        "TOPICS-065423",
+        "TOPICS-065424",
+        "TOPICS-000404",
+        "TOPICS-001091"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-28T06:41:10.173+0200"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"HORIZON-JU-RIA HORIZON JU Research and Innovation Actions\",\"typeOfMGA\":[{\"id\":43027846,\"abbreviation\":\"HORIZON-AG\",\"description\":\"HORIZON Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094501,\"abbreviation\":\"Forthcoming\",\"description\":\"Forthcoming\"},\"plannedOpeningDate\":\"2026-04-28\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-06-23\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2025\"],\"budgetTopicActionMap\":{\"114061\":[{\"action\":\"HORIZON-JU-EUROHPC-2026-COAIF-03 - HORIZON-JU-RIA HORIZON JU Research and Innovation Actions\",\"expectedGrants\":1,\"minContribution\":0,\"maxContribution\":12500000,\"budgetYearMap\":{\"2025\":\"25000000\"},\"plannedOpeningDate\":\"2026-04-28\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-06-23\"]}]}}"
+      ],
+      "startDate": [
+        "2026-04-28T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> – find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> – ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> – get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (‘third-countries’).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> – contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> – the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> – consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+      ],
+      "status": [
+        "31094501"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Cooperation of Artificial Intelligence Factories and Factories Antennas. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-EUROHPC-2026-COAIF-03",
+    "score": 3.0
+  }
+}

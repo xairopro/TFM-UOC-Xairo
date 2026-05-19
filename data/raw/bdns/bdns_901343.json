@@ -1,0 +1,106 @@
+{
+  "id": "BDNS-901343",
+  "id_interno": 1102904,
+  "numero_convocatoria": "901343",
+  "organismo": "LOCAL — MADRID — MADRID SALUD",
+  "sede_electronica": "https://sede.madrid.es/portal/site/tramites/menuitem.c61bb691882ed9d32e202e2084f1a5a0/?vgnextoid=5a9d5d53be9a0210VgnVCM100000171f5a0aRCRD&vgnextchannel=5a9d5d53be9a0210VgnVCM100000171f5a0aRCRD&vgnextfmt=default",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "SUBVENCIONES DEL ORGANISMO AUTÓNOMO MADRID SALUD PARA EL APOYO AL MANTENIMIENTO DE PROYECTOS DEDICADOS A LA ATENCIÓN INTEGRAL DE LAS ADICCIONES 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+  "regiones": "ES300 - Madrid",
+  "finalidad": "Servicios Sociales y Promoción Social",
+  "bases_reguladoras": "ORDENANZA BBRR GENERALES PARA CONCESIÓN SUBVENCIONES POR AYTO MADRID Y OP",
+  "url_bases_reguladoras": "https://www.bocm.es/boletin/CM_Orden_BOCM/2013/11/22/BOCM-20131122-34.PDF",
+  "presupuesto": "200.000,00 €",
+  "presupuesto_total_num": 200000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901343",
+  "text": "CONVOCATORIA BDNS Nº 901343\nOrganismo: LOCAL — MADRID — MADRID SALUD\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 200.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES\nRegiones: ES300 - Madrid\nFinalidad: Servicios Sociales y Promoción Social\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSUBVENCIONES DEL ORGANISMO AUTÓNOMO MADRID SALUD PARA EL APOYO AL MANTENIMIENTO DE PROYECTOS DEDICADOS A LA ATENCIÓN INTEGRAL DE LAS ADICCIONES 2026\n\nBases reguladoras:\nORDENANZA BBRR GENERALES PARA CONCESIÓN SUBVENCIONES POR AYTO MADRID Y OP\nURL bases reguladoras: https://www.bocm.es/boletin/CM_Orden_BOCM/2013/11/22/BOCM-20131122-34.PDF\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901343",
+  "_raw": {
+    "id": 1102904,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "MADRID",
+      "nivel3": "MADRID SALUD"
+    },
+    "sedeElectronica": "https://sede.madrid.es/portal/site/tramites/menuitem.c61bb691882ed9d32e202e2084f1a5a0/?vgnextoid=5a9d5d53be9a0210VgnVCM100000171f5a0aRCRD&vgnextchannel=5a9d5d53be9a0210VgnVCM100000171f5a0aRCRD&vgnextfmt=default",
+    "codigoBDNS": "901343",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 200000,
+    "mrr": false,
+    "descripcion": "SUBVENCIONES DEL ORGANISMO AUTÓNOMO MADRID SALUD PARA EL APOYO AL MANTENIMIENTO DE PROYECTOS DEDICADOS A LA ATENCIÓN INTEGRAL DE LAS ADICCIONES 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+        "codigo": "R"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES300 - Madrid"
+      }
+    ],
+    "descripcionFinalidad": "Servicios Sociales y Promoción Social",
+    "descripcionBasesReguladoras": "ORDENANZA BBRR GENERALES PARA CONCESIÓN SUBVENCIONES POR AYTO MADRID Y OP",
+    "urlBasesReguladoras": "https://www.bocm.es/boletin/CM_Orden_BOCM/2013/11/22/BOCM-20131122-34.PDF",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "AL DIA SÍGUIENTE DE LA PUBLICACIÓN DEL EXTRACTO DE LA CONVOCATORIA EN EL BOCM",
+    "textFin": "15 DÍAS HABILES SIGUIENTES A LA PUBLICACIÓN DEL EXTRACTO DE LA CONVOCAT",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442048,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "BASES DE LA CONVOCATORIA Subvenciones en materia de adicciones 2026.PDF",
+        "long": 313339,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 209957,
+        "titulo": "Extracto de la SUBVENCIONES DEL ORGANISMO AUTÓNOMO MADRID SALUD PARA EL APOYO AL MANTENIMIENTO DE PROYECTOS DEDICADOS A LA ATENCIÓN INTEGRAL DE LAS ADICCIONES 2026",
+        "tituloLeng": null,
+        "texto": "<p>Extracto de la Resolución, de 23 de abril de 2026, del Gerente de Madrid Salud, por el que se convocan subvenciones del Organismo Autónomo Madrid Salud para el apoyo al mantenimiento de proyectos dedicados a la atención integral de las adicciones, realizados por entidades sin ánimo de lucro, en el ejercicio 2026</p><p>BDNS ():</p><p>De conformidad con lo previsto en los artículos 17.3.b y 20.8.a de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, se publica el extracto de la convocatoria cuyo texto completo puede consultarse en la Base de Datos Nacional de Subvenciones (http://www.pap.minhap.gob.es/bdnstrans/index):</p><p></p><p></p><p>Primero. Beneficiarios:</p><p>Entidades e instituciones de carácter social, con personalidad jurídica y sin ánimo de lucro.</p><p></p><p>Segundo. Objeto.</p><p></p><p>Subvenciones a favor de entidades e instituciones de carácter social, sin ánimo de lucro, para el apoyo al mantenimiento de proyectos de atención integral a las adicciones, esto es, dedicados a la prevención, asistencia y reinserción en el ámbito de las adicciones.</p><p></p><p>Tercero. Bases reguladoras.</p><p></p><p>Ordenanza de Bases Reguladoras Generales para la concesión de Subvenciones por el Ayuntamiento de Madrid y sus Organismos Públicos de 30 de octubre de 2013, publicada en www.madrid.es.</p><p></p><p>Cuarto. Cuantía.</p><p></p><p>La cuantía total de asciende a un total de 200.000 euros para 2026.</p><p></p><p></p><p>Quinto. Plazo de presentación de solicitudes.</p><p></p><p>El plazo de entrega de las solicitudes será de quince días hábiles a contar desde el siguiente a la publicación del extracto de la convocatoria en el Boletín Oficial de la Comunidad de Madrid. El modo exclusivo de presentar las instancias y resto de documentación será el registro de la Sede electrónica del Ayuntamiento de Madrid (https://sede.madrid.es).</p><p>Las entidades solicitantes, para aclarar dudas sobre la convocatoria, se pueden poner en contacto con las siguientes direcciones de correo electrónico: msasubdireccion@madrid.es</p><p></p>",
+        "textoLeng": null,
+        "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/04/27/BOCM-20260427-52.PDF",
+        "cve": "BOCM-20260427-52",
+        "desDiarioOficial": "BOCM. B.O. DE LA COMUNIDAD DE MADRID",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

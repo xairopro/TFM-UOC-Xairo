@@ -1,0 +1,110 @@
+{
+  "id": "BDNS-902427",
+  "id_interno": 1103988,
+  "numero_convocatoria": "902427",
+  "organismo": "LOCAL — SANTA CRUZ DE LA PALMA — AYUNTAMIENTO DE SANTA CRUZ DE LA PALMA",
+  "sede_electronica": "https://sede.santacruzdelapalma.es/home",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Ayudas a la movilidad y desplazamiento para estudiantes empadronados en el Municipio de Santa Cruz de La Palma que cursen estudios fuera de la Isla de La Palma Curso Académico 2025-26",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Educación",
+  "regiones": "ES707 - La Palma",
+  "finalidad": "Educación",
+  "bases_reguladoras": "Ayudas a la movilidad y desplazamiento para estudiantes empadronados en el Municipio de Santa Cruz de La Palma que cursen estudios fuera de la Isla de La Palma Curso Académico 2025-26",
+  "url_bases_reguladoras": "https://www.bopsantacruzdetenerife.es/bopsc2/sumario.php ?codigopub=1&fecha_mas_reciente=2025-07-11",
+  "presupuesto": "40.000,00 €",
+  "presupuesto_total_num": 40000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902427",
+  "text": "CONVOCATORIA BDNS Nº 902427\nOrganismo: LOCAL — SANTA CRUZ DE LA PALMA — AYUNTAMIENTO DE SANTA CRUZ DE LA PALMA\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 40.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Educación\nRegiones: ES707 - La Palma\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nAyudas a la movilidad y desplazamiento para estudiantes empadronados en el Municipio de Santa Cruz de La Palma que cursen estudios fuera de la Isla de La Palma Curso Académico 2025-26\n\nBases reguladoras:\nAyudas a la movilidad y desplazamiento para estudiantes empadronados en el Municipio de Santa Cruz de La Palma que cursen estudios fuera de la Isla de La Palma Curso Académico 2025-26\nURL bases reguladoras: https://www.bopsantacruzdetenerife.es/bopsc2/sumario.php ?codigopub=1&fecha_mas_reciente=2025-07-11\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902427",
+  "_raw": {
+    "id": 1103988,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "SANTA CRUZ DE LA PALMA",
+      "nivel3": "AYUNTAMIENTO DE SANTA CRUZ DE LA PALMA"
+    },
+    "sedeElectronica": "https://sede.santacruzdelapalma.es/home",
+    "codigoBDNS": "902427",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 40000,
+    "mrr": false,
+    "descripcion": "Ayudas a la movilidad y desplazamiento para estudiantes empadronados en el Municipio de Santa Cruz de La Palma que cursen estudios fuera de la Isla de La Palma Curso Académico 2025-26",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Educación",
+        "codigo": "85"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES707 - La Palma"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "Ayudas a la movilidad y desplazamiento para estudiantes empadronados en el Municipio de Santa Cruz de La Palma que cursen estudios fuera de la Isla de La Palma Curso Académico 2025-26",
+    "urlBasesReguladoras": "https://www.bopsantacruzdetenerife.es/bopsc2/sumario.php ?codigopub=1&fecha_mas_reciente=2025-07-11",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Al día siguiente a la publicación en el BOP de Santa Cruz de Tenerife",
+    "textFin": "Un mes desde el día siguiente a la publicación en el BOP de Santa Cruz de Tenerife",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445321,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Decreto convocatoria.pdf",
+        "long": 1138395,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445330,
+        "descripcion": "Alta a Terceros",
+        "nombreFic": "Alta a Terceros.docx",
+        "long": 45088,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445328,
+        "descripcion": "Anexo I de Solicitud",
+        "nombreFic": "Anexo I solicitud desplazamiento.docx",
+        "long": 38724,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

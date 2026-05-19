@@ -1,0 +1,141 @@
+{
+  "id": "EU-186109PROSPECTSEN",
+  "topic_id": "186109PROSPECTSEN",
+  "titulo": "Strengthening El Salvador's Digital Civil Registration System",
+  "descripcion": "Strengthening El Salvador's Digital Civil Registration System",
+  "organismo": "111111",
+  "fecha_publicacion": "2026-02-20",
+  "fecha_limite": "2026-05-08",
+  "deadlines_todas": "2026-05-08",
+  "presupuesto": "1000000",
+  "duracion": "",
+  "tipo_accion": "",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/186109PROSPECTSEN",
+  "text": "EU FUNDING & TENDERS – Topic: 186109PROSPECTSEN\nProgramme/Organism: 111111\nTitle: Strengthening El Salvador's Digital Civil Registration System\nStatus: Open (31094502)\nType of action: \nOpening date: 2026-02-20\nDeadline: 2026-05-08\nAll deadlines: 2026-05-08\nDuration: \nBudget overview: 1000000\n\nDescription / Scope:\nStrengthening El Salvador's Digital Civil Registration System\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/186109PROSPECTSEN",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "186109PROSPECTSEN",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/186109PROSPECTSEN",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Strengthening El Salvador's Digital Civil Registration System",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Strengthening El Salvador's Digital Civil Registration System",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "63EE830E8E64DD9BFFCB5970F24407A9A6598A7354D28E37D9784036B9BD64BC",
+    "metadata": {
+      "updateDate": [
+        "2026-04-20T19:40:38.000+0000"
+      ],
+      "es_SortDate": [
+        "2026-02-20T22:00:00.000+0000"
+      ],
+      "beneficiaryAdministration": [
+        "National Registry of Natural Persons (RNPN) of El Salvador"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "contractType": [
+        "42958121"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Strengthening El Salvador's Digital Civil Registration System"
+      ],
+      "type": [
+        "2"
+      ],
+      "esST_checksum": [
+        "63EE830E8E64DD9BFFCB5970F24407A9A6598A7354D28E37D9784036B9BD64BC"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "callIdentifier": [
+        "186109"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "186109PROSPECTSEN"
+      ],
+      "currency": [
+        "EUR"
+      ],
+      "frameworkProgramme": [
+        "111111"
+      ],
+      "budget": [
+        "1000000"
+      ],
+      "identifier": [
+        "EuropeAid/186109/DD/ACT/"
+      ],
+      "caName": [
+        "true"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "geographicalZones": [
+        "20001012"
+      ],
+      "publicationDocuments": [
+        "[{\"nameDoc\":\"Clarifications\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-19 12:00:23.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2157922&lang=EN\"},{\"nameDoc\":\"Annex C7 Evaluation Grid\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-20 23:00:04.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2157920&lang=EN\"},{\"nameDoc\":\"Annex C9 Twinning CfP\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-20 23:00:57.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2157921&lang=EN\"},{\"nameDoc\":\"Annex C1 Twinning Fiche\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-20 23:00:13.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2157919&lang=EN\"}]"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-02-20T23:01:00.862+0100"
+      ],
+      "programmePeriod": [
+        "2014 - 2020",
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-05-08T21:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-20T21:41:00.182+0200"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/186109PROSPECTSEN"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/186109PROSPECTSEN"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-20T21:41:00.169+0200"
+      ],
+      "programmeDivisionProspect": [
+        "44995889"
+      ],
+      "geographicalZone": [
+        "20001012"
+      ],
+      "startDate": [
+        "2026-02-20T22:00:00.000+0000"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Strengthening El Salvador's Digital Civil Registration System. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/186109PROSPECTSEN",
+    "score": 3.0
+  }
+}

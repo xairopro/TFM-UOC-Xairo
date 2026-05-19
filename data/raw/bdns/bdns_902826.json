@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902826",
+  "id_interno": 1104387,
+  "numero_convocatoria": "902826",
+  "organismo": "LOCAL — PUIG DE SANTA MARIA, EL — AYUNTAMIENTO DE PUIG DE SANTA MARIA, EL",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "DRAGÓ 2026 - CONVOCATORIA 21ª EDICIÓN PREMIOS LITERARIOS DRAGÓ",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+  "regiones": "ES523 - Valencia / València",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "BASES REGULADORAS DE LAS AYUDAS MUNICIPALES A LA CREACION LITERARIA DRAGÓ DEL PUIG",
+  "url_bases_reguladoras": "https://ayuntamientodeelpuig.sedelectronica.es/info.0",
+  "presupuesto": "450,00 €",
+  "presupuesto_total_num": 450,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902826",
+  "text": "CONVOCATORIA BDNS Nº 902826\nOrganismo: LOCAL — PUIG DE SANTA MARIA, EL — AYUNTAMIENTO DE PUIG DE SANTA MARIA, EL\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 450,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES\nRegiones: ES523 - Valencia / València\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nDRAGÓ 2026 - CONVOCATORIA 21ª EDICIÓN PREMIOS LITERARIOS DRAGÓ\n\nBases reguladoras:\nBASES REGULADORAS DE LAS AYUDAS MUNICIPALES A LA CREACION LITERARIA DRAGÓ DEL PUIG\nURL bases reguladoras: https://ayuntamientodeelpuig.sedelectronica.es/info.0\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902826",
+  "_raw": {
+    "id": 1104387,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "PUIG DE SANTA MARIA, EL",
+      "nivel3": "AYUNTAMIENTO DE PUIG DE SANTA MARIA, EL"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902826",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 450,
+    "mrr": false,
+    "descripcion": "DRAGÓ 2026 - CONVOCATORIA 21ª EDICIÓN PREMIOS LITERARIOS DRAGÓ",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+        "codigo": "R"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES523 - Valencia / València"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "BASES REGULADORAS DE LAS AYUDAS MUNICIPALES A LA CREACION LITERARIA DRAGÓ DEL PUIG",
+    "urlBasesReguladoras": "https://ayuntamientodeelpuig.sedelectronica.es/info.0",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "El día siguiente de la publicación de la convocatoria en el BOP Valencia",
+    "textFin": "15 días naturales a partir del día siguiente a la publicación de la convocatoria en el BOP Valencia",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446373,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "03_Certi_JGL_23-04_convocatoria_ajudes_21_DRAGO_DEL_PUIG_2026_EXP_2693155T_-_SEFYCU_8064048.pdf",
+        "long": 487197,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

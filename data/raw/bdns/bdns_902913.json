@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-902913",
+  "id_interno": 1104474,
+  "numero_convocatoria": "902913",
+  "organismo": "AUTONOMICA — COMUNITAT VALENCIANA — TURISME COMUNITAT VALENCIANA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "2026-01-01",
+  "fecha_fin_solicitud": "2026-02-25",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "SA 122526 - DECRETO PARA UNA SUBVENCIÓN DIRECTA CON CARÁCTER EXCEPCIONAL CON LA CORPORACIÓN RADIO TELEVISIÓN ESPAÑOLA, SME (RTVE) PARA LA ORGANIZACIÓN Y CELEBRACIÓN DEL BENIDORM FEST 2026.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "GRAN EMPRESA",
+  "sectores": "ACTIVIDADES DE EDICIÓN, RADIODIFUSIÓN Y PRODUCCIÓN Y DISTRIBUCIÓN DE CONTENIDOS",
+  "regiones": "ES52 - COMUNIDAD VALENCIANA",
+  "finalidad": "Comercio, Turismo y Pymes",
+  "bases_reguladoras": "SA 122526 - DECRETO PARA UNA SUBVENCIÓN DIRECTA CON CARÁCTER EXCEPCIONAL CON LA CORPORACIÓN RADIO TELEVISIÓN ESPAÑOLA, SME (RTVE) PARA LA ORGANIZACIÓN Y CELEBRACIÓN DEL BENIDORM FEST 2026.",
+  "url_bases_reguladoras": "NO SE DISPONE",
+  "presupuesto": "1.500.000,00 €",
+  "presupuesto_total_num": 1500000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902913",
+  "text": "CONVOCATORIA BDNS Nº 902913\nOrganismo: AUTONOMICA — COMUNITAT VALENCIANA — TURISME COMUNITAT VALENCIANA\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud: 2026-01-01 → 2026-02-25 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 1.500.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: GRAN EMPRESA\nSectores: ACTIVIDADES DE EDICIÓN, RADIODIFUSIÓN Y PRODUCCIÓN Y DISTRIBUCIÓN DE CONTENIDOS\nRegiones: ES52 - COMUNIDAD VALENCIANA\nFinalidad: Comercio, Turismo y Pymes\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSA 122526 - DECRETO PARA UNA SUBVENCIÓN DIRECTA CON CARÁCTER EXCEPCIONAL CON LA CORPORACIÓN RADIO TELEVISIÓN ESPAÑOLA, SME (RTVE) PARA LA ORGANIZACIÓN Y CELEBRACIÓN DEL BENIDORM FEST 2026.\n\nBases reguladoras:\nSA 122526 - DECRETO PARA UNA SUBVENCIÓN DIRECTA CON CARÁCTER EXCEPCIONAL CON LA CORPORACIÓN RADIO TELEVISIÓN ESPAÑOLA, SME (RTVE) PARA LA ORGANIZACIÓN Y CELEBRACIÓN DEL BENIDORM FEST 2026.\nURL bases reguladoras: NO SE DISPONE\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902913",
+  "_raw": {
+    "id": 1104474,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "COMUNITAT VALENCIANA",
+      "nivel3": "TURISME COMUNITAT VALENCIANA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902913",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 1500000,
+    "mrr": false,
+    "descripcion": "SA 122526 - DECRETO PARA UNA SUBVENCIÓN DIRECTA CON CARÁCTER EXCEPCIONAL CON LA CORPORACIÓN RADIO TELEVISIÓN ESPAÑOLA, SME (RTVE) PARA LA ORGANIZACIÓN Y CELEBRACIÓN DEL BENIDORM FEST 2026.",
+    "descripcionLeng": "SA 122526 - DECRET PER A UNA SUBVENCIÓ DIRECTA AMB CARÀCTER EXCEPCIONAL AMB LA CORPORACIÓ RÀDIO TELEVISIÓ ESPANYOLA, SME (RTVE) PER A L'ORGANITZACIÓ I CELEBRACIÓ DEL BENIDORM FEST 2026.",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "GRAN EMPRESA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES DE EDICIÓN, RADIODIFUSIÓN Y PRODUCCIÓN Y DISTRIBUCIÓN DE CONTENIDOS",
+        "codigo": "J"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES52 - COMUNIDAD VALENCIANA"
+      }
+    ],
+    "descripcionFinalidad": "Comercio, Turismo y Pymes",
+    "descripcionBasesReguladoras": "SA 122526 - DECRETO PARA UNA SUBVENCIÓN DIRECTA CON CARÁCTER EXCEPCIONAL CON LA CORPORACIÓN RADIO TELEVISIÓN ESPAÑOLA, SME (RTVE) PARA LA ORGANIZACIÓN Y CELEBRACIÓN DEL BENIDORM FEST 2026.",
+    "urlBasesReguladoras": "NO SE DISPONE",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-01-01",
+    "fechaFinSolicitud": "2026-02-25",
+    "textInicio": "01/01/2026",
+    "textFin": "25/02/2026",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446680,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "1.- Publicación DOGV Decreto concesión subvención directa RTVE 2026.pdf",
+        "long": 464598,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446681,
+        "descripcion": "Aceptación de Subvención directa",
+        "nombreFic": "1.2.- ANEXO ACEPTACIÓN subvención RTVE firmada 26_02.pdf",
+        "long": 2062579,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

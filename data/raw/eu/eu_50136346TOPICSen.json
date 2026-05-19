@@ -1,0 +1,184 @@
+{
+  "id": "EU-50136346TOPICSen",
+  "topic_id": "50136346TOPICSen",
+  "titulo": "Improving climate resilience of navigable inland waterways, their surroundings and related water infrastructure",
+  "descripcion": "Improving climate resilience of navigable inland waterways, their surroundings and related water infrastructure",
+  "organismo": "43108390",
+  "fecha_publicacion": "2026-02-04",
+  "fecha_limite": "2026-09-23",
+  "deadlines_todas": "2026-09-23",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113025\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-04 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"5000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113024\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-05 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":3,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2026\":\"21000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113027\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-02 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"5000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113026\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-07 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":20000000,\"maxContribution\":20000000,\"budgetYearMap\":{\"2026\":\"20000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113029\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-03 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":1,\"minContribution\":9000000,\"maxContribution\":9000000,\"budgetYearMap\":{\"2026\":\"9186307.3\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113028\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-06 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":2,\"minContribution\":6000000,\"maxContribution\":6000000,\"budgetYearMap\":{\"2026\":\"12000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113030\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-01 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":10000000,\"maxContribution\":10000000,\"budgetYearMap\":{\"2026\":\"10000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "HORIZON  Research and Innovation Actions",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-01-CLIMA-06",
+  "text": "EU FUNDING & TENDERS – Topic: 50136346TOPICSen\nProgramme/Organism: 43108390\nTitle: Improving climate resilience of navigable inland waterways, their surroundings and related water infrastructure\nStatus: Open (31094502)\nType of action: HORIZON  Research and Innovation Actions\nOpening date: 2026-02-04\nDeadline: 2026-09-23\nAll deadlines: 2026-09-23\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113025\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-04 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"5000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113024\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-05 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":3,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2026\":\"21000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113027\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-02 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"5000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113026\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-07 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":20000000,\"maxContribution\":20000000,\"budgetYearMap\":{\"2026\":\"20000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113029\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-03 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":1,\"minContribution\":9000000,\"maxContribution\":9000000,\"budgetYearMap\":{\"2026\":\"9186307.3\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113028\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-06 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":2,\"minContribution\":6000000,\"maxContribution\":6000000,\"budgetYearMap\":{\"2026\":\"12000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113030\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-01 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":10000000,\"maxContribution\":10000000,\"budgetYearMap\":{\"2026\":\"10000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}]}}\n\nDescription / Scope:\nImproving climate resilience of navigable inland waterways, their surroundings and related water infrastructure\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-01-CLIMA-06",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "50136346TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-01-CLIMA-06",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Improving climate resilience of navigable inland waterways, their surroundings and related water infrastructure",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Improving climate resilience of navigable inland waterways, their surroundings and related water infrastructure",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "A88C69F41E2ACCCA137E599119F6EAAB94A1B4F16651471579CA6CC0381EBFA9",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-02-26T18:56:22.400\",\"content\":\"\\u003cp\\u003eIf your lump sum budget contains any cost items in cost category C and/or D, please make sure to justify these items in the ‘Any comments’ sheet of the Excel detailed lump sum budget table.\\u003c/p\\u003e\\u003cp\\u003eThe reason is that we simplified the proposal template, removing this information from Part B and bringing it closer to the relevant budget items.\\u003c/p\\u003e\\u003cp\\u003eSpecifically, you must include justification in the ‘Any comments’ sheet if you are in any of the following situations:\\u003c/p\\u003e\\u003cul\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eIf the sum of the costs for ’travel and subsistence’, ‘equipment’, and ‘other goods, works and services’ (i.e. the purchase costs) exceeds 15% of the personnel costs for a participant. If this is the case, justify the most expensive cost item(s) up to the level that the remaining costs are below 15% of personnel costs.\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eIf other cost categories (e.g. internally invoiced goods and services) are used.\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003eIf in-kind contributions are used (non-financial resources made available free of charge by third parties, which must be included as direct costs in the corresponding cost category, e.g. personnel costs or purchase costs for equipment).\\u003c/li\\u003e\\u003c/ul\\u003e\\u003cp\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-02-06T12:50:00.357\",\"content\":\"The submission session is now available for: HORIZON-MISS-2026-01-CLIMA-05, HORIZON-MISS-2026-01-CLIMA-04, HORIZON-MISS-2026-01-CLIMA-07, HORIZON-MISS-2026-01-CLIMA-02, HORIZON-MISS-2026-01-CLIMA-06, HORIZON-MISS-2026-01-CLIMA-03, HORIZON-MISS-2026-01-CLIMA-01\"}]"
+      ],
+      "es_SortDate": [
+        "2026-02-04T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "HORIZON-MISS-2026-01-CLIMA-06",
+        "HORIZON-MISS-2026-1"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p><strong><em>﻿</em></strong>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex A</a> and <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex E</a> of the Horizon Europe Work Programme General Annexes.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p>A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a>.</p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex C</a> of the Work Programme General Annexes.</p></div></div><div><h4>5a. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex D</a> of the Work Programme General Annexes.</p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>Eligible costs will take the form of a lump sum as defined in the Decision of 7 July 2021 authorising the use of lump sum contributions under the Horizon Europe Programme – the Framework Programme for Research and Innovation (2021-2027) – and in actions under the Research and Training Programme of the European Atomic Energy Community (2021-2025) [[This <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\"><u>decision</u></a> is available on the Funding and Tenders Portal, in the reference documents section for Horizon Europe, under ‘Simplified costs decisions’ or through this link: <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\"><u>https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf</u></a>]].</p></div><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex G</a> of the Work Programme General Annexes.</p></div></div></div><div class=\"eui-u-mt-l\"><h4>Specific conditions</h4> <div class=\"eui-u-mt-s\"><p>described in the [specific topic of the Work Programme]</p></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Application and evaluation forms and model grant agreement (MGA):</h4> <div class=\"eui-u-mt-s\"><p><strong>Application form templates</strong> <em>— the application form specific to this call is available in the Submission System</em></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (HE RIA, IA)</a></p><p><strong>Evaluation form templates</strong> <em>— will be used with the necessary adaptations</em> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/ef/ef_he-ria-ia_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard evaluation form (HE RIA, IA)</a>&#xa0;</p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a>&#xa0;</p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE MGA</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/ls-mga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Lump Sum MGA</a>&#xa0;</p><p><strong>Call-specific instructions</strong>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/temp-form/af/detailed-budget-table_he-ls-euratom_en.xlsm\" rel=\"noopener noreferrer\" target=\"_blank\">Detailed budget table (HE LS)</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-funding-what-do-i-need-to-know_he_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Guidance: \"Lump sums - what do I need to know?\"</a></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-1-general-introduction_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 1. General Introduction</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-12-missions_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 12. Missions</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 15. General Annexes</a></p><p><a href=\"https://eic.ec.europa.eu/eic-2026-work-programme_en\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026/wp_horizon-erc-2026_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">ERC Work Programme 2026</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0695\" rel=\"noopener noreferrer\" target=\"_blank\">HE Framework Programme 2021/695</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021D0764\" rel=\"noopener noreferrer\" target=\"_blank\">HE Specific Programme Decision 2021/764</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Decision authorising the use of lump sum contributions under the Horizon Europe Programme</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a> </p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "Improving climate resilience of navigable inland waterways, their surroundings and related water infrastructure"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "A88C69F41E2ACCCA137E599119F6EAAB94A1B4F16651471579CA6CC0381EBFA9"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43027849"
+      ],
+      "callIdentifier": [
+        "HORIZON-MISS-2026-1"
+      ],
+      "ccm2Id": [
+        "50136346"
+      ],
+      "callccm2Id": [
+        "50136449"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50136346TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"HORIZON-MISS-2026-1\",\"criterionCode\":\"HORIZON-RIA\",\"criterionDescription\":\"HORIZON  Research and Innovation Actions\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43431?topic\\u003dHORIZON-MISS-2026-01-CLIMA-06\",\"startDate\":\"1770163200000\",\"endDate\":\"1790121600000\",\"mgaDescription\":\"HORIZON Lump Sum Grant\",\"mgaCode\":\"HORIZON-AG-LS\"}]"
+      ],
+      "callTitle": [
+        "Supporting the implementation of the Adaptation to Climate Change Mission"
+      ],
+      "frameworkProgramme": [
+        "43108390"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Outcome:</p><p>Successful proposals will support the implementation of the EU Adaptation Strategy, the EU Mission on Adaptation to Climate Change, the European Water Resilience Strategy, the EU Preparedness Strategy and the upcoming European Climate Adaptation Plan. Proposals are expected to contribute to <u>all of</u> the following outcomes:</p><ul level=\"0\"><li>Navigable inland waterways, their surroundings and related infrastructure are managed in a more integrated and sustainable manner across Europe and become more climate-resilient</li><li>Climate and environmental risks to water infrastructure (e.g. droughts, flooding, slow onset events, ecological degradation and cascading and compound events) are more effectively addressed in a systemic way. Safe, efficient and reliable navigability conditions are improved.</li><li>Cost-efficient and environmentally friendly measures -- especially nature-based solutions -- are identified with the involvement of stakeholders. They improve climate resilience of inland waterways while supporting integrated co-benefit and avoiding competing water uses, including between countries and regions.</li> </ul><p class=\"topicdescriptionkind\">Scope:</p><p> </p><p><strong>Rationale </strong></p><p>There are about 42,000 kilometres of navigable inland waterways in the EU, with a network spanning 25 Member States. In 2022, 122.1 billion tonne-kilometres were transported through inland waters, making up 5,1% of the total land freight transport volumes within the EU. Inland waterways are one of the most carbon efficient mode of transportation for freight and their role should be boosted, as highlighted in the <a href=\"https://transport.ec.europa.eu/transport-modes/inland-waterways/promotion-inland-waterway-transport/naiades-iii-action-plan_en\">2021 Commission Communication</a> (NAIADES III).</p><p>While inland waterways, their surroundings and related infrastructure are at the heart of the green transition, they are also <a href=\"https://climate-adapt.eea.europa.eu/en/eu-adaptation-policy/key-eu-actions/european-climate-risk-assessment\">threatened by climate change</a> and ecological degradation, which <a href=\"https://op.europa.eu/en/publication-detail/-/publication/26731a63-b904-11ef-91ed-01aa75ed71a1/language-en\">can cause severe disruptions</a>. Adverse effects of climate change include slow-onset and seasonal changes in water availability and quality, increased flooding and prolonged periods of water scarcity and drought. <strong>The goal of this topic is to better understand and</strong><strong> improve the climate resilience of navigable inland waterways and related interdependent systems.</strong></p><p><strong>Activities of the projects</strong></p><p>Projects are expected to address <u>all of</u> the following aspects:</p><ul level=\"0\"><li><strong>Address the lack of a common climate modelling framework for EU waterways</strong> <strong>and improve predictions and projections</strong> to optimise waterway management in the short to long term.</li><li><strong>Conduct a comprehensive climate risk assessment of the EU's navigable waterway from the Trans-European Transport network (TEN-T). </strong>This assessment should cover mobility, supply chain security, critical infrastructure, geographical and economic interdependencies and multifunctional water resilience.</li><li><strong>Estimate the investments that are required</strong> to adapt to climate change, as well as the costs of inaction.</li><li><strong>Provide actionable information to guide effective climate adaptation solutions,</strong> that maximise co-benefits (including for biodiversity) and ensure integrated management of inland navigable waterways.</li><li><strong>Develop adaptation solutions</strong> on various waterways. Nature-based solutions and solutions supporting nature restoration should be explored as a priority, in line with the Mission Implementation Plan.</li><li><strong>Enhance stakeholder collaboration mechanisms </strong></li><li><strong>Work closely and coordinate</strong> with the other projects funded under this topic, to maximise synergies and avoid duplications.</li> </ul><p><strong>Links to the Mission and to other projects and initiatives </strong></p><p>Proposals should build (when relevant) on existing knowledge and adaptation solutions developed by previous projects<sup>[1]</sup> and explore synergies with ongoing projects from EU and national programmes as well as the International River Commissions.</p><p>Proposals should include a mechanism and the resources to establish operational links and collaboration with the Mission Implementation Platform (including on monitoring), and other relevant knowledge platforms such as <a href=\"https://cordis.europa.eu/project/id/101137650\">PLATINA4Action</a>. Projects funded under this topic will be expected to participate in the Mission Community of Practice and to share relevant knowledge to feed the work of the project stemming from HORIZON-MISS-2026-01-CLIMA-02.</p><p>Applicants should acknowledge these elements and already account for them in their proposal, making adequate provisions in terms of resources and budget to engage and collaborate with the Mission.</p><p class=\"eui-u-font-s\">[1] <sup> </sup>Projects that are particularly relevant include those funded under <a href=\"https://cordis.europa.eu/search?q=contenttype%3D%27project%27%20AND%20programme%2Fcode%3D%27HORIZON-CL5-2021-D6-01-09%27&amp;p=1&amp;num=10&amp;srt=/project/contentUpdateDate:decreasing\">HORIZON-CL5-2021-D6-01-09</a>, HORIZON-CL5-2026-01-D6-10 or Transport Inland Waterway Portfolio of Connecting Europe Facility (CEF).</p>"
+      ],
+      "identifier": [
+        "HORIZON-MISS-2026-01-CLIMA-06"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43108557",
+        "43118846",
+        "43118971",
+        "43120193",
+        "43120821",
+        "43121563",
+        "43108541",
+        "43108390"
+      ],
+      "crossCuttingPriorities": [
+        "AI",
+        "DigitalAgenda"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-01-19T16:31:21.556+0100"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-09-23T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-03-02T09:36:43.088+0100"
+      ],
+      "typesOfAction": [
+        "HORIZON  Research and Innovation Actions"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-01-CLIMA-06"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-01-CLIMA-06"
+      ],
+      "tags": [],
+      "cenTagsA": [
+        "TOPICS-002812",
+        "TOPICS-002813",
+        "TOPICS-002814",
+        "TOPICS-002815",
+        "TOPICS-002816",
+        "TOPICS-002817"
+      ],
+      "esDA_QueueDate": [
+        "2026-03-02T09:36:43.078+0100"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"HORIZON-RIA HORIZON  Research and Innovation Actions\",\"typeOfMGA\":[{\"id\":43027849,\"abbreviation\":\"HORIZON-AG-LS\",\"description\":\"HORIZON Lump Sum Grant\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-02-04\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-09-23\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113025\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-04 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"5000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113024\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-05 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":3,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2026\":\"21000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113027\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-02 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"5000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113026\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-07 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":20000000,\"maxContribution\":20000000,\"budgetYearMap\":{\"2026\":\"20000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113029\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-03 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":1,\"minContribution\":9000000,\"maxContribution\":9000000,\"budgetYearMap\":{\"2026\":\"9186307.3\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113028\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-06 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":2,\"minContribution\":6000000,\"maxContribution\":6000000,\"budgetYearMap\":{\"2026\":\"12000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113030\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-01 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":10000000,\"maxContribution\":10000000,\"budgetYearMap\":{\"2026\":\"10000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}]}}"
+      ],
+      "startDate": [
+        "2026-02-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> – find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> – ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> – get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (‘third-countries’).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> – contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> – the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> – consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Improving climate resilience of navigable inland waterways, their surroundings and related water infrastructure. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-01-CLIMA-06",
+    "score": 3.0
+  }
+}

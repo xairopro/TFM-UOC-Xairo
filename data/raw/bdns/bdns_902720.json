@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-902720",
+  "id_interno": 1104281,
+  "numero_convocatoria": "902720",
+  "organismo": "LOCAL — MURO — AYUNTAMIENTO DE MURO",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "2026-02-17",
+  "fecha_fin_solicitud": "2026-12-01",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "CONVENIO ENTRE EL AYUNTAMIENTO DE MURO Y LA UNIÓN ARTÍSTICA MURERA PARA LLEVAR A TÉRMINO ACTIVIDADES DE LA BANDA DE MÚSICA AÑO 2026.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "OTROS SERVICIOS",
+  "regiones": "ES532 - Mallorca",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "CONVENIO ENTRE EL AYUNTAMIENTO DE MURO Y LA UNIÓN ARTÍSTICA MURERA PARA LLEVAR A TÉRMINO ACTIVIDADES DE LA BANDA DE MÚSICA AÑO 2026.",
+  "url_bases_reguladoras": "https://muro.absiscloud.com/absis/sec/exp/secexpiniweb/app/FichaExpediente/Designer/App/App.html?key=39C7BD1D5CC2540E1C644CCCEE473C1D",
+  "presupuesto": "15.000,00 €",
+  "presupuesto_total_num": 15000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902720",
+  "text": "CONVOCATORIA BDNS Nº 902720\nOrganismo: LOCAL — MURO — AYUNTAMIENTO DE MURO\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud: 2026-02-17 → 2026-12-01 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 15.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: OTROS SERVICIOS\nRegiones: ES532 - Mallorca\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVENIO ENTRE EL AYUNTAMIENTO DE MURO Y LA UNIÓN ARTÍSTICA MURERA PARA LLEVAR A TÉRMINO ACTIVIDADES DE LA BANDA DE MÚSICA AÑO 2026.\n\nBases reguladoras:\nCONVENIO ENTRE EL AYUNTAMIENTO DE MURO Y LA UNIÓN ARTÍSTICA MURERA PARA LLEVAR A TÉRMINO ACTIVIDADES DE LA BANDA DE MÚSICA AÑO 2026.\nURL bases reguladoras: https://muro.absiscloud.com/absis/sec/exp/secexpiniweb/app/FichaExpediente/Designer/App/App.html?key=39C7BD1D5CC2540E1C644CCCEE473C1D\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902720",
+  "_raw": {
+    "id": 1104281,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "MURO",
+      "nivel3": "AYUNTAMIENTO DE MURO"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902720",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 15000,
+    "mrr": false,
+    "descripcion": "CONVENIO ENTRE EL AYUNTAMIENTO DE MURO Y LA UNIÓN ARTÍSTICA MURERA PARA LLEVAR A TÉRMINO ACTIVIDADES DE LA BANDA DE MÚSICA AÑO 2026.",
+    "descripcionLeng": "CONVENI ENTRE L’ AJUNTAMENT DE MURO I LA UNIÓ ARTÍSTICA MURERA PER A DUR A TERME ACTIVITATS DE LA BANDA DE MÚSICA ANY 2026",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES532 - Mallorca"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "CONVENIO ENTRE EL AYUNTAMIENTO DE MURO Y LA UNIÓN ARTÍSTICA MURERA PARA LLEVAR A TÉRMINO ACTIVIDADES DE LA BANDA DE MÚSICA AÑO 2026.",
+    "urlBasesReguladoras": "https://muro.absiscloud.com/absis/sec/exp/secexpiniweb/app/FichaExpediente/Designer/App/App.html?key=39C7BD1D5CC2540E1C644CCCEE473C1D",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-02-17",
+    "fechaFinSolicitud": "2026-12-01",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446069,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "Conveni Signat.pdf",
+        "long": 281648,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446068,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Conveni Signat.pdf",
+        "long": 281648,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

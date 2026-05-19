@@ -1,0 +1,111 @@
+{
+  "id": "BDNS-901302",
+  "id_interno": 1102863,
+  "numero_convocatoria": "901302",
+  "organismo": "AUTONOMICA — GALICIA — AGENCIA GALLEGA DE LAS INDUSTRIAS CULTURALES (AGADIC)",
+  "sede_electronica": "https://www.sede.xunta.gal/portada",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "CONVENIO DE COLABORACIÓN ENTRE LA AGENCIA GALLEGA DE LAS INDUSTRIAS CULTURALES Y LA ASOCIACIÓN CULTURAL COLECTIVO RPM PARA El DESARROLLO DEL PROGRAMA PARA LA DANZA Y LAS ARTES VIVAS \"RESIDENCIAS PARAÍSO\" EN 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "GRAN EMPRESA, PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+  "regiones": "ES11 - GALICIA",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Procedimiento de subvención directa de la Ley de subvenciones de Galicia",
+  "url_bases_reguladoras": "https://www.xunta.gal/diario-oficial-galicia",
+  "presupuesto": "30.000,00 €",
+  "presupuesto_total_num": 30000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901302",
+  "text": "CONVOCATORIA BDNS Nº 901302\nOrganismo: AUTONOMICA — GALICIA — AGENCIA GALLEGA DE LAS INDUSTRIAS CULTURALES (AGADIC)\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 30.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: GRAN EMPRESA, PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de bibliotecas, archivos, museos y otras actividades culturales\nRegiones: ES11 - GALICIA\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVENIO DE COLABORACIÓN ENTRE LA AGENCIA GALLEGA DE LAS INDUSTRIAS CULTURALES Y LA ASOCIACIÓN CULTURAL COLECTIVO RPM PARA El DESARROLLO DEL PROGRAMA PARA LA DANZA Y LAS ARTES VIVAS \"RESIDENCIAS PARAÍSO\" EN 2026\n\nBases reguladoras:\nProcedimiento de subvención directa de la Ley de subvenciones de Galicia\nURL bases reguladoras: https://www.xunta.gal/diario-oficial-galicia\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901302",
+  "_raw": {
+    "id": 1102863,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "GALICIA",
+      "nivel3": "AGENCIA GALLEGA DE LAS INDUSTRIAS CULTURALES (AGADIC)"
+    },
+    "sedeElectronica": "https://www.sede.xunta.gal/portada",
+    "codigoBDNS": "901302",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 30000,
+    "mrr": false,
+    "descripcion": "CONVENIO DE COLABORACIÓN ENTRE LA AGENCIA GALLEGA DE LAS INDUSTRIAS CULTURALES Y LA ASOCIACIÓN CULTURAL COLECTIVO RPM PARA El DESARROLLO DEL PROGRAMA PARA LA DANZA Y LAS ARTES VIVAS \"RESIDENCIAS PARAÍSO\" EN 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "GRAN EMPRESA"
+      },
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+        "codigo": "91"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES11 - GALICIA"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Procedimiento de subvención directa de la Ley de subvenciones de Galicia",
+    "urlBasesReguladoras": "https://www.xunta.gal/diario-oficial-galicia",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "01/04/2026",
+    "textFin": "24/04/2026",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443755,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Convenio Residencias Paraiso_20260424_085934.pdf",
+        "long": 286905,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443756,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "1. convenio Residencias P._20260427_145629.pdf",
+        "long": 450452,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

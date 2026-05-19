@@ -1,0 +1,219 @@
+{
+  "id": "EU-50136030TOPICSen",
+  "topic_id": "50136030TOPICSen",
+  "titulo": "Large-scale demonstration for mapping the distribution and condition of marine habitats to implement the Nature Restoration Regulation",
+  "descripcion": "Large-scale demonstration for mapping the distribution and condition of marine habitats to implement the Nature Restoration Regulation",
+  "organismo": "43108390",
+  "fecha_publicacion": "2026-02-04",
+  "fecha_limite": "2026-09-23",
+  "deadlines_todas": "2026-09-23",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113031\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-05 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":4,\"minContribution\":4000000,\"maxContribution\":4850000,\"budgetYearMap\":{\"2026\":\"19400000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113033\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-01 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":4,\"minContribution\":7000000,\"maxContribution\":7750000,\"budgetYearMap\":{\"2026\":\"31000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113032\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-02 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":4,\"minContribution\":7000000,\"maxContribution\":7750000,\"budgetYearMap\":{\"2026\":\"31000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113035\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-04 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":2500000,\"maxContribution\":2900000,\"budgetYearMap\":{\"2026\":\"2900000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113034\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-03 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":4,\"minContribution\":7000000,\"maxContribution\":7750000,\"budgetYearMap\":{\"2026\":\"31000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "HORIZON Innovation Actions",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-03-OCEAN-01",
+  "text": "EU FUNDING & TENDERS – Topic: 50136030TOPICSen\nProgramme/Organism: 43108390\nTitle: Large-scale demonstration for mapping the distribution and condition of marine habitats to implement the Nature Restoration Regulation\nStatus: Open (31094502)\nType of action: HORIZON Innovation Actions\nOpening date: 2026-02-04\nDeadline: 2026-09-23\nAll deadlines: 2026-09-23\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113031\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-05 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":4,\"minContribution\":4000000,\"maxContribution\":4850000,\"budgetYearMap\":{\"2026\":\"19400000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113033\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-01 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":4,\"minContribution\":7000000,\"maxContribution\":7750000,\"budgetYearMap\":{\"2026\":\"31000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113032\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-02 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":4,\"minContribution\":7000000,\"maxContribution\":7750000,\"budgetYearMap\":{\"2026\":\"31000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113035\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-04 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":2500000,\"maxContribution\":2900000,\"budgetYearMap\":{\"2026\":\"2900000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113034\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-03 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":4,\"minContribution\":7000000,\"maxContribution\":7750000,\"budgetYearMap\":{\"2026\":\"31000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}]}}\n\nDescription / Scope:\nLarge-scale demonstration for mapping the distribution and condition of marine habitats to implement the Nature Restoration Regulation\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-03-OCEAN-01",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "50136030TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-03-OCEAN-01",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Large-scale demonstration for mapping the distribution and condition of marine habitats to implement the Nature Restoration Regulation",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Large-scale demonstration for mapping the distribution and condition of marine habitats to implement the Nature Restoration Regulation",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "1B2A2ACC0B4B4607AA02927EC744E7A6DBC45BF0A398D68769E4AD71631951AC",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-02-06T17:50:46.318\",\"content\":\"\\u003cp\\u003eThe submission of the proposals will open shortly.\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-03-13T09:55:48.514\",\"content\":\"The submission session is now available for: HORIZON-MISS-2026-03-OCEAN-05, HORIZON-MISS-2026-03-OCEAN-02, HORIZON-MISS-2026-03-OCEAN-01, HORIZON-MISS-2026-03-OCEAN-03, HORIZON-MISS-2026-03-OCEAN-04\"}]"
+      ],
+      "es_SortDate": [
+        "2026-02-04T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "HORIZON-MISS-2026-03-OCEAN-01",
+        "HORIZON-MISS-2026-03",
+        "Coastal Adaptation",
+        "Environmental sciences (social aspects)",
+        "Hydrosphere - Marine and Ocean",
+        "Integrated Coastal Zone Management / Integrated C",
+        "Marine Conservation",
+        "Marine Ecosystems Restoration",
+        "Marine Environment",
+        "Marine Environmental Policies",
+        "Marine Knowledge and Research",
+        "Marine Protected Areas/Mpas",
+        "Marine Reserves",
+        "Marine Strategy Framework Directive",
+        "Marine and Ocean Management",
+        "Ocean",
+        "Oceanography (physical, chemical, biological, geological)"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p><strong><em>﻿</em></strong>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex A</a> and <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex E</a> of the Horizon Europe Work Programme General Annexes.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p>A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a>.</p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).</p></div><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex C</a> of the Work Programme General Annexes.</p></div></div><div><h4>5a. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>To ensure a balanced portfolio covering the 4 different Mission basins[[For the purposes of Mission Ocean and waters, Member States/Associated Countries, are considered to be part of a given sea/river basin if they have a coast/riverbank on the relevant sea/river or contain river basins flowing into the relevant sea]] (1. Atlantic and Arctic sea basin, 2. Mediterranean Sea basin, 3. Baltic and North Sea basin, 4. Danube River basin, including Black Sea), grants will be awarded to applications not only in order of ranking but at least also to one proposal that is the highest ranked within each sea basin, provided that the applications attain all thresholds.</p></div><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex D</a> of the Work Programme General Annexes.</p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>Beneficiaries may provide financial support to third parties. The support to Third Parties can only be provided in the form of grants. The Financial Support to Third Parties may only be awarded to local and/or regional authorities (established as public bodies by public law and governed by public law), which are not already involved in as beneficiaries in a demonstration site of the same project and which are located in Member States/Associated Countries. The maximum amount to be granted to each Third Party is EUR 100,000, aiming at showcasing the effectiveness of solutions demonstrated by a project and develop a replication plan for their uptake in an ‘associated region’[[Regional or local authorities established as public bodies by national law and governed by public law.]]. A recipient may only benefit from this Financial Support to Third Parties once within the entire duration of the project.</p></div><div class=\"eui-u-mt-s\"><p>Beneficiaries will be subject to the following additional obligations regarding open science practices: if projects collect in-situ data and marine observation, beneficiaries must make them openly available through the European Marine Observation and Data network (EMODnet), based on the FAIR (Findable, Accessible, Interoperable, Reusable) principles.</p></div><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex G</a> of the Work Programme General Annexes.</p></div></div></div><div class=\"eui-u-mt-l\"><h4>Specific conditions</h4> <div class=\"eui-u-mt-s\"><p>described in the [specific topic of the Work Programme]</p></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Application and evaluation forms and model grant agreement (MGA):</h4> <div class=\"eui-u-mt-s\"><p><strong>Application form templates</strong> <em>— the application form specific to this call is available in the Submission System</em></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (HE RIA, IA)</a></p><p><strong>Evaluation form templates</strong> <em>— will be used with the necessary adaptations</em> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/ef/ef_he-ria-ia_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard evaluation form (HE RIA, IA)</a>&#xa0;</p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a>&#xa0;</p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE MGA</a>&#xa0;</p><p><strong>Call-specific instructions</strong>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/information-on-financial-support-to-third-parties_he_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Information on financial support to third parties (HE)</a>&#xa0;</p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-1-general-introduction_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 1. General Introduction</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-12-missions_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 12. Missions</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 15. General Annexes</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0695\" rel=\"noopener noreferrer\" target=\"_blank\">HE Framework Programme 2021/695</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021D0764\" rel=\"noopener noreferrer\" target=\"_blank\">HE Specific Programme Decision 2021/764</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a> </p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "Large-scale demonstration for mapping the distribution and condition of marine habitats to implement the Nature Restoration Regulation"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "1B2A2ACC0B4B4607AA02927EC744E7A6DBC45BF0A398D68769E4AD71631951AC"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43027846"
+      ],
+      "callIdentifier": [
+        "HORIZON-MISS-2026-03"
+      ],
+      "ccm2Id": [
+        "50136030"
+      ],
+      "callccm2Id": [
+        "50136495"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50136030TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"HORIZON-MISS-2026-03\",\"criterionCode\":\"HORIZON-IA\",\"criterionDescription\":\"HORIZON Innovation Actions\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43691?topic\\u003dHORIZON-MISS-2026-03-OCEAN-01\",\"startDate\":\"1770163200000\",\"endDate\":\"1790121600000\",\"mgaDescription\":\"HORIZON Action Grant Budget-Based\",\"mgaCode\":\"HORIZON-AG\"}]"
+      ],
+      "callTitle": [
+        "Supporting the implementation of the Restore our Ocean and Waters Mission"
+      ],
+      "frameworkProgramme": [
+        "43108390"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Outcome:</p><p>This topic aims at directly engaging and supporting relevant public authorities with mapping at large scale the conditions of marine habitats needed for implementing the Nature Restoration Regulation and for achieving one or several objectives of the Mission Restore our Ocean and Waters<sup>[1]</sup>. The direct involvement of relevant authorities and stakeholders in the consortium is strongly encouraged.</p><p>Project results are expected to contribute to all the following expected outcomes: </p><ul level=\"0\"><li>Member States have the capacity and access to tried and tested solutions to complete the mapping of the distribution and condition of coastal and marine habitats listed in Annex II of the Nature Restoration Regulation<sup>[2]</sup> (NRR) in the waters under their jurisdiction, which is needed to fulfil the obligations under Article 5 of the NRR within the deadlines, and obligations under the Marine Strategy Framework Directive (MSFD) and the Birds and Habitats Directive (BHD); </li><li>Substantial areas of habitats have been mapped and their condition assessed. Priority should be given to Groups 1-6 of Annex II, followed by Group 7 of Annex II <sup>[3]</sup>, in line with applicable deadlines; </li> </ul><p>Member States have the capacity to determine priority areas for restoring marine habitats, and to prepare, update and implement their national restoration plans under the NRR, also contributing to the implementation of marine strategies under the MSFD and obligations under the BHD.</p><p class=\"topicdescriptionkind\">Scope:</p><p>In line with the objectives and targets of the EU Biodiversity Strategy for 2030, the Nature Restoration Regulation targets (in particular those set for 2030), the Birds and Habitats Directives, the Marine Strategy Framework Directive and the Kunming-Montreal Global Biodiversity Framework (GBF) and relevant national strategies contributing to these objectives, proposals should:</p><ul level=\"0\"><li>Leverage and integrate the best available operational knowledge, technologies and tools, including those delivered by projects from Horizon 2020 and Horizon Europe, to meet the EU Biodiversity strategy goals and targets and facilitate the preparation of national restoration plans by addressing the gaps in monitoring and mapping capabilities for marine habitats in the 22 coastal Member States;</li><li>Test and demonstrate in situ the best methods and tools for large-scale cost-effective and comprehensive mapping and monitoring of EUNIS marine habitats covered by the NRR, giving priority to Groups 1-6 in Annex II of the NRR, followed by Group 7 of Annex II. The areas mapped should correspond to the needs and requirements of the NRR and corresponding targets. The project should consider regional specificities and build on the methods developed under the MSFD and BHD, relevant Commission’s guidance documents and the work ongoing under the LIFE MAPPER project<sup>[4]</sup>;</li><li>Implement demonstration activities in at least 4 large areas in one of the Mission basin-scale lighthouses, showing the scalability and replicability of the tools and methods. The demonstration areas should fill gaps in the geographical coverage of mapping marine habitats, assessing and monitoring their condition, taking into consideration the need to address regional specificities. Demonstration activities should strongly and directly involve relevant authorities;</li><li>Develop, together with relevant national authorities and organisations responsible for marine environmental protection in the EU marine regions, a blueprint for the further upscaling and deployment of demonstrated approaches. The blueprint should aim at enhancing the capacity of Member States and Associated countries to complete the mapping, long-term observation and monitoring systems of marine habitats and ensuring that the mapping and restoration measures are continuously evaluated and adapted, based on updated, high-quality ecological data;</li><li>Contribute to data collection and data sharing through the European Marine Observation and Data Network (EMODnet) and to support the Digital Twin Ocean.</li> </ul><p>Each proposal should address only one basin-scale Mission “lighthouse”, which should be explicitly stated in the proposal, i.e.: 1. Atlantic and Arctic Sea basin or 2. Mediterranean Sea basin or 3. Baltic and North Sea basin or 4. Danube River basin including the Black Sea. Activities should be tailored to address regional/sea basin specificities. The basin-scale Mission “lighthouses” include the river basins flowing into the respective sea basins.</p><p>Projects are expected to build on the best available actionable knowledge, methods and innovations notably from the results of national and EU-funded projects. Where relevant, projects should build on and link with the ongoing work on marine habitat assessments under regional sea conventions. Applicants are encouraged to make use of relevant EU digital infrastructures, such as the EU Digital Twin Ocean, Copernicus and EMODnet.</p><p>Projects are expected to show a significant replication potential across the EU by directly involving relevant authorities and stakeholders, by promoting collaborations between relevant authorities and other stakeholders facing similar challenges, and by identifying further stakeholders that could replicate the proposed solutions and approaches.</p><p>Competent authorities and other stakeholders participating in the project are encouraged to pool and enhance synergies<sup>[5]</sup> with other sources of national, regional and European (e.g. structural, cohesion funds such as ERDF, or LIFE) funding for implementing and deploying innovative solutions.</p><p>Projects are expected to work with and engage at least 4 ‘associated regions’ (represented by local/regional authorities/public bodies) to show the effectiveness of solutions to increase resilience and develop a replication plan for its uptake in an ‘associated region’ and build capacity at local level. Beneficiaries may therefore provide Financial Support to Third Parties (see the Specific Conditions table for this topic). Projects should (1) proactively reach out to the 'associated regions' to enable them to follow closely the project’s activities, (2) continuously share their outcomes and knowledge with those ‘associated regions’ and (3) provide associated regions with technical assistance to build capacity and to implement in their territory the approaches developed by the project.</p><p>Proposals should establish operational links and cooperate with the relevant basin Lighthouse CSAs and the Mission Implementation Platform, notably to contribute to tracking progress towards the objectives of the Mission and coordination of all relevant implementation activities in the lighthouse basin.</p><p>This action supports the follow-up to the July 2023 Communication on EU Missions assessment.</p><p class=\"eui-u-font-s\">[1] <sup> </sup>Mission Ocean and Waters Implementation Plan: <a href=\"https://research-and-innovation.ec.europa.eu/knowledge-publications-tools-and-data/publications/all-publications/implementation-plans-eu-missions_en\">Implementation Plans for the EU Missions - European Commission</a></p><p class=\"eui-u-font-s\">[2] <sup> </sup>Regulation (EU) 2024/1991 of the European Parliament and of the Council of 24 June 2024 on nature restoration and amending Regulation (EU) 2022/869 (Text with EEA relevance) : <a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1991&amp;qid=1722240349976\">Regulation - EU - 2024/1991 - EN - EUR-Lex</a></p><p class=\"eui-u-font-s\">[3] <sup> </sup>The list below includes the marine habitat types referred to in Article 5(1) and (2), as well as seven groups of those habitat types, namely 1) seagrass beds, 2) macroalgal forests, 3) shellfish beds, 4) maerl beds, 5) sponge, coral and coralligenous beds, 6) vents and seeps and 7) soft sediments (not deeper than 1 000 metres of depth)</p><p class=\"eui-u-font-s\">[4] <sup> </sup></p><p class=\"eui-u-font-s\">[5] <sup> </sup><u>C(2022) 4747 final</u></p>"
+      ],
+      "identifier": [
+        "HORIZON-MISS-2026-03-OCEAN-01"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43108390",
+        "43108541",
+        "43121563",
+        "43121583"
+      ],
+      "crossCuttingPriorities": [
+        "OCEAN",
+        "EoscAndFairData",
+        "DigitalAgenda",
+        "AI"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-01-19T16:31:19.298+0100"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-09-23T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-03-13T09:56:58.143+0100"
+      ],
+      "typesOfAction": [
+        "HORIZON Innovation Actions"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-03-OCEAN-01"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-03-OCEAN-01"
+      ],
+      "tags": [
+        "Habitat mapping",
+        "Nature Restoration Regulation",
+        "Restoration"
+      ],
+      "cenTagsA": [
+        "TOPICS-002630",
+        "TOPICS-002631",
+        "TOPICS-002632",
+        "TOPICS-000469",
+        "TOPICS-002633",
+        "TOPICS-002634",
+        "TOPICS-002635",
+        "TOPICS-002636",
+        "TOPICS-002637",
+        "TOPICS-002567",
+        "TOPICS-002569",
+        "TOPICS-002214",
+        "TOPICS-002638",
+        "TOPICS-000142",
+        "TOPICS-002220",
+        "TOPICS-002639",
+        "TOPICS-000274",
+        "TOPICS-002216",
+        "TOPICS-000276",
+        "TOPICS-000146",
+        "TOPICS-002640",
+        "TOPICS-000145",
+        "TOPICS-002641",
+        "TOPICS-002642"
+      ],
+      "esDA_QueueDate": [
+        "2026-03-13T09:56:58.132+0100"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"HORIZON-IA HORIZON Innovation Actions\",\"typeOfMGA\":[{\"id\":43027846,\"abbreviation\":\"HORIZON-AG\",\"description\":\"HORIZON Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-02-04\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-09-23\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113031\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-05 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":4,\"minContribution\":4000000,\"maxContribution\":4850000,\"budgetYearMap\":{\"2026\":\"19400000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113033\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-01 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":4,\"minContribution\":7000000,\"maxContribution\":7750000,\"budgetYearMap\":{\"2026\":\"31000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113032\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-02 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":4,\"minContribution\":7000000,\"maxContribution\":7750000,\"budgetYearMap\":{\"2026\":\"31000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113035\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-04 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":2500000,\"maxContribution\":2900000,\"budgetYearMap\":{\"2026\":\"2900000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113034\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-03 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":4,\"minContribution\":7000000,\"maxContribution\":7750000,\"budgetYearMap\":{\"2026\":\"31000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}]}}"
+      ],
+      "startDate": [
+        "2026-02-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> – find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> – ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> – get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (‘third-countries’).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> – contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> – the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> – consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Large-scale demonstration for mapping the distribution and condition of marine habitats to implement the Nature Restoration Regulation. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-03-OCEAN-01",
+    "score": 3.0
+  }
+}

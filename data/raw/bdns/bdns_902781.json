@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-902781",
+  "id_interno": 1104342,
+  "numero_convocatoria": "902781",
+  "organismo": "LOCAL — VANDELLÒS I L'HOSPITALET DE L'INFANT — AYUNTAMIENTO DE VANDELLÒS I L'HOSPITALET DE I'INFANT",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Convenio entre el Consorcio para la Normalización Lingüística y el Ayuntamiento de Vandellòs i l’Hospitalet de l’Infant para desplegar actuaciones de acogida lingüística en el municipio.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades asociativas",
+  "regiones": "ES514 - Tarragona",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Convenio entre el Consorcio para la Normalización Lingüística y el Ayuntamiento de Vandellòs i l’Hospitalet de l’Infant para desplegar actuaciones de acogida lingüística en el municipio.",
+  "url_bases_reguladoras": "https://vandellos-hospitalet.eadministracio.cat/transparency/1569b197-7ad3-458b-8c2b-3adb15389955/",
+  "presupuesto": "5.084,00 €",
+  "presupuesto_total_num": 5084,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902781",
+  "text": "CONVOCATORIA BDNS Nº 902781\nOrganismo: LOCAL — VANDELLÒS I L'HOSPITALET DE L'INFANT — AYUNTAMIENTO DE VANDELLÒS I L'HOSPITALET DE I'INFANT\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 5.084,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades asociativas\nRegiones: ES514 - Tarragona\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvenio entre el Consorcio para la Normalización Lingüística y el Ayuntamiento de Vandellòs i l’Hospitalet de l’Infant para desplegar actuaciones de acogida lingüística en el municipio.\n\nBases reguladoras:\nConvenio entre el Consorcio para la Normalización Lingüística y el Ayuntamiento de Vandellòs i l’Hospitalet de l’Infant para desplegar actuaciones de acogida lingüística en el municipio.\nURL bases reguladoras: https://vandellos-hospitalet.eadministracio.cat/transparency/1569b197-7ad3-458b-8c2b-3adb15389955/\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902781",
+  "_raw": {
+    "id": 1104342,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "VANDELLÒS I L'HOSPITALET DE L'INFANT",
+      "nivel3": "AYUNTAMIENTO DE VANDELLÒS I L'HOSPITALET DE I'INFANT"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902781",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 5084,
+    "mrr": false,
+    "descripcion": "Convenio entre el Consorcio para la Normalización Lingüística y el Ayuntamiento de Vandellòs i l’Hospitalet de l’Infant para desplegar actuaciones de acogida lingüística en el municipio.",
+    "descripcionLeng": "Conveni entre el Consorci per a la Normalització Lingüística i l’Ajuntament de Vandellòs i l’Hospitalet de l’Infant per desplegar actuacions d’acolliment lingüístic al municipi.",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades asociativas",
+        "codigo": "94"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES514 - Tarragona"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Convenio entre el Consorcio para la Normalización Lingüística y el Ayuntamiento de Vandellòs i l’Hospitalet de l’Infant para desplegar actuaciones de acogida lingüística en el municipio.",
+    "urlBasesReguladoras": "https://vandellos-hospitalet.eadministracio.cat/transparency/1569b197-7ad3-458b-8c2b-3adb15389955/",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Durante 2026",
+    "textFin": "Durante 2026",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446259,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "C003_02204_002_25_Vandellòs_CPNL_25_acolliment_signat alcaldessa (1).pdf",
+        "long": 308987,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446250,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Convenio entre el Consorcio para la Normalización Lingüística y el Ayuntamiento de Vandellòs i l.pdf",
+        "long": 115194,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

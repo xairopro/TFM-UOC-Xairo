@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902958",
+  "id_interno": 1104519,
+  "numero_convocatoria": "902958",
+  "organismo": "LOCAL — CASTUERA — AYUNTAMIENTO DE CASTUERA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "BASES REGULADORAS DEL PROGRAMA DE COLABORACIÓN ECONÓMICA MUNICIPAL PARA SUMINISTROS MÍNIMOS VITALES DEL AYUNTAMIENTO DE CASTUERA",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Otras actividades de servicios sociales sin alojamiento",
+  "regiones": "ES43 - EXTREMADURA",
+  "finalidad": "Servicios Sociales y Promoción Social",
+  "bases_reguladoras": "BASES REGULADORAS DEL PROGRAMA DE COLABORACIÓN ECONÓMICA MUNICIPAL PARA SUMINISTROS MÍNIMOS VITALES DEL AYUNTAMIENTO DE CASTUERA",
+  "url_bases_reguladoras": "https://castuera.sedelectronica.es/info.0",
+  "presupuesto": "32.586,16 €",
+  "presupuesto_total_num": 32586.16,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902958",
+  "text": "CONVOCATORIA BDNS Nº 902958\nOrganismo: LOCAL — CASTUERA — AYUNTAMIENTO DE CASTUERA\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 32.586,16 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Otras actividades de servicios sociales sin alojamiento\nRegiones: ES43 - EXTREMADURA\nFinalidad: Servicios Sociales y Promoción Social\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nBASES REGULADORAS DEL PROGRAMA DE COLABORACIÓN ECONÓMICA MUNICIPAL PARA SUMINISTROS MÍNIMOS VITALES DEL AYUNTAMIENTO DE CASTUERA\n\nBases reguladoras:\nBASES REGULADORAS DEL PROGRAMA DE COLABORACIÓN ECONÓMICA MUNICIPAL PARA SUMINISTROS MÍNIMOS VITALES DEL AYUNTAMIENTO DE CASTUERA\nURL bases reguladoras: https://castuera.sedelectronica.es/info.0\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902958",
+  "_raw": {
+    "id": 1104519,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "CASTUERA",
+      "nivel3": "AYUNTAMIENTO DE CASTUERA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902958",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 32586.16,
+    "mrr": false,
+    "descripcion": "BASES REGULADORAS DEL PROGRAMA DE COLABORACIÓN ECONÓMICA MUNICIPAL PARA SUMINISTROS MÍNIMOS VITALES DEL AYUNTAMIENTO DE CASTUERA",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Otras actividades de servicios sociales sin alojamiento",
+        "codigo": "88.9"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES43 - EXTREMADURA"
+      }
+    ],
+    "descripcionFinalidad": "Servicios Sociales y Promoción Social",
+    "descripcionBasesReguladoras": "BASES REGULADORAS DEL PROGRAMA DE COLABORACIÓN ECONÓMICA MUNICIPAL PARA SUMINISTROS MÍNIMOS VITALES DEL AYUNTAMIENTO DE CASTUERA",
+    "urlBasesReguladoras": "https://castuera.sedelectronica.es/info.0",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Día siguiente de la publicación de la convocatoria en el B.O.P. ",
+    "textFin": "Hastaagotamiento del crefdito disponible",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446720,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "SMIVI 2026 corregido (1).pdf",
+        "long": 430775,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

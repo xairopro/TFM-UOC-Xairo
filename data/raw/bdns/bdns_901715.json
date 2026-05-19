@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-901715",
+  "id_interno": 1103276,
+  "numero_convocatoria": "901715",
+  "organismo": "LOCAL — SAN CRISTÓBAL DE LA LAGUNA — AYUNTAMIENTO DE SAN CRISTÓBAL DE LA LAGUNA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "2026-01-01",
+  "fecha_fin_solicitud": "2026-12-31",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Subvención nominativa a favor de Aldeas Infantiles SOS España para la cofinanciación del proyecto “Fomento de la participación de la infancia y la adolescencia en la Laguna”, por importe de 85.000,00 euros.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+  "regiones": "ES709 - Tenerife",
+  "finalidad": "Servicios Sociales y Promoción Social",
+  "bases_reguladoras": "Subvención nominativa a favor de Aldeas Infantiles SOS España para la cofinanciación del proyecto “Fomento de la participación de la infancia y la adolescencia en la Laguna”, por importe de 85.000,00 euros.",
+  "url_bases_reguladoras": "https://www.aytolalaguna.es/",
+  "presupuesto": "85.000,00 €",
+  "presupuesto_total_num": 85000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901715",
+  "text": "CONVOCATORIA BDNS Nº 901715\nOrganismo: LOCAL — SAN CRISTÓBAL DE LA LAGUNA — AYUNTAMIENTO DE SAN CRISTÓBAL DE LA LAGUNA\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud: 2026-01-01 → 2026-12-31 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 85.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES\nRegiones: ES709 - Tenerife\nFinalidad: Servicios Sociales y Promoción Social\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSubvención nominativa a favor de Aldeas Infantiles SOS España para la cofinanciación del proyecto “Fomento de la participación de la infancia y la adolescencia en la Laguna”, por importe de 85.000,00 euros.\n\nBases reguladoras:\nSubvención nominativa a favor de Aldeas Infantiles SOS España para la cofinanciación del proyecto “Fomento de la participación de la infancia y la adolescencia en la Laguna”, por importe de 85.000,00 euros.\nURL bases reguladoras: https://www.aytolalaguna.es/\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901715",
+  "_raw": {
+    "id": 1103276,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "SAN CRISTÓBAL DE LA LAGUNA",
+      "nivel3": "AYUNTAMIENTO DE SAN CRISTÓBAL DE LA LAGUNA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901715",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 85000,
+    "mrr": false,
+    "descripcion": "Subvención nominativa a favor de Aldeas Infantiles SOS España para la cofinanciación del proyecto “Fomento de la participación de la infancia y la adolescencia en la Laguna”, por importe de 85.000,00 euros.",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+        "codigo": "R"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES709 - Tenerife"
+      }
+    ],
+    "descripcionFinalidad": "Servicios Sociales y Promoción Social",
+    "descripcionBasesReguladoras": "Subvención nominativa a favor de Aldeas Infantiles SOS España para la cofinanciación del proyecto “Fomento de la participación de la infancia y la adolescencia en la Laguna”, por importe de 85.000,00 euros.",
+    "urlBasesReguladoras": "https://www.aytolalaguna.es/",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-01-01",
+    "fechaFinSolicitud": "2026-12-31",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443086,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "NOTIFICACION ACUERDO INICIO ALDEAS INFANTILES.pdf",
+        "long": 201560,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

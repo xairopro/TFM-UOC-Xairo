@@ -1,0 +1,105 @@
+{
+  "id": "BDNS-902287",
+  "id_interno": 1103848,
+  "numero_convocatoria": "902287",
+  "organismo": "ESTADO — MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA — INSTITUTO DE CRÉDITO OFICIAL",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "2026-04-29",
+  "fecha_fin_solicitud": "2026-06-30",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "LÍNEA ICO REAVALES PARA EL SECTOR DEL TRANSPORTE DE MERCANCÍAS POR CARRETERA - Reglamento (UE) 2023/2831",
+  "instrumentos": "GARANTÍA",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Transporte de mercancías por carretera y servicios de mudanza",
+  "regiones": "ES - ESPAÑA",
+  "finalidad": "Otras actuaciones de carácter económico",
+  "bases_reguladoras": "ACM por el que se establecen los términos y condiciones del primer tramo de la línea de reavales por cuenta del Estado para el sector del transporte de mercancías por carretera, regulada en el artículo 31 Real Decreto-ley 7/2026, de 20 de marzo (...)",
+  "url_bases_reguladoras": "https://www.boe.es/eli/es/res/2026/04/17/(2)",
+  "presupuesto": "500.000.000,00 €",
+  "presupuesto_total_num": 500000000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "REG (UE) 2023/2831 de minimis, General",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902287",
+  "text": "CONVOCATORIA BDNS Nº 902287\nOrganismo: ESTADO — MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA — INSTITUTO DE CRÉDITO OFICIAL\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud: 2026-04-29 → 2026-06-30 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 500.000.000,00 €\nInstrumentos: GARANTÍA\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Transporte de mercancías por carretera y servicios de mudanza\nRegiones: ES - ESPAÑA\nFinalidad: Otras actuaciones de carácter económico\nFondos: \nReglamento: REG (UE) 2023/2831 de minimis, General\nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nLÍNEA ICO REAVALES PARA EL SECTOR DEL TRANSPORTE DE MERCANCÍAS POR CARRETERA - Reglamento (UE) 2023/2831\n\nBases reguladoras:\nACM por el que se establecen los términos y condiciones del primer tramo de la línea de reavales por cuenta del Estado para el sector del transporte de mercancías por carretera, regulada en el artículo 31 Real Decreto-ley 7/2026, de 20 de marzo (...)\nURL bases reguladoras: https://www.boe.es/eli/es/res/2026/04/17/(2)\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902287",
+  "_raw": {
+    "id": 1103848,
+    "organo": {
+      "nivel1": "ESTADO",
+      "nivel2": "MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA",
+      "nivel3": "INSTITUTO DE CRÉDITO OFICIAL"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902287",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "GARANTÍA"
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 500000000,
+    "mrr": false,
+    "descripcion": "LÍNEA ICO REAVALES PARA EL SECTOR DEL TRANSPORTE DE MERCANCÍAS POR CARRETERA - Reglamento (UE) 2023/2831",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Transporte de mercancías por carretera y servicios de mudanza",
+        "codigo": "49.4"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES - ESPAÑA "
+      }
+    ],
+    "descripcionFinalidad": "Otras actuaciones de carácter económico",
+    "descripcionBasesReguladoras": "ACM por el que se establecen los términos y condiciones del primer tramo de la línea de reavales por cuenta del Estado para el sector del transporte de mercancías por carretera, regulada en el artículo 31 Real Decreto-ley 7/2026, de 20 de marzo (...)",
+    "urlBasesReguladoras": "https://www.boe.es/eli/es/res/2026/04/17/(2)",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-04-29",
+    "fechaFinSolicitud": "2026-06-30",
+    "textInicio": "29/04/2026",
+    "textFin": "30/06/2026",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": {
+      "descripcion": "REG (UE) 2023/2831 de minimis, General",
+      "orden": null
+    },
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444783,
+        "descripcion": "Real Decreto-ley 7/2026, de 20 de marzo",
+        "nombreFic": "RDLey 7-2026.pdf",
+        "long": 906114,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444782,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "ACM diligenciado.pdf",
+        "long": 272416,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

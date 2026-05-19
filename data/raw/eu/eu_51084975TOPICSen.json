@@ -1,0 +1,166 @@
+{
+  "id": "EU-51084975TOPICSen",
+  "topic_id": "51084975TOPICSen",
+  "titulo": "Nature Governance and Information",
+  "descripcion": "Nature Governance and Information",
+  "organismo": "43252405",
+  "fecha_publicacion": "2026-04-21",
+  "fecha_limite": "2026-09-22",
+  "deadlines_todas": "2026-09-22",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"114290\":[{\"action\":\"LIFE-2026-SAP-NAT-NATURE - LIFE-PJG LIFE Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"173500000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-22\"]},{\"action\":\"LIFE-2026-SAP-NAT-GOV - LIFE-PJG LIFE Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"173500000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-22\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "LIFE Project Grants",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-SAP-NAT-GOV",
+  "text": "EU FUNDING & TENDERS – Topic: 51084975TOPICSen\nProgramme/Organism: 43252405\nTitle: Nature Governance and Information\nStatus: Open (31094502)\nType of action: LIFE Project Grants\nOpening date: 2026-04-21\nDeadline: 2026-09-22\nAll deadlines: 2026-09-22\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"114290\":[{\"action\":\"LIFE-2026-SAP-NAT-NATURE - LIFE-PJG LIFE Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"173500000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-22\"]},{\"action\":\"LIFE-2026-SAP-NAT-GOV - LIFE-PJG LIFE Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"173500000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-22\"]}]}}\n\nDescription / Scope:\nNature Governance and Information\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-SAP-NAT-GOV",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "51084975TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-SAP-NAT-GOV",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Nature Governance and Information",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Nature Governance and Information",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "E29A00A32A85DC98970032195977310A40C5883AE690BACABA17B683DA82E144",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-04-21T18:09:28.035\",\"content\":\"The submission session is now available for: LIFE-2026-SAP-NAT-GOV, LIFE-2026-SAP-NAT-NATURE\"}]"
+      ],
+      "es_SortDate": [
+        "2026-04-21T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "LIFE-2026-SAP-NAT-GOV",
+        "LIFE-2026-SAP-NAT"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>Conditions</h4><div><h4>1. Admissibility conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>described in section 5 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-sap-nat_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/temp-form/af/af_life-sap-oag_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Application Form</a> available in the Submission System.</p></div></div><div><h4>2. Eligible countries</h4><div class=\"eui-u-mt-s\"><p>described in section 6 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-sap-nat_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>3. Other eligibility conditions</h4><div class=\"eui-u-mt-s\"><p>described in section 6 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-sap-nat_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in section 7 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-sap-nat_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>5a. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>described section 8 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-sap-nat_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u> and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5b. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>described in section 9 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-sap-nat_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in section 4 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-sap-nat_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>described in section 10 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-sap-nat_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Call document and annexes:</h4> <div class=\"eui-u-mt-s\"><p><u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-sap-nat_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Call document</a></u></p><p><strong>Application form templates</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/temp-form/af/af_life-sap-oag_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (LIFE SAP and OAG)</a> — the application form specific to this call is available in the Submission System</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/temp-form/af/detailed-budget-table_life_en.xlsx\" rel=\"noopener noreferrer\" target=\"_blank\">Detailed budget table (LIFE)</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/temp-form/af/participant-information_life_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Participant information (LIFE)</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/temp-form/af/participant-information_life_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Maps (LIFE)</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/temp-form/af/participant-information_life_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Description of sites (LIFE)</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/temp-form/af/participant-information_life_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Description of species and habitats (LIFE)</a></p><p>Letters of support</p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/agr-contr/mga_life_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">LIFE MGA</a></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://cinea.ec.europa.eu/life/life-support-applicants_en#ecl-inpage-1377\" rel=\"noopener noreferrer\" target=\"_blank\">FAQs in LIFE website</a></p><p><a href=\"https://circabc.europa.eu/ui/group/73d306c9-1ee6-4e70-81f0-56fecf4cd18c/library/ce976713-0506-4fd0-b19a-6f4dc6c23fe6\" rel=\"noopener noreferrer\" target=\"_blank\">LIFE Multiannual Work Programme 2025-2027</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0783\" rel=\"noopener noreferrer\" target=\"_blank\">LIFE Regulation 2021/783</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a></p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "Nature Governance and Information"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "E29A00A32A85DC98970032195977310A40C5883AE690BACABA17B683DA82E144"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43250283"
+      ],
+      "callIdentifier": [
+        "LIFE-2026-SAP-NAT"
+      ],
+      "ccm2Id": [
+        "51084975"
+      ],
+      "callccm2Id": [
+        "51084994"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "51084975TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"LIFE-2026-SAP-NAT\",\"criterionCode\":\"LIFE-PJG\",\"criterionDescription\":\"LIFE Project Grants\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43869?topic\\u003dLIFE-2026-SAP-NAT-GOV\",\"startDate\":\"1776729600000\",\"endDate\":\"1790035200000\",\"mgaDescription\":\"LIFE Action Grant Budget-Based\",\"mgaCode\":\"LIFE-AG\"}]"
+      ],
+      "callTitle": [
+        "Nature & Biodiversity - Standard Action Projects (SAP)"
+      ],
+      "frameworkProgramme": [
+        "43252405"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Impact:</p><p>Applicants are expected to define, calculate, explain and achieve ambitious and credible impacts in terms of conservation benefit, ensuring at the same time long term sustainability and replication (see sections 2 and 9 of the Call document).</p><p class=\"topicdescriptionkind\">Objective:</p><p> </p><table>  <tbody>   <tr>    <td> <p>To contribute to the protection of nature and biodiversity by:</p>     <ul level=\"0\"><li>raising awareness of the benefits of nature conservation,</li><li>supporting compliance assurance, as well as public participation and access to justice (Aarhus Convention)</li><li>enabling actions for the replication and upscaling of proven solutions</li>     </ul> </td>   </tr>  </tbody> </table><p class=\"topicdescriptionkind\">Scope:</p><p></p><table>  <tbody>   <tr>    <td> <p>The present Call topic targets Standard Action Projects (SAP) aimed at achieving the objectives of the LIFE Nature and Biodiversity sub-programme by improving governance and information at all levels, as defined in sections 1 and 2 of the Call document.</p> <p>This call topic focuses exclusively on governance and information projects; other projects in line with the objectives of the LIFE Nature and Biodiversity sub-programme but defined in the Call topic LIFE-2026-SAP-NAT-NATURE are excluded.</p> </td>   </tr>  </tbody> </table>"
+      ],
+      "identifier": [
+        "LIFE-2026-SAP-NAT-GOV"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "45493599"
+      ],
+      "crossCuttingPriorities": [],
+      "esDA_FirstIngestDate": [
+        "2026-04-21T00:09:34.695+0200"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-09-22T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-21T18:10:00.365+0200"
+      ],
+      "typesOfAction": [
+        "LIFE Project Grants"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-SAP-NAT-GOV"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-SAP-NAT-GOV"
+      ],
+      "tags": [],
+      "esDA_QueueDate": [
+        "2026-04-21T18:10:00.346+0200"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"LIFE-PJG LIFE Project Grants\",\"typeOfMGA\":[{\"id\":43250283,\"abbreviation\":\"LIFE-AG\",\"description\":\"LIFE Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-04-21\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-09-22\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"114290\":[{\"action\":\"LIFE-2026-SAP-NAT-NATURE - LIFE-PJG LIFE Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"173500000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-22\"]},{\"action\":\"LIFE-2026-SAP-NAT-GOV - LIFE-PJG LIFE Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"173500000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-22\"]}]}}"
+      ],
+      "startDate": [
+        "2026-04-21T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p>Consult the <u><a href=\"https://cinea.ec.europa.eu/life/life-support-applicants_en#ecl-inpage-1377\" rel=\"noopener noreferrer\" target=\"_blank\">FAQs in LIFE website</a>.</u></p><p>Get in touch with your <u><a href=\"https://cinea.ec.europa.eu/life/life-european-countries_en\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Point (NCP)</a>. </u>We want also to draw your attention on the possibility to get support from your NCP. To facilitate such support, it would be beneficial to add your NCP under the “Participants” step of the application, by clicking on “Add contact”. Then, Under “Project role”, use the option “Contact person” and add your NCP’s data.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?order=DESC&amp;pageNumber=1&amp;pageSize=10&amp;sortBy=publicationDate&amp;isExactMatch=true&amp;type=1&amp;grantCategories=p_submission_eval\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ – Submission of proposals</a>.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> – Step-by-step online guide through the Portal processes from proposal preparation and evaluation to reporting on your ongoing project. Valid for all 2021-2027 programmes.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Nature Governance and Information. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-SAP-NAT-GOV",
+    "score": 3.0
+  }
+}

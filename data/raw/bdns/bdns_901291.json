@@ -1,0 +1,98 @@
+{
+  "id": "BDNS-901291",
+  "id_interno": 1102852,
+  "numero_convocatoria": "901291",
+  "organismo": "ESTADO — MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL — DIRECCIÓN PROVINCIAL DEL SEPE DE ALBACETE",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "2026-03-27",
+  "fecha_fin_solicitud": "2026-04-21",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "PROGRAMA FOMENTO EMPLEO AGRARIO 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades relacionadas con el empleo, Servicios a edificios y actividades de jardinería",
+  "regiones": "ES - ESPAÑA",
+  "finalidad": "Servicios Sociales y Promoción Social",
+  "bases_reguladoras": "PROGRAMA FOMENTO DE EMPLEO AGRARIO",
+  "url_bases_reguladoras": "https://boe.es/buscar/act.php?id=BOE-A-1997-13739",
+  "presupuesto": "3.215.059,56 €",
+  "presupuesto_total_num": 3215059.56,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901291",
+  "text": "CONVOCATORIA BDNS Nº 901291\nOrganismo: ESTADO — MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL — DIRECCIÓN PROVINCIAL DEL SEPE DE ALBACETE\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud: 2026-03-27 → 2026-04-21 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 3.215.059,56 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades relacionadas con el empleo, Servicios a edificios y actividades de jardinería\nRegiones: ES - ESPAÑA\nFinalidad: Servicios Sociales y Promoción Social\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nPROGRAMA FOMENTO EMPLEO AGRARIO 2026\n\nBases reguladoras:\nPROGRAMA FOMENTO DE EMPLEO AGRARIO\nURL bases reguladoras: https://boe.es/buscar/act.php?id=BOE-A-1997-13739\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901291",
+  "_raw": {
+    "id": 1102852,
+    "organo": {
+      "nivel1": "ESTADO",
+      "nivel2": "MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL",
+      "nivel3": "DIRECCIÓN PROVINCIAL DEL SEPE DE ALBACETE"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901291",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 3215059.56,
+    "mrr": false,
+    "descripcion": "PROGRAMA FOMENTO EMPLEO AGRARIO 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades relacionadas con el empleo",
+        "codigo": "78"
+      },
+      {
+        "descripcion": "Servicios a edificios y actividades de jardinería",
+        "codigo": "81"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES - ESPAÑA "
+      }
+    ],
+    "descripcionFinalidad": "Servicios Sociales y Promoción Social",
+    "descripcionBasesReguladoras": "PROGRAMA FOMENTO DE EMPLEO AGRARIO",
+    "urlBasesReguladoras": "https://boe.es/buscar/act.php?id=BOE-A-1997-13739",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-03-27",
+    "fechaFinSolicitud": "2026-04-21",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1441913,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "BOE-A-1997-13739-consolidado.pdf",
+        "long": 533138,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

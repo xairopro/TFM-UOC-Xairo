@@ -1,0 +1,117 @@
+{
+  "id": "BDNS-901685",
+  "id_interno": 1103246,
+  "numero_convocatoria": "901685",
+  "organismo": "ESTADO — MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO — DIRECCIÓN GENERAL DE POLÍTICA ENERGÉTICA Y MINAS",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Resolución de la Secretaría de Estado de Energía por la que se aprueba la convocatoria para la concesión de ayudas públicas en 2026 del Programa Nacional de Exploración Minera 2026-2030",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "GRAN EMPRESA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de apoyo a las industrias extractivas, Extracción de minerales metálicos, Otras industrias extractivas",
+  "regiones": "ES - ESPAÑA",
+  "finalidad": "Industria y Energía",
+  "bases_reguladoras": "Orden TED/352/2026, de 24 de marzo, por la que se establecen las bases reguladoras para la concesión de ayudas públicas del Programa Nacional de Exploración Minera 2026-2030",
+  "url_bases_reguladoras": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-8469",
+  "presupuesto": "2.000.000,00 €",
+  "presupuesto_total_num": 2000000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901685",
+  "text": "CONVOCATORIA BDNS Nº 901685\nOrganismo: ESTADO — MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO — DIRECCIÓN GENERAL DE POLÍTICA ENERGÉTICA Y MINAS\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 2.000.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: GRAN EMPRESA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de apoyo a las industrias extractivas, Extracción de minerales metálicos, Otras industrias extractivas\nRegiones: ES - ESPAÑA\nFinalidad: Industria y Energía\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nResolución de la Secretaría de Estado de Energía por la que se aprueba la convocatoria para la concesión de ayudas públicas en 2026 del Programa Nacional de Exploración Minera 2026-2030\n\nBases reguladoras:\nOrden TED/352/2026, de 24 de marzo, por la que se establecen las bases reguladoras para la concesión de ayudas públicas del Programa Nacional de Exploración Minera 2026-2030\nURL bases reguladoras: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-8469\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901685",
+  "_raw": {
+    "id": 1103246,
+    "organo": {
+      "nivel1": "ESTADO",
+      "nivel2": "MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO",
+      "nivel3": "DIRECCIÓN GENERAL DE POLÍTICA ENERGÉTICA Y MINAS"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901685",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 2000000,
+    "mrr": false,
+    "descripcion": "Resolución de la Secretaría de Estado de Energía por la que se aprueba la convocatoria para la concesión de ayudas públicas en 2026 del Programa Nacional de Exploración Minera 2026-2030",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "GRAN EMPRESA"
+      },
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de apoyo a las industrias extractivas",
+        "codigo": "09"
+      },
+      {
+        "descripcion": "Extracción de minerales metálicos",
+        "codigo": "07"
+      },
+      {
+        "descripcion": "Otras industrias extractivas",
+        "codigo": "08"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES - ESPAÑA "
+      }
+    ],
+    "descripcionFinalidad": "Industria y Energía",
+    "descripcionBasesReguladoras": "Orden TED/352/2026, de 24 de marzo, por la que se establecen las bases reguladoras para la concesión de ayudas públicas del Programa Nacional de Exploración Minera 2026-2030",
+    "urlBasesReguladoras": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-8469",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "DIA SIGUIENTE DE PUBLICACIÓN EXTRACTO EN BOE",
+    "textFin": "UN MES A PARTIR DE PUBLICACIÓN EXTRACTO EN BOE",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443004,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Convocatoria Ayudas PNEM 2026.pdf",
+        "long": 410492,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210159,
+        "titulo": "Extracto de la Resolución de la Secretaría de Estado de Energía por la que se aprueba la convocatoria para la concesión de ayudas públicas en 2026 del Programa Nacional de Exploración Minera 2026-2030",
+        "tituloLeng": null,
+        "texto": "<p> </p><p>Primero. Beneficiarios.</p><p>Las personas jurídicas titulares de autorizaciones de aprovechamiento de residuos mineros (Sección B) o de permisos de investigación, concesiones de explotación o reservas a favor del estado previstos en la Ley 22/1973, de 21 de julio.</p><p>Segundo. Objeto.</p><p>Impulsar el desarrollo de (i) los trabajos de investigación geológico minera y (ii) los estudios de evaluación económica preliminar sobre la posible valorización de materias primas fundamentales procedentes de residuos de extracción, encaminados a poner de manifiesto y definir uno o varios recursos de la Sección B) (Yacimientos de origen no natural) y C) de la Ley 22/1973, de 21 de julio, de Minas, incluidos en el listado de materias primas fundamentales del Reglamento (UE) 2024/1252 del Parlamento Europeo y del Consejo, de 11 de abril de 2024, por el que se establece un marco para garantizar un suministro seguro y sostenible de materias primas fundamentales y por el que se modifican los Reglamentos (UE) nº 168/2013, (UE) 2018/858, (UE) 2018/1724 y (UE) 2019/1020 (en adelante «Reglamento (UE) 2024/1252») y aquellas otras que indique expresamente como objetivo el Programa Nacional de Exploración Minera 2026-2030 (PNEM 2026-2030).</p><p>Tercero. Bases Reguladoras.</p><p>Orden TED/352/2026, de 24 de marzo, por la que se establecen las bases reguladoras para la concesión de ayudas públicas del Programa Nacional de Exploración Minera 2026-2030.</p><p>Cuarto. Créditos presupuestarios.</p><p>La cuantía total de la subvención que se conceda a consecuencia de las solicitudes presentadas de acuerdo con la convocatoria es de 2.000.000,00 euros, divididos en dos líneas de ayudas:</p><p>a) Proyectos de investigación geológico-minera: 1.000.000,00 euros.</p><p>b) Estudios de evaluación económica preliminar de residuos de extracción: 1.000.000,00 euros.</p><p>Quinto. Plazo de presentación de solicitudes.</p><p>Un mes contado a partir del día siguiente al de la publicación en el «Boletín Oficial del Estado» del presente extracto.</p><p>Sexto. Otros Datos.</p><p>Las solicitudes se presentarán de forma electrónica, conforme a lo dispuesto en el artículo 8 de la Orden TED/352/2026, de 24 de marzo de 2026. Los interesados presentarán la solicitud y documentación de acuerdo con lo dispuesto en el artículo 11.2 de la Orden TED/352/2026, de 24 de marzo de 2026, ajustándose al formato disponible en la sede electrónica asociada del Ministerio para la Transición Ecológica y el Reto Demográfico (https://sede.miteco.gob.es) y, en su caso, en la aplicación electrónica habilitada a tal efecto.</p>",
+        "textoLeng": null,
+        "url": "http://www.boe.es/diario_boe/verifica.php?acc=Verificar&c=BOE-B-2026-13517",
+        "cve": "BOE-B-2026-13517",
+        "desDiarioOficial": "BOE. BOLETÍN OFICIAL DEL ESTADO",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

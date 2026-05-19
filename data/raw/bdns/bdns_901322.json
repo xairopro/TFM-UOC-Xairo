@@ -1,0 +1,114 @@
+{
+  "id": "BDNS-901322",
+  "id_interno": 1102883,
+  "numero_convocatoria": "901322",
+  "organismo": "LOCAL — LLAGOSTERA — AYUNTAMIENTO DE LLAGOSTERA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "2026-04-27",
+  "fecha_fin_solicitud": "2026-06-27",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Convactoria de la X Beca Esteve Fa Tolsanas",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de bibliotecas y archivos",
+  "regiones": "ES512 - Girona",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Ordenanza general de subvenciones del Ayuntamiento de Llagostera",
+  "url_bases_reguladoras": "https://seu-e.cat/documents/27933/18403582/ORDENAN%C3%87A+GENERAL+DE+SUBVENCIONS+DE+L%27AJUNTAMENT+DE+LLAGOSTERA.pdf/9bfa1f20-d964-4b55-82d4-d78448d23cdd",
+  "presupuesto": "3.500,00 €",
+  "presupuesto_total_num": 3500,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901322",
+  "text": "CONVOCATORIA BDNS Nº 901322\nOrganismo: LOCAL — LLAGOSTERA — AYUNTAMIENTO DE LLAGOSTERA\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud: 2026-04-27 → 2026-06-27 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 3.500,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de bibliotecas y archivos\nRegiones: ES512 - Girona\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvactoria de la X Beca Esteve Fa Tolsanas\n\nBases reguladoras:\nOrdenanza general de subvenciones del Ayuntamiento de Llagostera\nURL bases reguladoras: https://seu-e.cat/documents/27933/18403582/ORDENAN%C3%87A+GENERAL+DE+SUBVENCIONS+DE+L%27AJUNTAMENT+DE+LLAGOSTERA.pdf/9bfa1f20-d964-4b55-82d4-d78448d23cdd\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901322",
+  "_raw": {
+    "id": 1102883,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "LLAGOSTERA",
+      "nivel3": "AYUNTAMIENTO DE LLAGOSTERA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901322",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 3500,
+    "mrr": false,
+    "descripcion": "Convactoria de la X Beca Esteve Fa Tolsanas",
+    "descripcionLeng": "Convactòria de la X Beca Esteve Fa Tolsanas",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de bibliotecas y archivos",
+        "codigo": "91.1"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES512 - Girona"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Ordenanza general de subvenciones del Ayuntamiento de Llagostera",
+    "urlBasesReguladoras": "https://seu-e.cat/documents/27933/18403582/ORDENAN%C3%87A+GENERAL+DE+SUBVENCIONS+DE+L%27AJUNTAMENT+DE+LLAGOSTERA.pdf/9bfa1f20-d964-4b55-82d4-d78448d23cdd",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-04-27",
+    "fechaFinSolicitud": "2026-06-27",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1441981,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "extracte_covocatoria_cat.pdf",
+        "long": 186953,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1441979,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "extracte_convocatoria_cast.pdf",
+        "long": 187275,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 209946,
+        "titulo": "Extracto de la Resolución de Alcaldia núm. 2026/887 del Ayuntamiento de Llagostera,  emitida en fecha 14 de Abril de 2026 relativa a la convocatoria para la X Beca Esteve Fa  Tolsanas",
+        "tituloLeng": "Extracte de la Resolució d’Alcaldia núm. 2026/887 de l'Ajuntament de Llagostera emesa  en data 14 d`abril de 2026 relativa a la convocatòria per a la X Beca Esteve Fa Tolsanas",
+        "texto": "<p>CONVOCATORIA PARA LA CONCESIÓN DEL PREMIO DE LA X BECA ESTEVE FA TOLSANAS 1. Objeto El objeto de esta convocatoria es regular el otorgamiento del premio de la X Beca Esteve Fa, con el objetivo de promover la investigación y contribuir al conocimiento de la realidad actual y histórica de la villa de Llagostera. 2. Régimen jurídico La Ordenanza General de Subvenciones del Ayuntamiento de Llagostera, aprobada por Pleno el dia 19 de Diciembre de 2024. Las Bases reguladoras para la concesión de la Beca Esteve Fa, aprobadas definitivamente por acuerdo de Pleno el 29 de Enero de 2026. La normativa general de subvenciones. 3. Destinatarios Podran optar a esta beca las personas que, a titulo individual o colectivo, presenten una propuesta de investigación acorde con estas bases. Si el candidato es un colectivo, la primera persona firmante será la representante del grupo a efectos de comunicación y de pago. 4. Presentación de proyectos Los proyectos se deberán presentar telemáticamente en el Registro General del Ayuntamiento de Llagostera con el siguiente formato: - Instáncia genárica - Datos personales y currículum vitae del participante - Proyecto de trabajo, en formato pdf no protegido, en catalán, con los objetivos, las fuentes, la bibliografia, la metodologia y el resto de información que pueda ser definitiva en la investigación. Éste proyecto ha de tener un mínimo de 5 pàginas y un màximo de 10, A4 letra 11 y espacio interlineal de 1’5. El plazo de presentación de los proyectos será fijado en cada convocatoria. 5. Criterios de valoración El Jurado analizará y evaluará los proyectos presentados y seleccionarà el que considere merecedor de la beca, siguiendo los siguientos criterios de valoración:-Transcendéncia y solidez del proyecto: Relevancia del tema escogido para el conocimiento de Llagostera así cómo el grado de fundamento teórico y argumentativo del proyecto. -Aportación al conocimiento de la história local: Oportunidad del proyecto para rellenar el vacío de información sobre un período histórico objeto de estudio y para complementar, ampliar y profundizar las aportaciones realizadas en los últimos años.-Carácter innovador y fuentes inéditas: Interés del proyecto en el estudio de fuentes documentales inéditas o poco exploradas y en la generación de un nuevo conocimiento sobre Llagostera. -Solvencia del proyecto presentado y de la persona investigadora: Calidad, coherencia y viabilidad del proyecto presentado, así cómo la formación, trayectória y experiéncia de la persona investigadora.-Conocimiento del contexto histórico y del período de estudio: Dominio del período històrico que se quiere estudiar y adecuar el planteamiento al contexto histórico de Llagostera.-Conocimiento y uso de la fuentes documentales: Grado de conocimiento que demuestra la persona investigadora sobre la documentación que se propone trabajar, tanto por la identificación de las fuentes como la metodologia de anàlisi. El Jurado podrá pedir información complementária al aspirante, convocándolo si es necesario, para comprobar su idonïedad para llevar a cabo el trabajo y/o sugeriéndole alguna modificación del proyecto para hacerlo más operativo. El Jurado también podrà requerir asesoramiento a otros profesionales sobre el interés y evaluación del proyecto. El Jurado podrá establecer un turno de reserva por si la propuesta ganadora renunciara a la beca. El Jurado podrá declarar desierta la beca si ninguno de los proyectos logra la cualificación suficiente. El veredicto del Jurado serà inapelable y se hará público, si no lo impide una fuerza mayor, en un plazo máximo de dos meses a partir del cierre de presentación de los proyectos. 6. Importe La beca de ésta convocatoria es con cargo de la asignación presupuestária 2026.23.3322.48000 Beca Esteve Fa del presupuesto municipal del ejercicio 2026. El importe del premio es de 3.500€, y se hará efectivo en dos partes: 1.500€ en los 5 días siguientes a hacerse público el veredicto del Jurado, y 2.000€ una vez entregado el trabajo final. 7. Plazo de presentación El plazo de presentación de las solicitudes y de la documentación necesária será de dos meses a partir de la publicación de ésta convocaória en la Base de Datos Nacional de Subvenciones (BDNS). 8. Resolución y notificación El órgano competente per resolver será el alcalde. La resolución del otorgamiento se publicarà en el tablón de anuncios electrónico (e-Tauler) de éste Ayuntamiento, y se notificarà a la persona interesada. La resolución del procedimento pondrá fin a la vía administrativa, y contra la misma se podrà interponer recurso contencioso administrativo en el plazo de dos meses a contar des del día siguiente a su notificación. Alternativamente, y de forma potestativa, se podrà interponer recurso de reposición delante del mismo órgano que ha dictado resolución en el plazo de un mes a contar des de el día siguiente a su notificación. 9. Efectividad de la convocatoria La convocatoria será efectiva el día de su publicación en la Base de Datos Nacional de Subvenciones (BDNS).</p>",
+        "textoLeng": "<p>CONVOCATÒRIA PER A LA CONCESSIÓ DEL PREMI DE LA X BECA ESTEVE FA TOLSANAS 1. Objecte L’objecte d’aquesta convocatòria és regular l’atorgament del premi de la X Beca Esteve Fa, amb l’objectiu de promoure la recerca i contribuir al coneixement de la realitat actual i històrica de la vila de Llagostera. 2. Règim jurídic L’Ordenança General de Subvencions de l’Ajuntament de Llagostera, aprovada per Ple el dia 19 de desembre de 2024. Les Bases reguladores per a la concessió de la Beca Esteve Fa, aprovades definitivament per acord de Ple el 29 de gener de 2026. La normativa general de subvencions. 3. Destinataris Podran optar a aquesta beca les persones que, a títol individual o col·lectiu, presentin una proposta d’investigació d’acord amb aquestes bases. Si el candidat és un col·lectiu, la primera persona signant serà la representant del grup a efectes de comunicació i de pagament. 4. Presentació de projectes Els projectes s’hauran de presentar telemàticament al Registre General de l’Ajuntament de Llagostera amb el següent format: - Instància genèrica - Dades personals i curriculum vitae del participant - Projecte de treball, en format pdf no protegit, en català, amb els objectius, les fonts, la bibliografia, la metodologia i la resta d’informació que pugui ser definidora de la recerca. Aquest projecte ha de tenir un mínim de 5 pàgines i un màxim de 10 A4 lletra 11 i espai interlineal d’1’5. El termini de presentació de projectes serà fixat en cada convocatòria. 5. Criteris de valoració El Jurat analitzarà i avaluarà els projectes presentats i seleccionarà el que consideri mereixedor de la beca, seguint els següents criteris de valoració:-Transcendència i solidesa del projecte: rellevància del tema escollit per al coneixement de Llagostera així com el grau de fonamentació teòrica i argumentativa del projecte. -Aportació al coneixement de la història local: Oportunitat del projecte per omplir buits d’informació sobre un període històric objecte d’estudi i per complementar, ampliar o aprofundir les aportacions realitzades en els darrers anys.-Caràcter innovador i fonts inèdites: Interès del projecte en l’estudi de fonts documentals inèdites o poc explorades i en la generació del nou coneixement sobre Llagostera. -Solvència del projecte presentat i de la persona investigadora: Qualitat, coherència i viabilitat del projecte presentat, així com la formació, trajectòria i experiència de la persona investigadora.-Coneixement del context històric i del període d’estudi: domini del període històric que es vol estudiar i adequació del plantejament al context històric de Llagostera.-Coneixement i ús de les fonts documentals: Grau de coneixement que demostra la persona investigadora sobre la documentació que es proposa treballar, tant pel que fa a la identificació de les fonts com a la metodologia d’anàlisi. El jurat podrà demanar informació complementària a l’aspirant, convocant-lo si cal, per comprovar la seva idoneïtat per dur a terme el treball i/o suggerir-li alguna modificació del projecte per fer-lo més operatiu. El Jurat també podrà requerir assessorament a d’altres professionals sobre l’interès i l’avaluació del projecte. El Jurat podrà establir un torn de reserva per si la proposta guanyadora renunciés a la beca. El Jurat podrà declarar deserta la beca si cap dels projectes assoleix la qualitat suficient. El veredicte del Jurat serà inapel·lable i es farà públic, si no ho impedeix una força major, en un termini màxim de dos mesos a partir del tancament de presentació de projectes. 6. Import La beca d’aquesta convocatòria és amb càrrec a l’assignació pressupostària 2026.23.3322.48000 Beca Esteve Fa del pressupost municipal de l’exercici 2026. L’import del premi és de 3.500€, i es farà efectiu en dues parts: 1.500€ en els 5 dies següents a fer-se públic el veredicte del jurat, i 2.000€ una vegada lliurat el treball final. 7. Termini de presentació El termini de presentació de les sol·licituds i de la documentació necessària serà de dos mesos a partir de la publicació d’aquesta convocatòria a la Base de Dades Nacional de Subvencions (BDNS). 8. Resolució i notificació L’òrgan competent per resoldre serà l’alcalde. La resolució de l’atorgament es publicarà al tauler d’anuncis electrònic (e-Tauler) d’aquest Ajuntament, i es notificarà a la persona interessada. La resolució del procediment posarà fi a la via administrativa, i contra la mateixa es podrà interposar recurs contenciós-administratiu en el termini de dos mesos a comptar de l’endemà de la seva notificació. Alternativament, i de forma potestativa, es podrà interposar recurs de reposició davant del mateix òrgan que ha dictat resolució, en el termini d’un mes a comptar de l’endemà de la seva notificació. 9. Efectivitat de la convocatòria La convocatòria serà efectiva el dia de la seva publicació a la Base de Dades Nacional de Subvencions (BDNS).</p>",
+        "url": "https://ssl4.ddgi.cat/bopV1/pdf/2026/81/20268103442.pdf",
+        "cve": null,
+        "desDiarioOficial": "B.O.P. DE GIRONA",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

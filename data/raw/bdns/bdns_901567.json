@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-901567",
+  "id_interno": 1103128,
+  "numero_convocatoria": "901567",
+  "organismo": "LOCAL — COLLADO VILLALBA — AYUNTAMIENTO DE COLLADO VILLALBA",
+  "sede_electronica": "https://sedeelectronica.ayto-colladovillalba.org/",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "2026-06-15",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA PUBLICA DE SUBVENCIONES POR NACIMIENTO, ADOPCIÓN O ACOGIMIENTO, A FAVOR DE LOS EMPADRONADOS EN EL MUNICIPIO DE COLLADO VILLALBA",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "OTROS SERVICIOS",
+  "regiones": "ES30 - COMUNIDAD DE MADRID",
+  "finalidad": "Otras Prestaciones económicas",
+  "bases_reguladoras": "BASES REGULADORAS PARA LA CONCESION DE AYUDAS PARA EL FOMENTO DE LA NATALIDAD EN EL MUNICIPIO DE COLLADO VILLALBA",
+  "url_bases_reguladoras": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.bocm.es/boletin/CM_Orden_BOCM/2026/03/04/BOCM-20260304-65.PDF",
+  "presupuesto": "138.985,00 €",
+  "presupuesto_total_num": 138985,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901567",
+  "text": "CONVOCATORIA BDNS Nº 901567\nOrganismo: LOCAL — COLLADO VILLALBA — AYUNTAMIENTO DE COLLADO VILLALBA\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  → 2026-06-15 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 138.985,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: OTROS SERVICIOS\nRegiones: ES30 - COMUNIDAD DE MADRID\nFinalidad: Otras Prestaciones económicas\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA PUBLICA DE SUBVENCIONES POR NACIMIENTO, ADOPCIÓN O ACOGIMIENTO, A FAVOR DE LOS EMPADRONADOS EN EL MUNICIPIO DE COLLADO VILLALBA\n\nBases reguladoras:\nBASES REGULADORAS PARA LA CONCESION DE AYUDAS PARA EL FOMENTO DE LA NATALIDAD EN EL MUNICIPIO DE COLLADO VILLALBA\nURL bases reguladoras: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.bocm.es/boletin/CM_Orden_BOCM/2026/03/04/BOCM-20260304-65.PDF\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901567",
+  "_raw": {
+    "id": 1103128,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "COLLADO VILLALBA",
+      "nivel3": "AYUNTAMIENTO DE COLLADO VILLALBA"
+    },
+    "sedeElectronica": "https://sedeelectronica.ayto-colladovillalba.org/",
+    "codigoBDNS": "901567",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 138985,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA PUBLICA DE SUBVENCIONES POR NACIMIENTO, ADOPCIÓN O ACOGIMIENTO, A FAVOR DE LOS EMPADRONADOS EN EL MUNICIPIO DE COLLADO VILLALBA",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES30 - COMUNIDAD DE MADRID"
+      }
+    ],
+    "descripcionFinalidad": "Otras Prestaciones económicas",
+    "descripcionBasesReguladoras": "BASES REGULADORAS PARA LA CONCESION DE AYUDAS PARA EL FOMENTO DE LA NATALIDAD EN EL MUNICIPIO DE COLLADO VILLALBA",
+    "urlBasesReguladoras": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.bocm.es/boletin/CM_Orden_BOCM/2026/03/04/BOCM-20260304-65.PDF",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": "2026-06-15",
+    "textInicio": "Desde el día siguiente a la publicación de la convocatoria en el BOCM",
+    "textFin": "20/10/2026",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442612,
+        "descripcion": "APROBACIÓN DE LA CONVOCATORIA",
+        "nombreFic": "CERTIFICADO JGL 14.04.2026.pdf",
+        "long": 535857,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442608,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "CONVOCATORIA FOMENTO NATALIDAD.pdf",
+        "long": 592603,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

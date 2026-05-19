@@ -1,0 +1,126 @@
+{
+  "id": "BDNS-901397",
+  "id_interno": 1102958,
+  "numero_convocatoria": "901397",
+  "organismo": "LOCAL — VALLADOLID — AGUA DE VALLADOLID, EPEL",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Convocatoria de Subvenciones a establecimientos minoristas y de prestación de servicios personales situados en la calle Gamazo de Valladolid a pie de calle afectados por las obras de la Entidad AGUA DE VALLADOLID EPE durante los años 2024 Y 2025",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "COMERCIO AL POR MAYOR Y AL POR MENOR, HOSTELERÍA",
+  "regiones": "ES418 - Valladolid",
+  "finalidad": "Otras actuaciones de carácter económico",
+  "bases_reguladoras": "PLAN ESTRATÉGICO AYUNTAMIENTO DE VALLADOLID DE SUBVENCIONES 2026-2028",
+  "url_bases_reguladoras": "https://www.valladolid.gob.es/es/tablon-oficial/ayuntamiento-valladolid-tablon-oficial/plan-estrategico-subvenciones-2026-2028f",
+  "presupuesto": "60.000,00 €",
+  "presupuesto_total_num": 60000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901397",
+  "text": "CONVOCATORIA BDNS Nº 901397\nOrganismo: LOCAL — VALLADOLID — AGUA DE VALLADOLID, EPEL\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 60.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: COMERCIO AL POR MAYOR Y AL POR MENOR, HOSTELERÍA\nRegiones: ES418 - Valladolid\nFinalidad: Otras actuaciones de carácter económico\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria de Subvenciones a establecimientos minoristas y de prestación de servicios personales situados en la calle Gamazo de Valladolid a pie de calle afectados por las obras de la Entidad AGUA DE VALLADOLID EPE durante los años 2024 Y 2025\n\nBases reguladoras:\nPLAN ESTRATÉGICO AYUNTAMIENTO DE VALLADOLID DE SUBVENCIONES 2026-2028\nURL bases reguladoras: https://www.valladolid.gob.es/es/tablon-oficial/ayuntamiento-valladolid-tablon-oficial/plan-estrategico-subvenciones-2026-2028f\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901397",
+  "_raw": {
+    "id": 1102958,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "VALLADOLID",
+      "nivel3": "AGUA DE VALLADOLID, EPEL"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901397",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 60000,
+    "mrr": false,
+    "descripcion": "Convocatoria de Subvenciones a establecimientos minoristas y de prestación de servicios personales situados en la calle Gamazo de Valladolid a pie de calle afectados por las obras de la Entidad AGUA DE VALLADOLID EPE durante los años 2024 Y 2025",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "COMERCIO AL POR MAYOR Y AL POR MENOR",
+        "codigo": "G"
+      },
+      {
+        "descripcion": "HOSTELERÍA",
+        "codigo": "I"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES418 - Valladolid"
+      }
+    ],
+    "descripcionFinalidad": "Otras actuaciones de carácter económico",
+    "descripcionBasesReguladoras": "PLAN ESTRATÉGICO AYUNTAMIENTO DE VALLADOLID DE SUBVENCIONES 2026-2028",
+    "urlBasesReguladoras": "https://www.valladolid.gob.es/es/tablon-oficial/ayuntamiento-valladolid-tablon-oficial/plan-estrategico-subvenciones-2026-2028f",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Al dia siguiente de la publicación en el Boletín Oficial correspondiente",
+    "textFin": "15 días hábiles desde el día siguiente a fecha de publicación en el Boletín oficial correspondiente",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442169,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "2_Propuesta aprobacion  Convocatoria Ayudas Gamazo 22.04.2025_signed.pdf",
+        "long": 406148,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442171,
+        "descripcion": "Anexo DR",
+        "nombreFic": "260415 ANEXO II - DECLARACIÓN RESPONSABLE DE INGRESOS Y VENTAS.pdf",
+        "long": 301195,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442170,
+        "descripcion": "Anexos Solicitud",
+        "nombreFic": "ANEXO I - SOLICITUD AYUDAS AQUAVALL.pdf",
+        "long": 302300,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210030,
+        "titulo": "Extracto de la aprobación del Presidente del Consejo de Administración de la Entidad de fecha 22 de abril de 2026 de la Convocatoria de Subvenciones a establecimientos minoristas y de prestación de servicios personales situados en la calle Gamazo de Valladolid a pie de calle afectados por las obras de la Entidad Pública Empresarial AGUA DE VALLADOLID durante los años 2024 y 2025",
+        "tituloLeng": null,
+        "texto": "<p>Por Resolución de fecha 22 de abril de 2026, con número de expdiente EPE 176/2026 del Presdiente del Consejo de Administración de la Entidad Publica Empresarial AGUA DE VALLADOLID , se aprueba la Convocatoria de Subvenciones a establecimientos minoristas y de prestación de servicios personales situados en la calle Gamazo de Valladolid a pie de calle afectados por las obras de la Entidad Pública Empresarial AGUA DE VALLADOLID durante los años 2024 y 2025.</p><p> </p><p>Primero. Beneficiarios: Los establecimientos minoristas y de prestación de servicios personales situados en la calle Gamazo de Valladolid a pie de calle afectados por las obras de la Entidad Pública Empresarial AGUA DE VALLADOLID durante los años 2024 y 2025 que reúnan los requisitos a que se refiere la base segunda de las Bases Reguladoras.</p><p> </p><p>Segundo. Objeto: La finalidad de estas ayudas es contribuir al impulso económico del tejido comercial local en las zonas directamente afectadas por dichas obras, paliando el impacto negativo que la ejecución de las mismas pueda generar sobre la actividad económica de los negocios ubicados en su entorno inmediato.</p><p> </p><p>Tercero. Bases Reguladoras: Las bases reguladoras de la convocatoria están publicadas en la sede electrónica de la Entidad Pública Empresarial AGUA DE VALLADOLID. (https://www.aquavall.es)</p><p> </p><p>Cuarto. Cuantía: Cuantía total: crédito presupuestario por un importe global máximo de 60.000 euros.</p><p> </p><p>Quinto. Plazo de presentación de solicitudes: El plazo de presentación de solicitudes será de 15 días hábiles desde el día siguiente a la fecha de la publicación de un extracto de esta convocatoria en el BOP de Valladolid. La solicitud se presentará en el modelo que se adjunta como anexo I a esta convocatoria.</p><p> </p><p>Sexto. Criierios de valoración de las solicitudes: El criterio para la concesión de la ayuda conforme a la base cuarta de las Bases Reguladoras será el ser una persona física o microempresa titular de un establecimiento comercial minorista y de prestación de servicios personales a pie de calle que como consecuencia de las obras desarrolladas por la Entidad Pública empresarial Agua de Valladolid durante los años 2024 y 2025 en la calle Gamazo de Valladolid, acrediten un descenso de los ingresos por cada mes completo de afección respecto a los mismos meses del año natural inmediatamente anterior superior a 400 euros. En este sentido y dado que las obras se han desarrollado en los años 2024 y 2025, los meses de los años naturales inmediatamente anteriores de referencia serán julio y agosto de 2023 respecto al primer periodo de la obra y julio y agosto de 2023 y junio, septiembre y octubre de 2024 respecto al segundo periodo de la obra.</p><p>De igual forma y conforme a la misma base cuarta de las bases reguladoras constituirá un segundo criterio para la concesión de la ayuda la acreditación del pago de unos gastos corrientes por el importe mínimo de 400 euros mensuales de base imponible por cada mes completo de afección. Se entenderá por gastos corrientes los descritos a modo de ejemplo en el punto 2 de la base Cuarta de las Bases Reguladoras, esto es: el destinado a suministros, gastos de personal, arrendamientos, y análogos.</p><p> </p><p>Séptimo. Otros datos: Acreditados los criterios a los que se ha hecho referencia en la base anterior, la cuantía de la ayuda a percibir por cada beneficiario ascenderá a la cantidad de 400 euros por cada mes completo de afección hasta agotar el crédito, salvo ampliación del mismo. Se entenderá por “mes natural completo con afección acreditada” aquel en el que la afección derivada de las obras haya tenido una duración igual o superior a 15 días hábiles continuos o discontinuos dentro del mismo mes, de conformidad con lo dispuesto en la base Cuarta de la Bases Reguladoras.</p><p>Se efectuará notificación individualizada de la resolución de la convocatoria a cada persona o microempresa beneficiaria y se publicará en la sede electrónica de la entidad, con indicación de los beneficiarios, conceptos y cuantías concedidas y en el boletín oficial correspondiente a través de la Base Nacional de Subvenciones.</p><p>Dado que las obras en la calle Gamazo se han desarrollado en 7 meses discontinuos a lo largo de 2024 y 2025, la cuantía máxima subvencionable por persona física o microempresa será de 2.800 euros.</p>",
+        "textoLeng": null,
+        "url": "https://bop.sede.diputaciondevalladolid.es/boletines/2026/abril/28/BOPVA-A-2026-01215.pdf",
+        "cve": "https://bop.sede.diputaciondevalladolid.es/boletines/2026/abril/28/BOPVA-A-2026-01215.pdf",
+        "desDiarioOficial": "B.O.P. DE VALLADOLID",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

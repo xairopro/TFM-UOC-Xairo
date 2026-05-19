@@ -1,0 +1,114 @@
+{
+  "id": "BDNS-901569",
+  "id_interno": 1103130,
+  "numero_convocatoria": "901569",
+  "organismo": "LOCAL — BADALONA — AYUNTAMIENTO DE BADALONA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "2026-04-27",
+  "fecha_fin_solicitud": "2026-05-24",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - canónica",
+  "descripcion": "Convocatoria de subvenciones a establecimientos comerciales para implementar un programa \"Badabons\", como actuación excepcional y temporal de incentivo al consumo de proximidad vinculada a afectaciones derivadas de actuaciones de reforma  mejora urbanísta",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES DE EDICIÓN, RADIODIFUSIÓN Y PRODUCCIÓN Y DISTRIBUCIÓN DE CONTENIDOS, COMERCIO AL POR MAYOR Y AL POR MENOR, HOSTELERÍA, OTROS SERVICIOS",
+  "regiones": "ES511 - Barcelona",
+  "finalidad": "Comercio, Turismo y Pymes",
+  "bases_reguladoras": "Bases reguladoras para la concesión de subvenciones a los establecimientos comerciales, de servicios, de restauración y mercados, tanto sedentarios como no sedentarios, en el marco del programa \"Badabons\", como actuación excepcional y temporal de incentiv",
+  "url_bases_reguladoras": "https://tauler.seu-e.cat/detall?idEns=801550006&idEdicte=624460",
+  "presupuesto": "400.000,00 €",
+  "presupuesto_total_num": 400000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901569",
+  "text": "CONVOCATORIA BDNS Nº 901569\nOrganismo: LOCAL — BADALONA — AYUNTAMIENTO DE BADALONA\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud: 2026-04-27 → 2026-05-24 (abierto: no)\nTipo de convocatoria: Concesión directa - canónica\nPresupuesto total: 400.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES DE EDICIÓN, RADIODIFUSIÓN Y PRODUCCIÓN Y DISTRIBUCIÓN DE CONTENIDOS, COMERCIO AL POR MAYOR Y AL POR MENOR, HOSTELERÍA, OTROS SERVICIOS\nRegiones: ES511 - Barcelona\nFinalidad: Comercio, Turismo y Pymes\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria de subvenciones a establecimientos comerciales para implementar un programa \"Badabons\", como actuación excepcional y temporal de incentivo al consumo de proximidad vinculada a afectaciones derivadas de actuaciones de reforma  mejora urbanísta\n\nBases reguladoras:\nBases reguladoras para la concesión de subvenciones a los establecimientos comerciales, de servicios, de restauración y mercados, tanto sedentarios como no sedentarios, en el marco del programa \"Badabons\", como actuación excepcional y temporal de incentiv\nURL bases reguladoras: https://tauler.seu-e.cat/detall?idEns=801550006&idEdicte=624460\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901569",
+  "_raw": {
+    "id": 1103130,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "BADALONA",
+      "nivel3": "AYUNTAMIENTO DE BADALONA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901569",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - canónica",
+    "presupuestoTotal": 400000,
+    "mrr": false,
+    "descripcion": "Convocatoria de subvenciones a establecimientos comerciales para implementar un programa \"Badabons\", como actuación excepcional y temporal de incentivo al consumo de proximidad vinculada a afectaciones derivadas de actuaciones de reforma  mejora urbanísta",
+    "descripcionLeng": "Convocatoria de subvencions a estableciments comercials per implementar un programa ’Badabons’’, com a actuació excepcional i temporal d’incentiu al consum de proximitat vinculada a afectacions derivades d’actuacions de reforma i millora urbanística.",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES DE EDICIÓN, RADIODIFUSIÓN Y PRODUCCIÓN Y DISTRIBUCIÓN DE CONTENIDOS",
+        "codigo": "J"
+      },
+      {
+        "descripcion": "COMERCIO AL POR MAYOR Y AL POR MENOR",
+        "codigo": "G"
+      },
+      {
+        "descripcion": "HOSTELERÍA",
+        "codigo": "I"
+      },
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES511 - Barcelona"
+      }
+    ],
+    "descripcionFinalidad": "Comercio, Turismo y Pymes",
+    "descripcionBasesReguladoras": "Bases reguladoras para la concesión de subvenciones a los establecimientos comerciales, de servicios, de restauración y mercados, tanto sedentarios como no sedentarios, en el marco del programa \"Badabons\", como actuación excepcional y temporal de incentiv",
+    "urlBasesReguladoras": "https://tauler.seu-e.cat/detall?idEns=801550006&idEdicte=624460",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-04-27",
+    "fechaFinSolicitud": "2026-05-24",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442620,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "RESOLUCIO CONVOCATORIA BADABONS2026_ABRIL.pdf",
+        "long": 181600,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1442618,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "RESOLUCIO_aprovar_Convocatoria badabons2026_3433L castellano.pdf",
+        "long": 141969,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

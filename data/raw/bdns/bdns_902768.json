@@ -1,0 +1,110 @@
+{
+  "id": "BDNS-902768",
+  "id_interno": 1104329,
+  "numero_convocatoria": "902768",
+  "organismo": "LOCAL — TORROX — AYUNTAMIENTO DE TORROX",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA PARA LA CONCESIÓN DE BECAS DEL ÁREA DE JUVENTUD DEL AYUNTAMIENTO DE TORROX PARA AYUDAS PARA EL TRANSPORTE UNIVERSITARIO, CICLOS FORMATIVOS Y FORMACIÓN PROFESIONAL PARA EL CURSO 2025/2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "EDUCACIÓN",
+  "regiones": "ES617 - Málaga",
+  "finalidad": "Subvenciones al transporte",
+  "bases_reguladoras": "BASES REGULADORAS DE LA CONCESIÓN DE  BECAS DEL ÁREA DE JUVENTUD DEL AYUNTAMIENTO DE TORROX PARA AYUDAS PARA EL TRANSPORTE UNIVERSITARIO, CICLOS FORMATIVOS Y FORMACIÓN PROFESIONAL PARA EL CURSO 2025/2026",
+  "url_bases_reguladoras": "https://torrox.sedelectronica.es/info.0",
+  "presupuesto": "20.000,00 €",
+  "presupuesto_total_num": 20000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902768",
+  "text": "CONVOCATORIA BDNS Nº 902768\nOrganismo: LOCAL — TORROX — AYUNTAMIENTO DE TORROX\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 20.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: EDUCACIÓN\nRegiones: ES617 - Málaga\nFinalidad: Subvenciones al transporte\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA PARA LA CONCESIÓN DE BECAS DEL ÁREA DE JUVENTUD DEL AYUNTAMIENTO DE TORROX PARA AYUDAS PARA EL TRANSPORTE UNIVERSITARIO, CICLOS FORMATIVOS Y FORMACIÓN PROFESIONAL PARA EL CURSO 2025/2026\n\nBases reguladoras:\nBASES REGULADORAS DE LA CONCESIÓN DE  BECAS DEL ÁREA DE JUVENTUD DEL AYUNTAMIENTO DE TORROX PARA AYUDAS PARA EL TRANSPORTE UNIVERSITARIO, CICLOS FORMATIVOS Y FORMACIÓN PROFESIONAL PARA EL CURSO 2025/2026\nURL bases reguladoras: https://torrox.sedelectronica.es/info.0\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902768",
+  "_raw": {
+    "id": 1104329,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "TORROX",
+      "nivel3": "AYUNTAMIENTO DE TORROX"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902768",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 20000,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA PARA LA CONCESIÓN DE BECAS DEL ÁREA DE JUVENTUD DEL AYUNTAMIENTO DE TORROX PARA AYUDAS PARA EL TRANSPORTE UNIVERSITARIO, CICLOS FORMATIVOS Y FORMACIÓN PROFESIONAL PARA EL CURSO 2025/2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES617 - Málaga"
+      }
+    ],
+    "descripcionFinalidad": "Subvenciones al transporte",
+    "descripcionBasesReguladoras": "BASES REGULADORAS DE LA CONCESIÓN DE  BECAS DEL ÁREA DE JUVENTUD DEL AYUNTAMIENTO DE TORROX PARA AYUDAS PARA EL TRANSPORTE UNIVERSITARIO, CICLOS FORMATIVOS Y FORMACIÓN PROFESIONAL PARA EL CURSO 2025/2026",
+    "urlBasesReguladoras": "https://torrox.sedelectronica.es/info.0",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "AL DÍA SIGUIENTE DE LA PUBLICACIÓN DEL EXTRACTO DE LA CONVOCATORIA EN EL BOP MÁLAGA",
+    "textFin": "15 DÍAS NATURALES A CONTAR DESDE EL DÍA SIGUIENTE A LA PUBLICACIÓN DEL EXTRACTO EN BOP MÁLAGA",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446189,
+        "descripcion": "SOLICITUD BECA 2025 - 2026",
+        "nombreFic": "SOLICITUD DE BECAS DE TRANSPORTE 2025_2026.pdf",
+        "long": 212917,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446211,
+        "descripcion": "BASES DE LA CONVOCATORIA",
+        "nombreFic": "BASES TRANSPORTE UNIVERSITARIO AYTO. TORROX-3.pdf",
+        "long": 135729,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446186,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Certificado de acuerdo JGL.pdf",
+        "long": 655851,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

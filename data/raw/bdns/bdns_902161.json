@@ -1,0 +1,97 @@
+{
+  "id": "BDNS-902161",
+  "id_interno": 1103722,
+  "numero_convocatoria": "902161",
+  "organismo": "AUTONOMICA — CASTILLA-LA MANCHA — SECRETARÍA GENERAL DE EDUCACIÓN, CULTURA Y DEPORTES",
+  "sede_electronica": "https://www.jccm.es",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - canónica",
+  "descripcion": "TRANSPORTE Y COMEDOR CENTROS DE EDUCACIÓN ESPECIAL CURSO 2025/2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA",
+  "regiones": "ES42 - CASTILLA LA MANCHA",
+  "finalidad": "Educación",
+  "bases_reguladoras": "Decreto 35/2025 de 6 de mayo, por el que se aprueban las bases reguladoras de la concesión directa de las ayudas de transporte y comedor dirigidas a centros privados concertados de educación especial y al alumnado de los mismos",
+  "url_bases_reguladoras": "https://docm.jccm.es/docm/verArchivoHtml.do?ruta=2025/05/09/html/2025_3753.html&tipo=rutaDocm",
+  "presupuesto": "1.100.000,00 €",
+  "presupuesto_total_num": 1100000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902161",
+  "text": "CONVOCATORIA BDNS Nº 902161\nOrganismo: AUTONOMICA — CASTILLA-LA MANCHA — SECRETARÍA GENERAL DE EDUCACIÓN, CULTURA Y DEPORTES\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - canónica\nPresupuesto total: 1.100.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA\nRegiones: ES42 - CASTILLA LA MANCHA\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nTRANSPORTE Y COMEDOR CENTROS DE EDUCACIÓN ESPECIAL CURSO 2025/2026\n\nBases reguladoras:\nDecreto 35/2025 de 6 de mayo, por el que se aprueban las bases reguladoras de la concesión directa de las ayudas de transporte y comedor dirigidas a centros privados concertados de educación especial y al alumnado de los mismos\nURL bases reguladoras: https://docm.jccm.es/docm/verArchivoHtml.do?ruta=2025/05/09/html/2025_3753.html&tipo=rutaDocm\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902161",
+  "_raw": {
+    "id": 1103722,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "CASTILLA-LA MANCHA",
+      "nivel3": "SECRETARÍA GENERAL DE EDUCACIÓN, CULTURA Y DEPORTES"
+    },
+    "sedeElectronica": "https://www.jccm.es",
+    "codigoBDNS": "902161",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - canónica",
+    "presupuestoTotal": 1100000,
+    "mrr": false,
+    "descripcion": "TRANSPORTE Y COMEDOR CENTROS DE EDUCACIÓN ESPECIAL CURSO 2025/2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA",
+        "codigo": "P"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES42 - CASTILLA LA MANCHA"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "Decreto 35/2025 de 6 de mayo, por el que se aprueban las bases reguladoras de la concesión directa de las ayudas de transporte y comedor dirigidas a centros privados concertados de educación especial y al alumnado de los mismos",
+    "urlBasesReguladoras": "https://docm.jccm.es/docm/verArchivoHtml.do?ruta=2025/05/09/html/2025_3753.html&tipo=rutaDocm",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Día siguiente a la publicación del extracto en el DOCM",
+    "textFin": "Modalidad 1:30/06/2026.Modalidad 2:15 días habiles a partir del sigu.a la pub de extracto en DOCM",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444307,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "RESOLUCIÓN CONVOCATORIA 25-26-FIRMADA_105335.PDF",
+        "long": 287609,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

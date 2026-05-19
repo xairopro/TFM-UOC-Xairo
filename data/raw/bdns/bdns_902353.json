@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-902353",
+  "id_interno": 1103914,
+  "numero_convocatoria": "902353",
+  "organismo": "LOCAL — CONSELL COMARCAL DE MONTSIÀ — CONSELL COMARCAL DE MONTSIÀ",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - canónica",
+  "descripcion": "Convocatoria de ayudas individuales de comedor escolar (AIM) 2026-2027 del Consell Comarcal del Montsià",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "EDUCACIÓN",
+  "regiones": "ES514 - Tarragona",
+  "finalidad": "Educación",
+  "bases_reguladoras": "Bases específicas para la concesión de ayudas individuales para la asistencia a comedores escolares (AIM), por necesidades socioeconómicas y geográficas, para el curso 2026-2027",
+  "url_bases_reguladoras": "https://aplicacions.dipta.cat/bopt/web/anuncio/358746/bases-per-a-la-concessio-d-ajuts-individuals-per-a-l-assistencia-a-menjadors-escolars-aim-per-necessitats-socioeconomiques-i-geografiques-curs-2026-2027-aprovacio-definitiva-consell-comarcal-montsia",
+  "presupuesto": "953.744,59 €",
+  "presupuesto_total_num": 953744.59,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902353",
+  "text": "CONVOCATORIA BDNS Nº 902353\nOrganismo: LOCAL — CONSELL COMARCAL DE MONTSIÀ — CONSELL COMARCAL DE MONTSIÀ\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - canónica\nPresupuesto total: 953.744,59 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: EDUCACIÓN\nRegiones: ES514 - Tarragona\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria de ayudas individuales de comedor escolar (AIM) 2026-2027 del Consell Comarcal del Montsià\n\nBases reguladoras:\nBases específicas para la concesión de ayudas individuales para la asistencia a comedores escolares (AIM), por necesidades socioeconómicas y geográficas, para el curso 2026-2027\nURL bases reguladoras: https://aplicacions.dipta.cat/bopt/web/anuncio/358746/bases-per-a-la-concessio-d-ajuts-individuals-per-a-l-assistencia-a-menjadors-escolars-aim-per-necessitats-socioeconomiques-i-geografiques-curs-2026-2027-aprovacio-definitiva-consell-comarcal-montsia\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902353",
+  "_raw": {
+    "id": 1103914,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "CONSELL COMARCAL DE MONTSIÀ",
+      "nivel3": "CONSELL COMARCAL DE MONTSIÀ"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902353",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - canónica",
+    "presupuestoTotal": 953744.59,
+    "mrr": false,
+    "descripcion": "Convocatoria de ayudas individuales de comedor escolar (AIM) 2026-2027 del Consell Comarcal del Montsià",
+    "descripcionLeng": "Convocatòria d'ajudes individuals de menjador escolar (AIM) 2026-2027 del Consell Comarcal del Montsà",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES514 - Tarragona"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "Bases específicas para la concesión de ayudas individuales para la asistencia a comedores escolares (AIM), por necesidades socioeconómicas y geográficas, para el curso 2026-2027",
+    "urlBasesReguladoras": "https://aplicacions.dipta.cat/bopt/web/anuncio/358746/bases-per-a-la-concessio-d-ajuts-individuals-per-a-l-assistencia-a-menjadors-escolars-aim-per-necessitats-socioeconomiques-i-geografiques-curs-2026-2027-aprovacio-definitiva-consell-comarcal-montsia",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "02/05/2026",
+    "textFin": "30/04/2027",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445122,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "Publicaci___3_8102280001_2026_0001519.pdf",
+        "long": 165179,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445119,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Publicaci___2_8102280001_2026_0001519.pdf",
+        "long": 176743,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

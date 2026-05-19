@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-901293",
+  "id_interno": 1102854,
+  "numero_convocatoria": "901293",
+  "organismo": "LOCAL — SANT ANTONI DE VILAMAJOR — AYUNTAMIENTO DE SANT ANTONI DE VILAMAJOR",
+  "sede_electronica": "https://santantonidevilamajor.eadministracio.cat/info.0",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "BASES PARA LA CONVOCATORIA PARA LA CONCESIÓN DE AYUDAS SOCIALES PARA LIBROS DE TEXTO Y MATERIAL ESCOLAR CURSO 2026-2027",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Educación",
+  "regiones": "ES511 - Barcelona",
+  "finalidad": "Educación",
+  "bases_reguladoras": "BASES PARA LA CONVOCATORIA PARA LA CONCESIÓN DE AYUDAS SOCIALES PARA LIBROS DE TEXTO Y MATERIAL ESCOLAR CURSO 2026-2027",
+  "url_bases_reguladoras": "https://www.santantonidevilamajor.cat/",
+  "presupuesto": "2.500,00 €",
+  "presupuesto_total_num": 2500,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901293",
+  "text": "CONVOCATORIA BDNS Nº 901293\nOrganismo: LOCAL — SANT ANTONI DE VILAMAJOR — AYUNTAMIENTO DE SANT ANTONI DE VILAMAJOR\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 2.500,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Educación\nRegiones: ES511 - Barcelona\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nBASES PARA LA CONVOCATORIA PARA LA CONCESIÓN DE AYUDAS SOCIALES PARA LIBROS DE TEXTO Y MATERIAL ESCOLAR CURSO 2026-2027\n\nBases reguladoras:\nBASES PARA LA CONVOCATORIA PARA LA CONCESIÓN DE AYUDAS SOCIALES PARA LIBROS DE TEXTO Y MATERIAL ESCOLAR CURSO 2026-2027\nURL bases reguladoras: https://www.santantonidevilamajor.cat/\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901293",
+  "_raw": {
+    "id": 1102854,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "SANT ANTONI DE VILAMAJOR",
+      "nivel3": "AYUNTAMIENTO DE SANT ANTONI DE VILAMAJOR"
+    },
+    "sedeElectronica": "https://santantonidevilamajor.eadministracio.cat/info.0",
+    "codigoBDNS": "901293",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 2500,
+    "mrr": false,
+    "descripcion": "BASES PARA LA CONVOCATORIA PARA LA CONCESIÓN DE AYUDAS SOCIALES PARA LIBROS DE TEXTO Y MATERIAL ESCOLAR CURSO 2026-2027",
+    "descripcionLeng": "BASES PER A LA CONVOCATÒRIA PER A LA CONCESSIÓ D'AJUTS SOCIALS PER A LLIBRES DE TEXT I MATERIAL ESCOLAR CURS 2026-2027",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Educación",
+        "codigo": "85"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES511 - Barcelona"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "BASES PARA LA CONVOCATORIA PARA LA CONCESIÓN DE AYUDAS SOCIALES PARA LIBROS DE TEXTO Y MATERIAL ESCOLAR CURSO 2026-2027",
+    "urlBasesReguladoras": "https://www.santantonidevilamajor.cat/",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "07/04/2026",
+    "textFin": "21/04/2026",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1441916,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "Bases convoc. ajuts material escolar 2026-2027.pdf",
+        "long": 1867704,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1441915,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Bases convoc. ayudas material escolar 2026-2027.pdf",
+        "long": 1916003,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902252",
+  "id_interno": 1103813,
+  "numero_convocatoria": "902252",
+  "organismo": "LOCAL — DIPUTACIÓN PROV. DE JAÉN — DIPUTACIÓN PROVINCIAL DE JAÉN",
+  "sede_electronica": "https://sede.dipujaen.es/",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "2026-01-01",
+  "fecha_fin_solicitud": "2026-12-31",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "AYUDAS PARA LA REALIZACIÓN DE PROGRAMAS DE MOVILIDAD INTERNACIONAL DE ESTUDIANTES DURANTE EL CURSO 2026/2027 - UNIVERSIDAD DE JAÉN",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades auxiliares a la educación",
+  "regiones": "ES616 - Jaén",
+  "finalidad": "Educación",
+  "bases_reguladoras": "BASES DE EJECUCION DEL PRESUPUESTO 2026",
+  "url_bases_reguladoras": "https://www.dipujaen.es/export/files/transparencia/presupuesto2026/presupuestos2026.html",
+  "presupuesto": "39.600,00 €",
+  "presupuesto_total_num": 39600,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902252",
+  "text": "CONVOCATORIA BDNS Nº 902252\nOrganismo: LOCAL — DIPUTACIÓN PROV. DE JAÉN — DIPUTACIÓN PROVINCIAL DE JAÉN\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud: 2026-01-01 → 2026-12-31 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 39.600,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades auxiliares a la educación\nRegiones: ES616 - Jaén\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nAYUDAS PARA LA REALIZACIÓN DE PROGRAMAS DE MOVILIDAD INTERNACIONAL DE ESTUDIANTES DURANTE EL CURSO 2026/2027 - UNIVERSIDAD DE JAÉN\n\nBases reguladoras:\nBASES DE EJECUCION DEL PRESUPUESTO 2026\nURL bases reguladoras: https://www.dipujaen.es/export/files/transparencia/presupuesto2026/presupuestos2026.html\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902252",
+  "_raw": {
+    "id": 1103813,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DIPUTACIÓN PROV. DE JAÉN",
+      "nivel3": "DIPUTACIÓN PROVINCIAL DE JAÉN"
+    },
+    "sedeElectronica": "https://sede.dipujaen.es/",
+    "codigoBDNS": "902252",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 39600,
+    "mrr": false,
+    "descripcion": "AYUDAS PARA LA REALIZACIÓN DE PROGRAMAS DE MOVILIDAD INTERNACIONAL DE ESTUDIANTES DURANTE EL CURSO 2026/2027 - UNIVERSIDAD DE JAÉN",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades auxiliares a la educación",
+        "codigo": "85.6"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES616 - Jaén"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "BASES DE EJECUCION DEL PRESUPUESTO 2026",
+    "urlBasesReguladoras": "https://www.dipujaen.es/export/files/transparencia/presupuesto2026/presupuestos2026.html",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-01-01",
+    "fechaFinSolicitud": "2026-12-31",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444756,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "CONVENIO_UJA_-_AYUDAS_PARA_LA_REALIZACIO__DIP_900_.pdf",
+        "long": 236618,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

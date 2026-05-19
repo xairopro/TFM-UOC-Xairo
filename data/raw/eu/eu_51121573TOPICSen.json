@@ -1,0 +1,167 @@
+{
+  "id": "EU-51121573TOPICSen",
+  "topic_id": "51121573TOPICSen",
+  "titulo": "Strategic Integrated Projects - Environment",
+  "descripcion": "Strategic Integrated Projects - Environment",
+  "organismo": "43252405",
+  "fecha_publicacion": "2026-04-21",
+  "fecha_limite": "2026-09-03",
+  "deadlines_todas": "2026-09-03, 2027-03-04",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"114288\":[{\"action\":\"LIFE-2026-STRAT-ENV-SIP-two-stage - LIFE-PJG LIFE Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"58000000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"two-stage\",\"deadlineDates\":[\"2026-09-03\",\"2027-03-04\"]}],\"114287\":[{\"action\":\"LIFE-2026-STRAT-CLIMA-SIP-two-stage - LIFE-PJG LIFE Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"30000000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"two-stage\",\"deadlineDates\":[\"2026-09-03\",\"2027-03-04\"]}],\"114286\":[{\"action\":\"LIFE-2026-STRAT-NAT-SNAP-two-stage - LIFE-PJG LIFE Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"75000000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"two-stage\",\"deadlineDates\":[\"2026-09-03\",\"2027-03-04\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "LIFE Project Grants",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-STRAT-ENV-SIP-two-stage",
+  "text": "EU FUNDING & TENDERS – Topic: 51121573TOPICSen\nProgramme/Organism: 43252405\nTitle: Strategic Integrated Projects - Environment\nStatus: Open (31094502)\nType of action: LIFE Project Grants\nOpening date: 2026-04-21\nDeadline: 2026-09-03\nAll deadlines: 2026-09-03, 2027-03-04\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"114288\":[{\"action\":\"LIFE-2026-STRAT-ENV-SIP-two-stage - LIFE-PJG LIFE Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"58000000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"two-stage\",\"deadlineDates\":[\"2026-09-03\",\"2027-03-04\"]}],\"114287\":[{\"action\":\"LIFE-2026-STRAT-CLIMA-SIP-two-stage - LIFE-PJG LIFE Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"30000000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"two-stage\",\"deadlineDates\":[\"2026-09-03\",\"2027-03-04\"]}],\"114286\":[{\"action\":\"LIFE-2026-STRAT-NAT-SNAP-two-stage - LIFE-PJG LIFE Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"75000000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"two-stage\",\"deadlineDates\":[\"2026-09-03\",\"2027-03-04\"]}]}}\n\nDescription / Scope:\nStrategic Integrated Projects - Environment\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-STRAT-ENV-SIP-two-stage",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "51121573TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-STRAT-ENV-SIP-two-stage",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Strategic Integrated Projects - Environment",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Strategic Integrated Projects - Environment",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "4E29A955C086052F9AE72C3DD0A7F9EB119ECB2164E5E78A28837BC0A9361860",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-04-22T17:43:13.491\",\"content\":\"The submission session is now available for: LIFE-2026-STRAT-NAT-SNAP-two-stage, LIFE-2026-STRAT-CLIMA-SIP-two-stage, LIFE-2026-STRAT-ENV-SIP-two-stage\"}]"
+      ],
+      "es_SortDate": [
+        "2026-04-21T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "LIFE-2026-STRAT-ENV-SIP-two-stage",
+        "LIFE-2026-STRAT-two-stage"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>Conditions</h4><div><h4>1. Admissibility conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>described in section 5 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-strat-two-stage_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p><p>Please add hyperlinks as embedded links where needed (<u>underscored text</u>). Send the call document through the <a href=\"https://t-rex.net1.cec.eu.int/call-publication-form/\" rel=\"noopener noreferrer\" target=\"_blank\">document publication form</a> to receive the hyperlink within 2 business days max.</p></div></div><div><h4>2. Eligible countries</h4><div class=\"eui-u-mt-s\"><p>described in section 6 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-strat-two-stage_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>3. Other eligibility conditions</h4><div class=\"eui-u-mt-s\"><p>described in section 6 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-strat-two-stage_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-strat-two-stage_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">.</a></p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in section 7 of the<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-strat-two-stage_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\"> </a><u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-strat-two-stage_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>5a. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>described section 8 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-strat-two-stage_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u> and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5b. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>described in section 9 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-strat-two-stage_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in section 4 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-strat-two-stage_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-strat-two-stage_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">.</a></p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>described in section 10 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-strat-two-stage_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-strat-two-stage_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">.</a></p></div></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Call document and annexes:</h4> <div class=\"eui-u-mt-s\"><p><u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2026/call-fiche_life-2026-strat-two-stage_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Call document</a></u></p><p><strong>Application form templates</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/temp-form/af/af_life-sip-snap_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (LIFE SIP and SNAP)</a> — the application form specific to this call is available in the Submission System</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/temp-form/af/detailed-budget-table_life_en.xlsx\" rel=\"noopener noreferrer\" target=\"_blank\">Detailed budget table (LIFE)</a> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/temp-form/af/participant-information_life_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Participant information (LIFE)</a> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/temp-form/af/participant-information_life_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Maps (LIFE)</a> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/temp-form/af/participant-information_life_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Description of sites (LIFE)</a> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/temp-form/af/participant-information_life_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Description of species and habitats (LIFE)</a> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/temp-form/af/implementation-overview-for-the-plan-strategy-action-plan_life-sip-snap_en.xlsx\" rel=\"noopener noreferrer\" target=\"_blank\">Implementation overview for the plan/strategy/action plan (LIFE SIP and SNAP)</a> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/temp-form/af/complementary-funding-plan_life-sip-snap_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Complementary funding plan (LIFE SIP and SNAP)</a> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/temp-form/af/complementary-funding-declaration_life-sip-snap_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Complementary funding declaration (LIFE SIP and SNAP)</a> </p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/agr-contr/mga_life_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">LIFE MGA</a> </p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/life/wp-call/2021-2024/wp_life-2021-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">LIFE Multiannual Work Programme 202</a>4-2027</p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0783\" rel=\"noopener noreferrer\" target=\"_blank\">LIFE Regulation 2021/783</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a>&#xa0;</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "Strategic Integrated Projects - Environment"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "4E29A955C086052F9AE72C3DD0A7F9EB119ECB2164E5E78A28837BC0A9361860"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43250283"
+      ],
+      "callIdentifier": [
+        "LIFE-2026-STRAT-two-stage"
+      ],
+      "ccm2Id": [
+        "51121573"
+      ],
+      "callccm2Id": [
+        "51121600"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "51121573TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"LIFE-2026-STRAT-two-stage\",\"criterionCode\":\"LIFE-PJG\",\"criterionDescription\":\"LIFE Project Grants\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43887?topic\\u003dLIFE-2026-STRAT-ENV-SIP-two-stage\",\"startDate\":\"1776729600000\",\"endDate\":\"1788393600000\",\"mgaDescription\":\"LIFE Action Grant Budget-Based\",\"mgaCode\":\"LIFE-AG\"}]"
+      ],
+      "callTitle": [
+        "Strategic Nature and Integrated Projects (SNAP/SIP)"
+      ],
+      "frameworkProgramme": [
+        "43252405"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Impact:</p><p><u>Expected Impact</u>:</p><ul level=\"0\"><li>By the end of the project: at least substantial contribution to the implementation of the targeted plan/strategy, and mechanisms established to ensure full implementation of the plan/strategy.</li><li>After the project: Full implementation of the plan/strategy.</li> </ul><p>In relation to those expected impacts, applicants are expected to define, calculate, explain and achieve the <strong>expected impacts as described in Award criterion ‘Impact’ of the full proposal evaluation (<u>see Call document</u>).</strong></p><p class=\"topicdescriptionkind\">Objective:</p><p>Support the full implementation of the following plans and strategies:</p><p>- Circular Economy: National or Regional Circular Economy Action Plans, Strategies, Roadmaps or similar, which are officially approved, and which include specific and measurable actions, or targets, with a clear timeline and are in line with or complement the objectives of the EU Circular Economy Action Plan and, when relevant of the Bioeconomy Strategy.</p><p>- Waste: National and regional Waste Management Plans pursuant to Article 28 of the EU Waste Framework Directive and/or Waste Prevention Programmes as requested by article 29 of the EU Waste Framework Directive.</p><p>- Water: River basin management plans pursuant to Annex VII to the EU Water Framework Directive, Flood Risk Management Plans pursuant to the EU Floods Directive, Marine Strategies pursuant to the EU Marine Strategy Framework Directive, Drought Management Plans as suggested by Article 13 (5) of the Water Framework Directive.</p><p>- Air: Air quality plans pursuant to the EU Ambient Air Quality Directive, National Air Pollution Control Programmes pursuant to the EU National Emission Reduction Commitments Directive.</p><p>- Noise: Noise action plans pursuant to the EU Environmental Noise Directive.</p><p class=\"topicdescriptionkind\">Scope:</p><p>SIPs should aim at the full implementation of the strategies and plans listed in \"Objective\". This might not mean that the SIP will cover all actions foreseen in the strategy/plan or that the strategy/plan will be fully implemented during the lifetime of the SIP. However, the SIP shall include strategic actions to catalyse a process and mobilise supplementary commitments and funding that will lead, in due time, to the full implementation of the plan or strategy.</p><p>SIPs shall promote the coordination with and mobilisation of other relevant Union, national or private funding sources for the implementation of the complementary measures or actions outside of the SIP in the framework of the targeted plan or strategy, giving preference to EU funding. Within the SIP itself, however, co-funding may not come from other EU funding sources.</p><p>SIPs shall actively involve the main stakeholders necessary for the implementation of the targeted plan or strategy. They should be involved in both the design and implementation of the given project. This involvement is expected to be achieved by including them - where possible and reasonable - as associated beneficiaries of the SIP, or through their active participation in the implementation of the SIP itself and/or of the complementary actions.</p><p>SIPs should facilitate and result in the building up of strategic capacities among the competent authorities and stakeholders to ensure a long-term sustainability of project results and actions, and to ensure that they will be able to function as co-deliverers of the targeted plan or strategy during or after the end of the SIP.</p><p>The SIP complexity requires an adaptive approach in the design of the implementing mechanism. For this reason, SIPs will be implemented based on a revolving programming mechanism structured in phases (i.e. Phase 1, Phase 2, etc.). Each phase should normally last at least 3 years, to reduce administrative burden, although duration might be shorter if properly justified.</p><p><strong><u>See Call document</u></strong> and <strong><u>Frequently Asked Questions (FAQ)</u></strong> for a more detailed description of SIPs scope and features.</p>"
+      ],
+      "identifier": [
+        "LIFE-2026-STRAT-ENV-SIP-two-stage"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "45288928"
+      ],
+      "crossCuttingPriorities": [],
+      "esDA_FirstIngestDate": [
+        "2026-04-21T00:09:33.590+0200"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-09-03T00:00:00.000+0000",
+        "2027-03-04T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-22T17:44:46.032+0200"
+      ],
+      "typesOfAction": [
+        "LIFE Project Grants"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-STRAT-ENV-SIP-two-stage"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-STRAT-ENV-SIP-two-stage"
+      ],
+      "tags": [],
+      "esDA_QueueDate": [
+        "2026-04-22T17:44:46.018+0200"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"LIFE-PJG LIFE Project Grants\",\"typeOfMGA\":[{\"id\":43250283,\"abbreviation\":\"LIFE-AG\",\"description\":\"LIFE Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-04-21\",\"submissionProcedure\":{\"id\":31094505,\"abbreviation\":\"two-stage\",\"description\":\"two-stage\"},\"deadlineDates\":[\"2026-09-03\",\"2027-03-04\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"114288\":[{\"action\":\"LIFE-2026-STRAT-ENV-SIP-two-stage - LIFE-PJG LIFE Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"58000000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"two-stage\",\"deadlineDates\":[\"2026-09-03\",\"2027-03-04\"]}],\"114287\":[{\"action\":\"LIFE-2026-STRAT-CLIMA-SIP-two-stage - LIFE-PJG LIFE Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"30000000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"two-stage\",\"deadlineDates\":[\"2026-09-03\",\"2027-03-04\"]}],\"114286\":[{\"action\":\"LIFE-2026-STRAT-NAT-SNAP-two-stage - LIFE-PJG LIFE Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"75000000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"two-stage\",\"deadlineDates\":[\"2026-09-03\",\"2027-03-04\"]}]}}"
+      ],
+      "startDate": [
+        "2026-04-21T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "two-stage"
+      ],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p>Please read carefully all provisions below before the preparation of your application.</p><p>Consult the<a href=\"https://cinea.ec.europa.eu/programmes/life/life-european-countries_en\" rel=\"noopener noreferrer\" target=\"_blank\"> </a><u><a href=\"https://cinea.ec.europa.eu/programmes/life/life-support-applicants_en#ecl-inpage-1377\" rel=\"noopener noreferrer\" target=\"_blank\">FAQs in LIFE website</a></u></p><p>Get in touch with your <u><a href=\"https://cinea.ec.europa.eu/programmes/life/life-european-countries_en\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Point (NCP)</a>.</u> We want also to draw your attention on the possibility to get support from your NCP. To facilitate such support, it would be beneficial to add your NCP under the “Participants” step of the application, by clicking on “Add contact”. Then, Under “Project role”, use the option “Contact person” and add your NCP’s data.Please read carefully all provisions below before the preparation of your application.</p><p><u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a></u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\"> </a>– Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><u><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/spaces/OM/pages/1867795/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a></u> – <a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/spaces/OM/pages/1867795/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Step</a>-by-step online guide through the Portal processes from proposal preparation and evaluation to reporting on your ongoing project. Valid for all 2021-2027 programmes.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Strategic Integrated Projects - Environment. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/LIFE-2026-STRAT-ENV-SIP-two-stage",
+    "score": 3.0
+  }
+}

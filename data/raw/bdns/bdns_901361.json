@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-901361",
+  "id_interno": 1102922,
+  "numero_convocatoria": "901361",
+  "organismo": "AUTONOMICA — COMUNIDAD FORAL DE NAVARRA — AGENCIA NAVARRA DE AUTONOMÍA Y DESARROLLO DE LAS PERSONAS",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Subvención a Fundación ADISCO Residencial. Viviendas colaborativas Corella",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de servicios sociales sin alojamiento para personas mayores o con discapacidad",
+  "regiones": "ES22 - COMUNIDAD FORAL DE NAVARRA",
+  "finalidad": "Servicios Sociales y Promoción Social",
+  "bases_reguladoras": "Subvención a Fundación ADISCO Residencial. Viviendas colaborativas Corella",
+  "url_bases_reguladoras": "www.navarra.es",
+  "presupuesto": "50.000,00 €",
+  "presupuesto_total_num": 50000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901361",
+  "text": "CONVOCATORIA BDNS Nº 901361\nOrganismo: AUTONOMICA — COMUNIDAD FORAL DE NAVARRA — AGENCIA NAVARRA DE AUTONOMÍA Y DESARROLLO DE LAS PERSONAS\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 50.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de servicios sociales sin alojamiento para personas mayores o con discapacidad\nRegiones: ES22 - COMUNIDAD FORAL DE NAVARRA\nFinalidad: Servicios Sociales y Promoción Social\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSubvención a Fundación ADISCO Residencial. Viviendas colaborativas Corella\n\nBases reguladoras:\nSubvención a Fundación ADISCO Residencial. Viviendas colaborativas Corella\nURL bases reguladoras: www.navarra.es\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901361",
+  "_raw": {
+    "id": 1102922,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "COMUNIDAD FORAL DE NAVARRA",
+      "nivel3": "AGENCIA NAVARRA DE AUTONOMÍA Y DESARROLLO DE LAS PERSONAS"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901361",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 50000,
+    "mrr": false,
+    "descripcion": "Subvención a Fundación ADISCO Residencial. Viviendas colaborativas Corella",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de servicios sociales sin alojamiento para personas mayores o con discapacidad",
+        "codigo": "88.1"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES22 - COMUNIDAD FORAL DE NAVARRA"
+      }
+    ],
+    "descripcionFinalidad": "Servicios Sociales y Promoción Social",
+    "descripcionBasesReguladoras": "Subvención a Fundación ADISCO Residencial. Viviendas colaborativas Corella",
+    "urlBasesReguladoras": "www.navarra.es",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Presentación del proyecto",
+    "textFin": "Firma del convenio",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442104,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Enmiendas Presupuestos 2026_Individual-639.pdf",
+        "long": 248329,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

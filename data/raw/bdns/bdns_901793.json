@@ -1,0 +1,106 @@
+{
+  "id": "BDNS-901793",
+  "id_interno": 1103354,
+  "numero_convocatoria": "901793",
+  "organismo": "OTROS — UNIVERSIDAD MIGUEL HERNÁNDEZ DE ELCHE",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "AYUDAS #COMPROMISOSOCIALUMH 2026, EN EL MARCO DE LA PROMOCIÓN DE LOS OBJETIVOS DE DESARROLLO SOSTENIBLE DE LA AGENDA 2030 DE LAS NACIONES UNIDAS Y LA PROYECCIÓN SOCIAL DE LA UNIVERSIDAD CON ENTIDADES CONVENIADAS",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Educación",
+  "regiones": "ES521 - Alicante / Alacant",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Base reguladora de la convocatoria AYUDAS #COMPROMISOSOCIALUMH 2026, EN EL MARCO DE LA PROMOCIÓN DE LOS OBJETIVOS DE DESARROLLO SOSTENIBLE DE LA AGENDA 2030 DE LAS NACIONES UNIDAS Y LA PROYECCIÓN SOCIAL DE LA UNIVERSIDAD CON ENTIDADES CONVENIADAS",
+  "url_bases_reguladoras": "https://boumh.umh.es/files/2026/04/RR_00946_2026.pdf",
+  "presupuesto": "10.000,00 €",
+  "presupuesto_total_num": 10000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901793",
+  "text": "CONVOCATORIA BDNS Nº 901793\nOrganismo: OTROS — UNIVERSIDAD MIGUEL HERNÁNDEZ DE ELCHE\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 10.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Educación\nRegiones: ES521 - Alicante / Alacant\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nAYUDAS #COMPROMISOSOCIALUMH 2026, EN EL MARCO DE LA PROMOCIÓN DE LOS OBJETIVOS DE DESARROLLO SOSTENIBLE DE LA AGENDA 2030 DE LAS NACIONES UNIDAS Y LA PROYECCIÓN SOCIAL DE LA UNIVERSIDAD CON ENTIDADES CONVENIADAS\n\nBases reguladoras:\nBase reguladora de la convocatoria AYUDAS #COMPROMISOSOCIALUMH 2026, EN EL MARCO DE LA PROMOCIÓN DE LOS OBJETIVOS DE DESARROLLO SOSTENIBLE DE LA AGENDA 2030 DE LAS NACIONES UNIDAS Y LA PROYECCIÓN SOCIAL DE LA UNIVERSIDAD CON ENTIDADES CONVENIADAS\nURL bases reguladoras: https://boumh.umh.es/files/2026/04/RR_00946_2026.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901793",
+  "_raw": {
+    "id": 1103354,
+    "organo": {
+      "nivel1": "OTROS",
+      "nivel2": "UNIVERSIDAD MIGUEL HERNÁNDEZ DE ELCHE",
+      "nivel3": null
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901793",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 10000,
+    "mrr": false,
+    "descripcion": "AYUDAS #COMPROMISOSOCIALUMH 2026, EN EL MARCO DE LA PROMOCIÓN DE LOS OBJETIVOS DE DESARROLLO SOSTENIBLE DE LA AGENDA 2030 DE LAS NACIONES UNIDAS Y LA PROYECCIÓN SOCIAL DE LA UNIVERSIDAD CON ENTIDADES CONVENIADAS",
+    "descripcionLeng": "AJUDES #COMPROMÍSSOCIALUMH 2026, EN EL MARC DE LA PROMOCIÓ DELS OBJECTIUS DE DESENVOLUPAMENT SOSTENIBLE DE L'AGENDA 2030 DE LES NACIONS UNIDES I DE LA PROJECCIÓ SOCIAL DE LA UNIVERSITAT AMB ENTITATS CONVENIADES",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Educación",
+        "codigo": "85"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES521 - Alicante / Alacant"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Base reguladora de la convocatoria AYUDAS #COMPROMISOSOCIALUMH 2026, EN EL MARCO DE LA PROMOCIÓN DE LOS OBJETIVOS DE DESARROLLO SOSTENIBLE DE LA AGENDA 2030 DE LAS NACIONES UNIDAS Y LA PROYECCIÓN SOCIAL DE LA UNIVERSIDAD CON ENTIDADES CONVENIADAS",
+    "urlBasesReguladoras": "https://boumh.umh.es/files/2026/04/RR_00946_2026.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Desde el día siguiente al de la publicación de la convocatoria en el DOGV",
+    "textFin": "10 días hábiles",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443392,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "BOUMH 00946_2026.pdf",
+        "long": 323263,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210171,
+        "titulo": "Extracto de la convocatoria AYUDAS #COMPROMISOSOCIALUMH 2026, EN EL MARCO DE LA PROMOCIÓN DE LOS OBJETIVOS DE DESARROLLO SOSTENIBLE DE LA AGENDA 2030 DE LAS NACIONES UNIDAS Y LA PROYECCIÓN SOCIAL DE LA UNIVERSIDAD CON ENTIDADES CONVENIADAS",
+        "tituloLeng": "Extracte de la convocatòria AJUDES #COMPROMÍSSOCIALUMH 2026, EN EL MARC DE LA PROMOCIÓ DELS OBJECTIUS DE DESENVOLUPAMENT SOSTENIBLE DE L'AGENDA 2030 DE LES NACIONS UNIDES I DE LA PROJECCIÓ SOCIAL DE LA UNIVERSITAT AMB ENTITATS CONVENIADES",
+        "texto": "<p>De conformidad con lo previsto en los artículos 17.3.b y 20.8.a de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, se publica el extracto de la convocatoria cuyo texto completo puede consultarse en la Base de Datos Nacional de Subvenciones (http://www.pap.minhap.gob.es/bdnstrans):</p><p></p><p>Primero. Beneficiarios.</p><p>Podrán ser beneficiarias de las ayudas de esta convocatoria entidades, asociaciones, personas físicas u organizaciones sin ánimo de lucro que cumplan los siguientes requisitos:</p><p>- Tener un convenio de colaboración marco o específico con la UMH en el momento de presentar la solicitud, o haberse iniciado los trámites preceptivos para la formalización de éste.</p><p>- Llevar a cabo actividades o proyectos que aborden al menos uno de los ODS juntamente con personas integrantes de la comunidad universitaria de la UMH.</p><p>- Identificar una persona de la comunidad universitaria de la UMH que garantice la viabilidad de la propuesta. En el caso de que la persona de enlace con la UMH sea un/a estudiante, deberá especificarse el tutor/a de prácticas formativas en la entidad atendiendo al anexo de prácticas vigente o el último expirado en un periodo de tiempo no superior a seis meses desde el momento de publicación de la presente convocatoria. Además, el/la estudiante de enlace deberá estar matriculado/a en un estudio oficial de la UMH durante todo el periodo de ejecución del proyecto.</p><p></p><p>Segundo. Objeto.</p><p>El objeto de la presente convocatoria que regula estas bases es conceder hasta 10 ayudas de 1.000 euros, para promover la Responsabilidad y el Compromiso Social de entidades, asociaciones y organizaciones sin ánimo de lucro que, en colaboración y/o en el ámbito de aplicación de la UMH, realicen actividades o proyectos que fomenten los ODS en alguna de las áreas de la Agenda 2030: Personas, Planeta, Prosperidad, Paz y Alianzas.</p><p></p><p>Tercero. Bases reguladoras.</p><p>https://boumh.umh.es/files/2026/04/RR_00946_2026.pdf</p><p></p><p>Cuarto. Cuantía.</p><p>El importe total de la convocatoria es de 10.000 € que se destinarán a financiar hasta 10 ayudas de 1.000 €.</p><p></p><p>Quinto. Plazo de presentación de solicitudes.</p><p>El plazo de presentación de solicitudes será de 10 hábiles a contar a partir del día siguiente de la fecha de publicación del extracto de esta convocatoria en el Diari Oficial de la Generalitat Valenciana (DOGV).</p><p></p><p>Sexto. Otros datos.</p><p>Con la solicitud deberá aportar la documentación siguiente: </p><p>a) Formulario de solicitud (anexo II), debiendo indicarse de manera expresa la persona de contacto de la UMH con la que llevará a cabo el proyecto solicitado.</p><p>b) Copia del CIF de la asociación o entidad o NIF en caso de persona física.</p><p>c) Memoria del proyecto (anexo III):</p><p>- Título</p><p>- Objetivos del proyecto</p><p>- Actividad/es propuesta/s</p><p>- Medios materiales</p><p>- Plan o cronograma de trabajo</p><p>- Justificación de la relación de su contribución a uno o varios ODS</p><p>- Continuidad del proyecto en el futuro</p><p>- Plan de difusión, en su caso</p>",
+        "textoLeng": "<p>De conformitat amb el que estableixen els articles 17.3.b i 20.8.a de la Llei 38/2003, de 17 de novembre, general de subvencions, se'n publica l'extracte de la convocatòria, el text complet de la qual podeu consultar en la Base de Dades Nacional de Subvencions (http://www.pap.minhap.gob.es/bdnstrans):</p><p></p><p>Primer. Beneficiaris.</p><p>Poden ser beneficiàries de les ajudes d'aquesta convocatòria les entitats, associacions, persones físiques o organitzacions sense ànim de lucre que complisquen els requisits següents:</p><p>- Tindre un conveni de col·laboració marc o específic amb la UMH en el moment de presentar la sol·licitud, o haver-se iniciat els tràmits preceptius per a formalitzar-lo.</p><p>- Dur a terme activitats o projectes que aborden almenys un dels ODS juntament amb persones integrants de la comunitat universitària de la UMH.</p><p>- Identificar una persona de la comunitat universitària de la UMH que garantisca la viabilitat de la proposta. En cas que la persona d'enllaç amb la UMH siga un o una estudiant, cal especificar el tutor o la tutora de pràctiques formatives en l'entitat segons l'annex de pràctiques vigent o l'últim expirat en un període de temps no superior a sis mesos des del moment de la publicació d'aquesta convocatòria. A més, l'estudiant d'enllaç ha d'estar matriculat en un estudi oficial de la UMH durant tot el període d'execució del projecte.</p><p></p><p>Segon. Objecte.</p><p>L'objecte d'aquesta convocatòria, regulada per aquestes bases, és concedir fins a 10 ajudes de 1.000 euros per a promoure la responsabilitat i el compromís social d'entitats, associacions i organitzacions sense ànim de lucre que, en col·laboració i/o en l'àmbit d'aplicació de la UMH, duguen a terme activitats o projectes que fomenten els ODS en alguna de les àrees de l'Agenda 2030: Persones, Planeta, Prosperitat, Pau i Aliances.</p><p></p><p>Tercer. Bases reguladores.</p><p>https://boumh.umh.es/files/2026/04/RR_00946_2026.pdf</p><p></p><p>Quart. Quantia.</p><p>L'import total de la convocatòria és de 10.000 €, que es destinen a finançar fins a 10 ajudes de 1.000 €.</p><p></p><p>Quint. Termini de presentació de sol·licituds.</p><p>El termini de presentació de sol·licituds és de 10 hàbils comptadors a partir de l'endemà de la data de publicació de l'extracte d'aquesta convocatòria en el Diari Oficial de la Generalitat Valenciana (DOGV).</p><p></p><p>Sisè. Altres dades.</p><p>Amb la sol·licitud cal aportar la documentació següent: </p><p>a) Formulari de sol·licitud (annex II), s'ha d'indicar de manera expressa la persona de contacte de la UMH amb la qual es du a terme el projecte sol·licitat.</p><p>b) Còpia del CIF de l'associació o entitat o NIF en cas de persona física.</p><p>c) Memòria del projecte (annex III):</p><p>- Títol</p><p>- Objectius del projecte</p><p>- Activitat/s proposada/ades</p><p>- Mitjans materials</p><p>- Pla o cronograma de treball</p><p>- Justificació de la relació de la seua contribució a un o diversos ODS</p><p>- Continuïtat del projecte en el futur</p><p>- Pla de difusió, si és el cas</p>",
+        "url": "https://dogv.gva.es/va/resultat-dogv?signatura=2026/12303",
+        "cve": "DOGV-V-2026-12303",
+        "desDiarioOficial": "DOCV. D.O. DE LA COMUNITAT VALENCIANA",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

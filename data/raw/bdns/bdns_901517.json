@@ -1,0 +1,114 @@
+{
+  "id": "BDNS-901517",
+  "id_interno": 1103078,
+  "numero_convocatoria": "901517",
+  "organismo": "LOCAL — CONSELL COMARCAL DE TERRA ALTA — CONSELL COMARCAL DE TERRA ALTA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Convocatoria concesión ayudas a los ayuntamientos de la comarca para actuaciones de carácter cultural de la Terra Alta 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+  "regiones": "ES514 - Tarragona",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Bases reguladoras de la concesión de ayudas a los ayuntamientos de la comarca para actuaciones de carácter cultural de la Terra Alta.",
+  "url_bases_reguladoras": "https://seu-e.cat/ca/web/ccterraalta/govern-obert-i-transparencia/accio-de-govern-i-normativa/accio-de-govern-i-grups-politics/tauler-d-edictes-i-anuncis",
+  "presupuesto": "3.000,00 €",
+  "presupuesto_total_num": 3000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901517",
+  "text": "CONVOCATORIA BDNS Nº 901517\nOrganismo: LOCAL — CONSELL COMARCAL DE TERRA ALTA — CONSELL COMARCAL DE TERRA ALTA\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 3.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO\nRegiones: ES514 - Tarragona\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria concesión ayudas a los ayuntamientos de la comarca para actuaciones de carácter cultural de la Terra Alta 2026\n\nBases reguladoras:\nBases reguladoras de la concesión de ayudas a los ayuntamientos de la comarca para actuaciones de carácter cultural de la Terra Alta.\nURL bases reguladoras: https://seu-e.cat/ca/web/ccterraalta/govern-obert-i-transparencia/accio-de-govern-i-normativa/accio-de-govern-i-grups-politics/tauler-d-edictes-i-anuncis\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901517",
+  "_raw": {
+    "id": 1103078,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "CONSELL COMARCAL DE TERRA ALTA",
+      "nivel3": "CONSELL COMARCAL DE TERRA ALTA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901517",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 3000,
+    "mrr": false,
+    "descripcion": "Convocatoria concesión ayudas a los ayuntamientos de la comarca para actuaciones de carácter cultural de la Terra Alta 2026",
+    "descripcionLeng": "Convocatòria concessió d'ajuts als ajuntaments de la comarca per a actuacions de caràcter cultural de la Terra Alta 2026",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES514 - Tarragona"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Bases reguladoras de la concesión de ayudas a los ayuntamientos de la comarca para actuaciones de carácter cultural de la Terra Alta.",
+    "urlBasesReguladoras": "https://seu-e.cat/ca/web/ccterraalta/govern-obert-i-transparencia/accio-de-govern-i-normativa/accio-de-govern-i-grups-politics/tauler-d-edictes-i-anuncis",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "El dia siguiente al de su publicación en el BOPT",
+    "textFin": "15/11/2026",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442496,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "1BASES Ajuts actuacions de caire cultural_CASTELLÀ.pdf",
+        "long": 384808,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442497,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "1BASES Ajuts actuacions de caire cultural.pdf",
+        "long": 415576,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210046,
+        "titulo": "Convocatoria concesión ayudas a los ayuntamientos de la comarca para actuaciones de carácter cultural de la Terra Alta",
+        "tituloLeng": "Convocatòria concessio d'ajuts als ajuntaments de la comarca per a actuacions de caire cultural de la Terra Alta",
+        "texto": "<p>EXTRACTO</p><p> </p><p>CONSELL COMARCAL DE LA TERRA ALTA</p><p> </p><p>Convocatoria para la concesión de ayudas a los ayuntamientos de la comarca para actuaciones de grupos culturales/personas físicas de la Terra Alta para la anualidad 2026</p><p> </p><p>Extracto del contenido del acuerdo de Junta de Gobierno de 26 de febrero de 2026, por el cual se convocan ayudas para actuaciones de grupos culturales/personas físicas de la Terra Alta para la anualidad de 2026.</p><p> </p><p>Conforme con lo establecido en los artículos 17.3 y 20.8 de la Ley 38/2003, de 17 de noviembre, general de subvenciones, se publica el extracto de la convocatoria, cuyo  texto completo puede consultarse en la Base de Datos Nacional de Subvenciones (https://www.infosubvenciones.es/bdnstrans/GE/es/inicio).</p><p> </p><p>Primero. Objeto de la convocatoria</p><p>Constituye el objeto de estas Bases estructurar y fijar los criterios y el procedimiento para la concesión de ayudas para actuaciones de grupos culturales/personas físicas de la Terra Alta para la anualidad de 2026. Esta se regirá por las bases aprobadas mediante acuerdo de Junta de Govern de 26 de febrero de 2026 y publicadas en el BOPT de fecha 19 de marzo de 2026.</p><p>En la misma sesión de la Junta de Gobierno se aprobó la apertura de la convocatoria.</p><p>Estas ayudas financiarán aquellas actuaciones de grupos culturales/personas físicas  inscritas al Catálogo de actuaciones culturales de la Terra Alta que contraten los ayuntamientos de la comarca y que se lleven a cabo durante el año en que se haga la petición.</p><p> </p><p>Segunda. Destinatarios</p><p>Podrán ser solicitantes y beneficiarios de las ayudas que se regulan en estas bases:</p><p>Los ayuntamientos de la Terra Alta que programen actuaciones de grupos culturales/personas físicas de la comarca inscritas al Catálogo de actuaciones culturales de la Terra Alta.</p><p> </p><p>Tercero. Bases específicas reguladoras</p><p>Bases específicas publicadas en el Tablón de edictos electrónico del Consell Comarcal de la Terra Alta (https://tauler.seu.cat/inici.do?idens=8103790004).</p><p> </p><p>Cuarto. Importe de las ayudas</p><p>a) El importe de las subvenciones será de hasta el 25% del importe de la actuación, con un máximo de 400,00€ por actuación.</p><p>Si el importe del gasto justificado es inferior al importe que consta en el Catálogo, la ayuda será del 25% del gasto efectuado.</p><p>Las concesiones totales tendrán como límite económico el crédito disponible a la partida presupuestaria correspondiente. En el caso de que los importes a conceder superen el importe total presupuesto se prorrateará el porcentaje de ayuda a aprobar entre todas las solicitudes presentadas que reúnan los requisitos de la convocatoria.</p><p>b) El importe de las actuaciones quedará fijado en el Catálogo de actuaciones culturales de la Terra Alta que se menciona en el artículo undécimo, sin que sean computables gastos de kilometraje, desplazamiento o manutención de los grupos y de sus miembros, o de las personas actuantes a título individual, entendiendo que el Consell Comarcal sólo subvenciona el precio de la actuación o actividad que es con IVA incluido.</p><p>c) Estas subvenciones son compatibles con las ayudas de otorga la Diputación de Tarragona a los ayuntamientos por el mismo concepto, siempre que no superen el 100% del coste.</p><p> </p><p>Quinto. Plazo para presentar las solicitudes</p><p>El plazo para presentar las solicitudes finaliza el 15 de noviembre de 2026.</p><p> </p><p>Sexto. Interpretación de las Bases y resolución de cuestiones no incluidas en su articulado</p><p>La Junta de Govern del Consell Comarcal, con el dictamen previo emitido por el Àrea de Cultura que efectúa las valoraciones, es el órgano facultado para la interpretación de las Bases de convocatoria de estas ayudas y resolver aquellas cuestiones específicas no incluidas en estas.</p><p> </p>",
+        "textoLeng": "<p>EXTRACTE </p><p>CONSELL COMARCAL DE LA TERRA ALTA</p><p> </p><p>Convocatòria per a la concessió d'ajuts als ajuntaments de la comarca per a actuacions de grups culturals/persones físiques de la Terra Alta per a l’anualitat 2026</p><p> </p><p>Extracte del contingut de l’acord de Junta de Govern de 26 de febrer de 2026, pel qual es convoquen ajuts per a actuacions de grups culturals/persones físiques de la Terra Alta per a l'anualitat de 2026.</p><p> </p><p>De conformitat amb l’establert en els articles 17.3 i 20.8 de la Llei 38/2003, de 17 de novembre, general de subvencions, es publica l’extracte de la convocatòria, el text complet de la qual pot consultar-se en la Base de Dades Nacional de Subvencions (https://www.infosubvenciones.es/bdnstrans/GE/es/inicio).</p><p> </p><p>Primer. Objecte de la convocatòria</p><p>Constitueix l'objecte d'aquestes Bases estructurar i fixar els criteris i el procediment per a la concessió d’ajuts per a actuacions de grups culturals/persones físiques de la Terra Alta per a l'anualitat de 2026. Aquesta es regirà per les bases aprovades mitjançant acord de Junta de Govern de 26 de febrer de 2026 i publicades al BOPT de data 19 de març de 2026.</p><p> </p><p>En la mateixa sessió de la Junta de Govern es va aprovar l’obertura de la convocatoria.</p><p> </p><p>Aquests ajuts finançaran aquelles actuacions de grups culturals/persones físiques inscrites al Catàleg d’actuacions de caire cultural de la Terra Alta que contractin els ajuntaments de la comarca i que es portin a terme durant l’any en què es faci la petició.</p><p> </p><p>Segona. Destinataris</p><p>Podran ser sol·licitants i beneficiaris dels ajuts que es regulen en aquestes bases:</p><p> </p><p>Els ajuntaments de la Terra Alta que programin actuacions de grups culturals/persones físiques de la comarca inscrites al Catàleg d’actuacions de caire cultural de la Terra Alta.</p><p> </p><p>Tercer. Bases específiques reguladores</p><p>Bases específiques publicades en el Tauler d’edictes electrònic del Consell Comarcal de la Terra Alta (https://tauler.seu.cat/inici.do?idens=8103790004).</p><p> </p><p>Quart. Import dels ajuts</p><p>a) L'import de les subvencions serà de fins el 25% de l'import de l'actuació que consti al Catàleg, amb un màxim de 400,00 € per actuació.</p><p> </p><p>Si l’import de la despesa justificada és inferior a l’import que consta al Catàleg, l’ajut serà del 25% de la despesa efectuada.</p><p> </p><p>Les concessions totals tindran com a límit econòmic el crèdit disponible a la partida pressupostària corresponent. En el cas que els imports a concedir superin l’import total pressupostat es prorratejarà el percentatge d’ajut a aprovar entre totes les sol·licituds presentades que reuneixin els requisits de la convocatòria.</p><p> </p><p>b) L'import de les actuacions quedarà fixat en el Catàleg d’actuacions de caire cultural de la Terra Alta que s'esmenta a l'article Onzè de les Bases, sense que siguin computables despeses de quilometratge, desplaçament o manutenció dels grups i dels seus membres, o de les persones actuants a títol individual, amb el benentès que el Consell Comarcal només subvenciona el preu de l’actuació o activitat que és amb IVA inclòs.</p><p>                                                                                                                </p><p>c) Aquestes subvencions són compatibles amb els ajuts que atorga la Diputació de Tarragona als ajuntaments pel mateix concepte, sempre que no se superi el 100% del cost.</p><p> </p><p> </p><p>Cinquè. Termini per presentar les sol·licituds.</p><p>El termini per presentar les sol·licituds finalitza el 15 de novembre de 2026.</p><p> </p><p> </p><p>Sisè. Interpretació de les Bases i resolució de qüestions no incloses en el seu articulat</p><p>La Junta de Govern del Consell Comarcal, amb el dictamen previ emès per l’Àrea de Cultura que efectua les valoracions, és l’òrgan facultat per a la interpretació de les Bases de convocatòria d’aquests ajuts i resoldre aquelles qüestions específiques no incloses en aquestes.</p>",
+        "url": "https://www.dipta.cat/bopt/web/anunci/359108",
+        "cve": "2026-03711",
+        "desDiarioOficial": "B.O.P. DE TARRAGONA",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "id": "EU-51155068TOPICSen",
+  "topic_id": "51155068TOPICSen",
+  "titulo": "EdTech Accelerator",
+  "descripcion": "EdTech Accelerator",
+  "organismo": "43152860",
+  "fecha_publicacion": "2026-04-21",
+  "fecha_limite": "2026-10-01",
+  "deadlines_todas": "2026-10-01",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"114381\":[{\"action\":\"DIGITAL-2026-SKILLS-10-EDTECH - DIGITAL-CSA DIGITAL Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"12500000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]},{\"action\":\"DIGITAL-2026-SKILLS-10-NATIONAL-COALITIONS - DIGITAL-CSA DIGITAL Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"12500000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]},{\"action\":\"DIGITAL-2026-SKILLS-10-DIGITAL-HEALTH-STEP - DIGITAL-LS DIGITAL Lump Sum Grants\",\"expectedGrants\":2,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"12500000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "DIGITAL Coordination and Support Actions",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-SKILLS-10-EDTECH",
+  "text": "EU FUNDING & TENDERS – Topic: 51155068TOPICSen\nProgramme/Organism: 43152860\nTitle: EdTech Accelerator\nStatus: Open (31094502)\nType of action: DIGITAL Coordination and Support Actions\nOpening date: 2026-04-21\nDeadline: 2026-10-01\nAll deadlines: 2026-10-01\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"114381\":[{\"action\":\"DIGITAL-2026-SKILLS-10-EDTECH - DIGITAL-CSA DIGITAL Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"12500000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]},{\"action\":\"DIGITAL-2026-SKILLS-10-NATIONAL-COALITIONS - DIGITAL-CSA DIGITAL Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"12500000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]},{\"action\":\"DIGITAL-2026-SKILLS-10-DIGITAL-HEALTH-STEP - DIGITAL-LS DIGITAL Lump Sum Grants\",\"expectedGrants\":2,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"12500000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]}]}}\n\nDescription / Scope:\nEdTech Accelerator\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-SKILLS-10-EDTECH",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "51155068TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-SKILLS-10-EDTECH",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "EdTech Accelerator",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "EdTech Accelerator",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "8225EE0BD06AFB90CCE543B2C81787002BACADF1551A5B26DCA2FFE21CDA113A",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-04-01T15:44:11.496\",\"content\":\"\\u003cp\\u003eThe available budget for topic DIGITAL-2026-SKILLS-10-EDTECH is 2,700,000.00 €. The indicative number of grants is 1.\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-04-21T00:01:07.930\",\"content\":\"The submission session is now available for: DIGITAL-2026-SKILLS-10-EDTECH, DIGITAL-2026-SKILLS-10-NATIONAL-COALITIONS, DIGITAL-2026-SKILLS-10-DIGITAL-HEALTH-STEP\"}]"
+      ],
+      "es_SortDate": [
+        "2026-04-21T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "DIGITAL-2026-SKILLS-10-EDTECH",
+        "DIGITAL-2026-SKILLS-10",
+        "Communication",
+        "Curricular education activities with enterprises",
+        "Ecosystem building",
+        "Education",
+        "Education and Training",
+        "Education-enterprises partnerships",
+        "Enhancing personal skills",
+        "Identification of skills needs",
+        "Innovation",
+        "Knowledge triangle between education",
+        "Learning outcomes",
+        "New skills and competences for teachers",
+        "Personal development",
+        "Short - cycle tertiary",
+        "Technological innovation"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>Conditions</h4><div><h4>1. Admissibility conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>described in section 5 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-skills-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p></div></div><div><h4>2. Eligible countries</h4><div class=\"eui-u-mt-s\"><p>described in section 6 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-skills-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>3. Other eligibility conditions</h4><div class=\"eui-u-mt-s\"><p>described in section 6 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-skills-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in section 7 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-skills-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>5a. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>described section 8 of the<a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-skills-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\"> </a><u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-skills-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u> and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5b. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>described in section 9 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-skills-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in section 4 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-skills-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>described in section 10 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-skills-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Call document and annexes:</h4> <div class=\"eui-u-mt-s\"><p><u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/wp-call/2026/call-fiche_digital-2026-skills-10_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Call document</a></u></p><p><strong>Application form templates</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/temp-form/af/af_dep_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (DEP)</a> — the application form specific to this call is available in the Submission System</p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/digital/agr-contr/mga_dep_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">DEP MGA</a></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://digital-strategy.ec.europa.eu/en/activities/work-programmes-digital\" rel=\"noopener noreferrer\" target=\"_blank\">DEP Work Programmes</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0694\" rel=\"noopener noreferrer\" target=\"_blank\">DEP Regulation 2021/964</a> </p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a>&#xa0;</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "EdTech Accelerator"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "8225EE0BD06AFB90CCE543B2C81787002BACADF1551A5B26DCA2FFE21CDA113A"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43140990"
+      ],
+      "callIdentifier": [
+        "DIGITAL-2026-SKILLS-10"
+      ],
+      "ccm2Id": [
+        "51155068"
+      ],
+      "callccm2Id": [
+        "51155131"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "51155068TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"DIGITAL-2026-SKILLS-10\",\"criterionCode\":\"DIGITAL-CSA\",\"criterionDescription\":\"DIGITAL Coordination and Support Actions\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43818?topic\\u003dDIGITAL-2026-SKILLS-10-EDTECH\",\"startDate\":\"1776729600000\",\"endDate\":\"1790812800000\",\"mgaDescription\":\"DIGITAL Action Grant Budget-Based\",\"mgaCode\":\"DIGITAL-AG\"}]"
+      ],
+      "callTitle": [
+        "Advanced Digital Skills"
+      ],
+      "frameworkProgramme": [
+        "43152860"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Outcome:</p><p><strong><em>Deliverables:</em></strong>​​​​​​</p><ul level=\"0\"><li>Three open calls for pilots (at least one call per year) launched and managed providing financial support to third parties to at least 20 EdTech start-ups/SMEs from across Member States and eligible countries. A minimum of 60% of the total budget should be spent on Financial Support for Third Parties (FSTP) and the maximum amount per third party can amount up to 150.000 EUR to allow short pilots testing in real education or training environments;</li><li>Developed and implemented a yearly 12-months incubation and acceleration programme providing a mix of mentoring, networking services, consultancy, training and/or business and access-to-market support to the selected companies;</li><li>Short pilots implemented in real education and training environments to gather impact assessment data of the selected solutions. Human-centric design methods involving users and strong linkages with learning design methodologies are recommended for the piloting phase.</li><li>European-wide communication and awareness raising activities;</li><li>At least one big event per year organised to reach a large number of investors, market partners, ministries of education (or other ministries), education establishments, learning content providers, training providers, and other stakeholders in the field. </li> </ul><p class=\"topicdescriptionkind\">Objective:</p><p>During recent years, the education and training landscape has been significantly impacted by rapid technological advancements. Innovations like generative artificial intelligence (GenAI), robotics, or extended Reality, to name a few examples, have significant power to reshape the way we teach and learn. There is a crucial need to support the Education Technology (EdTech) sector in Europe, and in particular European start-ups and SMEs, to develop innovative solutions and technologies meeting European values in terms of <strong>ethics, inclusion, accessibility, privacy, security and strong pedagogical foundations</strong>. This is particularly crucial given the fast-developing technological landscape. This topic is expected to contribute to the nurturing of an EdTech ecosystem in Europe that drives innovation, creates jobs, and fuels economic growth, while also ensuring pedagogically driven solutions that reach clear educational outcomes. The purpose of this topic is therefore to assist European EdTech startups and SMEs in transforming concepts for educational solutions into products ready for the market. This topic will also help support the effective and ethical application of GenAI technologies to education and training, in alignment with the objectives of the GENAI4EU initiative.<i>[1]</i></p><p>This call will contribute to the Digital Education Action Plan (2021-2027) and in particular its objective to support the private actors in the digital education ecosystem. This action should also take into consideration previous work done by the Digital Education Hub Accelerator.</p><p><i>1 The ‘GenAI4EU' initiative aims to support the development of novel use cases and emerging applications in Europe's 14 industrial ecosystems, as well as the public sector. Application areas include robotics, health, biotech, manufacturing, mobility, climate and virtual worlds (</i><a href=\"http://ec.europa.eu/commission/presscorner/detail/en/ip_24_383\"><i>Commission launches AI innovation package</i></a><i>).</i></p><p class=\"topicdescriptionkind\">Scope:</p><p>The scope is to encompass the establishment of an EdTech-specific environment for nurturing and accelerating growth, providing both business guidance and access to markets for chosen startups and SMEs. Additionally, the scope involves streamlining the integration of the supported solutions into the educational and/or training landscape, which includes schools, universities, training facilities, and other informal learning environments. This integration is crucial for empowering end-users, particularly teachers/trainers and students, along with other stakeholders, in the development and application of educational solutions. Furthermore, testing of these solutions in real educational or training settings should be included for obtaining impact assessment data through short-cycle piloting.</p>"
+      ],
+      "identifier": [
+        "DIGITAL-2026-SKILLS-10-EDTECH"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43152869"
+      ],
+      "crossCuttingPriorities": [],
+      "esDA_FirstIngestDate": [
+        "2026-04-01T00:01:13.236+0200"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-10-01T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-21T00:12:19.700+0200"
+      ],
+      "typesOfAction": [
+        "DIGITAL Coordination and Support Actions"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-SKILLS-10-EDTECH"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-SKILLS-10-EDTECH"
+      ],
+      "tags": [
+        "Accelerator",
+        "Digital Education Action Plan",
+        "Digital Learning",
+        "EdTech",
+        "Financial Support",
+        "Incubation programme",
+        "Lifelong Learning",
+        "Pedagogy",
+        "SMEs",
+        "Stakeholder Engagement",
+        "Startups"
+      ],
+      "cenTagsA": [
+        "TOPICS-010522",
+        "TOPICS-010523",
+        "TOPICS-010524",
+        "TOPICS-010525",
+        "TOPICS-010526",
+        "TOPICS-010527",
+        "TOPICS-010528",
+        "TOPICS-008663",
+        "TOPICS-010529",
+        "TOPICS-010530",
+        "TOPICS-010531",
+        "TOPICS-010532",
+        "TOPICS-010533",
+        "TOPICS-010534",
+        "TOPICS-001168",
+        "TOPICS-003658",
+        "TOPICS-009477",
+        "TOPICS-003294",
+        "TOPICS-002680",
+        "TOPICS-002702",
+        "TOPICS-007332",
+        "TOPICS-007341",
+        "TOPICS-000374",
+        "TOPICS-009706",
+        "TOPICS-008326",
+        "TOPICS-004139",
+        "TOPICS-007335",
+        "TOPICS-000964",
+        "TOPICS-002700",
+        "TOPICS-000952",
+        "TOPICS-003055",
+        "TOPICS-002712"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-21T00:12:19.686+0200"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"DIGITAL-CSA DIGITAL Coordination and Support Actions\",\"typeOfMGA\":[{\"id\":43140990,\"abbreviation\":\"DIGITAL-AG\",\"description\":\"DIGITAL Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-04-21\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-10-01\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"114381\":[{\"action\":\"DIGITAL-2026-SKILLS-10-EDTECH - DIGITAL-CSA DIGITAL Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"12500000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]},{\"action\":\"DIGITAL-2026-SKILLS-10-NATIONAL-COALITIONS - DIGITAL-CSA DIGITAL Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"12500000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]},{\"action\":\"DIGITAL-2026-SKILLS-10-DIGITAL-HEALTH-STEP - DIGITAL-LS DIGITAL Lump Sum Grants\",\"expectedGrants\":2,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"12500000\"},\"plannedOpeningDate\":\"2026-04-21\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-10-01\"]}]}}"
+      ],
+      "startDate": [
+        "2026-04-21T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [
+        "SO4"
+      ],
+      "supportInfo": [
+        "<p>For help related to this call, please <u><a href=\"https://european-union.europa.eu/contact-eu/write-us_en\" rel=\"noopener noreferrer\" target=\"_blank\">Write to us.</a></u></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?order=DESC&amp;pageNumber=1&amp;pageSize=10&amp;sortBy=publicationDate&amp;isExactMatch=true&amp;type=1&amp;grantCategories=p_submission_eval\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ – Submission of proposals</a>.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> – Step-by-step online guide through the Portal processes from proposal preparation and evaluation to reporting on your ongoing project. Valid for all 2021-2027 programmes.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "EdTech Accelerator. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-2026-SKILLS-10-EDTECH",
+    "score": 3.0
+  }
+}

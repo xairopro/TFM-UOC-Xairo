@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902627",
+  "id_interno": 1104188,
+  "numero_convocatoria": "902627",
+  "organismo": "AUTONOMICA — PRINCIPADO DE ASTURIAS — CONSEJERÍA DE CULTURA, POLÍTICA LINGÜÍSTICA Y TURISMO",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Convocatoria de los Premios a la Excelencia Deportiva Categoría Absoluta de Alto Nivel y Alto Rendimiento en el ámbito del P.A. para 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades deportivas, recreativas y de entretenimiento",
+  "regiones": "ES12 - PRINCIPADO DE ASTURIAS",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Concesión de los Premios a la Excelencia Deportiva Categoría Absoluta de Alto Nivel y Alto Rendimiento en el ámbito del P.A.",
+  "url_bases_reguladoras": "https://sede.asturias.es/bopa/2021/12/02/2021-10394.pdf",
+  "presupuesto": "150.000,00 €",
+  "presupuesto_total_num": 150000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902627",
+  "text": "CONVOCATORIA BDNS Nº 902627\nOrganismo: AUTONOMICA — PRINCIPADO DE ASTURIAS — CONSEJERÍA DE CULTURA, POLÍTICA LINGÜÍSTICA Y TURISMO\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 150.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades deportivas, recreativas y de entretenimiento\nRegiones: ES12 - PRINCIPADO DE ASTURIAS\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria de los Premios a la Excelencia Deportiva Categoría Absoluta de Alto Nivel y Alto Rendimiento en el ámbito del P.A. para 2026\n\nBases reguladoras:\nConcesión de los Premios a la Excelencia Deportiva Categoría Absoluta de Alto Nivel y Alto Rendimiento en el ámbito del P.A.\nURL bases reguladoras: https://sede.asturias.es/bopa/2021/12/02/2021-10394.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902627",
+  "_raw": {
+    "id": 1104188,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "PRINCIPADO DE ASTURIAS",
+      "nivel3": "CONSEJERÍA DE CULTURA, POLÍTICA LINGÜÍSTICA Y TURISMO"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902627",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 150000,
+    "mrr": false,
+    "descripcion": "Convocatoria de los Premios a la Excelencia Deportiva Categoría Absoluta de Alto Nivel y Alto Rendimiento en el ámbito del P.A. para 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades deportivas, recreativas y de entretenimiento",
+        "codigo": "93"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES12 - PRINCIPADO DE ASTURIAS"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Concesión de los Premios a la Excelencia Deportiva Categoría Absoluta de Alto Nivel y Alto Rendimiento en el ámbito del P.A.",
+    "urlBasesReguladoras": "https://sede.asturias.es/bopa/2021/12/02/2021-10394.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "DÍA SIGUIENTE A PUBLICACIÓN EN BOPA",
+    "textFin": "20 DÍAS HÁBILES SIGUIENTES A PUBLICACIÓN BOPA",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445872,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Resolucion_convocatoria premios.pdf",
+        "long": 330046,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "id": "EU-51226098TOPICSen",
+  "topic_id": "51226098TOPICSen",
+  "titulo": "Energetic components",
+  "descripcion": "Energetic components",
+  "organismo": "44181033",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_limite": "2026-06-16",
+  "deadlines_todas": "2026-06-16",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"114367\":[{\"action\":\"EDF-EDIP-P-2026-LS-IRA-EC - EDF-LS EDF Lump Sum Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"166400000\"},\"plannedOpeningDate\":\"2026-04-30\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-06-16\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "EDF Lump Sum Grants",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EDF-EDIP-P-2026-LS-IRA-EC",
+  "text": "EU FUNDING & TENDERS – Topic: 51226098TOPICSen\nProgramme/Organism: 44181033\nTitle: Energetic components\nStatus: Open (31094502)\nType of action: EDF Lump Sum Grants\nOpening date: 2026-04-30\nDeadline: 2026-06-16\nAll deadlines: 2026-06-16\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"114367\":[{\"action\":\"EDF-EDIP-P-2026-LS-IRA-EC - EDF-LS EDF Lump Sum Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"166400000\"},\"plannedOpeningDate\":\"2026-04-30\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-06-16\"]}]}}\n\nDescription / Scope:\nEnergetic components\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EDF-EDIP-P-2026-LS-IRA-EC",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "51226098TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EDF-EDIP-P-2026-LS-IRA-EC",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Energetic components",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Energetic components",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "7987D299419BD0179050C845D6E413DE33FED77ACDED0C40B121E0EEC48D151A",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-04-30T14:08:30.806\",\"content\":\"The submission session is now available for: EDF-EDIP-P-2026-LS-IRA-EC\"}]"
+      ],
+      "es_SortDate": [
+        "2026-04-30T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "EDF-EDIP-P-2026-LS-IRA-EC",
+        "EDF-EDIP-P-2026-LS-IRA"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>Conditions</h4><div><h4>1. Admissibility conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>described in section 5 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/edf/wp-call/2026/call-fiche_edf-edip-p-2026-ls-ira_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p></div></div><div><h4>2. Eligible countries</h4><div class=\"eui-u-mt-s\"><p>described in section 6 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/edf/wp-call/2026/call-fiche_edf-edip-p-2026-ls-ira_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>3. Other eligibility conditions</h4><div class=\"eui-u-mt-s\"><p>described in section 6 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/edf/wp-call/2026/call-fiche_edf-edip-p-2026-ls-ira_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in section 7 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/edf/wp-call/2026/call-fiche_edf-edip-p-2026-ls-ira_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>5a. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>described section 8 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/edf/wp-call/2026/call-fiche_edf-edip-p-2026-ls-ira_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u> and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5b. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>described in section 9 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/edf/wp-call/2026/call-fiche_edf-edip-p-2026-ls-ira_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in section 4 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/edf/wp-call/2026/call-fiche_edf-edip-p-2026-ls-ira_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>described in section 10 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/edf/wp-call/2026/call-fiche_edf-edip-p-2026-ls-ira_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Call document and annexes:</h4> <div class=\"eui-u-mt-s\"><p><u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/edf/wp-call/2026/call-fiche_edf-edip-p-2026-ls-ira_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Call document</a></u></p><p><strong>Application form templates</strong></p><p><u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/edf/temp-form/af/af_edip-and-usi_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Application Form (EDIP and USI)</a></u></p><p><u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/edf/temp-form/af/detailed-budget-table_edip-and-usi_en.xlsm\" rel=\"noopener noreferrer\" target=\"_blank\">Detailed Budget Table (EDIP and USI LS)</a></u></p><p><u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/edf/temp-form/af/participant-information_edip-and-usi_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Participant Info (EDIP and USI)</a></u></p><p><u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/edf/temp-form/af/list-of-infrastructures-facilities-assets-and-resources_edip-and-usi_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">List of Infrastructure, facilities, assets and resources (EDIP and USI)</a></u></p><p><u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/temp-form/af/ownership-control-declaration_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Ownership Control Declaration</a></u></p><p><u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/edf/temp-form/af/procurement-strategy_edip-and-usi_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Procurement Strategy (EDIP and USI)</a></u></p><p><strong>Model Grant Agreements (MGA)</strong></p><p><u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/edf/agr-contr/ls-mga_edf-asap-edirpa-edip-and-usi_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EDF, ASAP, EDIRPA, EDIP and USI Lump Sum MGA</a></u></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://defence-industry-space.ec.europa.eu/document/download/9c5afd33-c35e-4381-9139-dd52b70ce143_en?filename=C_2026_2174_1_EN.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EDIP Work Programme</a></p><p><a href=\"https://defence-industry-space.ec.europa.eu/document/download/cdfd533e-8a69-4198-8054-69ea5ca2f04d_en?filename=OJ_L_202502643_EN_TXT.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EDIP Regulation 2025/2643</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a></p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "Energetic components"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "7987D299419BD0179050C845D6E413DE33FED77ACDED0C40B121E0EEC48D151A"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "45095551"
+      ],
+      "callIdentifier": [
+        "EDF-EDIP-P-2026-LS-IRA"
+      ],
+      "ccm2Id": [
+        "51226098"
+      ],
+      "callccm2Id": [
+        "51226109"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "51226098TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"EDF-EDIP-P-2026-LS-IRA\",\"criterionCode\":\"EDF-LS\",\"criterionDescription\":\"EDF Lump Sum Grants\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43952?topic\\u003dEDF-EDIP-P-2026-LS-IRA-EC\",\"startDate\":\"1777507200000\",\"endDate\":\"1781568000000\",\"mgaDescription\":\"EDF Lump Sum Grant\",\"mgaCode\":\"EDF-AG-LS\"}]"
+      ],
+      "callTitle": [
+        "1st call for proposals for industrial reinforcement actions under the Programme"
+      ],
+      "frameworkProgramme": [
+        "44181033"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Impact:</p><p>Projects are expected to deliver results aligned with the expected results set out below and to evidence their contribution through dedicated KPIs defined in the proposal. Expected results include:</p><p>• tangible capacity increases in EU-based production of the targeted energetic components, with demonstrated contribution to <strong>competitiveness</strong>;</p><p>• improved <strong>resilience &amp; geographical distribution</strong> of supply, reducing single points of failure for energetic materials and related industrial services;</p><p>• strengthened <strong>availability and security of supply </strong>for priority defence product production lines, commensurate with identified risks and exposure to the risk of materialisation of conventional military threats;</p><p>• and measurable <strong>lead-time reductions</strong>, establishment or availability of<strong> reserved capacity</strong> where applicable, and <strong>workforce trained </strong>to operate and sustain the reinforced production lines.</p><p>Proposals shall define, baseline and track KPIs such as added throughput (e.g., tonnes/month of propellant powder or explosives; units/month of propulsion systems/warheads; filling lines output), time-to-rate, lead-time reduction, yield/quality improvements, qualified output delivered, reserved capacity parameters, numbers of staff trained, and indicators evidencing risk mitigation (e.g., raw-material securing measures, safety performance and compliance readiness, supply-chain robustness and obsolescence management outcomes).</p><p>Where implemented, the <strong>physical and cyber protection WP</strong> is expected to deliver measurable improvements in site and production security, evidenced through threat assessment protected sites to support the security measures and KPIs (e.g., coverage of protected areas/assets, detection/alert performance, response readiness, critical vulnerabilities mitigated). Those KPIs shall be linked to the project’s overall risk register and show how risk exposure is reduced and how production continuity is improved, thereby limiting the likelihood and/or impact of incidents that could delay production ramp-up or affect output and delivery reliability (including, where relevant, the availability of reserved capacity and the achievement of workforce-related milestones).</p><p class=\"topicdescriptionkind\">Objective:</p><p>The objective of this call is to reinforce the EU industrial production capacity of defence products, including their components and corresponding raw materials.</p><p>This topic aims to strengthen the competitiveness, responsiveness and ability of the EDTIB to reinforce EU industrial production capacity for energetic components (including their components and corresponding raw materials insofar as they are intended or used wholly for the production of defence products) that constitute critical bottlenecks for key defence product across land, air, naval and underwater domains: </p><p>• rockets, aerial bombs, mines and loitering munition; </p><p>• missiles; </p><p>• tank, artillery and counter-unmanned systems (UxS) ammunition; </p><p>• small-calibre cartridges (including ammunition and devices for dismounted soldiers). </p><p>Actions shall be aligned with the objectives, scope and priorities of this call topic and shall contribute to the competitiveness of the EU defence technological and industrial base by securing specific production capacity for: </p><p>• <strong>propellant powder</strong> (including nitrocellulose, single, double &amp; triple-base powder, and modular charge); </p><p>• <strong>explosives</strong> (including nitroglycerine, TNT, RDX, HMX, PETN, NTO, primers/fuses); </p><p>•<strong> propulsion systems</strong>; </p><p>• <strong>warheads and electronic fuze</strong>; </p><p>• <strong>filling plants</strong>; </p><p>• <strong>and access to relevant raw materials</strong>. </p><p>As industrial reinforcement actions, proposals shall integrate a robust approach to managing key risks (including safety, supply-chain and obsolescence, life-cycle and maintainability, and industrialisation) and shall, where relevant, take into account the necessity to include provisions allowing to upgrade quickly the targeted defence product based on the evolving lessons identified from the battlefield. </p><p>Applicants may include an optional dedicated Work Package (WP) implementing a supporting action as defined in Article 13(d) of Regulation (EU) 2025/2643, <strong>to reinforce the physical and cyber protection of the production capacity targeted by the action, including on security against UxS/drone-enabled threats</strong>. The objective is to reduce the risk of disruption, sabotage or interference affecting production continuity, ramp-up and deliveries, complementing the proposal’s overall risk-management approach (notably safety, supply-chain and obsolescence, industrialisation/integration, and maintainability risks) and supporting the achievement of the industrial KPIs set for lead time and capacity.</p><p class=\"topicdescriptionkind\">Scope:</p><p>Proposals shall implement Industrial Reinforcement Actions, in line with Regulation (EU) SENSITIVE EN 11 EN 2025/2643, targeting the specific defence product and production capacities listed under “Objectives pursued”.</p><p>Proposals shall demonstrate the <strong>criticality of the targeted defence product and associated production capacity</strong>, and justify the urgency of reinforcing availability and security of supply through the proposed industrial reinforcement activities.</p><p>Proposals shall set out an industrial reinforcement plan supported by a <strong>risk-management approach</strong> that addresses the identified risks and the measures to ensure availability and security of supply, including risks specific to energetic materials (e.g. process safety, hazardous materials handling, permits, and upstream precursor availability).</p><p>Activities linked to the <strong>physical and cyber protection WP</strong> may include expert threat assessment, procurement, installation and initial integration of proportionate solutions as well as efforts to connect to a national or European security system for: (i) counter-UxS site protection measures (detection/alerting and other authorised protective measures), and/or (ii) cyber protection measures of production-relevant networks and systems (including monitoring, hardening and secure access) which includes obtaining the European Union Cybersecurity Certification (EUCC) schemes for products used in the IRA activity, as well as acceptance testing and operational set-up necessary for effective deployment, in order to work towards compliance with the NIS2 Directive, where applicable, and alignment with standards such as ISO/IEC 27001 and IEC 62443.</p><p>Where implemented, the <strong>physical and cyber protection </strong>WP shall clearly specify the protected assets, threat assessment for the to be protected sites to support the security measures, interfaces with production continuity and KPIs, explain how these measures reduce risks that could otherwise impact the delivery of the proposal’s core industrial results (e.g., lead-time reduction, throughput/capacity increase, reserved capacity where applicable, and workforce readiness) and present efforts to link the respective site’s security system with a national and/or European security system.</p><p>Actions shall not have started before 5 March 2024 and shall not have been completed before the signature of the Grant Agreement (GA). The duration and the starting date of the action will be set out in the GA. The action shall have an indicative duration of three to five years; in any event, it shall be completed no later than 31 December 2033.</p><p><strong>Budget </strong></p><p>The Commission is considering a total budget of EUR 166 400 000 for the call for proposals. </p><p>The maximum EU contribution per funded project will not exceed EUR 30 000 000 allowing several proposals to be funded. </p><p>The Commission is considering supporting specifically any optional work packages dedicated to the reinforcement of the physical and cyber protection of the industrial capacity targeted by the action, with a maximum EU contribution of EUR 500 000 per funded project. </p><p>Depending on the number and quality of received proposals and the requested Union financial contributions, the Commission may decide to reallocate budget between calls. </p><p><strong>Minimum financial size of the actions</strong> </p><p>The minimum financial size of the action to be eligible for funding is EUR 2 000 000. </p><p><strong>Maximum number of legal entities forming part of the consortium </strong></p><p>The number of legal entities forming part of the consortium shall not exceed 15 as per Article 21(3)(c) of the Regulation (EU) 2025/2643.</p>"
+      ],
+      "identifier": [
+        "EDF-EDIP-P-2026-LS-IRA-EC"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "44181033"
+      ],
+      "crossCuttingPriorities": [],
+      "esDA_FirstIngestDate": [
+        "2026-03-31T00:01:23.577+0200"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-06-16T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-30T14:09:23.300+0200"
+      ],
+      "typesOfAction": [
+        "EDF Lump Sum Grants"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EDF-EDIP-P-2026-LS-IRA-EC"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EDF-EDIP-P-2026-LS-IRA-EC"
+      ],
+      "tags": [],
+      "esDA_QueueDate": [
+        "2026-04-30T14:09:23.286+0200"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"EDF-LS EDF Lump Sum Grants\",\"typeOfMGA\":[{\"id\":45095551,\"abbreviation\":\"EDF-AG-LS\",\"description\":\"EDF Lump Sum Grant\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-04-30\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-06-16\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"114367\":[{\"action\":\"EDF-EDIP-P-2026-LS-IRA-EC - EDF-LS EDF Lump Sum Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"166400000\"},\"plannedOpeningDate\":\"2026-04-30\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-06-16\"]}]}}"
+      ],
+      "startDate": [
+        "2026-04-30T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p>For help related to this call, please contact <a href=\"mailto:DEFIS-EDIP-PROPOSALS@ec.europa.eu\" rel=\"noopener noreferrer\" target=\"_blank\">DEFIS-EDIP-PROPOSALS@ec.europa.eu</a></p><p><a href=\"https://defence-industry-space.ec.europa.eu/eu-defence-industry/edip-forging-europes-defence_en\" rel=\"noopener noreferrer\" target=\"_blank\">Useful resources and documents</a>, such as guidance and video tutorials on call contents and proposal preparation</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?order=DESC&amp;pageNumber=1&amp;pageSize=10&amp;sortBy=publicationDate&amp;isExactMatch=true&amp;type=1&amp;grantCategories=p_submission_eval\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ – Submission of proposals</a>.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> – Step-by-step online guide through the Portal processes from proposal preparation and evaluation to reporting on your ongoing project. Valid for all 2021-2027 programmes.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Energetic components. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EDF-EDIP-P-2026-LS-IRA-EC",
+    "score": 3.0
+  }
+}

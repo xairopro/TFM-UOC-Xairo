@@ -1,0 +1,158 @@
+{
+  "id": "BDNS-902578",
+  "id_interno": 1104139,
+  "numero_convocatoria": "902578",
+  "organismo": "LOCAL — VALL D'UIXÓ, LA — AYUNTAMIENTO DE VALL D'UIXÓ, LA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Conceción de subvenciones en régimen de concurrencia competitiva destinada a entidades culturales locales",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+  "regiones": "ES522 - Castellón / Castelló",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "ORDENANZA REGULADORA DEL OTORGAMIENTO DE SUBVENCIONES Y AYUDAS PARA ACTIVIDADES EN DIVERSOS ÁMBITOS DE LA VALL D’UIXÓ",
+  "url_bases_reguladoras": "https://www.lavallduixo.es/sites/L01121264/files/2023-07/ORDENANZA%20DEL%20OTORGAMIENTO%20DE%20SUBVENCIONES%20_0.pdf",
+  "presupuesto": "23.000,00 €",
+  "presupuesto_total_num": 23000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902578",
+  "text": "CONVOCATORIA BDNS Nº 902578\nOrganismo: LOCAL — VALL D'UIXÓ, LA — AYUNTAMIENTO DE VALL D'UIXÓ, LA\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 23.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de bibliotecas, archivos, museos y otras actividades culturales\nRegiones: ES522 - Castellón / Castelló\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConceción de subvenciones en régimen de concurrencia competitiva destinada a entidades culturales locales\n\nBases reguladoras:\nORDENANZA REGULADORA DEL OTORGAMIENTO DE SUBVENCIONES Y AYUDAS PARA ACTIVIDADES EN DIVERSOS ÁMBITOS DE LA VALL D’UIXÓ\nURL bases reguladoras: https://www.lavallduixo.es/sites/L01121264/files/2023-07/ORDENANZA%20DEL%20OTORGAMIENTO%20DE%20SUBVENCIONES%20_0.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902578",
+  "_raw": {
+    "id": 1104139,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "VALL D'UIXÓ, LA",
+      "nivel3": "AYUNTAMIENTO DE VALL D'UIXÓ, LA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902578",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 23000,
+    "mrr": false,
+    "descripcion": "Conceción de subvenciones en régimen de concurrencia competitiva destinada a entidades culturales locales",
+    "descripcionLeng": "Concessió de subvencions en règim de concorrència competitiva destinades a entitats culturals locals",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+        "codigo": "91"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES522 - Castellón / Castelló"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "ORDENANZA REGULADORA DEL OTORGAMIENTO DE SUBVENCIONES Y AYUDAS PARA ACTIVIDADES EN DIVERSOS ÁMBITOS DE LA VALL D’UIXÓ",
+    "urlBasesReguladoras": "https://www.lavallduixo.es/sites/L01121264/files/2023-07/ORDENANZA%20DEL%20OTORGAMIENTO%20DE%20SUBVENCIONES%20_0.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Al día siguiente de la publicación en el Boletín Oficial de la Província",
+    "textFin": "20 días a contar desde el día siguiente a la publicación en el Boletín Oficial de la Província",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445744,
+        "descripcion": "ANNEX_IV_PRESSUPOST INGRESSOS_I_DESPESES (amor a les arts).pdf",
+        "nombreFic": "ANNEX_IV_PRESSUPOST INGRESSOS_I_DESPESES (amor a les arts).pdf.PDF",
+        "long": 116602,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445745,
+        "descripcion": "AUTOBAREMACIÓN.pdf",
+        "nombreFic": "AUTOBAREMACIÓN.pdf.PDF",
+        "long": 178757,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445746,
+        "descripcion": "ANNEX_VI_JUSTIFICACIO MEMORIA (amor a les arts).pdf",
+        "nombreFic": "ANNEX_VI_JUSTIFICACIO MEMORIA (amor a les arts).pdf.PDF",
+        "long": 248530,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445747,
+        "descripcion": "ANNEX_VII_JUSTIFICACIO (amor a les arts).pdf",
+        "nombreFic": "ANNEX_VII_JUSTIFICACIO (amor a les arts).pdf.PDF",
+        "long": 307496,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445743,
+        "descripcion": "ANNEX_III_PROJECTE-MEMORIA ACTIVITAT (amor a les arts) CORREGIR FORMATO.pdf",
+        "nombreFic": "ANNEX_III_PROJECTE-MEMORIA ACTIVITAT (amor a les arts) CORREGIR FORMATO.pdf.PDF",
+        "long": 80378,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445740,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "Convocatòria en valencià.PDF",
+        "long": 261321,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445741,
+        "descripcion": "Anexo I",
+        "nombreFic": "Anexo I.PDF",
+        "long": 133095,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445742,
+        "descripcion": "ANNEX_II_CERTIFICAT_SECRETARI (amor a les arts).pdf",
+        "nombreFic": "ANNEX_II_CERTIFICAT_SECRETARI (amor a les arts).pdf.PDF",
+        "long": 78507,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445739,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Convocatòria en castellá.PDF",
+        "long": 262159,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

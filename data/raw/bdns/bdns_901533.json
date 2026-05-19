@@ -1,0 +1,114 @@
+{
+  "id": "BDNS-901533",
+  "id_interno": 1103094,
+  "numero_convocatoria": "901533",
+  "organismo": "OTROS — UNIVERSITAT DE VALÈNCIA (ESTUDI GENERAL)",
+  "sede_electronica": "https://webges.uv.es/uvEntreuWeb/#/login?idform=EXPSOLP2U&idgrupo",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "2026-05-01",
+  "fecha_fin_solicitud": "2026-05-27",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "VIII Edición del Concurso de Pintura y Narrativa rápidas Inspirats pel Botànic",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades auxiliares a la educación",
+  "regiones": "XXXX - TODO EL MUNDO",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Resolución de 23 de abril de 2026 del Vicerrectorado de Cultura, Deportes y Vínculo Social de la Universitat de València, por la cual se convoca la VIII Edición del Concurso de Pintura y Narrativa rápidas Inspirats pel Botànic",
+  "url_bases_reguladoras": "https://webges.uv.es/uvTaeWeb/DescargarAnuncio.do?codigo=ANUNCIO-C43-2026-2403",
+  "presupuesto": "2.700,00 €",
+  "presupuesto_total_num": 2700,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901533",
+  "text": "CONVOCATORIA BDNS Nº 901533\nOrganismo: OTROS — UNIVERSITAT DE VALÈNCIA (ESTUDI GENERAL)\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud: 2026-05-01 → 2026-05-27 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 2.700,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades auxiliares a la educación\nRegiones: XXXX - TODO EL MUNDO\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nVIII Edición del Concurso de Pintura y Narrativa rápidas Inspirats pel Botànic\n\nBases reguladoras:\nResolución de 23 de abril de 2026 del Vicerrectorado de Cultura, Deportes y Vínculo Social de la Universitat de València, por la cual se convoca la VIII Edición del Concurso de Pintura y Narrativa rápidas Inspirats pel Botànic\nURL bases reguladoras: https://webges.uv.es/uvTaeWeb/DescargarAnuncio.do?codigo=ANUNCIO-C43-2026-2403\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901533",
+  "_raw": {
+    "id": 1103094,
+    "organo": {
+      "nivel1": "OTROS",
+      "nivel2": "UNIVERSITAT DE VALÈNCIA (ESTUDI GENERAL)",
+      "nivel3": null
+    },
+    "sedeElectronica": "https://webges.uv.es/uvEntreuWeb/#/login?idform=EXPSOLP2U&idgrupo",
+    "codigoBDNS": "901533",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 2700,
+    "mrr": false,
+    "descripcion": "VIII Edición del Concurso de Pintura y Narrativa rápidas Inspirats pel Botànic",
+    "descripcionLeng": "VIII Edició del Concurs de Pintura i Narrativa ràpides Inspirats pel Botànic",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades auxiliares a la educación",
+        "codigo": "85.6"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "XXXX - TODO EL MUNDO"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Resolución de 23 de abril de 2026 del Vicerrectorado de Cultura, Deportes y Vínculo Social de la Universitat de València, por la cual se convoca la VIII Edición del Concurso de Pintura y Narrativa rápidas Inspirats pel Botànic",
+    "urlBasesReguladoras": "https://webges.uv.es/uvTaeWeb/DescargarAnuncio.do?codigo=ANUNCIO-C43-2026-2403",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-05-01",
+    "fechaFinSolicitud": "2026-05-27",
+    "textInicio": "Inicia el 1 de mayo de 2026",
+    "textFin": "Finaliza el 27 de mayo de 2026 a las 12h.",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442540,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "resol.-conv.-cast.pdf",
+        "long": 170407,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442541,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "resol.-conv.-val.pdf",
+        "long": 284983,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210052,
+        "titulo": "Extracto de la Resolución de 23 de abril de 2026 del Vicerrectorado de Cultura, Deportes y Vínculo Social de la Universitat de València, por la cual se convoca la VIII Edición del Concurso de Pintura y Narrativa rápidas Inspirats pel Botànic",
+        "tituloLeng": "Extracte de la Resolució de 23 d’abril de 2026 del Vicerectorat de Cultura, Esports i Vincle Social de la Universitat de València, per la qual es convoca la VIII Edició del Concurs de Pintura i Narrativa Ràpides Inspirats pel Botànic",
+        "texto": "<p>Primero. Beneficiarios:\n</p><p>Personas mayores de 16 años, independientemente de su nacionalidad o lugar de residencia.\n</p><p>\n</p><p>Segundo. Objeto:\n</p><p>El objeto de esta convocatoria es premiar y promover la creación de obra de pintura y narrativa inspirada en el Jardín Botánico de la Universitat de València, sus colecciones y su entorno.\n</p><p>\n</p><p>Tercero. Bases reguladoras:\n</p><p>Las bases reguladoras y la convocatoria están publicadas en la siguiente Url: https://webges.uv.es/uvTaeWeb/DescargarAnuncio.do?codigo=ANUNCIO-C43-2026-2403\n</p><p>\n</p><p>Cuarto. Cuantía:\n</p><p>Se otorgarán los siguientes premios:  \n</p><p>PINTURA\n</p><p>PRIMER PREMIO: 1000 € y diploma \n</p><p>SEGUNDO PREMIO: 600 € y diploma \n</p><p>ACCÉSSIT (OPCIONAL): 200 €\n</p><p>\n</p><p>NARRATIVA\n</p><p>PRIMER PREMIO: 500 € y diploma \n</p><p>SEGUNDO PREMIO: 300 € y diploma\n</p><p>ACCÉSSIT (OPCIONAL): 100 €\n</p><p>\n</p><p>En la liquidación de estas dotaciones económicas se practicarán las retenciones o ingresos a cuenta que pudieran corresponder.\n</p><p>Los premios podrán declararse desiertos o limitarse de acuerdo con la calidad de los trabajos\n</p><p>\n</p><p>Quinto. Plazo de presentación de solicitudes:\n</p><p>El plazo de presentación de solicitudes se iniciará el 1 de mayo de 2026 y finalizará el 27 de mayo de 2026 a las 12h.\n</p><p>\n</p>",
+        "textoLeng": "<p>Primer. Beneficiaris:\n</p><p>Persones majors de 16 anys, independentment de la seua nacionalitat o lloc de residència.\n</p><p>\n</p><p>Segon. Objecte:\n</p><p>L’objecte d’aquesta convocatòria és premiar i promoure la creació d’obra de pintura i narrativa inspirada al Jardí Botànic de la Universitat de València, les seues col·leccions i el seu entorn.\n</p><p>\n</p><p>Tercer. Bases reguladores:\n</p><p>Les bases reguladores i la convocatòria estan publicades en la següent URL: https://webges.uv.es/uvTaeWeb/DescargarAnuncio.do?codigo=ANUNCIO-C43-2026-2403\n</p><p>\n</p><p>Quarta. Quantia:\n</p><p>S’otorgaran els següents premis: \n</p><p>PINTURA\n</p><p>PRIMER PREMI: 1.000 € i diploma \n</p><p>SEGON PREMI: 600 € i diploma \n</p><p>ACCÈSSIT (OPCIONAL): 200 €\n</p><p>\n</p><p>NARRATIVA\n</p><p>PRIMER PREMI: 500 € i diploma \n</p><p>SEGON PREMI: 300 € i diploma\n</p><p>ACCÈSSIT (OPCIONAL): 100 €\n</p><p>\n</p><p>En la liquidació d'aquestes dotacions econòmiques es practicaran les retencions o ingressos a compte que puguen correspondre. \n</p><p>Els premis poden declarar-se deserts o limitar-se d'acord amb la qualitat dels treballs”\n</p><p>\n</p><p>Cinquè. Termini de presentació de sol·licituds:\n</p><p>El termini per a la presentació de sol·licituds comença l’1 de maig de 2026 i finalitza el 27 de maig de 2026, a les 12 h.\n</p>",
+        "url": "https://dogv.gva.es/va/resultat-dogv?signatura=2026/12181",
+        "cve": "DOGV-V-2026-12181",
+        "desDiarioOficial": "DOCV. D.O. DE LA COMUNITAT VALENCIANA",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

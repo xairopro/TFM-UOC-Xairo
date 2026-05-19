@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-902477",
+  "id_interno": 1104038,
+  "numero_convocatoria": "902477",
+  "organismo": "LOCAL — CONSELL COMARCAL DE GARRAF — CONSELL COMARCAL DE GARRAF",
+  "sede_electronica": "www.ccgarraf.cat",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": true,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Concesión de ayudas de comedor escolar dirigidas al alumnado de enseñanza obligatoria y de segundo ciclo de educación infantil\nescolarizados en centros educativos sufragados con fondos públicos para el curso escolar 2026-2027",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "EDUCACIÓN",
+  "regiones": "ES511 - Barcelona",
+  "finalidad": "Educación",
+  "bases_reguladoras": "Bases concesión de ayudas de comedor escolar dirigidas al alumnado de enseñanza obligatoria y de segundo ciclo de educación\ninfantil escolarizados en centros educativos sufragados con fondos públicos para el curso escolar 2026-2027",
+  "url_bases_reguladoras": "www.ccgarraf.cat",
+  "presupuesto": "3.442.918,43 €",
+  "presupuesto_total_num": 3442918.43,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902477",
+  "text": "CONVOCATORIA BDNS Nº 902477\nOrganismo: LOCAL — CONSELL COMARCAL DE GARRAF — CONSELL COMARCAL DE GARRAF\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: sí)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 3.442.918,43 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: EDUCACIÓN\nRegiones: ES511 - Barcelona\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConcesión de ayudas de comedor escolar dirigidas al alumnado de enseñanza obligatoria y de segundo ciclo de educación infantil\nescolarizados en centros educativos sufragados con fondos públicos para el curso escolar 2026-2027\n\nBases reguladoras:\nBases concesión de ayudas de comedor escolar dirigidas al alumnado de enseñanza obligatoria y de segundo ciclo de educación\ninfantil escolarizados en centros educativos sufragados con fondos públicos para el curso escolar 2026-2027\nURL bases reguladoras: www.ccgarraf.cat\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902477",
+  "_raw": {
+    "id": 1104038,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "CONSELL COMARCAL DE GARRAF",
+      "nivel3": "CONSELL COMARCAL DE GARRAF"
+    },
+    "sedeElectronica": "www.ccgarraf.cat",
+    "codigoBDNS": "902477",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 3442918.43,
+    "mrr": false,
+    "descripcion": "Concesión de ayudas de comedor escolar dirigidas al alumnado de enseñanza obligatoria y de segundo ciclo de educación infantil\nescolarizados en centros educativos sufragados con fondos públicos para el curso escolar 2026-2027",
+    "descripcionLeng": "Concessió d’ajuts de menjador escolar adreçats a l’alumnat d’ensenyaments obligatoris i de segon cicle d’educació infantil escolaritzats\nen centres educatius sufragats amb fons públics per al curs escolar 2026-2027\n",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES511 - Barcelona"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "Bases concesión de ayudas de comedor escolar dirigidas al alumnado de enseñanza obligatoria y de segundo ciclo de educación\ninfantil escolarizados en centros educativos sufragados con fondos públicos para el curso escolar 2026-2027",
+    "urlBasesReguladoras": "www.ccgarraf.cat",
+    "sePublicaDiarioOficial": true,
+    "abierto": true,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "04/05/2026",
+    "textFin": "19/05/2026",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445461,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "DECRET convocatòria ajuts menjador 2026-2027 català.pdf",
+        "long": 217406,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445460,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Propuesta de Decreto de presidencia 000128-2026.pdf",
+        "long": 159327,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

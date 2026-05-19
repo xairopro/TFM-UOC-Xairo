@@ -1,0 +1,136 @@
+{
+  "id": "EU-186548PROSPECTSEN",
+  "topic_id": "186548PROSPECTSEN",
+  "titulo": "Togo - Appel à propositions 2026 - Programmes thématiques Droits de l’Homme et Société civile",
+  "descripcion": "Togo - Appel à propositions 2026 - Programmes thématiques Droits de l’Homme et Société civile",
+  "organismo": "111111",
+  "fecha_publicacion": "2026-04-03",
+  "fecha_limite": "2026-05-26",
+  "deadlines_todas": "2026-05-26",
+  "presupuesto": "3212999",
+  "duracion": "",
+  "tipo_accion": "",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186548",
+  "text": "EU FUNDING & TENDERS – Topic: 186548PROSPECTSEN\nProgramme/Organism: 111111\nTitle: Togo - Appel à propositions 2026 - Programmes thématiques Droits de l’Homme et Société civile\nStatus: Open (31094502)\nType of action: \nOpening date: 2026-04-03\nDeadline: 2026-05-26\nAll deadlines: 2026-05-26\nDuration: \nBudget overview: 3212999\n\nDescription / Scope:\nTogo - Appel à propositions 2026 - Programmes thématiques Droits de l’Homme et Société civile\n\nMore info: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186548",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "186548PROSPECTSEN",
+    "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186548",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Togo - Appel à propositions 2026 - Programmes thématiques Droits de l’Homme et Société civile",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Togo - Appel à propositions 2026 - Programmes thématiques Droits de l’Homme et Société civile",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "3FD65B450DE6FA492AF79D1926978B44E959E2355A1FB65D453BFCFAE482999B",
+    "metadata": {
+      "updateDate": [
+        "2026-04-30T17:55:40.000+0000"
+      ],
+      "es_SortDate": [
+        "2026-04-03T10:00:27.000+0000"
+      ],
+      "beneficiaryAdministration": [],
+      "sortStatus": [
+        "1"
+      ],
+      "contractType": [
+        "42893160"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Togo - Appel à propositions 2026 - Programmes thématiques Droits de l’Homme et Société civile"
+      ],
+      "type": [
+        "2"
+      ],
+      "esST_checksum": [
+        "3FD65B450DE6FA492AF79D1926978B44E959E2355A1FB65D453BFCFAE482999B"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "callIdentifier": [
+        "186548"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "186548PROSPECTSEN"
+      ],
+      "currency": [
+        "EUR"
+      ],
+      "frameworkProgramme": [
+        "111111"
+      ],
+      "budget": [
+        "3212999"
+      ],
+      "identifier": [
+        "EuropeAid/186548/DD/ACT/Multi"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "geographicalZones": [
+        "31085496"
+      ],
+      "publicationDocuments": [
+        "[{\"nameDoc\":\"Séance d'information - Réponses UE - Questions\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-30 21:00:23.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163415&lang=EN\"},{\"nameDoc\":\"Séance d'information - Présentation AàP 2026\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-30 21:00:11.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163414&lang=EN\"},{\"nameDoc\":\"Lignes Directrices (appel restreint)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-03 12:00:06.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163390&lang=EN\"},{\"nameDoc\":\"Formulaire de demande Note succincte (appel restraint)\",\"typeDoc\":\"rtf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-03 12:00:08.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163394&lang=EN\"},{\"nameDoc\":\"Formulaire de demande complète (appel restraint)\",\"typeDoc\":\"rtf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-03 12:00:34.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163379&lang=EN\"},{\"nameDoc\":\"Annex B - Budget\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-03 12:00:48.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163384&lang=EN\"},{\"nameDoc\":\"Annex C - Logical framework\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-03 12:00:46.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163386&lang=EN\"},{\"nameDoc\":\"Annex D - Identification Form (private or public with legal form)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-03 12:00:24.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163388&lang=EN\"},{\"nameDoc\":\"Annex F - PADOR offline registration form\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-03 12:00:46.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163385&lang=EN\"},{\"nameDoc\":\"Annex G - Standard grant contract\",\"typeDoc\":\"zip\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-03 12:00:40.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163389&lang=EN\"},{\"nameDoc\":\"Annex H - Declaration of honour on exclusion and selection criteria\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-03 12:00:41.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163383&lang=EN\"},{\"nameDoc\":\"Annex K - Clarifications on financing not linked to costs\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-03 12:00:17.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163380&lang=EN\"},{\"nameDoc\":\"Annex J - Information on the tax regime applicable to grant contracts\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-03 12:00:33.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163391&lang=EN\"},{\"nameDoc\":\"Appendix - Derogations international organisations\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-03 12:00:19.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163382&lang=EN\"},{\"nameDoc\":\"Annex L - Self-evaluation questionnaire on SEA-H\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-03 12:00:15.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163378&lang=EN\"},{\"nameDoc\":\"e-Calls PADOR privacy statement\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-03 12:00:10.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163393&lang=EN\"},{\"nameDoc\":\"Séance d'information - Réponses UE - Questions\",\"typeDoc\":\"pdf\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-30 21:00:23.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163415&lang=FR\"},{\"nameDoc\":\"Séance d'information - Présentation AàP 2026\",\"typeDoc\":\"pdf\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-30 21:00:11.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163414&lang=FR\"},{\"nameDoc\":\"Annex I - Perdiem rates\",\"typeDoc\":\"pdf\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-03 12:00:02.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163387&lang=FR\"},{\"nameDoc\":\"Lignes Directrices (appel restreint)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-03 12:00:06.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163390&lang=FR\"},{\"nameDoc\":\"Formulaire de demande Note succincte (appel restraint)\",\"typeDoc\":\"rtf\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-03 12:00:08.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163394&lang=FR\"},{\"nameDoc\":\"Formulaire de demande complète (appel restraint)\",\"typeDoc\":\"rtf\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-03 12:00:34.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163379&lang=FR\"},{\"nameDoc\":\"Annex B - Budget\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-03 12:00:48.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163384&lang=FR\"},{\"nameDoc\":\"Annex C - Logical framework\",\"typeDoc\":\"docx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-03 12:00:46.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163386&lang=FR\"},{\"nameDoc\":\"Annex D - Identification form (public law body) (fr)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-03 12:00:57.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163392&lang=FR\"},{\"nameDoc\":\"Annex D - Identification Form (private or public with legal form)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-03 12:00:24.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163388&lang=FR\"},{\"nameDoc\":\"Annex D - Identification form (natural person) (fr)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-03 12:00:50.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163381&lang=FR\"},{\"nameDoc\":\"Annex F - PADOR offline registration form\",\"typeDoc\":\"pdf\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-03 12:00:46.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163385&lang=FR\"},{\"nameDoc\":\"Annex G - Standard grant contract\",\"typeDoc\":\"zip\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-03 12:00:40.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163389&lang=FR\"},{\"nameDoc\":\"Annex H - Declaration of honour on exclusion and selection criteria\",\"typeDoc\":\"docx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-03 12:00:41.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163383&lang=FR\"},{\"nameDoc\":\"Annex K - Clarifications on financing not linked to costs\",\"typeDoc\":\"docx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-03 12:00:17.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163380&lang=FR\"},{\"nameDoc\":\"Annex J - Information on the tax regime applicable to grant contracts\",\"typeDoc\":\"docx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-03 12:00:33.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163391&lang=FR\"},{\"nameDoc\":\"Appendix - Derogations international organisations\",\"typeDoc\":\"docx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-03 12:00:19.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163382&lang=FR\"},{\"nameDoc\":\"Annex L - Self-evaluation questionnaire on SEA-H\",\"typeDoc\":\"docx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-03 12:00:15.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163378&lang=FR\"},{\"nameDoc\":\"e-Calls PADOR privacy statement\",\"typeDoc\":\"docx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-03 12:00:10.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2163393&lang=FR\"}]"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-04-03T12:01:00.790+0200"
+      ],
+      "programmePeriod": [
+        "2014 - 2020",
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-05-26T10:00:13.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-30T21:01:05.417+0200"
+      ],
+      "url": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186548"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186548"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-30T21:01:05.402+0200"
+      ],
+      "programmeDivisionProspect": [
+        "43072409"
+      ],
+      "geographicalZone": [
+        "31085496"
+      ],
+      "startDate": [
+        "2026-04-03T10:00:27.000+0000"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Togo - Appel à propositions 2026 - Programmes thématiques Droits de l’Homme et Société civile. Available at: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186548",
+    "score": 3.0
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": "EU-50074515TOPICSen",
+  "topic_id": "50074515TOPICSen",
+  "titulo": "EIC 2026 Pathfinder Open",
+  "descripcion": "EIC 2026 Pathfinder Open",
+  "organismo": "43108390",
+  "fecha_publicacion": "2026-02-05",
+  "fecha_limite": "2026-05-12",
+  "deadlines_todas": "2026-05-12",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"112745\":[{\"action\":\"HORIZON-EIC-2026-PATHFINDEROPEN - HORIZON-EIC HORIZON EIC Grants\",\"expectedGrants\":50,\"minContribution\":1000000,\"maxContribution\":4000000,\"budgetYearMap\":{\"2026\":\"166039670\"},\"plannedOpeningDate\":\"2026-02-05\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-05-12\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "HORIZON EIC Grants",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-PATHFINDEROPEN",
+  "text": "EU FUNDING & TENDERS – Topic: 50074515TOPICSen\nProgramme/Organism: 43108390\nTitle: EIC 2026 Pathfinder Open\nStatus: Open (31094502)\nType of action: HORIZON EIC Grants\nOpening date: 2026-02-05\nDeadline: 2026-05-12\nAll deadlines: 2026-05-12\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"112745\":[{\"action\":\"HORIZON-EIC-2026-PATHFINDEROPEN - HORIZON-EIC HORIZON EIC Grants\",\"expectedGrants\":50,\"minContribution\":1000000,\"maxContribution\":4000000,\"budgetYearMap\":{\"2026\":\"166039670\"},\"plannedOpeningDate\":\"2026-02-05\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-05-12\"]}]}}\n\nDescription / Scope:\nEIC 2026 Pathfinder Open\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-PATHFINDEROPEN",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "50074515TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-PATHFINDEROPEN",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "EIC 2026 Pathfinder Open",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "EIC 2026 Pathfinder Open",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "ECA4AC2FBA7820C1C62F9DE33C4E2C3E34D7855B5A153467AE37EFF31F61036B",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-04-23T11:31:06.445\",\"content\":\"\\u003cp\\u003eDue to a clerical mistake, a technical sentence remained by oversight in the current Part B proposal template (page 20):\\u003c/p\\u003e\\u003cp\\u003e\\u003cem\\u003e“This document is tagged. Do not delete the tags; they are needed for processing.] #@APP-FORM-HEEICPAOP@#”\\u003c/em\\u003e\\u003c/p\\u003e\\u003cp\\u003eThis sentence is obsolete and may be deleted or ignored by applicants, as tags no longer apply.\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-03-02T13:42:07.303\",\"content\":\"\\u003cp\\u003eDue to a clerical mistake, the application template (Proposal template Part B: technical description) has the following description in table 3.1h: ‘Purchase costs’ items (travel and subsistence, equipment and other goods, works and services) .\\u003c/p\\u003e\\u003cp\\u003eHowever, in this table the \\u003cstrong\\u003eapplicants should only provide details on the need for equipment costs\\u003c/strong\\u003e, if they exceed 15% of the personnel costs for that participant (according to the budget table in proposal part A), as per the instructions of the proposal template Part B: technical description (p.16).\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-02-25T16:28:40.069\",\"content\":\"\\u003cp\\u003eApplicants should note that the “Additional Information” upload field visible in the submission system is a default feature and \\u003cstrong\\u003edoes not apply to this cal\\u003c/strong\\u003el. Applicants are therefore requested not to upload any documents under the “Additional Information” section. We apologise for any inconvenience this may have caused.\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-02-18T15:57:07.876\",\"content\":\"\\u003cp\\u003e\\u003cem\\u003eIf your lump sum budget contains any cost items in cost category C and/or D, please make sure to justify these items in the ‘Any comments’ sheet of the Excel detailed lump sum budget table.\\u003c/em\\u003e\\u003c/p\\u003e\\u003cp\\u003e\\u003cem\\u003eThe reason is that we simplified the proposal template, removing this information from Part B and bringing it closer to the relevant budget items. \\u003c/em\\u003e\\u003c/p\\u003e\\u003cp\\u003e\\u003cem\\u003eSpecifically, you must include justification in the ‘Any comments’ sheet if you are in any of the following situations: \\u003c/em\\u003e\\u003c/p\\u003e\\u003cul\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003e\\u003cem\\u003eIf the sum of the costs for ’travel and subsistence’, ‘equipment’, and ‘other goods, works and services’ (i.e. the purchase costs) exceeds 15% of the personnel costs for a participant. If this is the case, justify the most expensive cost item(s) up to the level that the remaining costs are below 15% of personnel costs.\\u003c/em\\u003e\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003e\\u003cem\\u003eIf other cost categories (e.g. internally invoiced goods and services) are used.\\u003c/em\\u003e\\u003c/li\\u003e\\u003cli data-list\\u003d\\\"bullet\\\"\\u003e\\u003cspan class\\u003d\\\"ql-ui\\\" contenteditable\\u003d\\\"false\\\"\\u003e\\u003c/span\\u003e\\u003cem\\u003eIf in-kind contributions are used (non-financial resources made available free of charge by third parties, which must be included as direct costs in the corresponding cost category, e.g. personnel costs or purchase costs for equipment). \\u003c/em\\u003e\\u003c/li\\u003e\\u003c/ul\\u003e\\u003cp\\u003e\\u003cbr\\u003e\\u003c/br\\u003e\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-02-05T00:01:00.623\",\"content\":\"The submission session is now available for: HORIZON-EIC-2026-PATHFINDEROPEN\"}]"
+      ],
+      "es_SortDate": [
+        "2026-02-05T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "HORIZON-EIC-2026-PATHFINDEROPEN",
+        "HORIZON-EIC-2026-PATHFINDEROPEN"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p><strong><em>﻿</em></strong>The call is open for collaborative research. Your proposal must be submitted by the coordinator, on behalf of a consortium including as beneficiaries, at least three legal entities, independent from each other and each established in a different country as follows:</p><ul><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>at least one legal entity established in a Member State; and</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>at least two other independent legal entities, each established in different Member States or Associated Countries.</li></ul><p>The legal entities may for example be universities, research organisations, SMEs, startups, industrial partners or natural persons. The eligibility of associated countries and third countries is detailed in <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex 2</a>. The standard admissibility and eligibility conditions are detailed in&#xa0;<a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex 2</a>.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p><p>Sections 1 to 3 of the part B of your proposal, corresponding respectively to the award criteria Excellence, Impact, and Quality and Efficiency of the Implementation, must consist of a maximum of 22 format A4 pages.</p><p>Excess pages will be automatically made invisible and will not be taken into consideration by the evaluators.</p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>Described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p>A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a>.</p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>Described in <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex 2</a>&#xa0;of the EIC Work Programme 2026.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>Described in <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex 2</a> of the EIC Work Programme 2026.</p></div></div><div><h4>5a. Evaluation and award: Award criteria and scoring thresholds</h4><div class=\"eui-u-mt-s\"><p>Described in section II of the <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026</a> (p.30-31).</p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>Described  in section II of the <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026</a> and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>Described in <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026</a> and in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>Please refer to the the Lump Sum Model Grant Agreement (Lump Sum MGA) used for Lump Sum EIC actions under Horizon Europe and <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex 2</a> of the EIC Work Programme 2026.</p></div></div></div><div class=\"eui-u-mt-l\"><h4>Specific conditions</h4> <div class=\"eui-u-mt-s\">\n</div></div><div class=\"eui-u-mt-l\"><h4>Call documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://eic.ec.europa.eu/eic-2026-work-programme_en\" rel=\"noopener noreferrer\" target=\"_blank\">EIC 2026 work programme - European Innovation Council</a></p><p><a href=\"https://eic.ec.europa.eu/eic-frequently-asked-questions_en#ecl-inpage-321\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Frequently asked questions - European Innovation Council</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2021/list-of-pathfinder-open-descriptors_horizon-eic-2021-pathfinderopen-01_en.xlsx\" rel=\"noopener noreferrer\" target=\"_blank\">List of Pathfinder Open Descriptors</a></p></div><h4>Application and evaluation forms and model grant agreement (MGA):</h4> <div class=\"eui-u-mt-s\"><p><br></br></p><p><strong>Evaluation form templates</strong> <em>— will be used with the necessary adaptations</em></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/ef/ef_he-eic-pathfinder-open_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard evaluation form (HE EIC PATHFINDER OPEN)</a></p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a></p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/ls-mga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Lump Sum MGA</a></p><p><strong>Call-specific instructions</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/temp-form/af/detailed-budget-table_he-ls-euratom_en.xlsm\" rel=\"noopener noreferrer\" target=\"_blank\">Detailed budget table (HE LS)</a> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/information-on-clinical-studies_he_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Information on clinical studies (HE)</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/information-on-security-issues-security-section_he_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Information on security issues/Security section (HE)</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-funding-what-do-i-need-to-know_he_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Guidance: \"Lump sums - what do I need to know?\"</a></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 15. General Annexes</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0695\" rel=\"noopener noreferrer\" target=\"_blank\">HE Framework Programme 2021/695</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021D0764\" rel=\"noopener noreferrer\" target=\"_blank\">HE Specific Programme Decision 2021/764</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ls-decision_he_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Decision authorising the use of lump sum contributions under the Horizon Europe Programme</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a></p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "EIC 2026 Pathfinder Open"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "ECA4AC2FBA7820C1C62F9DE33C4E2C3E34D7855B5A153467AE37EFF31F61036B"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43027849"
+      ],
+      "callIdentifier": [
+        "HORIZON-EIC-2026-PATHFINDEROPEN"
+      ],
+      "ccm2Id": [
+        "50074515"
+      ],
+      "callccm2Id": [
+        "50074523"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50074515TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"HORIZON-EIC-2026-PATHFINDEROPEN\",\"criterionCode\":\"HORIZON-EIC\",\"criterionDescription\":\"HORIZON EIC Grants\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43435?topic\\u003dHORIZON-EIC-2026-PATHFINDEROPEN\",\"startDate\":\"1770249600000\",\"endDate\":\"1778544000000\",\"mgaDescription\":\"HORIZON Lump Sum Grant\",\"mgaCode\":\"HORIZON-AG-LS\"}]"
+      ],
+      "callTitle": [
+        "EIC Pathfinder Open 2026"
+      ],
+      "frameworkProgramme": [
+        "43108390"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Impact:</p><p>The expected output of your project is the proof of principle that the main ideas of the envisioned future technology are feasible, thus validating its scientific and technological basis. Project results should include top-level scientific publications in open access. While your vision is expected to be worthwhile because of its potential for future impact, for instance to create new markets, improve our lives, or provide solutions for global challenges, these are not expected to be achieved in the course of your EIC Pathfinder Open project. However, you are expected to take the necessary measures in the course of the project to allow future uptake to take place. This includes: an adequate formal protection of the generated Intellectual Property (IP), a plan for future exploitation and an assessment of relevant aspects related to regulation, certification, and standardisation.</p><p>In addition, you are encouraged to involve and empower in your team key actors that have the potential to become future leaders in their field such as excellent early-career researchers or promising high-tech SMEs, including start-ups. Your project should reinforce their mind-set for targeted research and development aimed at high impact applied results. This will strengthen Europe’s capacity for exploiting the scientific discoveries made in Europe throughout the steps to market success or for solving global challenges. You are particularly encouraged to empower female researchers in your project and to achieve gender balance among your work package leaders.</p><p class=\"topicdescriptionkind\">Objective:</p><p>The overall objective of the EIC Pathfinder for advanced research is to develop the scientific basis to underpin breakthrough technologies. It provides support for the earliest stages of scientific, technological or deep tech research and development. Pathfinder projects aim to build on new, cutting-edge directions in science and technology to disrupt a field and a market or create new opportunities by realising innovative technological solutions through:</p><p> ‘EIC Pathfinder Open’, open to support projects in any field of science, technology or application without predefined thematic priorities.</p><p> ‘EIC Pathfinder Challenges’ to support coherent portfolios of projects within predefined thematic areas with the aim to achieve specific objectives for each Challenge.</p><p class=\"topicdescriptionkind\">Scope:</p><p>Do you have an ambitious vision for a novel future technology that could make a real difference to our lives?</p><p> Do you see a plausible way of achieving the scientific breakthrough that will make this technology possible?</p><p> Can you imagine collaborating with an interdisciplinary team of researchers and innovators to validate the scientific basis of the future technology, realise a proof of principle, and explore paths to impact?</p><p>If the answer to each one of these questions is ‘yes’, then EIC Pathfinder Open may be the right call for you.</p><p>You should apply if you are looking for support from EIC Pathfinder Open to realise an ambitious vision for radically new technology, with potential to create new markets, respond to societal needs and/or to provide solutions for global challenges. EIC Pathfinder Open supports early-stage development of such future technologies (e.g., various activities at low Technology Readiness Levels from 1 to 4), based on high risk/high-gain science-towards-technology breakthrough research ( ‘deep tech’). This research must provide the foundations of the technology you are envisioning. EIC Pathfinder Open may support your work, especially if it is highly risky: you may set out to try things that will not work; you may be faced with questions that nobody knows the answer to yet; you may realise that there are many aspects of the problem that you do not master. On the contrary, if the approach you want to follow is incremental by nature or known, EIC Pathfinder Open will not support you. Before applying to this call, you should verify that your proposal meets all the following essential characteristics (‘Gatekeepers’):</p><p> Convincing long-term vision of a radically new technology that has the potential to have a transformative positive effect to solving a challenge in our economy and society.</p><p> Concrete, novel and ambitious science-towards-technology breakthrough, providing advancement towards the envisioned technology.</p><p> High-risk/high-gain research approach and methodology, with concrete and plausible objectives.</p><p>EIC Pathfinder Open involves interdisciplinary research and development. By bringing diverse areas of research together, often with different perspectives, terminologies and methodologies, within individual projects and within a portfolio of projects, really new things can be generated, and entirely new areas of research can be opened up. It is up to you to compose the team that you need, that you can learn from, and that you can move forward with.</p>"
+      ],
+      "identifier": [
+        "HORIZON-EIC-2026-PATHFINDEROPEN"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43121671",
+        "43121666",
+        "43121633",
+        "43108390"
+      ],
+      "crossCuttingPriorities": [],
+      "esDA_FirstIngestDate": [
+        "2026-02-02T11:50:58.293+0100"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-05-12T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-23T11:32:44.292+0200"
+      ],
+      "typesOfAction": [
+        "HORIZON EIC Grants"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-PATHFINDEROPEN"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-PATHFINDEROPEN"
+      ],
+      "tags": [
+        "PATHFINDER",
+        "PATHFINDER OPEN",
+        "PATHFINDEROPEN"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-23T11:32:44.262+0200"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"HORIZON-EIC HORIZON EIC Grants\",\"typeOfMGA\":[{\"id\":43027849,\"abbreviation\":\"HORIZON-AG-LS\",\"description\":\"HORIZON Lump Sum Grant\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-02-05\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-05-12\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"112745\":[{\"action\":\"HORIZON-EIC-2026-PATHFINDEROPEN - HORIZON-EIC HORIZON EIC Grants\",\"expectedGrants\":50,\"minContribution\":1000000,\"maxContribution\":4000000,\"budgetYearMap\":{\"2026\":\"166039670\"},\"plannedOpeningDate\":\"2026-02-05\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-05-12\"]}]}}"
+      ],
+      "startDate": [
+        "2026-02-05T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> – find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> – ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> – get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (‘third-countries’).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> – contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> – the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> – consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "EIC 2026 Pathfinder Open. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-PATHFINDEROPEN",
+    "score": 3.0
+  }
+}

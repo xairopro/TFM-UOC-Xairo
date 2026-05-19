@@ -1,0 +1,136 @@
+{
+  "id": "EU-186514PROSPECTSEN",
+  "topic_id": "186514PROSPECTSEN",
+  "titulo": "Strengthening Civil Society in Egypt",
+  "descripcion": "Strengthening Civil Society in Egypt",
+  "organismo": "111111",
+  "fecha_publicacion": "2026-04-21",
+  "fecha_limite": "2026-06-21",
+  "deadlines_todas": "2026-06-21",
+  "presupuesto": "5000000",
+  "duracion": "",
+  "tipo_accion": "",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186514",
+  "text": "EU FUNDING & TENDERS – Topic: 186514PROSPECTSEN\nProgramme/Organism: 111111\nTitle: Strengthening Civil Society in Egypt\nStatus: Open (31094502)\nType of action: \nOpening date: 2026-04-21\nDeadline: 2026-06-21\nAll deadlines: 2026-06-21\nDuration: \nBudget overview: 5000000\n\nDescription / Scope:\nStrengthening Civil Society in Egypt\n\nMore info: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186514",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "186514PROSPECTSEN",
+    "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186514",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Strengthening Civil Society in Egypt",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Strengthening Civil Society in Egypt",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "CFE4247876B94358DAE6B24444389A6732720DAFAC5EB40C2857B7A5ABB6B96F",
+    "metadata": {
+      "updateDate": [
+        "2026-04-21T10:53:52.000+0000"
+      ],
+      "es_SortDate": [
+        "2026-04-21T13:00:42.000+0000"
+      ],
+      "beneficiaryAdministration": [],
+      "sortStatus": [
+        "1"
+      ],
+      "contractType": [
+        "42893160"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Strengthening Civil Society in Egypt"
+      ],
+      "type": [
+        "2"
+      ],
+      "esST_checksum": [
+        "CFE4247876B94358DAE6B24444389A6732720DAFAC5EB40C2857B7A5ABB6B96F"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "callIdentifier": [
+        "186514"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "186514PROSPECTSEN"
+      ],
+      "currency": [
+        "EUR"
+      ],
+      "frameworkProgramme": [
+        "111111"
+      ],
+      "budget": [
+        "5000000"
+      ],
+      "identifier": [
+        "EuropeAid/186514/DD/FPA/EG"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "geographicalZones": [
+        "20000881"
+      ],
+      "publicationDocuments": [
+        "[{\"nameDoc\":\"Annex L - Self-evaluation questionnaire on SEA-H-DOCUMENTS TO BE COMPLETED\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-21 15:00:42.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2158873&lang=EN\"},{\"nameDoc\":\"Annex H - Declaration of honour on exclusion and selection criteria-DOCUMENTS TO BE COMPLETED\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-21 15:00:56.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2158871&lang=EN\"},{\"nameDoc\":\"Annex C - Logical framework-DOCUMENTS TO BE COMPLETED\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-21 15:00:12.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2158870&lang=EN\"},{\"nameDoc\":\"Annex B - Budget-DOCUMENTS TO BE COMPLETED\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-21 15:00:07.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2158868&lang=EN\"},{\"nameDoc\":\"Annex A2. Grant application form-Full application-DOCUMENTS TO BE COMPLETED\",\"typeDoc\":\"rtf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-21 15:00:18.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2158867&lang=EN\"},{\"nameDoc\":\"Annex A1. Grant application form-Concept note-DOCUMENTS TO BE COMPLETED\",\"typeDoc\":\"rtf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-21 15:00:12.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2158866&lang=EN\"},{\"nameDoc\":\"Privacy Statement - DOCUMENTS FOR INFORMATION\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-21 15:00:52.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2158825&lang=EN\"},{\"nameDoc\":\"Annex J - INFORMATION ON THE TAX REGIME APPLICABLE - DOCUMENTS FOR INFORMATION\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-21 15:00:19.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2158827&lang=EN\"},{\"nameDoc\":\"Annex G - standard grant contract - DOCUMENTS FOR INFORMATION\",\"typeDoc\":\"zip\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-21 15:00:04.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2158829&lang=EN\"},{\"nameDoc\":\"Annex F - PADOR offline registration form - DOCUMENTS TO BE COMPLETED\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-21 15:00:02.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2158832&lang=EN\"},{\"nameDoc\":\"Guidelines for grant applicants\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-21 15:00:03.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2158830&lang=EN\"}]"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-04-21T15:01:00.228+0200"
+      ],
+      "programmePeriod": [
+        "2014 - 2020",
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-06-21T20:00:13.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-21T15:01:00.228+0200"
+      ],
+      "url": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186514"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186514"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-21T15:01:00.214+0200"
+      ],
+      "programmeDivisionProspect": [
+        "44996030"
+      ],
+      "geographicalZone": [
+        "20000881"
+      ],
+      "startDate": [
+        "2026-04-21T13:00:42.000+0000"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Strengthening Civil Society in Egypt. Available at: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186514",
+    "score": 3.0
+  }
+}

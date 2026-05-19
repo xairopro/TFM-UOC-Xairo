@@ -1,0 +1,169 @@
+{
+  "id": "BDNS-902050",
+  "id_interno": 1103611,
+  "numero_convocatoria": "902050",
+  "organismo": "AUTONOMICA — CASTILLA-LA MANCHA — DIRECCIÓN GENERAL DE EMPLEO",
+  "sede_electronica": "www.jccm.es",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "2026-10-30",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - canónica",
+  "descripcion": "Resolución de 24/04/2026, de la Dirección General de Empleo, por la que se publican los créditos disponibles en el ejercicio 2026 para la concesión de las subvenciones reguladas en el Decreto 103/2022, de 13 de septiembre. REG (UE) 2023/2832",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, ACTIVIDADES DE EDICIÓN, RADIODIFUSIÓN Y PRODUCCIÓN Y DISTRIBUCIÓN DE CONTENIDOS, ACTIVIDADES FINANCIERAS Y DE SEGUROS, ACTIVIDADES INMOBILIARIAS, ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS, ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES, ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA, COMERCIO AL POR MAYOR Y AL POR MENOR, CONSTRUCCIÓN, EDUCACIÓN, HOSTELERÍA, INDUSTRIA MANUFACTURERA, INDUSTRIAS EXTRACTIVAS, OTROS SERVICIOS, SUMINISTRO DE AGUA, ACTIVIDADES DE SANEAMIENTO, GESTIÓN DE RESIDUOS Y DESCONTAMINACIÓN, SUMINISTRO DE ENERGIA ELECTRICA, GAS, VAPOR Y AIRE ACONDICIONADO, TELECOMUNICACIONES, PROGRAMACIÓN INFORMÁTICA, CONSULTORÍA, INFRAESTRUCTURA INFORMÁTICA Y OTROS SERVICIOS DE INFORMACIÓN, TRANSPORTE Y ALMACENAMIENTO",
+  "regiones": "ES42 - CASTILLA LA MANCHA",
+  "finalidad": "Fomento del Empleo",
+  "bases_reguladoras": "Decreto 103/2022, de 13 de septiembre, por el que se regula la concesión directa de subvenciones para favorecer el acceso al empleo de calidad de las personas jóvenes y fomentar la cualificación profesional, cofinanciado por el Fondo Social Europeo",
+  "url_bases_reguladoras": "https://docm.jccm.es/docm/descargarArchivo.do?ruta=2026/04/15/pdf/2026_2661.pdf&tipo=rutaDocm",
+  "presupuesto": "22.300,00 €",
+  "presupuesto_total_num": 22300,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "FSE+ - FONDO SOCIAL EUROPEO PLUS",
+  "reglamento": "REG (UE) 2023/2832 de minimis, SIEG",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902050",
+  "text": "CONVOCATORIA BDNS Nº 902050\nOrganismo: AUTONOMICA — CASTILLA-LA MANCHA — DIRECCIÓN GENERAL DE EMPLEO\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud:  → 2026-10-30 (abierto: no)\nTipo de convocatoria: Concesión directa - canónica\nPresupuesto total: 22.300,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, ACTIVIDADES DE EDICIÓN, RADIODIFUSIÓN Y PRODUCCIÓN Y DISTRIBUCIÓN DE CONTENIDOS, ACTIVIDADES FINANCIERAS Y DE SEGUROS, ACTIVIDADES INMOBILIARIAS, ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS, ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES, ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA, COMERCIO AL POR MAYOR Y AL POR MENOR, CONSTRUCCIÓN, EDUCACIÓN, HOSTELERÍA, INDUSTRIA MANUFACTURERA, INDUSTRIAS EXTRACTIVAS, OTROS SERVICIOS, SUMINISTRO DE AGUA, ACTIVIDADES DE SANEAMIENTO, GESTIÓN DE RESIDUOS Y DESCONTAMINACIÓN, SUMINISTRO DE ENERGIA ELECTRICA, GAS, VAPOR Y AIRE ACONDICIONADO, TELECOMUNICACIONES, PROGRAMACIÓN INFORMÁTICA, CONSULTORÍA, INFRAESTRUCTURA INFORMÁTICA Y OTROS SERVICIOS DE INFORMACIÓN, TRANSPORTE Y ALMACENAMIENTO\nRegiones: ES42 - CASTILLA LA MANCHA\nFinalidad: Fomento del Empleo\nFondos: FSE+ - FONDO SOCIAL EUROPEO PLUS\nReglamento: REG (UE) 2023/2832 de minimis, SIEG\nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nResolución de 24/04/2026, de la Dirección General de Empleo, por la que se publican los créditos disponibles en el ejercicio 2026 para la concesión de las subvenciones reguladas en el Decreto 103/2022, de 13 de septiembre. REG (UE) 2023/2832\n\nBases reguladoras:\nDecreto 103/2022, de 13 de septiembre, por el que se regula la concesión directa de subvenciones para favorecer el acceso al empleo de calidad de las personas jóvenes y fomentar la cualificación profesional, cofinanciado por el Fondo Social Europeo\nURL bases reguladoras: https://docm.jccm.es/docm/descargarArchivo.do?ruta=2026/04/15/pdf/2026_2661.pdf&tipo=rutaDocm\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902050",
+  "_raw": {
+    "id": 1103611,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "CASTILLA-LA MANCHA",
+      "nivel3": "DIRECCIÓN GENERAL DE EMPLEO"
+    },
+    "sedeElectronica": "www.jccm.es",
+    "codigoBDNS": "902050",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - canónica",
+    "presupuestoTotal": 22300,
+    "mrr": false,
+    "descripcion": "Resolución de 24/04/2026, de la Dirección General de Empleo, por la que se publican los créditos disponibles en el ejercicio 2026 para la concesión de las subvenciones reguladas en el Decreto 103/2022, de 13 de septiembre. REG (UE) 2023/2832",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      },
+      {
+        "descripcion": "ACTIVIDADES DE EDICIÓN, RADIODIFUSIÓN Y PRODUCCIÓN Y DISTRIBUCIÓN DE CONTENIDOS",
+        "codigo": "J"
+      },
+      {
+        "descripcion": "ACTIVIDADES FINANCIERAS Y DE SEGUROS",
+        "codigo": "L"
+      },
+      {
+        "descripcion": "ACTIVIDADES INMOBILIARIAS",
+        "codigo": "M"
+      },
+      {
+        "descripcion": "ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS",
+        "codigo": "N"
+      },
+      {
+        "descripcion": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+        "codigo": "R"
+      },
+      {
+        "descripcion": "ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA",
+        "codigo": "P"
+      },
+      {
+        "descripcion": "COMERCIO AL POR MAYOR Y AL POR MENOR",
+        "codigo": "G"
+      },
+      {
+        "descripcion": "CONSTRUCCIÓN",
+        "codigo": "F"
+      },
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      },
+      {
+        "descripcion": "HOSTELERÍA",
+        "codigo": "I"
+      },
+      {
+        "descripcion": "INDUSTRIA MANUFACTURERA",
+        "codigo": "C"
+      },
+      {
+        "descripcion": "INDUSTRIAS EXTRACTIVAS",
+        "codigo": "B"
+      },
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      },
+      {
+        "descripcion": "SUMINISTRO DE AGUA, ACTIVIDADES DE SANEAMIENTO, GESTIÓN DE RESIDUOS Y DESCONTAMINACIÓN",
+        "codigo": "E"
+      },
+      {
+        "descripcion": "SUMINISTRO DE ENERGIA ELECTRICA, GAS, VAPOR Y AIRE ACONDICIONADO",
+        "codigo": "D"
+      },
+      {
+        "descripcion": "TELECOMUNICACIONES, PROGRAMACIÓN INFORMÁTICA, CONSULTORÍA, INFRAESTRUCTURA INFORMÁTICA Y OTROS SERVICIOS DE INFORMACIÓN",
+        "codigo": "K"
+      },
+      {
+        "descripcion": "TRANSPORTE Y ALMACENAMIENTO",
+        "codigo": "H"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES42 - CASTILLA LA MANCHA"
+      }
+    ],
+    "descripcionFinalidad": "Fomento del Empleo",
+    "descripcionBasesReguladoras": "Decreto 103/2022, de 13 de septiembre, por el que se regula la concesión directa de subvenciones para favorecer el acceso al empleo de calidad de las personas jóvenes y fomentar la cualificación profesional, cofinanciado por el Fondo Social Europeo",
+    "urlBasesReguladoras": "https://docm.jccm.es/docm/descargarArchivo.do?ruta=2026/04/15/pdf/2026_2661.pdf&tipo=rutaDocm",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": "2026-10-30",
+    "textInicio": "Desde el día siguiente a la publicación de la resolución y su extracto en el D.O.C.M.",
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [
+      {
+        "descripcion": "FSE+ - FONDO SOCIAL EUROPEO PLUS"
+      }
+    ],
+    "reglamento": {
+      "descripcion": "REG (UE) 2023/2832 de minimis, SIEG",
+      "orden": null
+    },
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444340,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "RESOLUCIÓN CONVOCATORIA DECRETO JOVEN  2026-FIRMADA_090801.PDF",
+        "long": 284767,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

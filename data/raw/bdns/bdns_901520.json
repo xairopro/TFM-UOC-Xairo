@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-901520",
+  "id_interno": 1103081,
+  "numero_convocatoria": "901520",
+  "organismo": "LOCAL — DIPUTACIÓN PROV. DE ALBACETE — DIPUTACIÓN PROVINCIAL DE ALBACETE",
+  "sede_electronica": "https://sede.dipualba.es/subvenciones/lista_convocatorias_todas.aspx",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Decreto nº 1920 de 20-04-2026 - Aprobación de la Convocatoria de ayudas a entes locales territoriales para la adquisición de instrumentos musicales, durante el año 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+  "regiones": "ES421 - Albacete",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Ordenanza reguladora de bases de ayudas a entidades locales territoriales de la provincia de Albacete para la adquisición de instrumentos musicales",
+  "url_bases_reguladoras": "http://www.dipualba.es/bop/ficheros/2022/45/BOP%2045-22-P-8.PDF",
+  "presupuesto": "200.000,00 €",
+  "presupuesto_total_num": 200000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901520",
+  "text": "CONVOCATORIA BDNS Nº 901520\nOrganismo: LOCAL — DIPUTACIÓN PROV. DE ALBACETE — DIPUTACIÓN PROVINCIAL DE ALBACETE\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 200.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de bibliotecas, archivos, museos y otras actividades culturales\nRegiones: ES421 - Albacete\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nDecreto nº 1920 de 20-04-2026 - Aprobación de la Convocatoria de ayudas a entes locales territoriales para la adquisición de instrumentos musicales, durante el año 2026\n\nBases reguladoras:\nOrdenanza reguladora de bases de ayudas a entidades locales territoriales de la provincia de Albacete para la adquisición de instrumentos musicales\nURL bases reguladoras: http://www.dipualba.es/bop/ficheros/2022/45/BOP%2045-22-P-8.PDF\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901520",
+  "_raw": {
+    "id": 1103081,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DIPUTACIÓN PROV. DE ALBACETE",
+      "nivel3": "DIPUTACIÓN PROVINCIAL DE ALBACETE"
+    },
+    "sedeElectronica": "https://sede.dipualba.es/subvenciones/lista_convocatorias_todas.aspx",
+    "codigoBDNS": "901520",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 200000,
+    "mrr": false,
+    "descripcion": "Decreto nº 1920 de 20-04-2026 - Aprobación de la Convocatoria de ayudas a entes locales territoriales para la adquisición de instrumentos musicales, durante el año 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+        "codigo": "91"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES421 - Albacete"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Ordenanza reguladora de bases de ayudas a entidades locales territoriales de la provincia de Albacete para la adquisición de instrumentos musicales",
+    "urlBasesReguladoras": "http://www.dipualba.es/bop/ficheros/2022/45/BOP%2045-22-P-8.PDF",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "A partir del día siguiente a la publicación en el BOP de la provincia de Albacete",
+    "textFin": "Treinta días naturales a partir del día siguiente a la publicación en BOP de la provincia Albacete",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442524,
+        "descripcion": "CRITERIOS DE VALORACIÓN",
+        "nombreFic": "CRITERIOS DE VALORACIÓN INSTRUMENTOS MUSICALES 2026.pdf",
+        "long": 65964,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442523,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Decreto Nº 1920 de 20-04-2026  DECRETO DE APROBACION DE CONVOCATORIA DE ADQUISICION DE INSTRUMENTOS MUSICALES 2026.pdf",
+        "long": 500819,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

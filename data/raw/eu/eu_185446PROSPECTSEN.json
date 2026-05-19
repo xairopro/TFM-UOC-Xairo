@@ -1,0 +1,136 @@
+{
+  "id": "EU-185446PROSPECTSEN",
+  "topic_id": "185446PROSPECTSEN",
+  "titulo": "PROGRAMA TEMÁTICO DE “APOYO A LA SOCIEDAD CIVIL EN PAÍSES SOCIOS” GUATEMALA",
+  "descripcion": "PROGRAMA TEMÁTICO DE “APOYO A LA SOCIEDAD CIVIL EN PAÍSES SOCIOS” GUATEMALA",
+  "organismo": "111111",
+  "fecha_publicacion": "2026-03-11",
+  "fecha_limite": "2026-05-06",
+  "deadlines_todas": "2026-05-06",
+  "presupuesto": "2300000",
+  "duracion": "",
+  "tipo_accion": "",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185446",
+  "text": "EU FUNDING & TENDERS – Topic: 185446PROSPECTSEN\nProgramme/Organism: 111111\nTitle: PROGRAMA TEMÁTICO DE “APOYO A LA SOCIEDAD CIVIL EN PAÍSES SOCIOS” GUATEMALA\nStatus: Open (31094502)\nType of action: \nOpening date: 2026-03-11\nDeadline: 2026-05-06\nAll deadlines: 2026-05-06\nDuration: \nBudget overview: 2300000\n\nDescription / Scope:\nPROGRAMA TEMÁTICO DE “APOYO A LA SOCIEDAD CIVIL EN PAÍSES SOCIOS” GUATEMALA\n\nMore info: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185446",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "185446PROSPECTSEN",
+    "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185446",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "PROGRAMA TEMÁTICO DE “APOYO A LA SOCIEDAD CIVIL EN PAÍSES SOCIOS” GUATEMALA",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "PROGRAMA TEMÁTICO DE “APOYO A LA SOCIEDAD CIVIL EN PAÍSES SOCIOS” GUATEMALA",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "253BBA3F839C9581E7B98204780DE7F72C26594A4A8E36E7FDE2533F75521C56",
+    "metadata": {
+      "updateDate": [
+        "2026-04-23T15:36:27.000+0000"
+      ],
+      "es_SortDate": [
+        "2026-03-11T22:30:08.000+0000"
+      ],
+      "beneficiaryAdministration": [],
+      "sortStatus": [
+        "1"
+      ],
+      "contractType": [
+        "42893160"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "PROGRAMA TEMÁTICO DE “APOYO A LA SOCIEDAD CIVIL EN PAÍSES SOCIOS” GUATEMALA"
+      ],
+      "type": [
+        "2"
+      ],
+      "esST_checksum": [
+        "253BBA3F839C9581E7B98204780DE7F72C26594A4A8E36E7FDE2533F75521C56"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "callIdentifier": [
+        "185446"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "185446PROSPECTSEN"
+      ],
+      "currency": [
+        "EUR"
+      ],
+      "frameworkProgramme": [
+        "111111"
+      ],
+      "budget": [
+        "2300000"
+      ],
+      "identifier": [
+        "EuropeAid/185446/DD/ACT/GT"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "geographicalZones": [
+        "20000904"
+      ],
+      "publicationDocuments": [
+        "[{\"nameDoc\":\"Corrigendum 2\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-23 23:00:57.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160212&lang=EN\"},{\"nameDoc\":\"FAQ\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-24 01:00:26.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160184&lang=EN\"},{\"nameDoc\":\"guia\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-11 23:30:47.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160194&lang=EN\"},{\"nameDoc\":\"ANEXO IX MODELO TRANSFERENCIA DE BIENES\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-11 23:30:43.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160187&lang=EN\"},{\"nameDoc\":\"ANEXO VII Modelo de informe de constataciones factuales\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-11 23:30:33.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160189&lang=EN\"},{\"nameDoc\":\"ANEXO VI MODELO DE INFORME DESCRIPTIVO INTERMEDIO\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-11 23:30:04.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160191&lang=EN\"},{\"nameDoc\":\"ANEXO VI INFORME FINANCIERO FINAL\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-11 23:30:25.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160180&lang=EN\"},{\"nameDoc\":\"ANEXO V Modelo de solicitud de pago\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-11 23:30:29.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160177&lang=EN\"},{\"nameDoc\":\"ANEXO IV Normas de adjudicación de contratos\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-11 23:30:05.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160176&lang=EN\"},{\"nameDoc\":\"ANEXO II Condiciones Generales\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-11 23:30:08.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160173&lang=EN\"},{\"nameDoc\":\"ANEXO A 2 Propuesta Completa\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-11 23:30:45.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160195&lang=EN\"},{\"nameDoc\":\"ANEXO A 1 Documento de Síntesis\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-11 23:30:27.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160183&lang=EN\"},{\"nameDoc\":\"Annex B - Budget\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-11 23:30:16.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160193&lang=EN\"},{\"nameDoc\":\"Annex C - Logical framework\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-11 23:30:45.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160185&lang=EN\"},{\"nameDoc\":\"Annex D - Identification Form (public law bodies)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-11 23:30:30.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160192&lang=EN\"},{\"nameDoc\":\"Annex D - Identification Form (private or public with legal form)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-11 23:30:17.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160186&lang=EN\"},{\"nameDoc\":\"Annex D - Identification Form (natural person)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-11 23:30:45.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160182&lang=EN\"},{\"nameDoc\":\"Annex F - PADOR offline registration form\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-11 23:30:19.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160181&lang=EN\"},{\"nameDoc\":\"Annex G - Standard grant contract\",\"typeDoc\":\"zip\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-11 23:30:37.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160188&lang=EN\"},{\"nameDoc\":\"Annex H - Declaration of honour on exclusion and selection criteria\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-11 23:30:32.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160179&lang=EN\"},{\"nameDoc\":\"Annex K - Clarifications on financing not linked to costs\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-11 23:30:55.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160175&lang=EN\"},{\"nameDoc\":\"Annex J - Information on the tax regime applicable to grant contracts\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-11 23:30:48.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160190&lang=EN\"},{\"nameDoc\":\"Appendix - Derogations international organisations\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-11 23:30:31.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160178&lang=EN\"},{\"nameDoc\":\"Annex L - Self-evaluation questionnaire on SEA-H\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-11 23:30:32.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2160174&lang=EN\"}]"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-03-11T23:31:00.317+0100"
+      ],
+      "programmePeriod": [
+        "2014 - 2020",
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-05-06T16:00:44.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-24T01:01:06.407+0200"
+      ],
+      "url": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185446"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185446"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-24T01:01:06.392+0200"
+      ],
+      "programmeDivisionProspect": [
+        "44996030"
+      ],
+      "geographicalZone": [
+        "20000904"
+      ],
+      "startDate": [
+        "2026-03-11T22:30:08.000+0000"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "PROGRAMA TEMÁTICO DE “APOYO A LA SOCIEDAD CIVIL EN PAÍSES SOCIOS” GUATEMALA. Available at: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185446",
+    "score": 3.0
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902938",
+  "id_interno": 1104499,
+  "numero_convocatoria": "902938",
+  "organismo": "LOCAL — MANISES — AYUNTAMIENTO DE MANISES",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "2026-04-30",
+  "fecha_fin_solicitud": "2026-05-29",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "XIX edición Concurso de Dibujo Fiesta y Cabalgata de la Cerámica",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+  "regiones": "ES523 - Valencia / València",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Ordenanza general de subvenciones del Ayuntamiento de Manises",
+  "url_bases_reguladoras": "https://www.manises.es/es/gestion-presupuestaria/pagina/ordenanzas-subvenciones",
+  "presupuesto": "2.500,00 €",
+  "presupuesto_total_num": 2500,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902938",
+  "text": "CONVOCATORIA BDNS Nº 902938\nOrganismo: LOCAL — MANISES — AYUNTAMIENTO DE MANISES\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud: 2026-04-30 → 2026-05-29 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 2.500,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de bibliotecas, archivos, museos y otras actividades culturales\nRegiones: ES523 - Valencia / València\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nXIX edición Concurso de Dibujo Fiesta y Cabalgata de la Cerámica\n\nBases reguladoras:\nOrdenanza general de subvenciones del Ayuntamiento de Manises\nURL bases reguladoras: https://www.manises.es/es/gestion-presupuestaria/pagina/ordenanzas-subvenciones\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902938",
+  "_raw": {
+    "id": 1104499,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "MANISES",
+      "nivel3": "AYUNTAMIENTO DE MANISES"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902938",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 2500,
+    "mrr": false,
+    "descripcion": "XIX edición Concurso de Dibujo Fiesta y Cabalgata de la Cerámica",
+    "descripcionLeng": "XIX edició Concurs de Dibuix Festa i Cavalcada de la Ceràmica",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+        "codigo": "91"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES523 - Valencia / València"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Ordenanza general de subvenciones del Ayuntamiento de Manises",
+    "urlBasesReguladoras": "https://www.manises.es/es/gestion-presupuestaria/pagina/ordenanzas-subvenciones",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-04-30",
+    "fechaFinSolicitud": "2026-05-29",
+    "textInicio": "a partir de la publicación en el BOP",
+    "textFin": "hasta fin fecha de la solicitud",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446740,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "5.1.- CERTI. APROB. CONVOCATORIA CONCURSO DIBUJO - SEFYCU 8082874.pdf",
+        "long": 328057,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

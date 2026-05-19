@@ -1,0 +1,177 @@
+{
+  "id": "EU-50172918TOPICSen",
+  "topic_id": "50172918TOPICSen",
+  "titulo": "RFCS-2026-Big Tickets-Coal",
+  "descripcion": "RFCS-2026-Big Tickets-Coal",
+  "organismo": "43252449",
+  "fecha_publicacion": "2026-02-17",
+  "fecha_limite": "2026-05-06",
+  "deadlines_todas": "2026-05-06",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113297\":[{\"action\":\"RFCS-2026-BT-Coal - RFCS-PJG RFCS Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"35000000\"},\"plannedOpeningDate\":\"2026-02-17\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-05-06\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "RFCS Project Grants",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/RFCS-2026-BT-Coal",
+  "text": "EU FUNDING & TENDERS – Topic: 50172918TOPICSen\nProgramme/Organism: 43252449\nTitle: RFCS-2026-Big Tickets-Coal\nStatus: Open (31094502)\nType of action: RFCS Project Grants\nOpening date: 2026-02-17\nDeadline: 2026-05-06\nAll deadlines: 2026-05-06\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113297\":[{\"action\":\"RFCS-2026-BT-Coal - RFCS-PJG RFCS Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"35000000\"},\"plannedOpeningDate\":\"2026-02-17\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-05-06\"]}]}}\n\nDescription / Scope:\nRFCS-2026-Big Tickets-Coal\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/RFCS-2026-BT-Coal",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "50172918TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/RFCS-2026-BT-Coal",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "RFCS-2026-Big Tickets-Coal",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "RFCS-2026-Big Tickets-Coal",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "90E78DCB03145B2F5EB7487A0F11A94C8D487CC755E3E5DC80EBF24265FA74F1",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-02-17T15:34:06.559\",\"content\":\"The submission session is now available for: RFCS-2026-BT-Coal\"}]"
+      ],
+      "es_SortDate": [
+        "2026-02-17T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "RFCS-2026-BT-Coal",
+        "RFCS-2026-BT-Coal"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>Conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>described in section 5 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/rfcs/wp-call/2026/call-fiche_rfcs-2026-bt-coal_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a>.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>described in section 6 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/rfcs/wp-call/2026/call-fiche_rfcs-2026-bt-coal_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a>.</p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>described in section 6 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/rfcs/wp-call/2026/call-fiche_rfcs-2026-bt-coal_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a>.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in section 7 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/rfcs/wp-call/2026/call-fiche_rfcs-2026-bt-coal_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a>.</p></div></div><div><h4>5a. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>described section 8 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/rfcs/wp-call/2026/call-fiche_rfcs-2026-bt-coal_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a> and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5b. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>described in section 9 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/rfcs/wp-call/2026/call-fiche_rfcs-2026-bt-coal_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in section 4 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/rfcs/wp-call/2026/call-fiche_rfcs-2026-bt-coal_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a>.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>described in section 10 of the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/rfcs/wp-call/2026/call-fiche_rfcs-2026-bt-coal_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a>.</p></div></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Call document and annexes:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/rfcs/wp-call/2026/call-fiche_rfcs-2026-bt-coal_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Call document</a></p><p><strong>Application form templates</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/rfcs/temp-form/af/af_rfcs_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (RFCS)</a> — the application form specific to this call is available in the Submission System </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/rfcs/temp-form/af/detailed-budget-table_rfcs_en.xlsx\" rel=\"noopener noreferrer\" target=\"_blank\">Detailed budget table (RFCS)</a>&#xa0;</p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/rfcs/agr-contr/mga_rfcs_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">RFCS MGA</a></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32008D0376\" rel=\"noopener noreferrer\" target=\"_blank\">RFCS Decision 2008/376</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a>&#xa0;</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "RFCS-2026-Big Tickets-Coal"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "90E78DCB03145B2F5EB7487A0F11A94C8D487CC755E3E5DC80EBF24265FA74F1"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43250365"
+      ],
+      "callIdentifier": [
+        "RFCS-2026-BT-Coal"
+      ],
+      "ccm2Id": [
+        "50172918"
+      ],
+      "callccm2Id": [
+        "50172926"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50172918TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"RFCS-2026-BT-Coal\",\"criterionCode\":\"RFCS-PJG\",\"criterionDescription\":\"RFCS Project Grants\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43529?topic\\u003dRFCS-2026-BT-Coal\",\"startDate\":\"1771286400000\",\"endDate\":\"1778025600000\",\"mgaDescription\":\"RFCS Action Grant Budget-Based\",\"mgaCode\":\"RFCS-AG\"}]"
+      ],
+      "callTitle": [
+        "RFCS-2026-Big Tickets-Coal"
+      ],
+      "frameworkProgramme": [
+        "43252449"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Impact:</p><p>Project results are expected to contribute to all of the following impacts:</p><ul level=\"0\"><li>progress towards the goals of the European Green Deal;</li><li>progress towards the goals of the Just Transition Mechanism.</li> </ul><p class=\"topicdescriptionkind\">Expected Outcome:</p><p>Project results are expected to contribute to all of the following outcomes:</p><ul level=\"0\"><li>quantify the emission reduction and/or other positive environmental effects achieved in the coal sector;</li><li>demonstrate, where relevant, positive health and safety effects of the technology and/or the approach pursued;</li><li>outline a technology scalability plan, supported by a viable business case;</li><li>disseminate results widely and contribute to the development of skills and the creation/conversion of jobs.</li> </ul><p class=\"topicdescriptionkind\">Objective:</p><p>In line with <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02008D0376-20210725&amp;qid=1631875519445\">Council Decision (EU) 2008/376/EC</a>, proposals should relate to at least one of the following research objectives for the coal sector:</p><ul level=\"0\"><li>supporting the just transition of the coal sector and regions (Article 4);</li><li>improving health and safety (Article 5);</li><li>minimising the environmental impacts of coal mines in transition (Article 6).</li> </ul><p>Proposals must also relate to at least one of the following specific call objectives:</p><ol level=\"0\">  <li>Repurposing formerly operating coal and lignite mines, those in the process of closure, and coal-related infrastructure, including power supply services</li><li>Materials and waste reuse, and development of alternative materials, including the recovery of critical raw materials</li><li>Land monitoring, modelling, stabilisation and/or restoration</li><li>Processing of methane emissions</li><li>Monitoring, management and/or treatment of mine water and water tables in coal mines in the process of closure and formerly operating mines</li> </ol><p class=\"topicdescriptionkind\">Scope:</p><ul level=\"0\"><li>Applicants may submit proposals for either pilot or demonstration projects (see Articles 15 and 16 of <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02008D0376-20210725&amp;qid=1631875519445\">Council Decision (EU) 2008/376/EC</a>).</li><li>Activities are expected to achieve technology readiness level 7-8 (TRL 7-8).</li><li>Research must be in line with the goals of the Just Transition Mechanism.</li><li>Proposals must demonstrate support for the social and economic revitalisation of former coal mining regions.</li><li>Proposals may include activities for reskilling and upskilling programmes and improved working conditions.</li> </ul>"
+      ],
+      "identifier": [
+        "RFCS-2026-BT-Coal"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43252470"
+      ],
+      "crossCuttingPriorities": [],
+      "esDA_FirstIngestDate": [
+        "2026-02-04T12:36:51.265+0100"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-05-06T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-02-17T15:34:08.600+0100"
+      ],
+      "typesOfAction": [
+        "RFCS Project Grants"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/RFCS-2026-BT-Coal"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/RFCS-2026-BT-Coal"
+      ],
+      "tags": [],
+      "cenTagsA": [
+        "TOPICS-012613",
+        "TOPICS-012614",
+        "TOPICS-012615",
+        "TOPICS-012616",
+        "TOPICS-012617",
+        "TOPICS-008510",
+        "TOPICS-012618",
+        "TOPICS-012619",
+        "TOPICS-012620"
+      ],
+      "esDA_QueueDate": [
+        "2026-02-17T15:34:08.579+0100"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"RFCS-PJG RFCS Project Grants\",\"typeOfMGA\":[{\"id\":43250365,\"abbreviation\":\"RFCS-AG\",\"description\":\"RFCS Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-02-17\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-05-06\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113297\":[{\"action\":\"RFCS-2026-BT-Coal - RFCS-PJG RFCS Project Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"35000000\"},\"plannedOpeningDate\":\"2026-02-17\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-05-06\"]}]}}"
+      ],
+      "startDate": [
+        "2026-02-17T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p>For help related to this call, please contact: <a href=\"mailto:REA-RFCS@ec.europa.eu\" rel=\"noopener noreferrer\" target=\"_blank\">REA-RFCS@ec.europa.eu</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?order=DESC&amp;pageNumber=1&amp;pageSize=10&amp;sortBy=publicationDate&amp;isExactMatch=true&amp;type=1&amp;grantCategories=p_submission_eval\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ – Submission of proposals</a>.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> – Step-by-step online guide through the Portal processes from proposal preparation and evaluation to reporting on your ongoing project. Valid for all 2021-2027 programmes.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "RFCS-2026-Big Tickets-Coal. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/RFCS-2026-BT-Coal",
+    "score": 3.0
+  }
+}

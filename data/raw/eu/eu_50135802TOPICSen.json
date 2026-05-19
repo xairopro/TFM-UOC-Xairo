@@ -1,0 +1,185 @@
+{
+  "id": "EU-50135802TOPICSen",
+  "topic_id": "50135802TOPICSen",
+  "titulo": "Demonstrating solutions to protect and preserve cultural heritage from the impacts of climate change",
+  "descripcion": "Demonstrating solutions to protect and preserve cultural heritage from the impacts of climate change",
+  "organismo": "43108390",
+  "fecha_publicacion": "2026-02-04",
+  "fecha_limite": "2026-09-23",
+  "deadlines_todas": "2026-09-23",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113025\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-04 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"5000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113024\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-05 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":3,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2026\":\"21000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113027\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-02 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"5000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113026\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-07 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":20000000,\"maxContribution\":20000000,\"budgetYearMap\":{\"2026\":\"20000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113029\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-03 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":1,\"minContribution\":9000000,\"maxContribution\":9000000,\"budgetYearMap\":{\"2026\":\"9186307.3\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113028\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-06 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":2,\"minContribution\":6000000,\"maxContribution\":6000000,\"budgetYearMap\":{\"2026\":\"12000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113030\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-01 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":10000000,\"maxContribution\":10000000,\"budgetYearMap\":{\"2026\":\"10000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "HORIZON Innovation Actions",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-01-CLIMA-05",
+  "text": "EU FUNDING & TENDERS – Topic: 50135802TOPICSen\nProgramme/Organism: 43108390\nTitle: Demonstrating solutions to protect and preserve cultural heritage from the impacts of climate change\nStatus: Open (31094502)\nType of action: HORIZON Innovation Actions\nOpening date: 2026-02-04\nDeadline: 2026-09-23\nAll deadlines: 2026-09-23\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113025\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-04 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"5000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113024\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-05 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":3,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2026\":\"21000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113027\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-02 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"5000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113026\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-07 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":20000000,\"maxContribution\":20000000,\"budgetYearMap\":{\"2026\":\"20000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113029\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-03 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":1,\"minContribution\":9000000,\"maxContribution\":9000000,\"budgetYearMap\":{\"2026\":\"9186307.3\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113028\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-06 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":2,\"minContribution\":6000000,\"maxContribution\":6000000,\"budgetYearMap\":{\"2026\":\"12000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113030\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-01 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":10000000,\"maxContribution\":10000000,\"budgetYearMap\":{\"2026\":\"10000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}]}}\n\nDescription / Scope:\nDemonstrating solutions to protect and preserve cultural heritage from the impacts of climate change\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-01-CLIMA-05",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "50135802TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-01-CLIMA-05",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Demonstrating solutions to protect and preserve cultural heritage from the impacts of climate change",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Demonstrating solutions to protect and preserve cultural heritage from the impacts of climate change",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "F11B0ADFDACCE086EA8EEEEE6DDE274F97B1D97715B4D9BBC0824F8598CFFD33",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-02-06T12:50:00.294\",\"content\":\"The submission session is now available for: HORIZON-MISS-2026-01-CLIMA-05, HORIZON-MISS-2026-01-CLIMA-04, HORIZON-MISS-2026-01-CLIMA-07, HORIZON-MISS-2026-01-CLIMA-02, HORIZON-MISS-2026-01-CLIMA-06, HORIZON-MISS-2026-01-CLIMA-03, HORIZON-MISS-2026-01-CLIMA-01\"}]"
+      ],
+      "es_SortDate": [
+        "2026-02-04T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "HORIZON-MISS-2026-01-CLIMA-05",
+        "HORIZON-MISS-2026-1"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p><strong><em>﻿</em></strong>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex A</a> and <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex E</a> of the Horizon Europe Work Programme General Annexes.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p>A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a>.</p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>The following additional eligibility criteria apply:</p><p>Demonstration activities must take place in the territory of at least 3 different regional or local authorities that host cultural heritage, each established in a different Member State or Associated Country.</p></div><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex C</a> of the Work Programme General Annexes.</p></div></div><div><h4>5a. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex D</a> of the Work Programme General Annexes.</p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex G</a> of the Work Programme General Annexes.</p></div></div></div><div class=\"eui-u-mt-l\"><h4>Specific conditions</h4> <div class=\"eui-u-mt-s\"><p>described in the [specific topic of the Work Programme]</p></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Application and evaluation forms and model grant agreement (MGA):</h4> <div class=\"eui-u-mt-s\"><p><strong>Application form templates</strong> <em>— the application form specific to this call is available in the Submission System</em></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (HE RIA, IA)</a></p><p><strong>Evaluation form templates</strong> <em>— will be used with the necessary adaptations</em> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/ef/ef_he-ria-ia_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard evaluation form (HE RIA, IA)</a>&#xa0;</p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a>&#xa0;</p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE MGA</a>&#xa0;</p><p><strong>Call-specific instructions</strong>&#xa0;</p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-1-general-introduction_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 1. General Introduction</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-12-missions_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 12. Missions</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 15. General Annexes</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0695\" rel=\"noopener noreferrer\" target=\"_blank\">HE Framework Programme 2021/695</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021D0764\" rel=\"noopener noreferrer\" target=\"_blank\">HE Specific Programme Decision 2021/764</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a> </p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "Demonstrating solutions to protect and preserve cultural heritage from the impacts of climate change"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "F11B0ADFDACCE086EA8EEEEE6DDE274F97B1D97715B4D9BBC0824F8598CFFD33"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43027846"
+      ],
+      "callIdentifier": [
+        "HORIZON-MISS-2026-1"
+      ],
+      "ccm2Id": [
+        "50135802"
+      ],
+      "callccm2Id": [
+        "50136449"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50135802TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"HORIZON-MISS-2026-1\",\"criterionCode\":\"HORIZON-IA\",\"criterionDescription\":\"HORIZON Innovation Actions\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43430?topic\\u003dHORIZON-MISS-2026-01-CLIMA-05\",\"startDate\":\"1770163200000\",\"endDate\":\"1790121600000\",\"mgaDescription\":\"HORIZON Action Grant Budget-Based\",\"mgaCode\":\"HORIZON-AG\"}]"
+      ],
+      "callTitle": [
+        "Supporting the implementation of the Adaptation to Climate Change Mission"
+      ],
+      "frameworkProgramme": [
+        "43108390"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Outcome:</p><p>In line with the <a href=\"https://climate.ec.europa.eu/eu-action/adaptation-climate-change/eu-adaptation-strategy_en\">EU Adaptation Strategy</a> and the objectives of the EU Mission on Adaptation to Climate Change, successful proposals will support the preservation of cultural heritage (moveable, immoveable and natural with cultural significance) under a changing climate. Project results are expected to contribute to <u>all</u> the following outcomes:</p><ul level=\"0\"><li><strong>Innovative</strong> <strong>solutions </strong>for protecting and preserving cultural heritage from the impacts of climate change <strong>have</strong><strong> been demonstrated</strong> and are made widely available for upscaling and deployment across the European Union and beyond. This includes nature-based solutions. </li><li><strong>Regional and local authorities </strong>hosting cultural heritage are better prepared to preserve it under a changing climate.</li><li><strong>Relevant stakeholders</strong> - including heritage scientists and managers, climate scientists, regional and local policymakers, civil society and representatives from the tourism industry - <strong>have co-created </strong>and<strong> </strong>put in place climate-resilient solutions. Citizens and local communities have also been engaged in the process.</li> </ul><p class=\"topicdescriptionkind\">Scope:</p><p> </p><p><strong>Rationale </strong></p><p>As the impacts of climate change are becoming increasingly apparent, economic losses associated with it are also increasing. However, not all impacts can be quantified economically. This is the case of cultural heritage, which is particularly threatened by climate change but requires dedicated solutions due to its own specificities. Cultural heritage is a key priority for adaptation in the COP28 <a href=\"https://unfoundation.org/what-we-do/issues/climate-and-energy/uae-framework-for-global-climate-resilience/\">UAE Framework for Global Climate Resilience</a> but has not been addressed by the Mission so far. This is why this action aims to identify and demonstrate solutions that protect and preserve cultural heritage from climate impacts. This topic focuses on tangible (movable and immovable) heritage, and natural heritage with cultural significance.</p><p>Innovative and effective solutions are needed to help cultural heritage managers and local communities to prepare the cultural heritage sites, structures, and artefacts against the climate impacts, in a way that safeguards their cultural and historical integrity and acknowledges the importance they hold for present and future generations.</p><p><strong>Solutions sought</strong></p><p><strong>Proposals should identify, test and demonstrate innovative solutions to </strong>protect and preserve cultural heritage from the impacts of climate change and identify possible trade-offs and co-benefits.</p><p>The solutions may address different aspects of heritage protection and preservation such as, but not limited to, innovative environmental assessment methodologies, monitoring technologies and systems, (green) conservation and restoration techniques<sup>[1]</sup>, risk management and disaster prevention, etc. <u>All</u> of the following aspects should be considered:</p><ul level=\"0\"><li>The solutions are expected to be co-designed by all the relevant stakeholders and to engage citizens.</li><li>When relevant, nature-based solutions should be explored as a priority</li><li>The solutions should consider the potential interactions and compound effects of different hazards.</li><li>Careful consideration is necessary to avoid maladaptation.</li> </ul><p>This topic requires the effective contribution of SSH disciplines and the involvement of SSH experts, institutions as well as the inclusion of relevant SSH expertise, in order to produce meaningful and significant effects enhancing the societal impact of the related research activities</p><p><strong>Demonstration sites and related activities</strong></p><p>The Mission encourages collaborations between regional and local authorities facing similar challenges and considers this to be a very efficient approach to secure a large impact. Therefore, the demonstration activities of the proposals:</p><ul level=\"0\"><li>Must take place in the territory of <strong>at least 3 different regional or local authorities that host cultural heritage</strong>, each established in a different Member State or Associated Country, with the involvement of these regional or local authorities and of relevant heritage managers (preferably participating in the consortium as a beneficiary or associated partner).</li><li>Should already identify at least <strong>3 replicating regional or local authorities</strong> <strong>from 3 different Member States or Associated Countries</strong>, interested in reapplying the lessons learnt (totally, partially or with the required adjustments) in their territories. For the replication, the consortium could include one or more partners that would provide support for the technical exchanges and the knowledge uptake in the replicating” regions or local authorities. Replicating regions are not necessarily expected to carry out on the ground activities already in the course of the project. However, replicating regions should at least prepare the theoretical framework for replicating the successful solutions and explore means to fund the implementation of those solutions.</li> </ul><p><strong>Links to the Mission and to other projects and initiatives </strong></p><p>Proposals should build (when relevant) on existing knowledge and adaptation solutions developed by previous projects<sup>[2]</sup> and explore synergies with ongoing projects<sup>[3]</sup> from EU and national programmes, like the European Partnership for Resilient Cultural Heritage and the <a href=\"https://www.heritageresearch-hub.eu/joint-programming-initiative-on-cultural-heritage-homepage/\">Joint Programming Initiative on Cultural Heritage and Global Change</a>.</p><p>Synergies with other funding sources (EU and national) are encouraged to identify opportunities to scale up the solutions demonstrated and to foster their broad deployment across Europe through other programmes.</p><p>Proposals should include a mechanism and the resources to establish operational links and collaboration with the Mission Implementation Platform (including on monitoring). Projects funded under this topic will be expected to participate in the Mission Community of Practice and to share relevant knowledge to feed the work of the project stemming from HORIZON-MISS-2026-01-CLIMA-02. Proposals are encouraged to (dedicate resources to) link their monitoring to the framework developed by the project <a href=\"https://cordis.europa.eu/project/id/101215153\">UNDERPIN</a>.</p><p>Applicants should acknowledge these elements and already account for them in their proposal, making adequate provisions in terms of resources and budget to engage and collaborate with the Mission.</p><p class=\"eui-u-font-s\">[1] a green conservation approach is minimally harmful to the environment and humans. Aligning with the circular economy, green conservation is decarbonizing, zero-waste, accessible, and available. (<a href=\"https://cordis.europa.eu/project/id/101060768\">GoGreen</a>)</p><p class=\"eui-u-font-s\">[2] <sup> </sup>Topics from Horizon Europe’s cluster 2 that are particularly relevant include : <a href=\"https://cordis.europa.eu/programme/id/HORIZON_HORIZON-CL2-2021-HERITAGE-01-01/en\">HORIZON-CL2-2021-HERITAGE-01-01</a>; <a href=\"https://cordis.europa.eu/programme/id/HORIZON_HORIZON-CL2-2022-HERITAGE-01-08/en\">HORIZON-CL2-2022-HERITAGE-01-08</a>; <a href=\"https://cordis.europa.eu/programme/id/HORIZON_HORIZON-CL2-2023-HERITAGE-01-01/en\">HORIZON-CL2-2023-HERITAGE-01-01</a><u>,.</u> <u> as well as </u><a href=\"https://www.europeanheritagehub.eu/\">European Heritage Hub</a></p><p class=\"eui-u-font-s\">[3] See for example, <a href=\"https://civil-protection-knowledge-network.europa.eu/search?s=cultural%20heritage&amp;f%5B0%5D=content_type%3Aucpkn_project\">EU’s disaster risk management-related</a> capacity building projects</p>"
+      ],
+      "identifier": [
+        "HORIZON-MISS-2026-01-CLIMA-05"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43108557",
+        "43118846",
+        "43118971",
+        "43120193",
+        "43120821",
+        "43121563",
+        "43108541",
+        "43108390"
+      ],
+      "crossCuttingPriorities": [
+        "AI",
+        "SSH",
+        "DigitalAgenda"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-01-19T16:31:20.180+0100"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-09-23T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-03-02T09:36:41.492+0100"
+      ],
+      "typesOfAction": [
+        "HORIZON Innovation Actions"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-01-CLIMA-05"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-01-CLIMA-05"
+      ],
+      "tags": [],
+      "cenTagsA": [
+        "TOPICS-002371",
+        "TOPICS-002372",
+        "TOPICS-002373",
+        "TOPICS-002374",
+        "TOPICS-002375",
+        "TOPICS-002376"
+      ],
+      "esDA_QueueDate": [
+        "2026-03-02T09:36:41.475+0100"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"HORIZON-IA HORIZON Innovation Actions\",\"typeOfMGA\":[{\"id\":43027846,\"abbreviation\":\"HORIZON-AG\",\"description\":\"HORIZON Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-02-04\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-09-23\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113025\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-04 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"5000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113024\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-05 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":3,\"minContribution\":7000000,\"maxContribution\":7000000,\"budgetYearMap\":{\"2026\":\"21000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113027\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-02 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":5000000,\"maxContribution\":5000000,\"budgetYearMap\":{\"2026\":\"5000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113026\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-07 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":20000000,\"maxContribution\":20000000,\"budgetYearMap\":{\"2026\":\"20000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113029\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-03 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":1,\"minContribution\":9000000,\"maxContribution\":9000000,\"budgetYearMap\":{\"2026\":\"9186307.3\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113028\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-06 - HORIZON-RIA HORIZON  Research and Innovation Actions\",\"expectedGrants\":2,\"minContribution\":6000000,\"maxContribution\":6000000,\"budgetYearMap\":{\"2026\":\"12000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113030\":[{\"action\":\"HORIZON-MISS-2026-01-CLIMA-01 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":10000000,\"maxContribution\":10000000,\"budgetYearMap\":{\"2026\":\"10000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}]}}"
+      ],
+      "startDate": [
+        "2026-02-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> – find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> – ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> – get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (‘third-countries’).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> – contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> – the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> – consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Demonstrating solutions to protect and preserve cultural heritage from the impacts of climate change. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-01-CLIMA-05",
+    "score": 3.0
+  }
+}

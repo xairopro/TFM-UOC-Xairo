@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902927",
+  "id_interno": 1104488,
+  "numero_convocatoria": "902927",
+  "organismo": "LOCAL — DIPUTACIÓN PROV. DE TOLEDO — DIPUTACIÓN PROVINCIAL DE TOLEDO",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - canónica",
+  "descripcion": "CONVOCATORIA DE SUBVENCIONES DEL PLAN EXTRAORDINARIO DE INVERSIONES PARA LA REACTIVACIÓN DE LA ACTIVIDAD ECONÓMICA Y LA RECUPERACIÓN MUNICIPAL 2026 EN LAS ENTIDADES LOCALES DE LA PROVINCIA DE TOLEDO.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de construcción especializada en la construcción de edificios",
+  "regiones": "ES425 - Toledo",
+  "finalidad": "Infraestructuras",
+  "bases_reguladoras": "Bases 38 a 43 de ejecución del presupuesto de gastos de la Diputación Provincial de Toledo 2026",
+  "url_bases_reguladoras": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.diputoledo.es/global/53/ver_pdf/36600",
+  "presupuesto": "20.000.000,00 €",
+  "presupuesto_total_num": 20000000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902927",
+  "text": "CONVOCATORIA BDNS Nº 902927\nOrganismo: LOCAL — DIPUTACIÓN PROV. DE TOLEDO — DIPUTACIÓN PROVINCIAL DE TOLEDO\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - canónica\nPresupuesto total: 20.000.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de construcción especializada en la construcción de edificios\nRegiones: ES425 - Toledo\nFinalidad: Infraestructuras\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA DE SUBVENCIONES DEL PLAN EXTRAORDINARIO DE INVERSIONES PARA LA REACTIVACIÓN DE LA ACTIVIDAD ECONÓMICA Y LA RECUPERACIÓN MUNICIPAL 2026 EN LAS ENTIDADES LOCALES DE LA PROVINCIA DE TOLEDO.\n\nBases reguladoras:\nBases 38 a 43 de ejecución del presupuesto de gastos de la Diputación Provincial de Toledo 2026\nURL bases reguladoras: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.diputoledo.es/global/53/ver_pdf/36600\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902927",
+  "_raw": {
+    "id": 1104488,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DIPUTACIÓN PROV. DE TOLEDO",
+      "nivel3": "DIPUTACIÓN PROVINCIAL DE TOLEDO"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902927",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - canónica",
+    "presupuestoTotal": 20000000,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA DE SUBVENCIONES DEL PLAN EXTRAORDINARIO DE INVERSIONES PARA LA REACTIVACIÓN DE LA ACTIVIDAD ECONÓMICA Y LA RECUPERACIÓN MUNICIPAL 2026 EN LAS ENTIDADES LOCALES DE LA PROVINCIA DE TOLEDO.",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de construcción especializada en la construcción de edificios",
+        "codigo": "43.4"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES425 - Toledo"
+      }
+    ],
+    "descripcionFinalidad": "Infraestructuras",
+    "descripcionBasesReguladoras": "Bases 38 a 43 de ejecución del presupuesto de gastos de la Diputación Provincial de Toledo 2026",
+    "urlBasesReguladoras": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.diputoledo.es/global/53/ver_pdf/36600",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "A partir del día a la publicación del extracto en el BOP de Toledo",
+    "textFin": "Dos meses despúes, finanlizando el mismo día de publicación del extracto en el BOP",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446718,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "14. Bases y Convocatoria Plan Extraordinario Inversiones 2026.pdf",
+        "long": 1262362,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

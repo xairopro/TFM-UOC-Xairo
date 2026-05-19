@@ -1,0 +1,141 @@
+{
+  "id": "BDNS-901580",
+  "id_interno": 1103141,
+  "numero_convocatoria": "901580",
+  "organismo": "ESTADO — MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA — ICEX ESPAÑA EXPORTACIÓN E INVERSIONES, EP E.",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "2026-04-24",
+  "fecha_fin_solicitud": "2026-04-30",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Resolución de 26 de marzo de 2026 de ICEX España Exportación e Inversiones, E.P.E. por la que se convoca concesión de ayudas para la Participación Agrupada en la Feria Intersolar Munich del 23 de junio de 2026 al 25 de junio de 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de las sedes centrales y consultoría de gestión empresarial, Actividades de publicidad, estudios de mercado y relaciones públicas, Actividades jurídicas y de contabilidad, Fabricación de material y equipo eléctrico, Fabricación de productos informáticos, electrónicos y ópticos, Fabricación de productos metálicos, excepto maquinaria y equipo, Investigación y desarrollo, Metalurgia, Otras actividades profesionales, científicas y técnicas, Otras industrias manufactureras, Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos, Suministro de energía eléctrica, gas, vapor y aire acondicionado",
+  "regiones": "ES - ESPAÑA",
+  "finalidad": "Comercio, Turismo y Pymes",
+  "bases_reguladoras": "Normativa por la que se regula la concesión de ayudas de la Entidad Pública Empresarial ICEX España Exportación e Inversiones, E.P.E.",
+  "url_bases_reguladoras": "https://www.icex.es/content/dam/icex/asset-generales/documentos/servicios/ayuda-y-financiacion/ayudas-icex/ayudas-a-entidades-colaboradoras-y-empresas/normativa/2025/normativa-concesion-ayudas-icex-empresas.pdf",
+  "presupuesto": "10.500,00 €",
+  "presupuesto_total_num": 10500,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "REG (UE) 1407/2013 de minimis, General",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901580",
+  "text": "CONVOCATORIA BDNS Nº 901580\nOrganismo: ESTADO — MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA — ICEX ESPAÑA EXPORTACIÓN E INVERSIONES, EP E.\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud: 2026-04-24 → 2026-04-30 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 10.500,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de las sedes centrales y consultoría de gestión empresarial, Actividades de publicidad, estudios de mercado y relaciones públicas, Actividades jurídicas y de contabilidad, Fabricación de material y equipo eléctrico, Fabricación de productos informáticos, electrónicos y ópticos, Fabricación de productos metálicos, excepto maquinaria y equipo, Investigación y desarrollo, Metalurgia, Otras actividades profesionales, científicas y técnicas, Otras industrias manufactureras, Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos, Suministro de energía eléctrica, gas, vapor y aire acondicionado\nRegiones: ES - ESPAÑA\nFinalidad: Comercio, Turismo y Pymes\nFondos: \nReglamento: REG (UE) 1407/2013 de minimis, General\nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nResolución de 26 de marzo de 2026 de ICEX España Exportación e Inversiones, E.P.E. por la que se convoca concesión de ayudas para la Participación Agrupada en la Feria Intersolar Munich del 23 de junio de 2026 al 25 de junio de 2026\n\nBases reguladoras:\nNormativa por la que se regula la concesión de ayudas de la Entidad Pública Empresarial ICEX España Exportación e Inversiones, E.P.E.\nURL bases reguladoras: https://www.icex.es/content/dam/icex/asset-generales/documentos/servicios/ayuda-y-financiacion/ayudas-icex/ayudas-a-entidades-colaboradoras-y-empresas/normativa/2025/normativa-concesion-ayudas-icex-empresas.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901580",
+  "_raw": {
+    "id": 1103141,
+    "organo": {
+      "nivel1": "ESTADO",
+      "nivel2": "MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA",
+      "nivel3": "ICEX ESPAÑA EXPORTACIÓN E INVERSIONES, EP E."
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901580",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 10500,
+    "mrr": false,
+    "descripcion": "Resolución de 26 de marzo de 2026 de ICEX España Exportación e Inversiones, E.P.E. por la que se convoca concesión de ayudas para la Participación Agrupada en la Feria Intersolar Munich del 23 de junio de 2026 al 25 de junio de 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de las sedes centrales y consultoría de gestión empresarial",
+        "codigo": "70"
+      },
+      {
+        "descripcion": "Actividades de publicidad, estudios de mercado y relaciones públicas ",
+        "codigo": "73"
+      },
+      {
+        "descripcion": "Actividades jurídicas y de contabilidad",
+        "codigo": "69"
+      },
+      {
+        "descripcion": "Fabricación de material y equipo eléctrico",
+        "codigo": "27"
+      },
+      {
+        "descripcion": "Fabricación de productos informáticos, electrónicos y ópticos",
+        "codigo": "26"
+      },
+      {
+        "descripcion": "Fabricación de productos metálicos, excepto maquinaria y equipo",
+        "codigo": "25"
+      },
+      {
+        "descripcion": "Investigación y desarrollo",
+        "codigo": "72"
+      },
+      {
+        "descripcion": "Metalurgia",
+        "codigo": "24"
+      },
+      {
+        "descripcion": "Otras actividades profesionales, científicas y técnicas",
+        "codigo": "74"
+      },
+      {
+        "descripcion": "Otras industrias manufactureras",
+        "codigo": "32"
+      },
+      {
+        "descripcion": "Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos",
+        "codigo": "71"
+      },
+      {
+        "descripcion": "Suministro de energía eléctrica, gas, vapor y aire acondicionado",
+        "codigo": "35"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES - ESPAÑA "
+      }
+    ],
+    "descripcionFinalidad": "Comercio, Turismo y Pymes",
+    "descripcionBasesReguladoras": "Normativa por la que se regula la concesión de ayudas de la Entidad Pública Empresarial ICEX España Exportación e Inversiones, E.P.E.",
+    "urlBasesReguladoras": "https://www.icex.es/content/dam/icex/asset-generales/documentos/servicios/ayuda-y-financiacion/ayudas-icex/ayudas-a-entidades-colaboradoras-y-empresas/normativa/2025/normativa-concesion-ayudas-icex-empresas.pdf",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-04-24",
+    "fechaFinSolicitud": "2026-04-30",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": {
+      "descripcion": "REG (UE) 1407/2013 de minimis, General",
+      "orden": null
+    },
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442683,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "1. FA Intersolar 2026.pdf",
+        "long": 678076,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

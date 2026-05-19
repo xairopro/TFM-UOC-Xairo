@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-901686",
+  "id_interno": 1103247,
+  "numero_convocatoria": "901686",
+  "organismo": "LOCAL — CIZUR — AYUNTAMIENTO DE CIZUR",
+  "sede_electronica": "https://cendeadecizur.sedelectronica.es/info.4",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "2026-05-01",
+  "fecha_fin_solicitud": "2026-05-11",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "CERTAMEN DE EMBELLECIMIENTO DE FACHADAS ORGANIZADO POR EL AYUNTAMIENTO DE LA CENDEA DE CIZUR",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+  "regiones": "ES22 - COMUNIDAD FORAL DE NAVARRA",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "BASES REGULADORAS DEL 3º. CERTAMEN DE EMBELLECIMIENTO DE FACHADAS ORGANIZADO POR EL AYUNTAMIENTO DE LA CENDEA DE CIZUR",
+  "url_bases_reguladoras": "https://cendeadecizur.sedelectronica.es/preview-document/072d39dd-448b-487f-973d-2bc7b2b40635/",
+  "presupuesto": "1.280,00 €",
+  "presupuesto_total_num": 1280,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901686",
+  "text": "CONVOCATORIA BDNS Nº 901686\nOrganismo: LOCAL — CIZUR — AYUNTAMIENTO DE CIZUR\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud: 2026-05-01 → 2026-05-11 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 1.280,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO\nRegiones: ES22 - COMUNIDAD FORAL DE NAVARRA\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCERTAMEN DE EMBELLECIMIENTO DE FACHADAS ORGANIZADO POR EL AYUNTAMIENTO DE LA CENDEA DE CIZUR\n\nBases reguladoras:\nBASES REGULADORAS DEL 3º. CERTAMEN DE EMBELLECIMIENTO DE FACHADAS ORGANIZADO POR EL AYUNTAMIENTO DE LA CENDEA DE CIZUR\nURL bases reguladoras: https://cendeadecizur.sedelectronica.es/preview-document/072d39dd-448b-487f-973d-2bc7b2b40635/\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901686",
+  "_raw": {
+    "id": 1103247,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "CIZUR",
+      "nivel3": "AYUNTAMIENTO DE CIZUR"
+    },
+    "sedeElectronica": "https://cendeadecizur.sedelectronica.es/info.4",
+    "codigoBDNS": "901686",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 1280,
+    "mrr": false,
+    "descripcion": "CERTAMEN DE EMBELLECIMIENTO DE FACHADAS ORGANIZADO POR EL AYUNTAMIENTO DE LA CENDEA DE CIZUR",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES22 - COMUNIDAD FORAL DE NAVARRA"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "BASES REGULADORAS DEL 3º. CERTAMEN DE EMBELLECIMIENTO DE FACHADAS ORGANIZADO POR EL AYUNTAMIENTO DE LA CENDEA DE CIZUR",
+    "urlBasesReguladoras": "https://cendeadecizur.sedelectronica.es/preview-document/072d39dd-448b-487f-973d-2bc7b2b40635/",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-05-01",
+    "fechaFinSolicitud": "2026-05-11",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443020,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Certamen embellecimiento de fachadas.docx",
+        "long": 210494,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

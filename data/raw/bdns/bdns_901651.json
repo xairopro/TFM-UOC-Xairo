@@ -1,0 +1,114 @@
+{
+  "id": "BDNS-901651",
+  "id_interno": 1103212,
+  "numero_convocatoria": "901651",
+  "organismo": "LOCAL — CONSELL COMARCAL DE RIPOLLÈS — CONSELL COMARCAL DE RIPOLLÈS",
+  "sede_electronica": "www.ripolles.cat",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "2026-05-04",
+  "fecha_fin_solicitud": "2026-05-31",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA PARA El OTORGAMIENTO DE LAS AYUDAS INDIVIDUALES DE COMEDOR DIRIGIDOS AL ALUMNADO DE ENSEÑANZA OBLIGATORIA Y DE EDUCACIÓN INFANTIL ESCOLARIZADOS EN CENTROS EDUCATIVOS, SUFRAGADOS CON FONDOS PÚBLICOS, DE LA COMARCA DEL RIPOLLÈS PARA EL CURSO 20",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "EDUCACIÓN",
+  "regiones": "ES51 - CATALUÑA",
+  "finalidad": "Educación",
+  "bases_reguladoras": "BASES REGULADORAS PARA EL OTORGAMIENTO DE AYUDAS INDIVIDUALES DE DESPLAZAMIENTO AL ALUMNADO DE ENSEÑANZA OBLIGATORIA Y DE SEGUNDO CICLO DE EDUCACIÓN INFANTIL DE LA COMARCA DEL RIPOLLÈS, PARA EL CURSO ESCOLAR 2026-2027",
+  "url_bases_reguladoras": "https://ripolles.cat/wp-content/uploads/2026/04/ensenyament-bases-transport-26-27-cast.pdf",
+  "presupuesto": "36.383,19 €",
+  "presupuesto_total_num": 36383.19,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901651",
+  "text": "CONVOCATORIA BDNS Nº 901651\nOrganismo: LOCAL — CONSELL COMARCAL DE RIPOLLÈS — CONSELL COMARCAL DE RIPOLLÈS\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud: 2026-05-04 → 2026-05-31 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 36.383,19 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: EDUCACIÓN\nRegiones: ES51 - CATALUÑA\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA PARA El OTORGAMIENTO DE LAS AYUDAS INDIVIDUALES DE COMEDOR DIRIGIDOS AL ALUMNADO DE ENSEÑANZA OBLIGATORIA Y DE EDUCACIÓN INFANTIL ESCOLARIZADOS EN CENTROS EDUCATIVOS, SUFRAGADOS CON FONDOS PÚBLICOS, DE LA COMARCA DEL RIPOLLÈS PARA EL CURSO 20\n\nBases reguladoras:\nBASES REGULADORAS PARA EL OTORGAMIENTO DE AYUDAS INDIVIDUALES DE DESPLAZAMIENTO AL ALUMNADO DE ENSEÑANZA OBLIGATORIA Y DE SEGUNDO CICLO DE EDUCACIÓN INFANTIL DE LA COMARCA DEL RIPOLLÈS, PARA EL CURSO ESCOLAR 2026-2027\nURL bases reguladoras: https://ripolles.cat/wp-content/uploads/2026/04/ensenyament-bases-transport-26-27-cast.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901651",
+  "_raw": {
+    "id": 1103212,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "CONSELL COMARCAL DE RIPOLLÈS",
+      "nivel3": "CONSELL COMARCAL DE RIPOLLÈS"
+    },
+    "sedeElectronica": "www.ripolles.cat",
+    "codigoBDNS": "901651",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 36383.19,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA PARA El OTORGAMIENTO DE LAS AYUDAS INDIVIDUALES DE COMEDOR DIRIGIDOS AL ALUMNADO DE ENSEÑANZA OBLIGATORIA Y DE EDUCACIÓN INFANTIL ESCOLARIZADOS EN CENTROS EDUCATIVOS, SUFRAGADOS CON FONDOS PÚBLICOS, DE LA COMARCA DEL RIPOLLÈS PARA EL CURSO 20",
+    "descripcionLeng": "CONVOCATÒRIA PER A L’ATORGAMENT D’AJUTS INDIVIDUALS DE MENJADOR ADREÇATS A L’ALUMNAT D’ENSENYAMENT OBLIGATORI I D'EDUCACIÓ INFANTIL ESCOLARITZATS EN CENTRES EDUCATIUS, SUFRAGATS AMB FONS PÚBLICS, DE LA COMARCA DEL RIPOLLÈS, PER AL CURS ESCOLAR 2026-2027 ",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES51 - CATALUÑA"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "BASES REGULADORAS PARA EL OTORGAMIENTO DE AYUDAS INDIVIDUALES DE DESPLAZAMIENTO AL ALUMNADO DE ENSEÑANZA OBLIGATORIA Y DE SEGUNDO CICLO DE EDUCACIÓN INFANTIL DE LA COMARCA DEL RIPOLLÈS, PARA EL CURSO ESCOLAR 2026-2027",
+    "urlBasesReguladoras": "https://ripolles.cat/wp-content/uploads/2026/04/ensenyament-bases-transport-26-27-cast.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-05-04",
+    "fechaFinSolicitud": "2026-05-31",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442958,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "DECRET CONVOCATORIA AJUTS TRANSPORT ESCOLAR 2026-27.PDF",
+        "long": 2231956,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1442956,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "CERT DECRETO CONVOCATORIA AYUDAS TRANSPORTE ESCOLAR 2026-2027.PDF",
+        "long": 2241766,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210117,
+        "titulo": "Extracto del Decreto de Presidencia de fecha 24 de abril de 2026 del Consell Comarcal del Ripollès por el que se aprueba la convocatoria de las ayudas individuales de desplazamiento dirigidas al alumnado de enseñanza obligatoria y de segundo ciclo de educación infantil de la comarca del Ripollès, para el curso 2026-2027",
+        "tituloLeng": "Extracte del Decret de Presidència de data 24 d’abril de 2026 del Consell Comarcal del Ripollès pel qual s’obre la convocatòria dels ajuts de desplaçament dirigits a l’alumnat d’ensenyament obligatori i de segon cicle d’educació infantil, per al curs 2026-2027",
+        "texto": "<p>Primero. BeneficiariosPodrá ser beneficiario de las ayudas individuales de desplazamiento, el alumnado que reúna los requisitos siguientes:- Alumnado que no dispone del servicio escolar de transporte colectivo. (ayuda geográfica)- Alumnado que tiene su domicilio a más de 3 kilómetros de la parada más próxima del servicio escolar de transporte colectivo o del transporte público. (ayuda geográfica)- Alumnado que utilice, de manera continuada y no gratuita, el servicio escolar de transporte colectivo o el transporte público. (ayuda socioeconómica)</p><p>Segundo. ObjetoContribuir económicamente con el traslado de los alumnos desde su domicilio hasta el centro escolar.</p><p>Tercero. Bases reguladoresAprobadas provisionalmente por acuerdo plenario de 17 de marzo de 2026, estas se publicaron íntegramente en el BOP de Girona núm. 56, el día 23 de marzo de 2026. Una vez transcurrido el período de exposición pública sin que se presentara ninguna alegación la aprobación paso a ser definitiva y así se publicó en el BOP de Girona núm. 78, el día 24 de abril de 2026.</p><p>Cuarto. ImporteDependerá del kilometraje y de los parámetros establecidos en el artículo 5 de las bases reguladorasQuinto. Plazo de presentación de las solicitudesEl plazo para poder solicitar estas ayudas se iniciará el día siguiente de la fecha de publicación del anuncio de esta convocatoria al Boletín Oficial de la Provincia de Girona y finalizará el día 31 de mayo de 2026.</p>",
+        "textoLeng": "<p>Primer. BeneficiarisPodran ser beneficiaris dels ajuts individuals de desplaçament, l’alumnat que reuneixi els requisits següents:- Alumnat que no disposa dels servei escolar de transport col·lectiu (ajut geogràfic)- Alumnat que té el seu domicili a més de 3 quilòmetres de la parada més propera del servei escolar de transport col·lectiu o del transport públic (ajut geogràfic)- Alumnat que utilitzi, de manera continuada i no gratuïta, el servei escolar de transport col·lectiu o el transport públic (ajut socioeconòmic)</p><p>Segon. ObjecteContribuir econòmicament el trasllat dels alumnes beneficiaris des del seu domicili al centre escolar assignat.</p><p>Tercer. Bases reguladoresAprovades provisionalment per acord plenari del 17 de març de 2026, es van publicar íntegrament al BOP de Girona núm. 56, el dia 23 de març de 2026. Una vegada transcorregut el període d’exposició pública sense que s’hagués presentat cap al·legació la seva aprovació va esdevenir definitiva i així es va publicar al BOP de Girona núm. 78, el dia 24 d’abril de 2026.</p><p>Quart. ImportDependrà del quilometratge i dels paràmetres establerts en l’article 5 de les bases reguladoresCinquè. Termini de presentació de les sol·licitudsEl termini per poder sol·licitar aquests ajuts s’iniciarà l’endemà de la data de la publicació de l’anunci d’aquesta convocatòria al Butlletí Oficial de la Província de Girona i finalitzarà el dia 31 de maig de 2026.</p>",
+        "url": "https://ssl4.ddgi.cat/bopV1/pdf/2026/82/20268203491.pdf",
+        "cve": null,
+        "desDiarioOficial": "B.O.P. DE GIRONA",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

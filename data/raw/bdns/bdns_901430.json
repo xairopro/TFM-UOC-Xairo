@@ -1,0 +1,138 @@
+{
+  "id": "BDNS-901430",
+  "id_interno": 1102991,
+  "numero_convocatoria": "901430",
+  "organismo": "LOCAL — OURENSE — AYUNTAMIENTO DE OURENSE",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA PÚBLICA DE AYUDAS EN ESPECIE PARA LA ADQUISICIÓN DE LIBROS Y MATERIAL ESCOLAR Y PARA COMEDORES ESCOLARES PARA EL CURSO 2026/2027 (Exp. 2026015785)",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+  "regiones": "ES113 - Ourense",
+  "finalidad": "Servicios Sociales y Promoción Social",
+  "bases_reguladoras": "BASES REGULADORAS PARA LA CONCESIÓN DE AYUDAS PARA LA ADQUISICIÓN DE LIBROS DE TEXTO Y MATERIAL ESCOLAR Y PARA COMEDORES ESCOLARES.",
+  "url_bases_reguladoras": "https://sede.ourense.gob.es/public/catalog-detail/62353340",
+  "presupuesto": "325.000,00 €",
+  "presupuesto_total_num": 325000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901430",
+  "text": "CONVOCATORIA BDNS Nº 901430\nOrganismo: LOCAL — OURENSE — AYUNTAMIENTO DE OURENSE\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 325.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES\nRegiones: ES113 - Ourense\nFinalidad: Servicios Sociales y Promoción Social\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA PÚBLICA DE AYUDAS EN ESPECIE PARA LA ADQUISICIÓN DE LIBROS Y MATERIAL ESCOLAR Y PARA COMEDORES ESCOLARES PARA EL CURSO 2026/2027 (Exp. 2026015785)\n\nBases reguladoras:\nBASES REGULADORAS PARA LA CONCESIÓN DE AYUDAS PARA LA ADQUISICIÓN DE LIBROS DE TEXTO Y MATERIAL ESCOLAR Y PARA COMEDORES ESCOLARES.\nURL bases reguladoras: https://sede.ourense.gob.es/public/catalog-detail/62353340\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901430",
+  "_raw": {
+    "id": 1102991,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "OURENSE",
+      "nivel3": "AYUNTAMIENTO DE OURENSE"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901430",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 325000,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA PÚBLICA DE AYUDAS EN ESPECIE PARA LA ADQUISICIÓN DE LIBROS Y MATERIAL ESCOLAR Y PARA COMEDORES ESCOLARES PARA EL CURSO 2026/2027 (Exp. 2026015785)",
+    "descripcionLeng": "CONVOCATORIA PÚBLICA DE AXUDAS EN ESPECIE PARA A ADQUISICIÓN DE LIBROS E MATERIAL ESCOLAR E PARA COMEDORES ESCOLARES PARA O CURSO 2026/2027 (Exp. 2026015785)",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+        "codigo": "R"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES113 - Ourense"
+      }
+    ],
+    "descripcionFinalidad": "Servicios Sociales y Promoción Social",
+    "descripcionBasesReguladoras": "BASES REGULADORAS PARA LA CONCESIÓN DE AYUDAS PARA LA ADQUISICIÓN DE LIBROS DE TEXTO Y MATERIAL ESCOLAR Y PARA COMEDORES ESCOLARES.",
+    "urlBasesReguladoras": "https://sede.ourense.gob.es/public/catalog-detail/62353340",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Desde el día siguiente al de la publicación de la convocatoria en el BOP",
+    "textFin": "15 días hábiles desde la publicación de la convocatoria",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442258,
+        "descripcion": "Bases reguladoras Gallego",
+        "nombreFic": "Bases galego.pdf",
+        "long": 693969,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442253,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "Acuerdo Junta de gobierno GALEGO.pdf",
+        "long": 135308,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442254,
+        "descripcion": "Extracto de la convocatoria",
+        "nombreFic": "Extracto_bilingüe7640563749810988252.pdf",
+        "long": 262525,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442256,
+        "descripcion": "Bases reguladoras",
+        "nombreFic": "Bases castellano.pdf",
+        "long": 734018,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442252,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Acuerdo Junta de gob CASTELLANO.pdf",
+        "long": 135737,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 209998,
+        "titulo": "EXTRACTO DEL ACUERDO DE LA CONVOCATORIA PÚBLICA DE AYUDAS EN ESPECIE PARA ADQUISICIÓN DE LIBROS Y MATERIAL ESCOLAR Y PARA COMEDORES ESCOLARES PARA EL CURSO 2026/2027 (Exp. 2026015785)",
+        "tituloLeng": "EXTRACTO DO ACORDO DA CONVOCATORIA PÚBLICA DE AXUDAS EN ESPECIE PARA A ADQUISICIÓN DE LIBROS E MATERIAL ESCOLAR E PARA COMEDORES ESCOLARES PARA O CURSO 2026/2027 (Exp. 2026015785)",
+        "texto": "<p>Primero.- Beneficiarios</p><p>Son destinatarios de esta convocatoria, en los términos establecidos en el articulo 5 de las bases, las unidades familiares de convivencia con menores de edad escolarizados en centros escolares públicos o concertados de la ciudad de Ourense que, en la fecha en que finalice el plazo de presentación de solicitudes cumplan los requisitos del artículo 6 de las bases, entre otros:</p><p>- Estar empadronado en el término municipal de Ourense con una antelación mínima de 3 meses a la solicitud.</p><p>- Que la capacidad económica anual no exceda de 4.000,00 euros de la renta per cápita de la unidad de convivencia para las ayudas de libros y material escolar, y de 4.000,00 euros de la renta per cápita de la unidad de convivencia, para las ayudas de comedor.</p><p>- No disponer de bienes muebles o inmuebles, distintos a la vivienda habitual, sobre los que se posea un derecho de propiedad, posesión, usufructo o cualquier otro que, por sus características, valoración, posibilidad de explotación o venta, indique la existencia de medios suficientes para atender la necesidad para la que se solicita la ayuda.</p><p>Segundo.- Objeto</p><p>El objeto de estas bases es la regulación de la concesión de ayudas para la adquisición de libros de texto y material escolar y para comedor escolar, destinadas a unidades de convivencia en desventaja social y con menor poder adquisitivo del Ayuntamiento de Ourense, que tengan niños/as a su cargo escolarizados en centros públicos o concertados del Ayuntamiento de Ourense, en los que no se segregue al alumnado por sexo.</p><p>Tercero.- Bases reguladoras</p><p>Las bases reguladoras estarán a disposición de los interesados en la página web del Ayuntamiento de Ourense www.ourense.gal.</p><p>Cuarto.- Cuantía</p><p>La concesión de las subvenciones de esta convocatoria será atendida:</p><p>- Para ayudas de libros de texto y material escolar, hasta un importe máximo de veinticinco mil euros (25.000 €) con cargo a la partida 260.2311.22690 del presupuesto municipal vigente.</p><p>- Para ayudas destinadas a comedores escolares hasta un importe máximo de noventa mil euros (90.000,00 €) para el ejercicio 2026 con cargo a la partida 260.2313.22642 del presupuesto municipal vigente.</p><p>- Para ayudas destinadas a comedores escolares hasta un importe máximo de doscientos diez mil euros (210.000,00 €) para el ejercicio 2027, con cargo a la aplicación 260.2313.22642 del presupuesto municipal vigente “ejercicios futuros”.</p><p>Quinto.- Plazo de presentación de las solicitudes</p><p>Las solicitudes deberán presentarse, debidamente cubiertas, en el registro general del Ayuntamiento de Ourense o por cualquier medio de los establecidos en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas. El plazo de presentación será de 15 días hábiles contados a partir del día siguiente al de la publicación de la convocatoria en el Boletín Oficial de la Provincia.</p><p>Los impresos de solicitud de la subvención estarán disponibles en la página web municipal www.ourense.gal. La documentación a presentar junto con la solicitud será la determinada en las Bases reguladoras.</p><p> </p><p>Contra este acuerdo, que pone fin a la vía administrativa, se puede interponer alternativamente recurso potestativo de reposición ante el mismo órgano que dictó el acto, en el plazo de un mes a contar desde el día siguiente a la recepción de la notificación, de conformidad con lo dispuesto en el artículo 123 y 124 de la Ley 39/2015, de 1 de octubre, de procedimiento administrativo común de las Administraciones Públicas, o bien interponer directamente recurso contencioso- administrativo, ante la sección Contencioso- Administrativa del Tribunal de Instancia de Ourense, en el plazo de dos meses, a contar desde el día siguiente a la recepción de la notificación, de conformidad con el artículo 46 de la Ley 29/1988, de 13 de julio, de la Jurisdicción Contencioso- Administrativa. Si optase por interponer el recurso potestativo de reposición no podrá interponer recurso contencioso-administrativo hasta que aquel sea resuelto expresamente o se produzca su desestimación por silencio. Todo ello sin prejuicio de que se pueda interponer cualquier otro recurso o acción que se estime procedente.</p><p> </p>",
+        "textoLeng": "<p>Primeiro.- Beneficiarios</p><p>Son destinatarios desta convocatoria, nos termos establecidos no artigo 5 das bases, as unidades familiares de convivencia con menores de idade escolarizados en centros escolares públicos ou concertados da cidade de Ourense que, na data en que finalice o prazo de presentación de solicitudes cumpran os requisitos do artigo 6 das bases, entre outros:</p><p>- Estar empadroado no termo municipal de Ourense cunha antelación mínima de 3 meses á solicitude.</p><p>- Que a capacidade económica anual non exceda de 4.000,00 euros da renda per cápita da unidade de convivencia para as axudas de libros e material escolar, e de 4.000,00 euros da renda per cápita da unidade de convivencia, para as axudas de comedor.</p><p>- Non dispoñer de bens mobles ou inmóbeis, distintos á vivenda habitual, sobre os que se posúa un dereito de propiedade, posesión, usufruto ou calquera outro que, polas súas características, valoración, posibilidade de explotación ou venta, indique a existencia de medios suficientes para atender a necesidade para a que se solicita la axuda.</p><p>Segundo.- Obxecto</p><p>O obxecto destas bases é a regulación da concesión de axudas para a adquisición de libros de texto e material escolar e para comedor escolar, destinadas a unidades de convivencia en desvantaxe social e con menor poder adquisitivo do Concello de Ourense, que teñan nenos/as ao seu cargo escolarizados en centros públicos ou concertados do Concello de Ourense, nos que non se segregue ao alumnado por sexo.</p><p>Terceiro.- Bases reguladoras</p><p>As bases reguladoras estarán a disposición dos interesados na páxina web do Concello de Ourense www.ourense.gal.</p><p>Cuarto.- Contía</p><p>A concesión das subvencións desta convocatoria será atendida:</p><p>- Para axudas de libros de texto e material escolar, ata un importe máximo de vinte e cinco mil euros (25.000 €) con cargo á partida 260.2311.22690 do orzamento municipal vixente.</p><p>- Para axudas destinadas a comedores escolares ata un importe máximo de noventa mil euros (90.000,00 €) para o exercicio 2026 con cargo á partida 260.2313.22642 do orzamento municipal vixente.</p><p>- Para axudas destinadas a comedores escolares ata un importe máximo de douscentos dez mil euros (210.000,00 €) para o exercicio 2027, con cargo á aplicación 260.2313.22642 do orzamento municipal vixente “exercicios futuros”.</p><p>Quinto.- Prazo de presentación das solicitudes</p><p>As solicitudes deberán presentarse, debidamente cubertas, no rexistro xeral do Concello de Ourense ou por calquera medio dos establecidos no artigo 16.4 de la Ley 39/2015, de 1 de outubro, de Procedemento Administrativo Común das Administracións Públicas. O prazo de presentación será de 15 días hábiles contados a partir do día seguinte ao da publicación da convocatoria no Boletín Oficial da Provincia.</p><p>Os impresos da solicitude da subvención estarán dispoñibles na páxina web municipal www.ourense.gal. A documentación a presentar xunto coa solicitude será a determinada nas Bases reguladoras.</p><p> </p><p>Contra este acordo, que pon fin á vía administrativa, se pode interpoñer alternativamente recurso potestativo de reposición ante o mesmo órgano que ditou o acto, no prazo dun mes a contar dende o día seguinte á recepción da notificación, de conformidade co disposto no artigo 123 e 124 da Lei 39/2015, de 1 de outubro, de procedemento administrativo común das Administracións Públicas, ou ben interpoñer directamente recurso contencioso- administrativo, ante a sección contencioso administrativa do Tribunal de Instancia de Ourense, no prazo de dous meses, a contar dende o día seguinte ao da recepción da notificación, de conformidade co artigo 46 da Lei 29/1988, de 13 de xullo, da Xurisdición Contencioso- Administrativa. Se optase por interpoñer o recurso potestativo de reposición non poderá interpoñer recurso contencioso-administrativo ata que aquel sexa resolto expresamente ou se produza a súa desestimación por silencio. Todo elo sen prexuízo de que se poida interpoñer calquera outro recurso ou acción que se estime procedente.</p><p> </p>",
+        "url": null,
+        "cve": null,
+        "desDiarioOficial": "B.O.P. DE OURENSE",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-902932",
+  "id_interno": 1104493,
+  "numero_convocatoria": "902932",
+  "organismo": "OTROS — UNIVERSIDAD JAUME I DE CASTELLÓN",
+  "sede_electronica": "ujiapps.uji.es/seu/info-adm/tao/convocatoriesRH?pArId=85690",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Beca d 'iniciació a la investigació (Projecte «MODALITAT A: AJUDES COMPLEMENTÀRIES ALS PROJECTES D’INVESTIGACIÓ CAPTATS PEL PERSONAL INVESTIGADOR DE LA UNIVERSITAT JAUME I DINS DEL PEICTI I DEL PROGRAMA R+D+I DE LA GENERALITAT VALENCIANA» –",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Educación terciaria",
+  "regiones": "ES52 - COMUNIDAD VALENCIANA",
+  "finalidad": "Educación",
+  "bases_reguladoras": "Beca d 'iniciació a la investigació (Projecte «MODALITAT A: AJUDES COMPLEMENTÀRIES ALS PROJECTES D’INVESTIGACIÓ CAPTATS PEL PERSONAL INVESTIGADOR DE LA UNIVERSITAT JAUME I DINS DEL PEICTI I DEL PROGRAMA R+D+I DE LA GENERALITAT VALENCIANA» –",
+  "url_bases_reguladoras": "ujiapps.uji.es/seu/info-adm/tao/convocatoriesRH?pArId=85690",
+  "presupuesto": "1.865,05 €",
+  "presupuesto_total_num": 1865.05,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902932",
+  "text": "CONVOCATORIA BDNS Nº 902932\nOrganismo: OTROS — UNIVERSIDAD JAUME I DE CASTELLÓN\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 1.865,05 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Educación terciaria\nRegiones: ES52 - COMUNIDAD VALENCIANA\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nBeca d 'iniciació a la investigació (Projecte «MODALITAT A: AJUDES COMPLEMENTÀRIES ALS PROJECTES D’INVESTIGACIÓ CAPTATS PEL PERSONAL INVESTIGADOR DE LA UNIVERSITAT JAUME I DINS DEL PEICTI I DEL PROGRAMA R+D+I DE LA GENERALITAT VALENCIANA» –\n\nBases reguladoras:\nBeca d 'iniciació a la investigació (Projecte «MODALITAT A: AJUDES COMPLEMENTÀRIES ALS PROJECTES D’INVESTIGACIÓ CAPTATS PEL PERSONAL INVESTIGADOR DE LA UNIVERSITAT JAUME I DINS DEL PEICTI I DEL PROGRAMA R+D+I DE LA GENERALITAT VALENCIANA» –\nURL bases reguladoras: ujiapps.uji.es/seu/info-adm/tao/convocatoriesRH?pArId=85690\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902932",
+  "_raw": {
+    "id": 1104493,
+    "organo": {
+      "nivel1": "OTROS",
+      "nivel2": "UNIVERSIDAD JAUME I DE CASTELLÓN",
+      "nivel3": null
+    },
+    "sedeElectronica": "ujiapps.uji.es/seu/info-adm/tao/convocatoriesRH?pArId=85690",
+    "codigoBDNS": "902932",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 1865.05,
+    "mrr": false,
+    "descripcion": "Beca d 'iniciació a la investigació (Projecte «MODALITAT A: AJUDES COMPLEMENTÀRIES ALS PROJECTES D’INVESTIGACIÓ CAPTATS PEL PERSONAL INVESTIGADOR DE LA UNIVERSITAT JAUME I DINS DEL PEICTI I DEL PROGRAMA R+D+I DE LA GENERALITAT VALENCIANA» –",
+    "descripcionLeng": "Beca d 'iniciació a la investigació (Projecte «MODALITAT A: AJUDES COMPLEMENTÀRIES ALS PROJECTES D’INVESTIGACIÓ CAPTATS PEL PERSONAL INVESTIGADOR DE LA UNIVERSITAT JAUME I DINS DEL PEICTI I DEL PROGRAMA R+D+I DE LA GENERALITAT VALENCIANA» –",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Educación terciaria",
+        "codigo": "85.4"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES52 - COMUNIDAD VALENCIANA"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "Beca d 'iniciació a la investigació (Projecte «MODALITAT A: AJUDES COMPLEMENTÀRIES ALS PROJECTES D’INVESTIGACIÓ CAPTATS PEL PERSONAL INVESTIGADOR DE LA UNIVERSITAT JAUME I DINS DEL PEICTI I DEL PROGRAMA R+D+I DE LA GENERALITAT VALENCIANA» –",
+    "urlBasesReguladoras": "ujiapps.uji.es/seu/info-adm/tao/convocatoriesRH?pArId=85690",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Periodo de entrega de solicitudes abierto desde  hasta .",
+    "textFin": "Periodo de de entrega de solicitudes cerrado el dia .",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446731,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "25I637_C.pdf",
+        "long": 72086,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446730,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "25I637_Ccs.pdf",
+        "long": 72642,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": "BDNS-901335",
+  "id_interno": 1102896,
+  "numero_convocatoria": "901335",
+  "organismo": "LOCAL — CONSELL COMARCAL DEL GIRONÈS — CONSELL COMARCAL DEL GIRONÈS",
+  "sede_electronica": "www.girones.cat",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "2026-05-05",
+  "fecha_fin_solicitud": "2026-05-20",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Convocatoria para la concesión de ayudas individuales de comedor escolar dirigidas al alumnado de enseñanzas obligatorias y de educación infantil escolarizados en centros educativos sufragados con fondos públicos del Gironès curso 2026-2027",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "EDUCACIÓN",
+  "regiones": "ES512 - Girona",
+  "finalidad": "Educación",
+  "bases_reguladoras": "Bases de la convocatoria para la concesión de ayudas individuales de comedor escolar dirigidos al alumnado de enseñanzas obligatorias y de educación infantil escolarizados en centros educativos sufragados con fondos públicos del Gironès para el curso 2026",
+  "url_bases_reguladoras": "https://www.girones.cat/arees/ensenyament-cultura-turisme-catala-joventut-i-esports/ensenyament/ajuts-de-menjador/",
+  "presupuesto": "8.286.539,62 €",
+  "presupuesto_total_num": 8286539.62,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901335",
+  "text": "CONVOCATORIA BDNS Nº 901335\nOrganismo: LOCAL — CONSELL COMARCAL DEL GIRONÈS — CONSELL COMARCAL DEL GIRONÈS\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud: 2026-05-05 → 2026-05-20 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 8.286.539,62 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: EDUCACIÓN\nRegiones: ES512 - Girona\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria para la concesión de ayudas individuales de comedor escolar dirigidas al alumnado de enseñanzas obligatorias y de educación infantil escolarizados en centros educativos sufragados con fondos públicos del Gironès curso 2026-2027\n\nBases reguladoras:\nBases de la convocatoria para la concesión de ayudas individuales de comedor escolar dirigidos al alumnado de enseñanzas obligatorias y de educación infantil escolarizados en centros educativos sufragados con fondos públicos del Gironès para el curso 2026\nURL bases reguladoras: https://www.girones.cat/arees/ensenyament-cultura-turisme-catala-joventut-i-esports/ensenyament/ajuts-de-menjador/\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901335",
+  "_raw": {
+    "id": 1102896,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "CONSELL COMARCAL DEL GIRONÈS",
+      "nivel3": "CONSELL COMARCAL DEL GIRONÈS"
+    },
+    "sedeElectronica": "www.girones.cat",
+    "codigoBDNS": "901335",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 8286539.62,
+    "mrr": false,
+    "descripcion": "Convocatoria para la concesión de ayudas individuales de comedor escolar dirigidas al alumnado de enseñanzas obligatorias y de educación infantil escolarizados en centros educativos sufragados con fondos públicos del Gironès curso 2026-2027",
+    "descripcionLeng": "Convocatòria per a l'atorgament d'ajuts individuals de menjador escolar adreçats a l'alumnat d'ensenyaments obligatoris i d'educació infantil escolaritzats en centres educatius sufragats amb fons públics per al curs 2026-2027",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES512 - Girona"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "Bases de la convocatoria para la concesión de ayudas individuales de comedor escolar dirigidos al alumnado de enseñanzas obligatorias y de educación infantil escolarizados en centros educativos sufragados con fondos públicos del Gironès para el curso 2026",
+    "urlBasesReguladoras": "https://www.girones.cat/arees/ensenyament-cultura-turisme-catala-joventut-i-esports/ensenyament/ajuts-de-menjador/",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-05-05",
+    "fechaFinSolicitud": "2026-05-20",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442015,
+        "descripcion": "Bases de la convocatoria en castellano",
+        "nombreFic": "Bases de la convocatoria de las ayudas de comedor escolar curso 26-27.pdf",
+        "long": 905328,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442011,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Edicto de apertura de la convocatoria de ayudas de comedor.pdf",
+        "long": 260849,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442016,
+        "descripcion": "Bases de la convocatoria en catalán",
+        "nombreFic": "Bases de la convocatòria d.pdf",
+        "long": 743975,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442012,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "Edicte d'obertura de la convocatòria d'ajuts de menjador.pdf",
+        "long": 274061,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 209955,
+        "titulo": "Convocatoria para la concesión de ayudas individuales de comedor escolar dirigidos al alumnado de enseñanzas obligatorias y de educación infantil escolarizados en centros educativos sufragados con fondos públicos curso 2026-2027",
+        "tituloLeng": "Convocatòria per a l'atorgament d'ajuts individuals de menjador escolar adreçats a l'alumnat d'ensenyaments obligatoris i d'educació infantil escolaritzat en centres educatius sufragats amb fons públics per al curs 2026-2027",
+        "texto": "<p>Mediante Acuerdo de Consell de Presidencia del Consell Comarcal del Gironès en fecha 22 de abril de 2026 se abre la convocatoria para la concesión de ayudas individuales de comedor escolar dirigidos al alumnado de enseñanzas obligatorias y de educación infantil escolarizados en centros educativos sufragados con fondos públicos del Gironès para el curso 2026-2027. De conformidad con lo previsto en los artículos 17.3b y 20.8a de la Ley 38/2003, de 17 de noviembre, general de subvenciones, se publica el extracto de la convocatoria con el texto completo de la cual se puede consultar a la Base de Datos Nacional de Subvenciones (BDNS).</p><p>Primero.- Objeto</p><p>El objeto de esta convocatoria es la concesión de ayudas individuales de comedor escolar dirigidos al alumnado de enseñanzas obligatorias y de educación infantil escolarizados en centros educativos sufragados con fondos públicos para el curso 2026-2027 de la comarca del Gironès, para garantizar el principio de igualdad de oportunidades en la población escolar y promover acciones de carácter compensatorio en relación a las personas que se encuentran en situaciones socioeconómicas desfavorables.</p><p>Segundo.- Solicitantes y Representantes legales</p><p>2.1. Las personas solicitantes de ayuda de comedor escolar son los/las alumnos/as que reúnan los siguientes requisitos:</p><p>Tener residencia en Catalunya.</p><p>Estar matriculado/a en un centro educativo sostenido con fondos públicos de Catalunya, en los cursos de segundo y tercero de las enseñanzas de primer ciclo de infantil -en aquellas escuelas de titularidad de la Generalitat donde se haya implantado- y en cualquiera de los cursos de las enseñanzas de segundo ciclo de educación infantil y de enseñanzas obligatorias, durante el curso correspondiente a la convocatoria.</p><p>No tener el servicio de comedor con carácter gratuito.</p><p>No estar en acogida residencial.</p><p>Hacer uso del servicio de comedor escolar.</p><p>2.2. Los o las representantes legales de las personas que solicitan la ayuda de comedor son el padre, la madre, el tutor o la tutora.</p><p>2.3. Por la naturaleza de la ayuda y la especificidad del colectivo, para obtener la condición de solicitante y beneficiario/beneficiaria de estas ayudas, no es necesario acreditar el cumplimiento de los requisitos establecidos en el artículo 13.2 de la Ley 38/2003, de 17 de noviembre, general de subvenciones.</p><p>2.4. Las ayudas convocadas son compatibles con cualquier otra que se pueda recibir, para la misma finalidad, de otras entidades o personas públicas o privadas. En ningún caso, el importe de las ayudas concurrentes no puede superar el coste del gasto realizado.</p><p>2.5. Excepcionalmente, el alumnado con escolarización compartida podrá obtener dos ayudas, las cuales en su conjunto nunca podrán superar el número de días lectivos totales del curso escolar.</p><p>2.6. No se podrá utilizar la ayuda de comedor para otros alumnos u otros fines.</p><p>Tercero.- Bases reguladoras</p><p>BOP de Girona Núm. 55 – 20 de marzo de 2026.</p><p>Cuarto.- Importe</p><p>El importe de la convocatoria para el curso 2026 – 2027 es, como máximo de 8.286.539,62 €.</p><p>Aplicación presupuestaria 3260.480002.</p><p>De conformidad con lo establecido en el artículo 58.2 del RD 887/2006, de 21 de julio, por el que se aprueba el Reglamento de la Ley 38/2003, el importe de la convocatoria quedará ampliada al importe que destine el Departament d’Educació i Formació Professional para el otorgamiento de estas ayudas para el curso 2026-2027 si éste es superior al gasto autorizado.</p><p>Quinto.- Plazo de presentación</p><p>El plazo de presentación de solicitudes en el registro de entrada del Consell Comarcal, incluidas las que presenten los centros educativos se inicia el 5 de mayo y finaliza el 20 de mayo del 2026.</p><p> </p>",
+        "textoLeng": "<p>Mitjançant Acord de Consell de Presidència del Consell Comarcal del Gironès de data 22 d'abril de 2026 s'obre la convocatòria per a l’atorgament d’ajuts individuals de menjador escolar adreçats a l'alumnat d'ensenyaments obligatoris i d'educació infantil escolaritzat en centres educatius sufragats amb fons públics del Gironès per al curs 2026-2027. De conformitat amb allò previst als articles 17.3b i 20.8a de la Llei 38/2003, de 17 de novembre, general de subvencions, es publica l’extracte de la convocatòria el text complet de la qual es pot consultar a la Base de Dades Nacional de Subvencions (BDNS).</p><p>Primer.- Objecte</p><p>L’objecte d’aquesta convocatòria és l’atorgament d’ajuts individuals de menjador escolar adreçats a l'alumnat d'ensenyaments obligatoris i d'educació infantil escolaritzat en centres educatius sufragats amb fons públics per al curs 2026-2027 de la comarca del Gironès, per garantir el principi d’igualtat d’oportunitats en la població escolar i promoure accions de caràcter compensatori en relació amb les persones que es troben en situacions socioeconòmiques desfavorables.</p><p>Segon.- Sol·licitants i Representants legals</p><p>2.1. Les persones sol·licitants d'ajut de menjador escolar són els/les alumnes que reuneixin els requisits següents:</p><p>Tenir residència a Catalunya.</p><p>Estar matriculat/ada en un centre educatiu sostingut amb fons públics de Catalunya, en els cursos de segon i tercer dels ensenyaments de primer cicle d'infantil -en aquelles escoles de titularitat de la Generalitat on s'hagi implantat- i a qualsevol dels cursos dels ensenyaments de segon cicle d’educació infantil i d'ensenyaments obligatoris, durant el curs corresponent a la convocatòria.</p><p>No tenir el servei de menjador amb caràcter gratuït.</p><p>No estar en acolliment residencial.</p><p>Fer ús del servei de menjador escolar.</p><p>2.2. Els o les representants legals de les persones que sol·liciten l'ajut de menjador són el pare, la mare, el tutor o la tutora.</p><p>2.3. Per la naturalesa de l’ajut i l’especificitat del col·lectiu, per obtenir la condició de sol·licitant i beneficiari / beneficiària d’aquests ajuts, no cal acreditar el compliment dels requisits establerts a l’article 13.2 de Llei 38/2003, de 17 de novembre, general de subvencions.</p><p>2.4. Els ajuts convocats són compatibles amb qualsevol altre que es pugui rebre, per a la mateixa finalitat, d’altres entitats o persones públiques o privades. En cap cas, l’import dels ajuts concurrents no pot superar el cost de la despesa realitzada.</p><p>2.5. Excepcionalment, l’alumnat amb escolarització compartida podrà obtenir dos ajuts, els quals en conjunt mai podran superar el nombre de dies lectius totals del curs escolar.</p><p>2.6. No es podrà utilitzar l’ajut de menjador per a altres alumnes o altres fins.</p><p>Tercer.- Bases reguladores</p><p>BOP de Girona Núm. 55 – 20 de març de 2026.</p><p>Quart.- Import</p><p>L'import de la convocatòria per al curs 2026-2027 és, com a màxim, de 8.286.539,62 €.</p><p>Aplicació pressupostària 3260.480002.</p><p>De conformitat amb allò que estableix l'article 58.2 del RD 887/2006, de 21 de juliol, pel que s'aprova el Reglament de la Llei 38/2003, l'import de la convocatòria quedarà ampliada a l'import que destini el Departament d'Educació i Formació Professional per a l'atorgament d'aquests ajuts pel curs 2026-2027 si aquest és superior a la despesa autoritzada.</p><p>Cinquè.- Termini de presentació</p><p>El termini de presentació de sol·licituds al registre d’entrada del Consell Comarcal, incloses les que presentin els centres educatius s’inicia el 5 de maig i finalitza el 20 de maig de 2026.</p><p> </p>",
+        "url": "https://ssl4.ddgi.cat/bopV1/pdf/2026/81/20268103443.pdf",
+        "cve": null,
+        "desDiarioOficial": "B.O.P. DE GIRONA",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

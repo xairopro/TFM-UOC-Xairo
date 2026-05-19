@@ -1,0 +1,146 @@
+{
+  "id": "BDNS-901581",
+  "id_interno": 1103142,
+  "numero_convocatoria": "901581",
+  "organismo": "LOCAL — PONTEAREAS — AYUNTAMIENTO DE PONTEAREAS",
+  "sede_electronica": "https://ponteareas.sedelectronica.gal/info.0",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "BASES REGULADORAS DE LA CONVOCATORIA DE SUBVENCIONES DE APOYO A LA CULTURA – ANUALIDAD 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+  "regiones": "ES114 - Pontevedra",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "SUBVENCIÓNS DE APOIO Á CULTURA – ANUALIDADE 2026",
+  "url_bases_reguladoras": "https://portal.ponteareas.gal/axudas-subvencions/",
+  "presupuesto": "40.000,00 €",
+  "presupuesto_total_num": 40000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901581",
+  "text": "CONVOCATORIA BDNS Nº 901581\nOrganismo: LOCAL — PONTEAREAS — AYUNTAMIENTO DE PONTEAREAS\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 40.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES\nRegiones: ES114 - Pontevedra\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nBASES REGULADORAS DE LA CONVOCATORIA DE SUBVENCIONES DE APOYO A LA CULTURA – ANUALIDAD 2026\n\nBases reguladoras:\nSUBVENCIÓNS DE APOIO Á CULTURA – ANUALIDADE 2026\nURL bases reguladoras: https://portal.ponteareas.gal/axudas-subvencions/\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901581",
+  "_raw": {
+    "id": 1103142,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "PONTEAREAS",
+      "nivel3": "AYUNTAMIENTO DE PONTEAREAS"
+    },
+    "sedeElectronica": "https://ponteareas.sedelectronica.gal/info.0",
+    "codigoBDNS": "901581",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 40000,
+    "mrr": false,
+    "descripcion": "BASES REGULADORAS DE LA CONVOCATORIA DE SUBVENCIONES DE APOYO A LA CULTURA – ANUALIDAD 2026",
+    "descripcionLeng": "BASES REGULADORAS DA CONVOCATORIA DE SUBVENCIÓNS DE APOIO Á CULTURA – ANUALIDADE 2026",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+        "codigo": "R"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES114 - Pontevedra"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "SUBVENCIÓNS DE APOIO Á CULTURA – ANUALIDADE 2026",
+    "urlBasesReguladoras": "https://portal.ponteareas.gal/axudas-subvencions/",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "AL DÍA SIGUIENTE DE LA PUBLICACIÓN DEL ESTRACTO DE LA CONVOCATORIA EN EL BOP",
+    "textFin": "20 DIAS DESPUES DE LA PUBLICACIÓN DEL ESTRACTO DE LA CONVOCATORIA EN EL BOP",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442643,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Bases Subvención apoio á cultura 2026spa.pdf",
+        "long": 170826,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442684,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "20260421_Outros_Bases de convocatoria_Bases Subvención apoio á cultura 2026.pdf",
+        "long": 368366,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442646,
+        "descripcion": "Anexo I. Formulario Único",
+        "nombreFic": "Anexo I. Formulario único.pdf",
+        "long": 7345022,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442647,
+        "descripcion": "Anexo II. Memoria de actividades",
+        "nombreFic": "Anexo II. Memoria de actividades. Subvencions de apoio a cultura 2026.pdf",
+        "long": 3035228,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442686,
+        "descripcion": "Ficha de terceiros",
+        "nombreFic": "Ficha de terceiros.pdf",
+        "long": 161838,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442648,
+        "descripcion": "Anexo III. Relación de facturas (Conta xustificativa)",
+        "nombreFic": "Anexo III-Relación de facturas. Subvención de apoio á cultura 2026.pdf",
+        "long": 3075584,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210067,
+        "titulo": "BASES REGULADORAS DE SUBVENCIONES DE APOYO A LA CULTURA – ANUALIDAD 2026",
+        "tituloLeng": "BASES REGULADORAS DA CONVOCATORIA DE SUBVENCIÓNS DE APOIO Á CULTURA – ANUALIDADE 2026",
+        "texto": "<p>Se hace público para general conocimiento que por Resolución del 1º Teniente de alcaldesa, de fecha 23 de abril de 2026, se aprobaron las bases para:</p><p>SUBVENCIONES DE APOYO A LA CULTURA – ANUALIDAD 2026</p><p>Por lo que se exponen al público para que los interesados puedan presentar su solicitud a partir del día siguiente de la publicación en el Boletín Oficial de la Provincia de Pontevedra (BOPPO) del extracto remitido por la Base de Datos Nacional de Subvenciones (BDNS), en el plazo de 20 días hábiles.</p>",
+        "textoLeng": "<p>Fáise público para xeral coñecemento que por Resolución do 1º Tenente de alcaldesa, de data 23 de xaneiro de 2026, as bases para:</p><p>SUBVENCIÓNS DE APOIO Á CULTURA – ANUALIDADE 2026</p><p>Polo que se expoñen ao público para que os interesados poidan presentar a súa solicitude a partir do día seguinte á publicación no Boletín Oficial da Provincia de Pontevedra (BOPPO) do extracto remitido pola Base de Datos Nacional de Subvencións (BDNS), no prazo de 20 días hábiles.</p>",
+        "url": "https://boppo.depo.gal/web/boppo/detalle/-/boppo/2026/04/29/2026034457",
+        "cve": "MNB4FKGOC953HDJQ",
+        "desDiarioOficial": "B.O.P. DE PONTEVEDRA",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

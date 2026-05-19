@@ -1,0 +1,136 @@
+{
+  "id": "EU-185546PROSPECTSEN",
+  "topic_id": "185546PROSPECTSEN",
+  "titulo": "Thematic Programme on Human Rights and Democracy Montenegro 2025",
+  "descripcion": "Thematic Programme on Human Rights and Democracy Montenegro 2025",
+  "organismo": "111111",
+  "fecha_publicacion": "2026-02-06",
+  "fecha_limite": "2026-05-08",
+  "deadlines_todas": "2026-05-08",
+  "presupuesto": "1000000",
+  "duracion": "",
+  "tipo_accion": "",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185546",
+  "text": "EU FUNDING & TENDERS – Topic: 185546PROSPECTSEN\nProgramme/Organism: 111111\nTitle: Thematic Programme on Human Rights and Democracy Montenegro 2025\nStatus: Open (31094502)\nType of action: \nOpening date: 2026-02-06\nDeadline: 2026-05-08\nAll deadlines: 2026-05-08\nDuration: \nBudget overview: 1000000\n\nDescription / Scope:\nThematic Programme on Human Rights and Democracy Montenegro 2025\n\nMore info: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185546",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "185546PROSPECTSEN",
+    "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185546",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Thematic Programme on Human Rights and Democracy Montenegro 2025",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Thematic Programme on Human Rights and Democracy Montenegro 2025",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "A8BC33B19CF9882BBF92EFAFFA3CFB17FB200D691881391719AD951D91A2B005",
+    "metadata": {
+      "updateDate": [
+        "2026-03-27T14:20:06.000+0000"
+      ],
+      "es_SortDate": [
+        "2026-02-06T15:00:35.000+0000"
+      ],
+      "beneficiaryAdministration": [],
+      "sortStatus": [
+        "1"
+      ],
+      "contractType": [
+        "42893160"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Thematic Programme on Human Rights and Democracy Montenegro 2025"
+      ],
+      "type": [
+        "2"
+      ],
+      "esST_checksum": [
+        "A8BC33B19CF9882BBF92EFAFFA3CFB17FB200D691881391719AD951D91A2B005"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "callIdentifier": [
+        "185546"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "185546PROSPECTSEN"
+      ],
+      "currency": [
+        "EUR"
+      ],
+      "frameworkProgramme": [
+        "111111"
+      ],
+      "budget": [
+        "1000000"
+      ],
+      "identifier": [
+        "EuropeAid/185546/DD/ACT/ME"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "geographicalZones": [
+        "20001058"
+      ],
+      "publicationDocuments": [
+        "[{\"nameDoc\":\"Clarifications and Minutes of the Info Session\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-28 00:00:52.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2148846&lang=EN\"},{\"nameDoc\":\"Information Session Presentation\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-03-28 00:00:37.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2148845&lang=EN\"},{\"nameDoc\":\"Application fom full application\",\"typeDoc\":\"rtf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-06 16:00:16.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2147533&lang=EN\"},{\"nameDoc\":\"Application form concept note\",\"typeDoc\":\"rtf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-06 16:00:24.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2147529&lang=EN\"},{\"nameDoc\":\"Guidelines for grant applicants\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-06 16:00:41.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2147538&lang=EN\"},{\"nameDoc\":\"Annex B - Budget\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-06 16:00:15.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2147535&lang=EN\"},{\"nameDoc\":\"Annex C - Logical framework\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-06 16:00:32.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2147532&lang=EN\"},{\"nameDoc\":\"Annex D - Identification Form (public law body)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-06 16:00:23.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2147534&lang=EN\"},{\"nameDoc\":\"Annex D - Identification Form (private or public law body with legal form)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-06 16:00:40.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2147541&lang=EN\"},{\"nameDoc\":\"Annex D - Identification Form (natural person)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-06 16:00:01.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2147540&lang=EN\"},{\"nameDoc\":\"Annex F - PADOR offline registration form\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-06 16:00:17.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2147537&lang=EN\"},{\"nameDoc\":\"Annex G - Standard Grant Contract\",\"typeDoc\":\"zip\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-06 16:00:57.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2147528&lang=EN\"},{\"nameDoc\":\"Annex J - Information on the tax regime applicable to grant contracts\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-06 16:00:46.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2147530&lang=EN\"},{\"nameDoc\":\"Appendix - Derogations international organisation\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-06 16:00:38.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2147539&lang=EN\"},{\"nameDoc\":\"Annex H - Declaration of honour on exclusion and selection criteria\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-06 16:00:46.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2147536&lang=EN\"},{\"nameDoc\":\"Annex K - Clarifications on financing not linked to costs\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-06 16:00:38.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2147527&lang=EN\"},{\"nameDoc\":\"Annex L - Self-evaluation questionnaire on SEA-H\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-06 16:00:02.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2147531&lang=EN\"}]"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-02-06T16:01:00.510+0100"
+      ],
+      "programmePeriod": [
+        "2014 - 2020",
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-05-08T14:00:54.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-03-28T00:01:05.877+0100"
+      ],
+      "url": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185546"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185546"
+      ],
+      "esDA_QueueDate": [
+        "2026-03-28T00:01:05.860+0100"
+      ],
+      "programmeDivisionProspect": [
+        "42921254"
+      ],
+      "geographicalZone": [
+        "20001058"
+      ],
+      "startDate": [
+        "2026-02-06T15:00:35.000+0000"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Thematic Programme on Human Rights and Democracy Montenegro 2025. Available at: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185546",
+    "score": 3.0
+  }
+}

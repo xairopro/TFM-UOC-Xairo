@@ -1,0 +1,114 @@
+{
+  "id": "BDNS-902524",
+  "id_interno": 1104085,
+  "numero_convocatoria": "902524",
+  "organismo": "LOCAL — ESCALA, L' — AYUNTAMIENTO DE L'ESCALA",
+  "sede_electronica": "http://www.lescala.cat/ca/tramits-i-gestions/instancia-generica/_id:19/",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "2026-07-06",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA DE SUBVENCIONES PARA LA BECA DE INVESTIGACIÓN DE OTOÑO DE LA ESCALA PARA EL EJERCICIO 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+  "regiones": "ES512 - Girona",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "CONVOCATORIA DE SUBVENCIONES PARA LA BECA DE INVESTIGACIÓN DE OTOÑO DE LA ESCALA PARA EL EJERCICIO 2026",
+  "url_bases_reguladoras": "https://seu-e.cat/ca/web/escala/govern-obert-i-transparencia/contractes-convenis-i-subvencions/convenis-i-subvencions/convocatories-de-subvencions-i-ajuts",
+  "presupuesto": "3.000,00 €",
+  "presupuesto_total_num": 3000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902524",
+  "text": "CONVOCATORIA BDNS Nº 902524\nOrganismo: LOCAL — ESCALA, L' — AYUNTAMIENTO DE L'ESCALA\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  → 2026-07-06 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 3.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO\nRegiones: ES512 - Girona\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA DE SUBVENCIONES PARA LA BECA DE INVESTIGACIÓN DE OTOÑO DE LA ESCALA PARA EL EJERCICIO 2026\n\nBases reguladoras:\nCONVOCATORIA DE SUBVENCIONES PARA LA BECA DE INVESTIGACIÓN DE OTOÑO DE LA ESCALA PARA EL EJERCICIO 2026\nURL bases reguladoras: https://seu-e.cat/ca/web/escala/govern-obert-i-transparencia/contractes-convenis-i-subvencions/convenis-i-subvencions/convocatories-de-subvencions-i-ajuts\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902524",
+  "_raw": {
+    "id": 1104085,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "ESCALA, L'",
+      "nivel3": "AYUNTAMIENTO DE L'ESCALA"
+    },
+    "sedeElectronica": "http://www.lescala.cat/ca/tramits-i-gestions/instancia-generica/_id:19/",
+    "codigoBDNS": "902524",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 3000,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA DE SUBVENCIONES PARA LA BECA DE INVESTIGACIÓN DE OTOÑO DE LA ESCALA PARA EL EJERCICIO 2026",
+    "descripcionLeng": "CONVOCATÒRIA DE SUBVENCIONS PER A LA BECA DE RECERCA DE TARDOR DE L’ESCALA PER A L’EXERCICI 2026",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES512 - Girona"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "CONVOCATORIA DE SUBVENCIONES PARA LA BECA DE INVESTIGACIÓN DE OTOÑO DE LA ESCALA PARA EL EJERCICIO 2026",
+    "urlBasesReguladoras": "https://seu-e.cat/ca/web/escala/govern-obert-i-transparencia/contractes-convenis-i-subvencions/convenis-i-subvencions/convocatories-de-subvencions-i-ajuts",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": "2026-07-06",
+    "textInicio": "Al día siguiente de la publicación del extracto de la convocatòria en el BOP de Girona",
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445566,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "edicte convocatoria catala_sig.pdf",
+        "long": 184017,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445565,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "edicte convocatoria cast_sig.pdf",
+        "long": 182532,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210495,
+        "titulo": "Extracto de la resolución del Ayuntamiento de l'Escala de 29 de abril de 2026, de convocatoria de subvenciones para la Beca de investigación de otoño de l'Escala, ejercicio 2026",
+        "tituloLeng": "Extracte de la resolució de l'Ajuntament de l'Escala de 29 d'abril 2026, de convocatòria de subvencions per a la Beca d'investigació de tardor de l'Escala, per a l'exercici 2026",
+        "texto": "<p>EDICTO</p><p> </p><p>La Junta de Gobierno Local de 29 de abril de 2026 ha aprobado la convocatoria de subvención de la Beca de investigación de otoño de L'Escala, anualidad 2026, con el siguiente texto íntegro:</p><p> </p><p> </p><p>CONVOCATORIA DE SUBVENCIONES PARA LA BECA DE INVESTIGACIÓN DE OTOÑO DE LA ESCALA PARA EL EJERCICIO 2026</p><p> </p><p>1.- Objeto de la convocatoria:</p><p>La concesión de la subvención de la Beca de investigación de otoño de L'Escala, mediante el procedimiento de concurrencia competitiva, durante el ejercicio 2026, según las Bases de subvenciones reguladoras aprobadas en sesión plenaria de fecha 23 de febrero de 2026, y publicadas íntegramente en el BOP de Girona núm. 47, de 10 de marzo de 2026 y un extracto en el DOGC núm. 9626, de fecha 17 de marzo de 2026.</p><p> </p><p>El procedimiento de concesión de estas subvenciones es el de concurrencia competitiva, previsto en el artículo 22.1 de la Ley 38/2003, general de subvenciones.</p><p>De acuerdo con el Plan Estratégico de Subvenciones del Ayuntamiento de L'Escala 2025-2027, aprobado en sesión plenaria de fecha 28 de octubre de 2024 y publicado en el Boletín Oficial de la Provincia de Girona núm. 18, edicto núm. 436, de fecha 28 de enero de 2025.</p><p> </p><p>2.- Créditos presupuestarios asignados y distribución económica:</p><p>La subvención objeto de esta convocatoria irá a cargo de la partida presupuestaria del ejercicio 2026 número 10.334.48900.07, Becas de primavera y otoño, con una consignación presupuestaria de 3.000,00€.</p><p>La distribución económica se hará según lo que figura en los arts. 6, 9 y 12 de las Bases reguladoras correspondientes.</p><p> </p><p>3.- Destinatarios: </p><p>Pueden optar a la Beca de investigación de otoño de L'Escala los investigadores y las investigadoras que, de forma individual o colectiva, presenten un proyecto de investigación en los ámbitos de la ciencia o las ciencias sociales, con relación a L'Escala y su ámbito territorial, que tengan una trayectoria de investigación confirmada y que pueda comprometerse a tener una presencia continuada a lo largo de toda la estancia. El proyecto de investigación que presenten debe ser inédito. Pueden participar en la beca investigadores de cualquier nacionalidad.</p><p> </p><p>4.- Plazos y presentación de solicitudes:</p><p>El plazo de presentación de solicitudes para la obtención de estas subvenciones comenzará al día siguiente de la publicación de la convocatoria por parte de la Bases de Datos Nacional de Subvenciones en el BOP de Girona y acabará el 6 de julio de 2026.</p><p>La presentación de solicitud de subvenciones deberá presentarse en el Registro general de la Oficina de Atención Ciudadana del Ayuntamiento de L'Escala y/o en cualquiera de las formas previstas por la legislación vigente. Habrá que aportar la documentación especificada en el punto 7 de las Bases reguladoras.</p><p> </p><p>5.- Criterios de valoración:</p><p>Las peticiones que se presenten se valorarán de acuerdo con los criterios de valoración que figuran en el punto 9 de las bases reguladoras.</p><p> </p><p>6.- Plazo de resolución y notificación:</p><p>La Junta de Gobierno Local del Ayuntamiento de L'Escala deberá emitir la correspondiente resolución definitiva en el plazo máximo de 6 meses a contar desde el día siguiente de la fecha de publicación de la convocatoria; la cual se notificará individualmente a los solicitantes en el plazo máximo de 10 días a contar desde la fecha de adopción de la resolución.</p><p> </p><p>7.- Régimen de recursos:</p><p>El acuerdo de resolución de la convocatoria pondrá fin a la vía administrativa, y se podrá interponer recurso contencioso administrativo ante el Juzgado de lo Contencioso Administrativo de Girona, en el plazo de dos meses a contar desde el día siguiente al de su notificación. Alternativamente y de forma potestativa, se podrá interponer recurso de reposición ante el Alcalde del Ayuntamiento de L'Escala, en el plazo de un mes a contar desde el día siguiente de su notificación.</p><p> </p><p>8.- Publicidad:</p><p>Esta convocatoria se publicará en la Base de Datos Nacional de Subvenciones, en el Registro de subvenciones y ayudas de Cataluña (RAISC), en el Boletín Oficial de la Provincia de Girona, en el tablón de anuncios de la Corporación y en el portal de transparencia-web del Ayuntamiento de L'Escala.</p>",
+        "textoLeng": "<p>EDICTE</p><p> </p><p>La Junta de Govern Local de 29 d’abril de 2026 ha aprovat la convocatòria de subvenció de la Beca de recerca de tardor de l’Escala, anualitat 2026, amb el següent text íntegre:</p><p> </p><p> </p><p>CONVOCATÒRIA DE SUBVENCIONS PER A LA BECA DE RECERCA DE TARDOR DE L’ESCALA PER A L’EXERCICI 2026</p><p> </p><p>1.- Objecte de la convocatòria:</p><p>La concessió de la subvenció de la Beca de recerca de tardor de l’Escala, mitjançant el procediment de concurrència competitiva, durant l’exercici 2026, segons les Bases de subvencions reguladores aprovades en sessió plenària de data 23 de febrer de 2026, i publicades íntegrament al BOP de Girona núm. 47, de 10 de març de 2026 i un extracte al DOGC núm. 9626, de data 17 de març de 2026.</p><p> </p><p>El procediment de concessió d'aquestes subvencions és el de concurrència competitiva, previst a l'article 22.1 de la Llei 38/2003, general de subvencions.</p><p>D’acord amb el Pla Estratègic de Subvencions de l’Ajuntament de l’Escala 2025-2027, aprovat en sessió plenària de data 28 d’octubre de 2024 i publicat al Butlletí Oficial de la Província de Girona núm. 18, edicte núm. 436, de data 28 de gener de 2025.</p><p> </p><p>2.- Crèdits pressupostaris assignats i distribució econòmica:</p><p>La subvenció  objecte d’aquesta convocatòria anirà a càrrec de la partida  pressupostària de l’exercici 2026 número 10.334.48900.07, Beques de primavera i tardor, amb  una consignació pressupostària de 3.000,00€.</p><p>La distribució econòmica es farà segons el que figura als arts. 6, 9 i 12 de les Bases reguladores corresponents.</p><p> </p><p>3.- Destinataris: </p><p>Poden optar a la Beca de recerca de tardor de l’Escala els investigadors i les investigadores que, de forma individual o col·lectiva, presentin un projecte de recerca en els àmbits de la ciència o les ciències socials, amb relació a l’Escala i el seu àmbit territorial, que tinguin una trajectòria de recerca confirmada i que pugui comprometre’s a tenir una presència continuada al llarg de tota l’estada. El projecte de recerca que presentin ha de ser inèdit. Poden participar a la beca investigadors  de qualsevol nacionalitat.</p><p> </p><p>4.- Terminis i presentació de sol·licituds:</p><p>El termini de presentació de sol·licituds per a l’obtenció d’aquestes subvencions començarà l’endemà de la publicació de la convocatòria per part de la Bases de Dades Nacional de Subvencions al BOP de Girona i acabarà el 6 de juliol de 2026.</p><p>La presentació de sol·licitud de subvencions s’haurà de presentar al Registre general de l’Oficina d’Atenció Ciutadana de l’Ajuntament de l’Escala i/o en qualsevol de les formes previstes per la legislació vigent. Caldrà aportar la documentació especificada al punt 7 de les Bases reguladores.</p><p> </p><p>5.- Criteris de valoració:</p><p>Les peticions que es presentin es valoraran d’acord amb els criteris de valoració que figuren al punt 9 de les bases reguladores.</p><p> </p><p>6.- Termini de resolució i notificació:</p><p>La Junta de Govern Local de l’Ajuntament de l’Escala haurà d’emetre la corresponent resolució definitiva en el termini màxim de 6 mesos a comptar des de l’endemà de la data de publicació de la convocatòria; la qual es notificarà individualment al sol·licitants en el termini màxim de 10 dies a comptar des de la data d’adopció de la resolució.</p><p> </p><p>7.- Règim de recursos:</p><p>L’acord de resolució de la convocatòria posarà fi a la via administrativa, i s’hi podrà interposar recurs contenciós administratiu davant el Jutjat Contenciós Administratiu de Girona, en el termini de dos mesos a comptar des del dia següent al de la seva notificació. Alternativament i de forma potestativa, es podrà interposar recurs de reposició davant l’Alcalde de l’Ajuntament de l’Escala, en el termini d’un mes a comptar des del dia següent de la seva notificació.</p><p> </p><p>8.- Publicitat:</p><p>Aquesta convocatòria es publicarà a la Base de Dades Nacional de Subvencions, al Registre de subvencions i ajuts de Catalunya (RAISC), al Butlletí Oficial de la Província de Girona, al tauler d’anuncis de la Corporació i al portal de transparència-web de l’Ajuntament de l’Escala.</p>",
+        "url": "https://ssl4.ddgi.cat/bopV1/pdf/2026/84/20268403626.pdf",
+        "cve": null,
+        "desDiarioOficial": "B.O.P. DE GIRONA",
+        "datPublicacion": "2026-05-05"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

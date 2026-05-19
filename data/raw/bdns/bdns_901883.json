@@ -1,0 +1,106 @@
+{
+  "id": "BDNS-901883",
+  "id_interno": 1103444,
+  "numero_convocatoria": "901883",
+  "organismo": "OTROS — UNIVERSIDAD DE GRANADA",
+  "sede_electronica": "https://sede.ugr.es/portal/procedimientos/Doctorado-Solicitud-de-ayudas/",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "2026-04-30",
+  "fecha_fin_solicitud": "2026-09-30",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "RESOLUCIÓN DE LA VICERRECTORA DE POSGRADO Y FORMACIÓN PERMANENTE POR LA QUE SE PUBLICAN LAS BBRR Y CONVOCAN AYUDAS DESTINADAS A DOCTORANDOS Y DOCTORANDAS DE LA ESCUELA DE DOCTORADO DE CIENCIAS, TECNOLOGÍAS E INGENIERÍAS PARA ASISTENCIA A CONGRESOS 25/26",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Investigación y desarrollo experimental en ciencias naturales y técnicas",
+  "regiones": "XXXX - TODO EL MUNDO",
+  "finalidad": "Investigación, desarrollo e innovación",
+  "bases_reguladoras": "RESOLUCIÓN DE LA VICERRECTORA DE POSGRADO Y FORMACIÓN PERMANENTE POR LA QUE SE PUBLICAN LAS BBRR Y CONVOCAN AYUDAS DESTINADAS A DOCTORANDOS Y DOCTORANDAS DE LA ESCUELA DE DOCTORADO DE CIENCIAS, TECNOLOGÍAS E INGENIERÍAS PARA ASISTENCIA A CONGRESOS 25/26",
+  "url_bases_reguladoras": "https://investigacion.ugr.es/plan-propio/resoluciones",
+  "presupuesto": "8.000,00 €",
+  "presupuesto_total_num": 8000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901883",
+  "text": "CONVOCATORIA BDNS Nº 901883\nOrganismo: OTROS — UNIVERSIDAD DE GRANADA\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud: 2026-04-30 → 2026-09-30 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 8.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Investigación y desarrollo experimental en ciencias naturales y técnicas\nRegiones: XXXX - TODO EL MUNDO\nFinalidad: Investigación, desarrollo e innovación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nRESOLUCIÓN DE LA VICERRECTORA DE POSGRADO Y FORMACIÓN PERMANENTE POR LA QUE SE PUBLICAN LAS BBRR Y CONVOCAN AYUDAS DESTINADAS A DOCTORANDOS Y DOCTORANDAS DE LA ESCUELA DE DOCTORADO DE CIENCIAS, TECNOLOGÍAS E INGENIERÍAS PARA ASISTENCIA A CONGRESOS 25/26\n\nBases reguladoras:\nRESOLUCIÓN DE LA VICERRECTORA DE POSGRADO Y FORMACIÓN PERMANENTE POR LA QUE SE PUBLICAN LAS BBRR Y CONVOCAN AYUDAS DESTINADAS A DOCTORANDOS Y DOCTORANDAS DE LA ESCUELA DE DOCTORADO DE CIENCIAS, TECNOLOGÍAS E INGENIERÍAS PARA ASISTENCIA A CONGRESOS 25/26\nURL bases reguladoras: https://investigacion.ugr.es/plan-propio/resoluciones\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901883",
+  "_raw": {
+    "id": 1103444,
+    "organo": {
+      "nivel1": "OTROS",
+      "nivel2": "UNIVERSIDAD DE GRANADA",
+      "nivel3": null
+    },
+    "sedeElectronica": "https://sede.ugr.es/portal/procedimientos/Doctorado-Solicitud-de-ayudas/",
+    "codigoBDNS": "901883",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 8000,
+    "mrr": false,
+    "descripcion": "RESOLUCIÓN DE LA VICERRECTORA DE POSGRADO Y FORMACIÓN PERMANENTE POR LA QUE SE PUBLICAN LAS BBRR Y CONVOCAN AYUDAS DESTINADAS A DOCTORANDOS Y DOCTORANDAS DE LA ESCUELA DE DOCTORADO DE CIENCIAS, TECNOLOGÍAS E INGENIERÍAS PARA ASISTENCIA A CONGRESOS 25/26",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Investigación y desarrollo experimental en ciencias naturales y técnicas",
+        "codigo": "72.1"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "XXXX - TODO EL MUNDO"
+      }
+    ],
+    "descripcionFinalidad": "Investigación, desarrollo e innovación",
+    "descripcionBasesReguladoras": "RESOLUCIÓN DE LA VICERRECTORA DE POSGRADO Y FORMACIÓN PERMANENTE POR LA QUE SE PUBLICAN LAS BBRR Y CONVOCAN AYUDAS DESTINADAS A DOCTORANDOS Y DOCTORANDAS DE LA ESCUELA DE DOCTORADO DE CIENCIAS, TECNOLOGÍAS E INGENIERÍAS PARA ASISTENCIA A CONGRESOS 25/26",
+    "urlBasesReguladoras": "https://investigacion.ugr.es/plan-propio/resoluciones",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-04-30",
+    "fechaFinSolicitud": "2026-09-30",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443644,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "report_Conv ayudas doctorandos Ciencias_DEF.pdf",
+        "long": 753557,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210499,
+        "titulo": "Convocatoria a regularizar",
+        "tituloLeng": null,
+        "texto": "Convocatoria a regularizar",
+        "textoLeng": null,
+        "url": "https://secretariageneral.ugr.es/sites/webugr/secretariageneral/public/inline-files/BOUGR/322/322-4%20Ayudas%20Doctorandos%20Ciencias.pdf",
+        "cve": null,
+        "desDiarioOficial": "Boletín Oficial de la Universidad",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

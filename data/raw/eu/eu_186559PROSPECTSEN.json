@@ -1,0 +1,141 @@
+{
+  "id": "EU-186559PROSPECTSEN",
+  "topic_id": "186559PROSPECTSEN",
+  "titulo": "Enhancing the quality of the education system through strengthening core components of the learning process",
+  "descripcion": "Enhancing the quality of the education system through strengthening core components of the learning process",
+  "organismo": "111111",
+  "fecha_publicacion": "2026-04-14",
+  "fecha_limite": "2026-06-10",
+  "deadlines_todas": "2026-06-10",
+  "presupuesto": "2500000",
+  "duracion": "",
+  "tipo_accion": "",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/186559PROSPECTSEN",
+  "text": "EU FUNDING & TENDERS – Topic: 186559PROSPECTSEN\nProgramme/Organism: 111111\nTitle: Enhancing the quality of the education system through strengthening core components of the learning process\nStatus: Open (31094502)\nType of action: \nOpening date: 2026-04-14\nDeadline: 2026-06-10\nAll deadlines: 2026-06-10\nDuration: \nBudget overview: 2500000\n\nDescription / Scope:\nEnhancing the quality of the education system through strengthening core components of the learning process\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/186559PROSPECTSEN",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "186559PROSPECTSEN",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/186559PROSPECTSEN",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Enhancing the quality of the education system through strengthening core components of the learning process",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Enhancing the quality of the education system through strengthening core components of the learning process",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "09C2F31CF841FAA8514F765D0AFDAD836B42B18D5E2B97F88FFAED339C01B54F",
+    "metadata": {
+      "updateDate": [
+        "2026-04-13T17:35:53.000+0000"
+      ],
+      "es_SortDate": [
+        "2026-04-14T12:00:56.000+0000"
+      ],
+      "beneficiaryAdministration": [
+        "Palestinian Ministry of Education and Higher Education"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "contractType": [
+        "42958121"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Enhancing the quality of the education system through strengthening core components of the learning process"
+      ],
+      "type": [
+        "2"
+      ],
+      "esST_checksum": [
+        "09C2F31CF841FAA8514F765D0AFDAD836B42B18D5E2B97F88FFAED339C01B54F"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "callIdentifier": [
+        "186559"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "186559PROSPECTSEN"
+      ],
+      "currency": [
+        "EUR"
+      ],
+      "frameworkProgramme": [
+        "111111"
+      ],
+      "budget": [
+        "2500000"
+      ],
+      "identifier": [
+        "EuropeAid/186559/DD/ACT/PS"
+      ],
+      "caName": [
+        "true"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "geographicalZones": [
+        "20000989"
+      ],
+      "publicationDocuments": [
+        "[{\"nameDoc\":\"Annex C9 Education Twinning\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-14 14:00:06.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2154926&lang=EN\"},{\"nameDoc\":\"Annex C1 Education Twinning\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-14 14:00:35.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2154925&lang=EN\"},{\"nameDoc\":\"Teacher strategy\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-14 14:00:32.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2151176&lang=EN\"},{\"nameDoc\":\"Education strategy\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-04-14 14:00:45.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2151175&lang=EN\"}]"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-04-14T14:01:00.255+0200"
+      ],
+      "programmePeriod": [
+        "2014 - 2020",
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-06-10T12:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-14T14:01:00.255+0200"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/186559PROSPECTSEN"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/186559PROSPECTSEN"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-14T14:01:00.243+0200"
+      ],
+      "programmeDivisionProspect": [
+        "42921254"
+      ],
+      "geographicalZone": [
+        "20000989"
+      ],
+      "startDate": [
+        "2026-04-14T12:00:56.000+0000"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Enhancing the quality of the education system through strengthening core components of the learning process. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/186559PROSPECTSEN",
+    "score": 3.0
+  }
+}

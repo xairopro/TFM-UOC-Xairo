@@ -1,0 +1,136 @@
+{
+  "id": "EU-185599PROSPECTSEN",
+  "topic_id": "185599PROSPECTSEN",
+  "titulo": "Borderlands IV - Peaceful and resilient borderlands IV - Great Lakes Window",
+  "descripcion": "Borderlands IV - Peaceful and resilient borderlands IV - Great Lakes Window",
+  "organismo": "111111",
+  "fecha_publicacion": "2026-02-27",
+  "fecha_limite": "2026-06-01",
+  "deadlines_todas": "2026-06-01",
+  "presupuesto": "6000000",
+  "duracion": "",
+  "tipo_accion": "",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185599",
+  "text": "EU FUNDING & TENDERS – Topic: 185599PROSPECTSEN\nProgramme/Organism: 111111\nTitle: Borderlands IV - Peaceful and resilient borderlands IV - Great Lakes Window\nStatus: Open (31094502)\nType of action: \nOpening date: 2026-02-27\nDeadline: 2026-06-01\nAll deadlines: 2026-06-01\nDuration: \nBudget overview: 6000000\n\nDescription / Scope:\nBorderlands IV - Peaceful and resilient borderlands IV - Great Lakes Window\n\nMore info: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185599",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "185599PROSPECTSEN",
+    "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185599",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Borderlands IV - Peaceful and resilient borderlands IV - Great Lakes Window",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Borderlands IV - Peaceful and resilient borderlands IV - Great Lakes Window",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "E7B6443F8EA73FA3B02539A8317C107A691DD7DCC20612160F5BEF57C483B994",
+    "metadata": {
+      "updateDate": [
+        "2026-02-27T11:19:58.000+0000"
+      ],
+      "es_SortDate": [
+        "2026-02-27T11:30:26.000+0000"
+      ],
+      "beneficiaryAdministration": [],
+      "sortStatus": [
+        "1"
+      ],
+      "contractType": [
+        "42893160"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Borderlands IV - Peaceful and resilient borderlands IV - Great Lakes Window"
+      ],
+      "type": [
+        "2"
+      ],
+      "esST_checksum": [
+        "E7B6443F8EA73FA3B02539A8317C107A691DD7DCC20612160F5BEF57C483B994"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "callIdentifier": [
+        "185599"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "185599PROSPECTSEN"
+      ],
+      "currency": [
+        "EUR"
+      ],
+      "frameworkProgramme": [
+        "111111"
+      ],
+      "budget": [
+        "6000000"
+      ],
+      "identifier": [
+        "EuropeAid/185599/DD/ACT/Multi"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "geographicalZones": [
+        "31085487"
+      ],
+      "publicationDocuments": [
+        "[{\"nameDoc\":\"Annexe Contrat standard subvention\",\"typeDoc\":\"zip\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-27 12:30:45.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2125478&lang=EN\"},{\"nameDoc\":\"Formulaire de demande de subvention - demande complete\",\"typeDoc\":\"rtf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-27 12:30:44.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2101016&lang=EN\"},{\"nameDoc\":\"Formulaire de demande de subvention succinct\",\"typeDoc\":\"rtf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-27 12:30:21.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2101015&lang=EN\"},{\"nameDoc\":\"Lignes directrices\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-27 12:30:07.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2101014&lang=EN\"},{\"nameDoc\":\"Annex B - Budget\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-27 12:30:47.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2099470&lang=EN\"},{\"nameDoc\":\"Annex C - Logical framework\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-27 12:30:48.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2099467&lang=EN\"},{\"nameDoc\":\"Annex D - Identification Form (public law body)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-27 12:30:52.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2099468&lang=EN\"},{\"nameDoc\":\"Annex D - Identification Form (private or public law body with legal form)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-27 12:30:49.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2099475&lang=EN\"},{\"nameDoc\":\"Annex D - Identification Form (natural person)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-27 12:30:47.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2099474&lang=EN\"},{\"nameDoc\":\"Annex F - PADOR offline registration form\",\"typeDoc\":\"pdf\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-27 12:30:42.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2099471&lang=EN\"},{\"nameDoc\":\"Annex J - Information on the tax regime applicable to grant contracts\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-27 12:30:49.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2099476&lang=EN\"},{\"nameDoc\":\"Appendix - Derogations international organisation\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-27 12:30:16.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2099472&lang=EN\"},{\"nameDoc\":\"Annex H - Declaration of honour on exclusion and selection criteria\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-27 12:30:48.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2099473&lang=EN\"},{\"nameDoc\":\"Annex K - Clarifications on financing not linked to costs\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-27 12:30:08.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2099466&lang=EN\"},{\"nameDoc\":\"Annex L - Self-evaluation questionnaire on SEA-H\",\"typeDoc\":\"docx\",\"languageDoc\":\"EN\",\"finalPublicDocDate\":\"2026-02-27 12:30:36.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2099477&lang=EN\"},{\"nameDoc\":\"Annexe Contrat standard subvention\",\"typeDoc\":\"zip\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-02-27 12:30:45.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2125478&lang=FR\"},{\"nameDoc\":\"Formulaire de demande de subvention - demande complete\",\"typeDoc\":\"rtf\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-02-27 12:30:44.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2101016&lang=FR\"},{\"nameDoc\":\"Formulaire de demande de subvention succinct\",\"typeDoc\":\"rtf\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-02-27 12:30:21.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2101015&lang=FR\"},{\"nameDoc\":\"Lignes directrices\",\"typeDoc\":\"docx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-02-27 12:30:07.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2101014&lang=FR\"},{\"nameDoc\":\"Annex B - Budget\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-02-27 12:30:47.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2099470&lang=FR\"},{\"nameDoc\":\"Annex C - Logical framework\",\"typeDoc\":\"docx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-02-27 12:30:48.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2099467&lang=FR\"},{\"nameDoc\":\"Annex D - Identification Form (public law body)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-02-27 12:30:52.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2099468&lang=FR\"},{\"nameDoc\":\"Annex D - Identification Form (private or public law body with legal form)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-02-27 12:30:49.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2099475&lang=FR\"},{\"nameDoc\":\"Annex D - Identification Form (natural person)\",\"typeDoc\":\"pdf\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-02-27 12:30:47.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2099474&lang=FR\"},{\"nameDoc\":\"Annex F - PADOR offline registration form\",\"typeDoc\":\"pdf\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-02-27 12:30:42.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2099471&lang=FR\"},{\"nameDoc\":\"Annex J - Information on the tax regime applicable to grant contracts\",\"typeDoc\":\"docx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-02-27 12:30:49.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2099476&lang=FR\"},{\"nameDoc\":\"Appendix - Derogations international organisation\",\"typeDoc\":\"docx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-02-27 12:30:16.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2099472&lang=FR\"},{\"nameDoc\":\"Annex H - Declaration of honour on exclusion and selection criteria\",\"typeDoc\":\"docx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-02-27 12:30:48.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2099473&lang=FR\"},{\"nameDoc\":\"Annex K - Clarifications on financing not linked to costs\",\"typeDoc\":\"docx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-02-27 12:30:08.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2099466&lang=FR\"},{\"nameDoc\":\"Annex L - Self-evaluation questionnaire on SEA-H\",\"typeDoc\":\"docx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-02-27 12:30:36.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2099477&lang=FR\"}]"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-02-27T12:31:00.297+0100"
+      ],
+      "programmePeriod": [
+        "2014 - 2020",
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-06-01T10:00:36.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-02-27T12:31:00.297+0100"
+      ],
+      "url": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185599"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185599"
+      ],
+      "esDA_QueueDate": [
+        "2026-02-27T12:31:00.283+0100"
+      ],
+      "programmeDivisionProspect": [
+        "44995760"
+      ],
+      "geographicalZone": [
+        "31085487"
+      ],
+      "startDate": [
+        "2026-02-27T11:30:26.000+0000"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Borderlands IV - Peaceful and resilient borderlands IV - Great Lakes Window. Available at: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185599",
+    "score": 3.0
+  }
+}

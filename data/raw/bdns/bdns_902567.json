@@ -1,0 +1,114 @@
+{
+  "id": "BDNS-902567",
+  "id_interno": 1104128,
+  "numero_convocatoria": "902567",
+  "organismo": "LOCAL — HOSTALRIC — AYUNTAMIENTO DE HOSTALRIC",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA PARA LA CONCESION DE SUBVENCIONES PARA ACTIVIDADES DESARROLLADAS POR ENTIDADES Y ASOCIACIONES CIVICAS Y CULTURALES DEL MUNICIPIO DE HOSTALRIC",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+  "regiones": "ES512 - Girona",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "BASES ESPECIFICAS REGULADORAS DE SUBVENCIONES PARA ACTIVIDADES DESARROLLADAS POR ENTIDADES Y ASOCIACIONES CIVICAS I CULTURALES DEL MUNICIPIO DE HOSTALRIC",
+  "url_bases_reguladoras": "https://www.hostalric.cat/noticia/238/lajuntament-aprovaunes- bases-per-regular-latorgament-de-subvencions-a-lesentitats- locals",
+  "presupuesto": "15.000,00 €",
+  "presupuesto_total_num": 15000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902567",
+  "text": "CONVOCATORIA BDNS Nº 902567\nOrganismo: LOCAL — HOSTALRIC — AYUNTAMIENTO DE HOSTALRIC\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 15.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO\nRegiones: ES512 - Girona\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA PARA LA CONCESION DE SUBVENCIONES PARA ACTIVIDADES DESARROLLADAS POR ENTIDADES Y ASOCIACIONES CIVICAS Y CULTURALES DEL MUNICIPIO DE HOSTALRIC\n\nBases reguladoras:\nBASES ESPECIFICAS REGULADORAS DE SUBVENCIONES PARA ACTIVIDADES DESARROLLADAS POR ENTIDADES Y ASOCIACIONES CIVICAS I CULTURALES DEL MUNICIPIO DE HOSTALRIC\nURL bases reguladoras: https://www.hostalric.cat/noticia/238/lajuntament-aprovaunes- bases-per-regular-latorgament-de-subvencions-a-lesentitats- locals\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902567",
+  "_raw": {
+    "id": 1104128,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "HOSTALRIC",
+      "nivel3": "AYUNTAMIENTO DE HOSTALRIC"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902567",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 15000,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA PARA LA CONCESION DE SUBVENCIONES PARA ACTIVIDADES DESARROLLADAS POR ENTIDADES Y ASOCIACIONES CIVICAS Y CULTURALES DEL MUNICIPIO DE HOSTALRIC",
+    "descripcionLeng": "CONVOCATÒRIA PER A LA CONCESSIÓ DE SUBVENCIONS PER A ACTIVITATS DESENVOLUPADES PER ENTITATS I ASSOCIACIONS CÍVIQUES I CULTURALS DEL MUNICIPI D'HOSTALRIC",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES512 - Girona"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "BASES ESPECIFICAS REGULADORAS DE SUBVENCIONES PARA ACTIVIDADES DESARROLLADAS POR ENTIDADES Y ASOCIACIONES CIVICAS I CULTURALES DEL MUNICIPIO DE HOSTALRIC",
+    "urlBasesReguladoras": "https://www.hostalric.cat/noticia/238/lajuntament-aprovaunes- bases-per-regular-latorgament-de-subvencions-a-lesentitats- locals",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "30 días naturales a partir del día siguiente de la publicación de la convocatoria en el BOPG",
+    "textFin": "30 días naturales des del día siguiente de la publicación de la convocatoria en el BOPG",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445713,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "CAT.pdf",
+        "long": 153351,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445710,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "CAST.pdf",
+        "long": 149613,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210526,
+        "titulo": "Convocatoria para la concesión de subvenciones para actividades desarrolladas por entidades y asociaciones cívicas y culturales del municipio de Hostalric",
+        "tituloLeng": "Convocatòria per a la concessió de subvencions per a activitats desenvolupades per entitats cíviques i culturals del municipi d'Hostalric",
+        "texto": "<p>EXTRACTO DE LA CONVOCATORIA PARA LA CONCESIÓN DE SUBVENCIONES PARA ACTIVIDADES DESARROLLADAS POR ENTIDADES Y ASOCIACIONES CÍVICAS Y CULTURALES DEL MUNICIPIO DE HOSTALRIC</p><p>Mediante acuerdo de la Junta de Gobierno del Ayuntamiento de Hostalric, en sesión ordinaria de fecha 27 de abril de 2026, se abre la convocatoria para el otorgamiento de las subvenciones por actividades desarrolladas por entidades y asociaciones cívicas y culturales del municipio de Hostalric.</p><p>Primero. Beneficiarios</p><p>Las personas jurídicas que deban realizar la actividad que fundamenta su otorgamiento, siempre que no estén afectadas por ninguna de las prohibiciones contenidas en el art. 13 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones (en adelante LGS). Serán las personas jurídicas del ámbito asociativo municipal, legalmente constituidas, que cumplan los requisitos que se detallan a continuación:</p><p>Personas jurídicas que tengan su sede social en Hostalric e inscritas en el Registro Municipal de Entidades.</p><p>Personas jurídicas que desarrollen su actividad sin ánimo de lucro.</p><p>Segundo. Objeto</p><p>Financiar actividades realizadas por entidades y asociaciones cívicas y culturales del municipio de Hostalric, que tengan por objetivo fomentar, promover y difundir valores de integración, solidaridad y diversidad, sostenibilidad, hábitos saludables, conocimiento del municipio de Hostalric y asociacionismo.</p><p>Tercero. Bases reguladoras</p><p>La convocatoria para el otorgamiento de las subvenciones por actividades desarrolladas por entidades y asociaciones cívicas y culturales del municipio de Hostalric se aprueban, en el marco de las Bases Reguladoras Específicas publicadas en el BOPG número 81, número de edicto 3562, de fecha 25 de abril de 2024. La eficacia de la presente convocatoria queda condicionada a la finalización del trámite de información pública.</p><p>Cuarto. Importe</p><p>El importe de la convocatoria para el ejercicio 2026 es de 15.000 euros.</p><p>El importe de las subvenciones que se otorguen no excederá, en cualquier caso, de un máximo de 3.000 euros. No podrán otorgarse subvenciones por un importe superior al mencionado.</p><p>Quinto. Plazo de presentación</p><p>El plazo de presentación de las solicitudes será de treinta días naturales contados a partir del día siguiente de la publicación de la convocatoria en el Boletín Oficial de la Provincia de Girona.</p><p>Las solicitudes, conjuntamente con la documentación exigida, se tienen que presentar mediante la instancia genérica de la sede electrónica del Ayuntamiento https://www.seu-e.cat/web/hostalric/seu-electronica</p><p> </p>",
+        "textoLeng": "<p>EXTRACTE DE LA CONVOCATÒRIA PER LA CONCESSIÓ DE SUBVENCIONS PER ACTIVITATS DESENVOLUPADES PER ENTITATS I ASSOCIACIONS CÍVIQUES I CULTURALS DEL MUNICIPI D’HOSTALRIC</p><p>Mitjançant acord de la Junta de Govern Local de l’Ajuntament d’Hostalric, en sessió ordinària de data 27 d’abril de 2026, s’obre la convocatòria per l’atorgament de les subvencions per activitats desenvolupades per entitats i associacions cíviques i culturals del municipi d’Hostalric.</p><p>Primer. Beneficiaris</p><p>Les persones jurídiques que hagin de realitzar l’activitat que fonamenta el seu atorgament, sempre que no estiguin afectades per cap de les prohibicions contingudes a l’art. 13 de la Llei 38/2003, de 17 de novembre, General de Subvencions (en endavant LGS). Seran les persones jurídiques de l’àmbit associatiu municipal, legalment constituïdes, que compleixin els requisits que tot seguit es detallem:</p><p>Persones jurídiques que tinguin la seu social a Hostalric i inscrites al Registre</p><p>Municipal d’Entitats.</p><p>Persones jurídiques que desenvolupin la seva activitat sense ànim de lucre.</p><p>Segon. Objecte</p><p>Finançar activitats realitzades per entitats i associacions cíviques i culturals del municipi d’Hostalric, que tinguin per objectiu fomentar, promoure i difondre valors d’integració, solidaritat i diversitat, sostenibilitat, hàbits saludables, coneixement del municipi d’Hostalric i associacionisme.</p><p>Tercer. Bases reguladores</p><p>La convocatòria per l’atorgament de les subvencions per activitats desenvolupades per entitats i associacions cíviques i culturals del municipi d’Hostalric s’aproven, en el marc de les Bases Reguladores Especifiques publicades al BOPG núm. 81, número d’edicte 3562, de data 25 d’abril de 2024. L’eficàcia de la present convocatòria resta condicionada a la finalització del tràmit d’informació pública.</p><p>Quart. Import</p><p>L’import de la convocatòria per a l’exercici 2026 és de 15.000 euros.</p><p>L'import de les subvencions que s'atorguin no excedirà, en qualsevol cas, d’un màxim de 3.000 euros. No podran atorgar-se subvencions per import superior a l’esmentat.</p><p>Cinquè. Termini de presentació</p><p>El termini de presentació de les sol·licituds serà de trenta dies naturals comptats a partir de l'endemà de la publicació de la convocatòria al Butlletí Oficial de la Província de Girona.</p><p>Les sol·licituds, conjuntament amb la documentació exigida, s’han de fer arribar mitjançant la instància genèrica de la seu-electrònica de l’Ajuntament https://www.seu-e.cat/web/hostalric/seu-electronica</p>",
+        "url": "https://ssl4.ddgi.cat/bopV1/pdf/2026/84/20268403641.pdf",
+        "cve": null,
+        "desDiarioOficial": "B.O.P. DE GIRONA",
+        "datPublicacion": "2026-05-05"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

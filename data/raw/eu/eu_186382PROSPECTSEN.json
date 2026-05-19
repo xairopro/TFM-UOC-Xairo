@@ -1,0 +1,136 @@
+{
+  "id": "EU-186382PROSPECTSEN",
+  "topic_id": "186382PROSPECTSEN",
+  "titulo": "NDICI HR: \"Derechos Humanos en el Sector de la Minería en Bolivia\"",
+  "descripcion": "NDICI HR: \"Derechos Humanos en el Sector de la Minería en Bolivia\"",
+  "organismo": "111111",
+  "fecha_publicacion": "2026-04-02",
+  "fecha_limite": "2026-05-19",
+  "deadlines_todas": "2026-05-19",
+  "presupuesto": "1300000",
+  "duracion": "",
+  "tipo_accion": "",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186382",
+  "text": "EU FUNDING & TENDERS – Topic: 186382PROSPECTSEN\nProgramme/Organism: 111111\nTitle: NDICI HR: \"Derechos Humanos en el Sector de la Minería en Bolivia\"\nStatus: Open (31094502)\nType of action: \nOpening date: 2026-04-02\nDeadline: 2026-05-19\nAll deadlines: 2026-05-19\nDuration: \nBudget overview: 1300000\n\nDescription / Scope:\nNDICI HR: \"Derechos Humanos en el Sector de la Minería en Bolivia\"\n\nMore info: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186382",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "186382PROSPECTSEN",
+    "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186382",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "NDICI HR: \"Derechos Humanos en el Sector de la Minería en Bolivia\"",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "NDICI HR: \"Derechos Humanos en el Sector de la Minería en Bolivia\"",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "1017DCCCD774E3B88166B162C5A240606FE72D699F60634FDE65E0F3F7C143C9",
+    "metadata": {
+      "updateDate": [
+        "2026-04-21T22:26:58.000+0000"
+      ],
+      "es_SortDate": [
+        "2026-04-02T17:00:56.000+0000"
+      ],
+      "beneficiaryAdministration": [],
+      "sortStatus": [
+        "1"
+      ],
+      "contractType": [
+        "42893160"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "NDICI HR: \"Derechos Humanos en el Sector de la Minería en Bolivia\""
+      ],
+      "type": [
+        "2"
+      ],
+      "esST_checksum": [
+        "1017DCCCD774E3B88166B162C5A240606FE72D699F60634FDE65E0F3F7C143C9"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "callIdentifier": [
+        "186382"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "186382PROSPECTSEN"
+      ],
+      "currency": [
+        "EUR"
+      ],
+      "frameworkProgramme": [
+        "111111"
+      ],
+      "budget": [
+        "1300000"
+      ],
+      "identifier": [
+        "EuropeAid/186382/DD/ACT/BO"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "geographicalZones": [
+        "20000847"
+      ],
+      "publicationDocuments": [
+        "[{\"nameDoc\":\"Corrigendum No1 Call Ref 186382\",\"typeDoc\":\"pdf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-22 14:30:41.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159210&lang=ES\"},{\"nameDoc\":\"0 Guia para solicitantes Call NDICI HR 2026 vf\",\"typeDoc\":\"pdf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-02 19:00:13.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159095&lang=ES\"},{\"nameDoc\":\"01 Anexo A.1. Formulario Doc de Sintesis\",\"typeDoc\":\"rtf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-02 19:00:16.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159102&lang=ES\"},{\"nameDoc\":\"02 Anexo A.2. Formulario Solicitud Completa\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-02 19:00:28.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159088&lang=ES\"},{\"nameDoc\":\"03 Anexo B - Presupuesto e3c\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-02 19:00:29.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159107&lang=ES\"},{\"nameDoc\":\"04 Anexo C - Marco Lógico - e3d\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-02 19:00:26.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159097&lang=ES\"},{\"nameDoc\":\"05 Anexo F - Form PADOR offline e13\",\"typeDoc\":\"pdf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-02 19:00:09.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159091&lang=ES\"},{\"nameDoc\":\"05 Form Identificacion privado e3e2\",\"typeDoc\":\"pdf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-02 19:00:51.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159106&lang=ES\"},{\"nameDoc\":\"06 Anexo H - Declaracion Jurada Criterios Exclusion a14b\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-02 19:00:55.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159100&lang=ES\"},{\"nameDoc\":\"07 Anexo L - Cuestionario Autoevaluacion Exp_Abuso_Asx e14\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-02 19:00:11.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159103&lang=ES\"},{\"nameDoc\":\"08 Anexo G - CTR Modelo contrato de subvención e3h1\",\"typeDoc\":\"pdf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-02 19:00:13.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159098&lang=ES\"},{\"nameDoc\":\"09 Anexo II CTR Condiciones Grla e3h2\",\"typeDoc\":\"pdf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-02 19:00:52.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159089&lang=ES\"},{\"nameDoc\":\"10 Anexo IV CTR Adjudicacion ctrs e3h3\",\"typeDoc\":\"pdf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-02 19:00:11.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159090&lang=ES\"},{\"nameDoc\":\"11 Anexo V CTR Solicitud de pago e3h4\",\"typeDoc\":\"pdf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-02 19:00:49.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159099&lang=ES\"},{\"nameDoc\":\"12 Anexo VI CTR Informes descriptivos e3h5\",\"typeDoc\":\"pdf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-02 19:00:33.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159108&lang=ES\"},{\"nameDoc\":\"13 Anexo VI CTR Informe final e3h6\",\"typeDoc\":\"pdf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-02 19:00:15.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159093&lang=ES\"},{\"nameDoc\":\"14 Anexo VI CTR Informes Financieros e3h7a\",\"typeDoc\":\"pdf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-02 19:00:43.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159104&lang=ES\"},{\"nameDoc\":\"15 Anexo VII CTR Pliego Verif aud e3h8a\",\"typeDoc\":\"pdf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-02 19:00:43.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159096&lang=ES\"},{\"nameDoc\":\"16 Anexo VII.1 CTR Cuadros Tran y errrs e3h8b\",\"typeDoc\":\"pdf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-02 19:00:31.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159092&lang=ES\"},{\"nameDoc\":\"17 Anexo IX Transfer Activos e3h10\",\"typeDoc\":\"pdf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-02 19:00:50.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159109&lang=ES\"},{\"nameDoc\":\"18 Anexo J - Regimen Fiscal e3a1\",\"typeDoc\":\"pdf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-02 19:00:01.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159094&lang=ES\"},{\"nameDoc\":\"Appendix - Derogations international organisations\",\"typeDoc\":\"docx\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-02 19:00:11.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159101&lang=ES\"},{\"nameDoc\":\"19 Proteccion de datos personales a13_privacy_statement_es\",\"typeDoc\":\"pdf\",\"languageDoc\":\"ES\",\"finalPublicDocDate\":\"2026-04-02 19:00:29.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2159105&lang=ES\"}]"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-04-02T19:01:00.296+0200"
+      ],
+      "programmePeriod": [
+        "2014 - 2020",
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-05-19T16:00:36.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-22T14:31:05.585+0200"
+      ],
+      "url": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186382"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186382"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-22T14:31:05.571+0200"
+      ],
+      "programmeDivisionProspect": [
+        "44996037"
+      ],
+      "geographicalZone": [
+        "20000847"
+      ],
+      "startDate": [
+        "2026-04-02T17:00:56.000+0000"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "NDICI HR: \"Derechos Humanos en el Sector de la Minería en Bolivia\". Available at: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=186382",
+    "score": 3.0
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "BDNS-902765",
+  "id_interno": 1104326,
+  "numero_convocatoria": "902765",
+  "organismo": "AUTONOMICA — GALICIA — CONSELLERÍA DE CULTURA, LENGUA Y JUVENTUD",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "2026-05-12",
+  "fecha_fin_solicitud": "2026-06-12",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Orden de 20 de abril de 2026 de la Consellería de Cultura, Lengua y Juventud por la que se convocan ayudas para el libro gallego, dirigidas a la traducción a otras lenguas de obras publicadas originariamente en gallego para el año 2026. Código CT221D",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de traducción e interpretación",
+  "regiones": "ES11 - GALICIA",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Orden de 20 de abril de 2026 de la Consellería de Cultura, Lengua y Juventud por la que se convocan ayudas para el libro gallego, dirigidas a la traducción a otras lenguas de obras publicadas originariamente en gallego para el año 2026. Código CT221D  ",
+  "url_bases_reguladoras": "https://www.xunta.gal/diario-oficial-galicia",
+  "presupuesto": "50.000,00 €",
+  "presupuesto_total_num": 50000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "REG (UE) 2023/2831 de minimis, General",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902765",
+  "text": "CONVOCATORIA BDNS Nº 902765\nOrganismo: AUTONOMICA — GALICIA — CONSELLERÍA DE CULTURA, LENGUA Y JUVENTUD\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud: 2026-05-12 → 2026-06-12 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 50.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de traducción e interpretación\nRegiones: ES11 - GALICIA\nFinalidad: Cultura\nFondos: \nReglamento: REG (UE) 2023/2831 de minimis, General\nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nOrden de 20 de abril de 2026 de la Consellería de Cultura, Lengua y Juventud por la que se convocan ayudas para el libro gallego, dirigidas a la traducción a otras lenguas de obras publicadas originariamente en gallego para el año 2026. Código CT221D\n\nBases reguladoras:\nOrden de 20 de abril de 2026 de la Consellería de Cultura, Lengua y Juventud por la que se convocan ayudas para el libro gallego, dirigidas a la traducción a otras lenguas de obras publicadas originariamente en gallego para el año 2026. Código CT221D  \nURL bases reguladoras: https://www.xunta.gal/diario-oficial-galicia\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902765",
+  "_raw": {
+    "id": 1104326,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "GALICIA",
+      "nivel3": "CONSELLERÍA DE CULTURA, LENGUA Y JUVENTUD"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902765",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 50000,
+    "mrr": false,
+    "descripcion": "Orden de 20 de abril de 2026 de la Consellería de Cultura, Lengua y Juventud por la que se convocan ayudas para el libro gallego, dirigidas a la traducción a otras lenguas de obras publicadas originariamente en gallego para el año 2026. Código CT221D  ",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de traducción e interpretación",
+        "codigo": "74.3"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES11 - GALICIA"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Orden de 20 de abril de 2026 de la Consellería de Cultura, Lengua y Juventud por la que se convocan ayudas para el libro gallego, dirigidas a la traducción a otras lenguas de obras publicadas originariamente en gallego para el año 2026. Código CT221D  ",
+    "urlBasesReguladoras": "https://www.xunta.gal/diario-oficial-galicia",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-05-12",
+    "fechaFinSolicitud": "2026-06-12",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": {
+      "descripcion": "REG (UE) 2023/2831 de minimis, General",
+      "orden": null
+    },
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446222,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "DOG.CT221D_20260430_095312.pdf",
+        "long": 313251,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446221,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "DOG. CT221D CAST_20260430_095220.pdf",
+        "long": 286623,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

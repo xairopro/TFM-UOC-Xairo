@@ -1,0 +1,114 @@
+{
+  "id": "BDNS-901495",
+  "id_interno": 1103056,
+  "numero_convocatoria": "901495",
+  "organismo": "LOCAL — DIPUTACIÓN PROV. DE GIRONA — DIPUTACIÓN PROVINCIAL DE GIRONA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "2026-05-04",
+  "fecha_fin_solicitud": "2026-05-29",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Convocatòria de subvencions de la Diputació de Girona per a despeses destinades a material i equipament essencial adreçades a municipis amb associació de voluntaris de protecció civil, any 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Administración pública y de la política económica, social y medioambiental",
+  "regiones": "ES512 - Girona",
+  "finalidad": "Otras actuaciones de carácter económico",
+  "bases_reguladoras": "Bases especifiques reguladores de subvencions de la Diputació de Girona per a despeses destinades a material i equipament essencial adreçades a municipis amb associació de voluntaris de protecció civil",
+  "url_bases_reguladoras": "http://www.ddgi.cat/basescast/2026/Bases_subv_ajunt_material_proteccio_civil.pdf",
+  "presupuesto": "126.000,00 €",
+  "presupuesto_total_num": 126000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901495",
+  "text": "CONVOCATORIA BDNS Nº 901495\nOrganismo: LOCAL — DIPUTACIÓN PROV. DE GIRONA — DIPUTACIÓN PROVINCIAL DE GIRONA\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud: 2026-05-04 → 2026-05-29 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 126.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Administración pública y de la política económica, social y medioambiental\nRegiones: ES512 - Girona\nFinalidad: Otras actuaciones de carácter económico\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatòria de subvencions de la Diputació de Girona per a despeses destinades a material i equipament essencial adreçades a municipis amb associació de voluntaris de protecció civil, any 2026\n\nBases reguladoras:\nBases especifiques reguladores de subvencions de la Diputació de Girona per a despeses destinades a material i equipament essencial adreçades a municipis amb associació de voluntaris de protecció civil\nURL bases reguladoras: http://www.ddgi.cat/basescast/2026/Bases_subv_ajunt_material_proteccio_civil.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901495",
+  "_raw": {
+    "id": 1103056,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DIPUTACIÓN PROV. DE GIRONA",
+      "nivel3": "DIPUTACIÓN PROVINCIAL DE GIRONA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901495",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 126000,
+    "mrr": false,
+    "descripcion": "Convocatòria de subvencions de la Diputació de Girona per a despeses destinades a material i equipament essencial adreçades a municipis amb associació de voluntaris de protecció civil, any 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Administración pública y de la política económica, social y medioambiental",
+        "codigo": "84.1"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES512 - Girona"
+      }
+    ],
+    "descripcionFinalidad": "Otras actuaciones de carácter económico",
+    "descripcionBasesReguladoras": "Bases especifiques reguladores de subvencions de la Diputació de Girona per a despeses destinades a material i equipament essencial adreçades a municipis amb associació de voluntaris de protecció civil",
+    "urlBasesReguladoras": "http://www.ddgi.cat/basescast/2026/Bases_subv_ajunt_material_proteccio_civil.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-05-04",
+    "fechaFinSolicitud": "2026-05-29",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442420,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "04._Extracte_BOPG_català.pdf",
+        "long": 226404,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442419,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "05._Extracte_BOPG_castellà.pdf",
+        "long": 253256,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210028,
+        "titulo": "Extracto del acuerdo de la Junta de Gobierno de la Diputació de Girona del día 21 de abril de 2026, por el que se convocan las subvenciones de la Diputació de Girona para gastos destinados a material y equipamiento esencial dirigidas a municipios con asociación de voluntarios de protección civil, anualidad 2026",
+        "tituloLeng": "Extracte de l¿acord de la Junta de Govern de la Diputació de Girona del dia 21 d¿abril de 2026, pel qual es convoquen les subvencions per a despeses destinades a material i equipament essencial adreçades a municipis amb associació de voluntaris de protecció civil, anualitat 2026",
+        "texto": "<p>De conformidad con lo establecido en los artículos 17.3 b y 20.8 a de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, se publica el extracto de la convocatoria, cuyo texto completo puede consultarse en la Base de Datos Nacional de Subvenciones http://www.pap.minhafp.gob.es/bdnstrans/index.</p><p></p><p>Primero. Beneficiarios</p><p></p><p>Ayuntamientos del ámbito territorial de la Diputació de Girona que tengan un convenio con una asociación de voluntariado de protección civil inscrita en el registro especial de la Dirección General de Protección Civil.</p><p></p><p>Segundo. Objeto</p><p></p><p>Subvenciones destinadas a la financiación, por parte de los ayuntamientos, de gastos de material y equipamiento esencial para el correcto funcionamiento de las asociaciones de voluntarios de protección civil.</p><p></p><p>Tercero. Bases reguladoras</p><p></p><p>Bases reguladoras aprobadas por el Pleno de la Diputació en la sesión de 17 de febrero de 2026 y publicadas definitivamente en el Boletín Oficial de la Provincia de Girona (BOPG) n.º 77, de 23 de abril de 2026.</p><p></p><p>Cuarto. Cuantía</p><p></p><p>El importe total destinado a la convocatoria es de 126.000,00 euros, distribuidos en 63.000,00 € para la línea de gastos corrientes y de 63.000,00 € para la línea de inversiones.</p><p></p><p>El importe de la subvención concedida no podrá ser superior a 5.000,00 € en el supuesto de que se incluya la adquisición de un vehículo, o superior a 3.000,00 € para el resto de material y equipamiento, y no podrá ser inferior a 1.000,00 €. </p><p></p><p>Las subvenciones no podrán exceder de los siguientes porcentajes, calculados sobre el presupuesto de los gastos subvencionables:</p><p></p><p>Tramo\tPoblación\t                       Porcentaje </p><p>1\tHasta 500 habitantes \t         100 %</p><p>2\tDe 501 a 2.000 habitantes  \t   95 %</p><p>3\tDe 2.001 a 5.000 habitantes  \t   80 %</p><p>4\tDe 5.001 a 10.000 habitantes  \t   75 %</p><p>5\tDe 10.001 a 20.000 habitantes  \t   70 %</p><p>6\tMás de 20.000 habitantes \t           50 %</p><p></p><p>Quinto. Plazo de presentación de solicitudes</p><p></p><p>Las solicitudes de subvención se podrán presentar del 4 al 29 de mayo de 2026, a través de la plataforma de tramitación de subvenciones disponible en el Portal de subvenciones de la Diputació de Girona (https://seu.ddgi.cat/subvencions), en la que podrán encontrarse los documentos y la solicitud específica de esta línea de subvenciones.</p><p></p><p>La solicitud debe ir acompañada del convenio entre el ayuntamiento y la asociación de voluntarios de protección civil local.</p><p></p><p>Sexto. Plazo para ejecutar y justificar las subvenciones</p><p></p><p>El período de ejecución se iniciará el 1 de octubre de 2025, hasta el 30 de septiembre de 2026.</p><p></p><p>El plazo para justificar las actuaciones finaliza el 30 de septiembre de 2026. La documentación justificativa de las subvenciones está regulada en el punto 14 de las bases reguladoras</p><p></p><p>Séptimo. Régimen de recursos</p><p></p><p>La resolución de la convocatoria pone fin a la vía administrativa. Contra esta resolución cabe recurso contencioso-administrativo ante la sección contencioso-administrativa de los tribunales de instancia de Girona en el plazo de dos meses a contar del día siguiente a su notificación. Alternativamente, y de forma potestativa, se puede interponer recurso de reposición ante la Junta de Gobierno de la Diputació de Girona en el plazo de un mes a contar del día siguiente a su notificación.</p>",
+        "textoLeng": "<p>De conformitat amb el que preveu els articles 17.3.b i 20.8.a de la Llei 38/2003, de 17 de novembre, General de Subvencions, es publica l?extracte de la convocatòria el text complert de la qual es pot consultar a la Base de Datos Nacional de Subvenciones http://www.pap.minhafp.gob.es/bdnstrans/index</p><p></p><p>Primer. Beneficiaris:</p><p></p><p>Ajuntaments de l?àmbit territorial de la Diputació de Girona que tinguin un conveni amb una associació de voluntariat de protecció civil inscrita en el registre especial de la Direcció General de Protecció Civil.</p><p></p><p>Segon. Objecte:</p><p></p><p>Subvencions destinades al finançament, per part dels ajuntaments, de despeses de material i equipament essencial per al correcte funcionament de les Associacions de Voluntaris de Protecció Civil</p><p></p><p>Tercer. Bases reguladores:</p><p></p><p>Bases reguladores aprovades pel Ple de la Diputació en la sessió de 17 de febrer de 2026, i publicades definitivament al Butlletí Oficial de la Província de Girona (BOPG), núm. 77, de 23 d?abril de 2026.</p><p></p><p>Quart. Quantia:</p><p></p><p>L?import total de la convocatòria és de 126.000,00 €, distribuÃ¯ts en 63.000,00 € per a la línia de despeses corrents i de 63.000,00 € per a  la línia inversions.</p><p></p><p>L?import de la subvenció concedida no podrà ser superior a 5.000,00 € en el cas que s?inclogui l?adquisició d?un vehicle o superior a 3.000,00 € per a la resta de material i equipament, i no podrà ser inferior a 1.000,00 €. </p><p></p><p>Les subvencions no poden excedir els percentatges següents, calculats sobre el pressupost de les despeses subvencionables:</p><p></p><p>Tram\tPoblació\t                            Percentatge</p><p>1\tFins a 500 habitants \t               100 %</p><p>2\tDe 501 a 2.000 habitants  \t         95 %</p><p>3\tDe 2.001 a 5.000 habitants  \t 80 %</p><p>4\tDe 5.001 a 10.000 habitants  \t 75 %</p><p>5\tDe 10.001 a 20.000 habitants  \t 70 %</p><p>6\tMés de 20.000 habitants \t         50 %</p><p></p><p>Cinquè. Termini de presentació de sol·licituds:</p><p></p><p>Les sol·licituds de subvenció es poden presentar del 4 al 29 de maig de 2026, a través de la plataforma de tramitació de subvencions disponible al Portal de subvencions de la Diputació de Girona (https://seu.ddgi.cat/subvencions), en la qual es poden trobar els documents i la sol·licitud específica d?aquesta línia de subvencions.</p><p></p><p>La sol·licitud ha d?anar acompanyada del conveni entre l?ajuntament i l?associació de voluntaris de protecció civil local.</p><p></p><p>Sisè. Termini per executar i justificar les subvencions:</p><p></p><p>El període d?execució s?iniciarà l?1 d?octubre de 2025 fins al 30 de setembre de 2026.</p><p></p><p>El termini per justificar les actuacions finalitza el 30 de setembre de 2026. </p><p></p><p>Setè. Règim de recursos:</p><p></p><p>La resolució de la convocatòria posa fi a la via administrativa. Contra aquesta resolució escau interposar recurs contenciós administratiu davant de la Secció contenciosa administrativa dels tribunals d?instància de Girona en el termini de dos mesos a comptar de l?endemà de la notificació. Alternativament, i de forma potestativa, es pot interposar recurs de reposició davant de la Junta de Govern de la Diputació de Girona en el termini d?un mes a comptar de l?endemà de la notificació.</p>",
+        "url": "https://ssl4.ddgi.cat/bopV1/pdf/2026/80/20268003489.pdf",
+        "cve": null,
+        "desDiarioOficial": "B.O.P. DE GIRONA",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

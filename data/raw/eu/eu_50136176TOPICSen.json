@@ -1,0 +1,204 @@
+{
+  "id": "EU-50136176TOPICSen",
+  "topic_id": "50136176TOPICSen",
+  "titulo": "Towards a European network of ocean technology testing sites",
+  "descripcion": "Towards a European network of ocean technology testing sites",
+  "organismo": "43108390",
+  "fecha_publicacion": "2026-02-04",
+  "fecha_limite": "2026-09-23",
+  "deadlines_todas": "2026-09-23",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113031\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-05 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":4,\"minContribution\":4000000,\"maxContribution\":4850000,\"budgetYearMap\":{\"2026\":\"19400000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113033\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-01 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":4,\"minContribution\":7000000,\"maxContribution\":7750000,\"budgetYearMap\":{\"2026\":\"31000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113032\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-02 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":4,\"minContribution\":7000000,\"maxContribution\":7750000,\"budgetYearMap\":{\"2026\":\"31000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113035\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-04 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":2500000,\"maxContribution\":2900000,\"budgetYearMap\":{\"2026\":\"2900000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113034\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-03 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":4,\"minContribution\":7000000,\"maxContribution\":7750000,\"budgetYearMap\":{\"2026\":\"31000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "HORIZON Coordination and Support Actions",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-03-OCEAN-04",
+  "text": "EU FUNDING & TENDERS – Topic: 50136176TOPICSen\nProgramme/Organism: 43108390\nTitle: Towards a European network of ocean technology testing sites\nStatus: Open (31094502)\nType of action: HORIZON Coordination and Support Actions\nOpening date: 2026-02-04\nDeadline: 2026-09-23\nAll deadlines: 2026-09-23\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113031\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-05 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":4,\"minContribution\":4000000,\"maxContribution\":4850000,\"budgetYearMap\":{\"2026\":\"19400000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113033\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-01 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":4,\"minContribution\":7000000,\"maxContribution\":7750000,\"budgetYearMap\":{\"2026\":\"31000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113032\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-02 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":4,\"minContribution\":7000000,\"maxContribution\":7750000,\"budgetYearMap\":{\"2026\":\"31000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113035\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-04 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":2500000,\"maxContribution\":2900000,\"budgetYearMap\":{\"2026\":\"2900000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113034\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-03 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":4,\"minContribution\":7000000,\"maxContribution\":7750000,\"budgetYearMap\":{\"2026\":\"31000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}]}}\n\nDescription / Scope:\nTowards a European network of ocean technology testing sites\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-03-OCEAN-04",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "50136176TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-03-OCEAN-04",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Towards a European network of ocean technology testing sites",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Towards a European network of ocean technology testing sites",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "1A8092B0783E792BE3C389BD35B0F925A8BE71E1DFD944ABB5665F50A7E1DDC2",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-02-06T17:50:46.347\",\"content\":\"\\u003cp\\u003eThe submission of the proposals will open shortly.\\u003c/p\\u003e\"},{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-03-13T09:55:48.519\",\"content\":\"The submission session is now available for: HORIZON-MISS-2026-03-OCEAN-05, HORIZON-MISS-2026-03-OCEAN-02, HORIZON-MISS-2026-03-OCEAN-01, HORIZON-MISS-2026-03-OCEAN-03, HORIZON-MISS-2026-03-OCEAN-04\"}]"
+      ],
+      "es_SortDate": [
+        "2026-02-04T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "HORIZON-MISS-2026-03-OCEAN-04",
+        "HORIZON-MISS-2026-03",
+        "Agriculture, Forestry, and Fisheries",
+        "Environmental engineering",
+        "MARINERG‑I",
+        "Marine engineering",
+        "Ocean engineering"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p><strong><em>﻿</em></strong>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex A</a> and <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex E</a> of the Horizon Europe Work Programme General Annexes.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p><p>A number of non-EU/non-Associated Countries that are not automatically eligible for funding have made specific provisions for making funding available for their participants in Horizon Europe projects. See the information in the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a>.</p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>If projects use satellite-based earth observation, positioning, navigation and/or related timing data and services, beneficiaries must make use of Copernicus and/or Galileo/EGNOS (other data and services may additionally be used).</p></div><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex B</a> of the Work Programme General Annexes.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex C</a> of the Work Programme General Annexes.</p></div></div><div><h4>5a. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex D</a> of the Work Programme General Annexes.</p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>are described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex F</a> of the Work Programme General Annexes.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>described in <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Annex G</a> of the Work Programme General Annexes.</p></div></div></div><div class=\"eui-u-mt-l\"><h4>Specific conditions</h4> <div class=\"eui-u-mt-s\"><p>described in the [specific topic of the Work Programme]</p></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Application and evaluation forms and model grant agreement (MGA):</h4> <div class=\"eui-u-mt-s\"><p><strong>Application form templates</strong> <em>— the application form specific to this call is available in the Submission System</em></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-csa_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (HE CSA)</a> </p><p><strong>Evaluation form templates</strong> <em>— will be used with the necessary adaptations</em>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/ef/ef_he-csa_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard evaluation form (HE CSA)</a>&#xa0;</p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a>&#xa0;</p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE MGA</a>&#xa0;</p><p><strong>Call-specific instructions</strong>&#xa0;</p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-1-general-introduction_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 1. General Introduction</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-12-missions_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 12. Missions</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026-2027/wp-15-general-annexes_horizon-2026-2027_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2026-2027 – 15. General Annexes</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0695\" rel=\"noopener noreferrer\" target=\"_blank\">HE Framework Programme 2021/695</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021D0764\" rel=\"noopener noreferrer\" target=\"_blank\">HE Specific Programme Decision 2021/764</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EU Grants AGA — Annotated Model Grant Agreement</a></p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "Towards a European network of ocean technology testing sites"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "1A8092B0783E792BE3C389BD35B0F925A8BE71E1DFD944ABB5665F50A7E1DDC2"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43027846"
+      ],
+      "callIdentifier": [
+        "HORIZON-MISS-2026-03"
+      ],
+      "ccm2Id": [
+        "50136176"
+      ],
+      "callccm2Id": [
+        "50136495"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50136176TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"HORIZON-MISS-2026-03\",\"criterionCode\":\"HORIZON-CSA\",\"criterionDescription\":\"HORIZON Coordination and Support Actions\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43690?topic\\u003dHORIZON-MISS-2026-03-OCEAN-04\",\"startDate\":\"1770163200000\",\"endDate\":\"1790121600000\",\"mgaDescription\":\"HORIZON Action Grant Budget-Based\",\"mgaCode\":\"HORIZON-AG\"}]"
+      ],
+      "callTitle": [
+        "Supporting the implementation of the Restore our Ocean and Waters Mission"
+      ],
+      "frameworkProgramme": [
+        "43108390"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Outcome:</p><p> </p><p>Project results are expected to contribute to all of the following outcomes:</p><ul level=\"0\"><li>Harmonized approaches and processes across sites to ensure consistent and simplified access, taking into consideration the sensitivity of marine ecosystems in and around the sites;</li><li>Accelerated innovation cycles for ocean technologies, shortened time-to-market and reduced costs and risks associated with offshore trials;</li><li>Availability of cost-efficient at physical testing sites and expertise reducing the need for specialised in-house equipment and competencies;</li><li>Enhanced ocean technologies ecosystem in support of European leadership in the global market;</li><li>Provision of cost-efficient access to testing sites and expertise, reducing the need for specialised in-house equipment and competencies.</li> </ul><p class=\"topicdescriptionkind\">Scope:</p><p>The development and deployment of innovative ocean technologies for a wide range of applications are paving the way for more sustainable use of marine resources, for effective ocean monitoring and observation, for enhancing security and safety of offshore operations and infrastructures.</p><p>Access to dedicated offshore sites for testing and validating these technologies in real-world marine environments can be cumbersome. There is a need to accelerate the innovation cycles of these technologies and support companies in the transition from laboratory to market-ready solutions. This topic is closely linked with the Technology Infrastructure initiative<s>s</s> under Horizon Europe Cluster 4 – Digital, Industry and Space<sup>[1]</sup> and contributes to its overall objective of allowing companies to derisk their R&amp;D&amp;I investments before market introduction and to have ideas and concepts tested and validated in real conditions for faster uptake at commercial scale, while enhancing knowledge and skills, in line with the recommendations of the Commission Expert Group on Technology Infrastructures<sup>[2]</sup>. ..</p><p>Proposals should originate from European operators of testing sites for ocean technologies. The aim is to establish or expand existing well-connected networks of physical sites centred in various geographical locations, complemented by digital twin -based sites, offering diverse marine environmental conditions across Europe for testing ocean technology prototypes and demonstrators, and supporting the testing process with unique competences and know-how, in line with certification requirements and in a way that sensitive technological developments and Intellectual Property Rights (IPRs) are preserved.</p><p>The physical testing sites can be complemented by digital twin representations making use of the EU digital twin of the ocean (DTO) public infrastructure. This digital twin-based testing sites are highly effective for testing and validating ocean technologies as they provide a virtual replica of real-world marine environments and then enable accurate simulations and assessments of how technologies will perform in actual conditions, providing a controlled, risk-free environment for testing and validation.</p><p>Projects are expected to improve the integration and structure of the European landscape of ocean testing sites, including digital twin-based sites, by involving relevant actors to cover a broad range of sites for various ocean technologies and application areas, including ocean observation and monitoring.</p><p>All following issues should be addressed:</p><ul level=\"0\"><li>Identification and mapping of testing sites, taking into consideration the sensitivity of marine ecosystems in and around the sites, with involvement of relevant actors and related services, including digital twin-based testing sites if relevant;</li><li>Analysis of user needs and identification of existing gaps in ocean testing sites (physical and digital) and in the provision of services, including certification services, simulation, prototyping support, environmental monitoring and environmental impact assessment related services, as well as obstacles hampering access and use by the industry;</li><li>Set up of an integrated and coordinated European network of testing sites, addressing, in a harmonised and simplified way, issues such as: alignment of access policy and conditions, regulatory framework and governance models, service delivery models, data security issues, protection of trade secrets and IPRs, outreach measures towards new users, SMEs and start-ups in particular; support to training and skills development;</li><li>Measures to support collaboration between academic and research institutions, including European Research Infrastructure<sup>[3]</sup>, industry players, regulators and investors to accelerate the innovation cycles of marine technologies as well as coordination between geographically dispersed sites;</li><li>Identification of joint investment opportunities to enhance the capacity and the portfolio of services of testing sites (e.g.: potential technological upgrades; access to new sites; provision of new services; etc.) and ensure long-term sustainability.</li> </ul><p>Proposals are encouraged to link to and build on existing or emerging testing sites with a track record in delivering at sea demonstration/testing services in the fields of ocean technologies as well as to relevant European Research Infrastructures. Proposals are encouraged to support the inclusion of testing sites in less-developed coastal regions and, when relevant, in EU Outermost regions.</p><p>This action supports the follow-up to the July 2023 Communication on EU Missions assessment.</p><p class=\"eui-u-font-s\">[1] Technology Infrastructures are described in European Commission Staff Working Document (SWD 2019/158) as 'facilities, equipment, capabilities and support services required to develop, test and upscale technology to advance from validation in a laboratory up to higher Technology Readiness Levels prior to competitive market entry. They can have public, semi-public or private status</p><p class=\"eui-u-font-s\">[2] <a href=\"https://op.europa.eu/en/publication-detail/-/publication/ebbad86c-ea87-11ef-b5e9-01aa75ed71a1/language-en%22%20/t%20%22_blank\">Towards a European policy for technology infrastructures - Publications Office of the EU</a>; <a href=\"https://op.europa.eu/en/publication-detail/-/publication/0db26dae-ea82-11ef-b5e9-01aa75ed71a1/language-en%22%20/t%20%22_blank\">User needs for technology infrastructures - Publications Office of the EU</a></p><p class=\"eui-u-font-s\">[3] shttps://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/research-infrastructures_en</p>"
+      ],
+      "identifier": [
+        "HORIZON-MISS-2026-03-OCEAN-04"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43108390",
+        "43108541",
+        "43120193",
+        "43121563"
+      ],
+      "crossCuttingPriorities": [
+        "OCEAN",
+        "EoscAndFairData",
+        "DigitalAgenda",
+        "AI"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-01-19T16:31:19.943+0100"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-09-23T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-03-13T09:57:00.255+0100"
+      ],
+      "typesOfAction": [
+        "HORIZON Coordination and Support Actions"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-03-OCEAN-04"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-03-OCEAN-04"
+      ],
+      "tags": [
+        "Digital twin ocean",
+        "Marine monitoring",
+        "Marine observation",
+        "Ocean Technologies",
+        "Technology Infrastructures",
+        "marine robotics"
+      ],
+      "cenTagsA": [
+        "TOPICS-002798",
+        "TOPICS-002799",
+        "TOPICS-002800",
+        "TOPICS-002801",
+        "TOPICS-002802",
+        "TOPICS-002803",
+        "TOPICS-002804",
+        "TOPICS-002805",
+        "TOPICS-002806",
+        "TOPICS-002807",
+        "TOPICS-002808",
+        "TOPICS-002809",
+        "TOPICS-002810",
+        "TOPICS-002811",
+        "TOPICS-002601",
+        "TOPICS-000519"
+      ],
+      "esDA_QueueDate": [
+        "2026-03-13T09:57:00.241+0100"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"HORIZON-CSA HORIZON Coordination and Support Actions\",\"typeOfMGA\":[{\"id\":43027846,\"abbreviation\":\"HORIZON-AG\",\"description\":\"HORIZON Action Grant Budget-Based\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-02-04\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-09-23\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"113031\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-05 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":4,\"minContribution\":4000000,\"maxContribution\":4850000,\"budgetYearMap\":{\"2026\":\"19400000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113033\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-01 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":4,\"minContribution\":7000000,\"maxContribution\":7750000,\"budgetYearMap\":{\"2026\":\"31000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113032\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-02 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":4,\"minContribution\":7000000,\"maxContribution\":7750000,\"budgetYearMap\":{\"2026\":\"31000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113035\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-04 - HORIZON-CSA HORIZON Coordination and Support Actions\",\"expectedGrants\":1,\"minContribution\":2500000,\"maxContribution\":2900000,\"budgetYearMap\":{\"2026\":\"2900000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}],\"113034\":[{\"action\":\"HORIZON-MISS-2026-03-OCEAN-03 - HORIZON-IA HORIZON Innovation Actions\",\"expectedGrants\":4,\"minContribution\":7000000,\"maxContribution\":7750000,\"budgetYearMap\":{\"2026\":\"31000000\"},\"plannedOpeningDate\":\"2026-02-04\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-23\"]}]}}"
+      ],
+      "startDate": [
+        "2026-02-04T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> – find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> – ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> – get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (‘third-countries’).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> – contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> – the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> – consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Towards a European network of ocean technology testing sites. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-03-OCEAN-04",
+    "score": 3.0
+  }
+}

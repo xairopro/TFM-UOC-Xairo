@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-901808",
+  "id_interno": 1103369,
+  "numero_convocatoria": "901808",
+  "organismo": "LOCAL — ONDARA — AYUNTAMIENTO DE ONDARA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "2026-04-15",
+  "fecha_fin_solicitud": "2026-04-20",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "SUBVENCIÓ NOMINATIVA. CENTRE EXCURSIONISTA D'ONDARA",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades deportivas, recreativas y de entretenimiento",
+  "regiones": "ES521 - Alicante / Alacant",
+  "finalidad": "Otras Prestaciones económicas",
+  "bases_reguladoras": "Bases ejecucion Presupuestos Generales 2026 del Ayuntamiento de Ondara",
+  "url_bases_reguladoras": "https://ondara.sedelectronica.es",
+  "presupuesto": "900,00 €",
+  "presupuesto_total_num": 900,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901808",
+  "text": "CONVOCATORIA BDNS Nº 901808\nOrganismo: LOCAL — ONDARA — AYUNTAMIENTO DE ONDARA\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud: 2026-04-15 → 2026-04-20 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 900,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades deportivas, recreativas y de entretenimiento\nRegiones: ES521 - Alicante / Alacant\nFinalidad: Otras Prestaciones económicas\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSUBVENCIÓ NOMINATIVA. CENTRE EXCURSIONISTA D'ONDARA\n\nBases reguladoras:\nBases ejecucion Presupuestos Generales 2026 del Ayuntamiento de Ondara\nURL bases reguladoras: https://ondara.sedelectronica.es\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901808",
+  "_raw": {
+    "id": 1103369,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "ONDARA",
+      "nivel3": "AYUNTAMIENTO DE ONDARA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901808",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 900,
+    "mrr": false,
+    "descripcion": "SUBVENCIÓ NOMINATIVA. CENTRE EXCURSIONISTA D'ONDARA",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades deportivas, recreativas y de entretenimiento",
+        "codigo": "93"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES521 - Alicante / Alacant"
+      }
+    ],
+    "descripcionFinalidad": "Otras Prestaciones económicas",
+    "descripcionBasesReguladoras": "Bases ejecucion Presupuestos Generales 2026 del Ayuntamiento de Ondara",
+    "urlBasesReguladoras": "https://ondara.sedelectronica.es",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-04-15",
+    "fechaFinSolicitud": "2026-04-20",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443429,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "1252.26 Certificat d'acord JGL 20.04.26 SUB.CENTRE EXCURSIONISTA D'ONDARA.pdf",
+        "long": 627597,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443430,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "1252.26 Certificat d'acord JGL 20.04.26 SUB.CENTRE EXCURSIONISTA D'ONDARA.pdf",
+        "long": 627597,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

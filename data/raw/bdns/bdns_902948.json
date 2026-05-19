@@ -1,0 +1,118 @@
+{
+  "id": "BDNS-902948",
+  "id_interno": 1104509,
+  "numero_convocatoria": "902948",
+  "organismo": "LOCAL — OIARTZUN — AYUNTAMIENTO DE OIARTZUN",
+  "sede_electronica": "https://udal.egoitza.gipuzkoa.eus/WAS/AYTO/USCServicioCiudadanoVer15WEB/home.do?De=0630101",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Subvenciones para la promoción de actividades artísticas en Oiartzun en 2026.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+  "regiones": "ES21 - PAIS VASCO",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Subvenciones para la promoción de actividades artísticas en Oiartzun en 2026.",
+  "url_bases_reguladoras": "https://www.oiartzun.eus/es/Subvenciones/Convocatorias_en_curso",
+  "presupuesto": "10.000,00 €",
+  "presupuesto_total_num": 10000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902948",
+  "text": "CONVOCATORIA BDNS Nº 902948\nOrganismo: LOCAL — OIARTZUN — AYUNTAMIENTO DE OIARTZUN\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 10.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO\nRegiones: ES21 - PAIS VASCO\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSubvenciones para la promoción de actividades artísticas en Oiartzun en 2026.\n\nBases reguladoras:\nSubvenciones para la promoción de actividades artísticas en Oiartzun en 2026.\nURL bases reguladoras: https://www.oiartzun.eus/es/Subvenciones/Convocatorias_en_curso\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902948",
+  "_raw": {
+    "id": 1104509,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "OIARTZUN",
+      "nivel3": "AYUNTAMIENTO DE OIARTZUN"
+    },
+    "sedeElectronica": "https://udal.egoitza.gipuzkoa.eus/WAS/AYTO/USCServicioCiudadanoVer15WEB/home.do?De=0630101",
+    "codigoBDNS": "902948",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 10000,
+    "mrr": false,
+    "descripcion": "Subvenciones para la promoción de actividades artísticas en Oiartzun en 2026.",
+    "descripcionLeng": "2026an Oiartzunen arte sorkuntza sustatzeko dirulaguntzak. ",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES21 - PAIS VASCO"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Subvenciones para la promoción de actividades artísticas en Oiartzun en 2026.",
+    "urlBasesReguladoras": "https://www.oiartzun.eus/es/Subvenciones/Convocatorias_en_curso",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Desde el día siguiente a la publicación en el Boletín Oficial de Gipuzkoa ",
+    "textFin": "1 mes a partir de la publicación en el Boletín Oficial de Gipuzkoa ",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446748,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Arte 26 Bases anex.pdf",
+        "long": 368799,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446756,
+        "descripcion": "Laburpena",
+        "nombreFic": "arte laburpena.docx",
+        "long": 14877,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446750,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "Arte 26 oinarriak erans.pdf",
+        "long": 324932,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446752,
+        "descripcion": "Resumen",
+        "nombreFic": "arte resumen.docx",
+        "long": 15339,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

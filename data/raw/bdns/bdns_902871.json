@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-902871",
+  "id_interno": 1104432,
+  "numero_convocatoria": "902871",
+  "organismo": "LOCAL — ALCALÁ DEL RÍO — AYUNTAMIENTO DE ALCALÁ DEL RÍO",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": true,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "ASIGNACION GRUPO POLÍTICO MUNICIPAL PP, MARZO 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ORGANISMOS EXTRATERRITORIALES",
+  "regiones": "ES618 - Sevilla",
+  "finalidad": "Otras Prestaciones económicas",
+  "bases_reguladoras": "ASIGNACION GRUPO POLÍTICO MUNICIPAL PP, MARZO 2026",
+  "url_bases_reguladoras": "https://gestiona-11.espublico.com/dossierh.101",
+  "presupuesto": "2.200,00 €",
+  "presupuesto_total_num": 2200,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902871",
+  "text": "CONVOCATORIA BDNS Nº 902871\nOrganismo: LOCAL — ALCALÁ DEL RÍO — AYUNTAMIENTO DE ALCALÁ DEL RÍO\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud:  →  (abierto: sí)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 2.200,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ORGANISMOS EXTRATERRITORIALES\nRegiones: ES618 - Sevilla\nFinalidad: Otras Prestaciones económicas\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nASIGNACION GRUPO POLÍTICO MUNICIPAL PP, MARZO 2026\n\nBases reguladoras:\nASIGNACION GRUPO POLÍTICO MUNICIPAL PP, MARZO 2026\nURL bases reguladoras: https://gestiona-11.espublico.com/dossierh.101\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902871",
+  "_raw": {
+    "id": 1104432,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "ALCALÁ DEL RÍO",
+      "nivel3": "AYUNTAMIENTO DE ALCALÁ DEL RÍO"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902871",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 2200,
+    "mrr": false,
+    "descripcion": "ASIGNACION GRUPO POLÍTICO MUNICIPAL PP, MARZO 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ORGANISMOS EXTRATERRITORIALES",
+        "codigo": "V"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES618 - Sevilla"
+      }
+    ],
+    "descripcionFinalidad": "Otras Prestaciones económicas",
+    "descripcionBasesReguladoras": "ASIGNACION GRUPO POLÍTICO MUNICIPAL PP, MARZO 2026",
+    "urlBasesReguladoras": "https://gestiona-11.espublico.com/dossierh.101",
+    "sePublicaDiarioOficial": false,
+    "abierto": true,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446571,
+        "descripcion": "Justif bbva (700) Asignacion Grupo Político PP, MARZO 2026",
+        "nombreFic": "Justif bbva (700) Asignacion Grupo Político PP.pdf",
+        "long": 79005,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446567,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "RESOLUCION 2026-0110 [Asignaciones grupos políticos  enero-diciembre 2026].pdf",
+        "long": 889497,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

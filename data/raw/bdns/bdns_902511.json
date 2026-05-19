@@ -1,0 +1,116 @@
+{
+  "id": "BDNS-902511",
+  "id_interno": 1104072,
+  "numero_convocatoria": "902511",
+  "organismo": "AUTONOMICA — CASTILLA-LA MANCHA — INSTITUTO DE PROMOCIÓN EXTERIOR DE CASTILLA-LA MANCHA",
+  "sede_electronica": "https://www.jccm.es/tramites",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "2026-06-05",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Convocatoria Misión comercial directa a Brasil",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "GRAN EMPRESA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, Comercio al por mayor, Comercio al por menor",
+  "regiones": "ES42 - CASTILLA LA MANCHA",
+  "finalidad": "Comercio, Turismo y Pymes",
+  "bases_reguladoras": "Orden 152/2022, de 29 de julio, de la Consejería de Economía, Empresas y Empleo, de bases reguladoras de ayudas para participación agrupada en acciones de internacionalización convocadas por IPEX",
+  "url_bases_reguladoras": "https://docm.jccm.es/docm/descargarArchivo.do?ruta=2022/08/05/pdf/2022_7238.pdf&tipo=rutaDocm",
+  "presupuesto": "21.300,00 €",
+  "presupuesto_total_num": 21300,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "REG (UE) 2023/2831 de minimis, General",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902511",
+  "text": "CONVOCATORIA BDNS Nº 902511\nOrganismo: AUTONOMICA — CASTILLA-LA MANCHA — INSTITUTO DE PROMOCIÓN EXTERIOR DE CASTILLA-LA MANCHA\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  → 2026-06-05 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 21.300,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: GRAN EMPRESA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, Comercio al por mayor, Comercio al por menor\nRegiones: ES42 - CASTILLA LA MANCHA\nFinalidad: Comercio, Turismo y Pymes\nFondos: \nReglamento: REG (UE) 2023/2831 de minimis, General\nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria Misión comercial directa a Brasil\n\nBases reguladoras:\nOrden 152/2022, de 29 de julio, de la Consejería de Economía, Empresas y Empleo, de bases reguladoras de ayudas para participación agrupada en acciones de internacionalización convocadas por IPEX\nURL bases reguladoras: https://docm.jccm.es/docm/descargarArchivo.do?ruta=2022/08/05/pdf/2022_7238.pdf&tipo=rutaDocm\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902511",
+  "_raw": {
+    "id": 1104072,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "CASTILLA-LA MANCHA",
+      "nivel3": "INSTITUTO DE PROMOCIÓN EXTERIOR DE CASTILLA-LA MANCHA"
+    },
+    "sedeElectronica": "https://www.jccm.es/tramites",
+    "codigoBDNS": "902511",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 21300,
+    "mrr": false,
+    "descripcion": "Convocatoria Misión comercial directa a Brasil",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "GRAN EMPRESA"
+      },
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      },
+      {
+        "descripcion": "Comercio al por mayor",
+        "codigo": "46"
+      },
+      {
+        "descripcion": "Comercio al por menor",
+        "codigo": "47"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES42 - CASTILLA LA MANCHA"
+      }
+    ],
+    "descripcionFinalidad": "Comercio, Turismo y Pymes",
+    "descripcionBasesReguladoras": "Orden 152/2022, de 29 de julio, de la Consejería de Economía, Empresas y Empleo, de bases reguladoras de ayudas para participación agrupada en acciones de internacionalización convocadas por IPEX",
+    "urlBasesReguladoras": "https://docm.jccm.es/docm/descargarArchivo.do?ruta=2022/08/05/pdf/2022_7238.pdf&tipo=rutaDocm",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": "2026-06-05",
+    "textInicio": "Desde el día siguiente de su publicación en el DOCM",
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": {
+      "descripcion": "REG (UE) 2023/2831 de minimis, General",
+      "orden": null
+    },
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1445543,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "CONVOCATORIA MISIÓN COMERCIAL DIRECTA A BRASIL 2026_115058.PDF",
+        "long": 137445,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445544,
+        "descripcion": "Anexos 1 y 2",
+        "nombreFic": "ANEXO 1 Y 2_115123.PDF",
+        "long": 193356,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

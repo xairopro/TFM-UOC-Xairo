@@ -1,0 +1,144 @@
+{
+  "id": "BDNS-902089",
+  "id_interno": 1103650,
+  "numero_convocatoria": "902089",
+  "organismo": "LOCAL — CONSELL COMARCAL DE PALLARS JUSSÃ  — CONSELL COMARCAL DE PALLARS JUSSÀ",
+  "sede_electronica": "https://seu-e.cat/ca/web/ccpallarsjussa/seu-electronica",
+  "fecha_publicacion": "2026-04-28",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Acuerdo de la Junta de Gobierno de 2 de marzo de 2026 de aprobación de la convocatoria  para la concesión de subvenciones por concurrencia competitiva para actividades en los ámbitos de (cultura y deportes )  y (ferias locales y festivales) año 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, ACTIVIDADES DE LOS HOGARES COMO EMPLEADORES Y COMO PRODUCTORES DE BIENES Y SERVICIOS NO DIFERENCIADOS PARA USO PROPIO, ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS, ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES, ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA, EDUCACIÓN, OTROS SERVICIOS",
+  "regiones": "ES513 - Lleida",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "BASES REGULADORAS PARA LA CONCESIÓN DE SUBVENCIONES DE INTERÉS GENERAL DESTINADAS A ENTES LOCALES, PARTICULARES Y ENTIDADES Y/O ASOCIACIONES DE LA COMARCA DEL PALLARS JUSSÀ",
+  "url_bases_reguladoras": "https://ccpallarsjussa.eadministracio.cat/preview-document/5fbf1f7e-370e-4256-b7b9-8219647b5801/",
+  "presupuesto": "17.000,00 €",
+  "presupuesto_total_num": 17000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902089",
+  "text": "CONVOCATORIA BDNS Nº 902089\nOrganismo: LOCAL — CONSELL COMARCAL DE PALLARS JUSSÃ  — CONSELL COMARCAL DE PALLARS JUSSÀ\nFecha de publicación (recepción): 2026-04-28\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 17.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO, ACTIVIDADES DE LOS HOGARES COMO EMPLEADORES Y COMO PRODUCTORES DE BIENES Y SERVICIOS NO DIFERENCIADOS PARA USO PROPIO, ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS, ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES, ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA, EDUCACIÓN, OTROS SERVICIOS\nRegiones: ES513 - Lleida\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nAcuerdo de la Junta de Gobierno de 2 de marzo de 2026 de aprobación de la convocatoria  para la concesión de subvenciones por concurrencia competitiva para actividades en los ámbitos de (cultura y deportes )  y (ferias locales y festivales) año 2026\n\nBases reguladoras:\nBASES REGULADORAS PARA LA CONCESIÓN DE SUBVENCIONES DE INTERÉS GENERAL DESTINADAS A ENTES LOCALES, PARTICULARES Y ENTIDADES Y/O ASOCIACIONES DE LA COMARCA DEL PALLARS JUSSÀ\nURL bases reguladoras: https://ccpallarsjussa.eadministracio.cat/preview-document/5fbf1f7e-370e-4256-b7b9-8219647b5801/\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902089",
+  "_raw": {
+    "id": 1103650,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "CONSELL COMARCAL DE PALLARS JUSSÃ ",
+      "nivel3": "CONSELL COMARCAL DE PALLARS JUSSÀ"
+    },
+    "sedeElectronica": "https://seu-e.cat/ca/web/ccpallarsjussa/seu-electronica",
+    "codigoBDNS": "902089",
+    "fechaRecepcion": "2026-04-28",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 17000,
+    "mrr": false,
+    "descripcion": "Acuerdo de la Junta de Gobierno de 2 de marzo de 2026 de aprobación de la convocatoria  para la concesión de subvenciones por concurrencia competitiva para actividades en los ámbitos de (cultura y deportes )  y (ferias locales y festivales) año 2026",
+    "descripcionLeng": "Acord de la Junta de Govern de 2 de març de 2026 d'aprovació de la convocatòria per a la concessió de subvencions per concurrència competitiva per a activitats en els àmbits de (cultura i esports) i (fires locals i festivals) any 2026",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO",
+        "codigo": "S"
+      },
+      {
+        "descripcion": "ACTIVIDADES DE LOS HOGARES COMO EMPLEADORES Y COMO PRODUCTORES DE BIENES Y SERVICIOS NO DIFERENCIADOS PARA USO PROPIO",
+        "codigo": "U"
+      },
+      {
+        "descripcion": "ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS",
+        "codigo": "N"
+      },
+      {
+        "descripcion": "ACTIVIDADES SANITARIAS Y DE SERVICIOS SOCIALES",
+        "codigo": "R"
+      },
+      {
+        "descripcion": "ADMINISTRACIÓN PÚBLICA Y DEFENSA; SEGURIDAD SOCIAL OBLIGATORIA",
+        "codigo": "P"
+      },
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      },
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES513 - Lleida"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "BASES REGULADORAS PARA LA CONCESIÓN DE SUBVENCIONES DE INTERÉS GENERAL DESTINADAS A ENTES LOCALES, PARTICULARES Y ENTIDADES Y/O ASOCIACIONES DE LA COMARCA DEL PALLARS JUSSÀ",
+    "urlBasesReguladoras": "https://ccpallarsjussa.eadministracio.cat/preview-document/5fbf1f7e-370e-4256-b7b9-8219647b5801/",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Desde el día siguiente a la fecha de publicación del anuncio de la convocatoria en el BOP Lleida ",
+    "textFin": "30 días naturales a contar desde el día siguiente de la publicación de este anuncio en el BOP Lleida",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1444090,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "20260428_Publicació_Anunci_DOC ANUNCI DE CONVOCATÒRIA 28042026.pdf",
+        "long": 162871,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      },
+      {
+        "id": 1444087,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "20260428_Publicació_Anunci_ANUNCIO DE CONVOCATORIA SUBVENCIONES 28042026.pdf",
+        "long": 167362,
+        "datMod": "2026-04-28",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210390,
+        "titulo": "Acuerdo de la Junta de Gobierno celebrada en sesión ordinaria el día 2 de marzo de 2026,  se ha aprobado la convocatoria para la concesión de subvenciones por procedimiento de concurrencia competitiva para actividades y acciones de interés comarcal para el ejercicio 2026",
+        "tituloLeng": "Acord de la Junta de Govern celebrada en sessió ordinària el dia 2 de març del 2026, s'ha aprovat la convocatòria per a la concessió de subvencions per procediment de concurrència competitiva per a activitats i accions d'interès comarcal per a l'exercici 2026",
+        "texto": "<p>Primero. Beneficiarios.</p><p>Podrán acogerse a las subvenciones de esta convocatoria:</p><p>Pueden acogerse a esta convocatoria de ayudas:</p><p>- Los entes locales de la comarca del Pallars Jussà.</p><p>- Las entidades, asociaciones públicas o privadas, sin ánimo de lucro, con domicilio en la comarca del Pallars Jussà o que realicen actividades con incidencia en la comarca del Pallars Jussà siempre y cuando tengan sede operativa en la comarca.</p><p>- Las personas jurídicas de derecho privado que dispongan de domicilio social y/o sede operativa en la comarca del Pallars Jussà y que realicen actividades dentro del ámbito de aplicación de estas bases.</p><p> </p><p> </p><p>Segundo. Objeto</p><p>El objeto de estas Bases es regular la concesión de subvenciones para:</p><p>Entes locales</p><p>Entidades y/o Asociaciones de la comarca del Pallars Jussà.</p><p>Para la realización de actividades con incidencia en la comarca, a través de las entidades que tienen la sede operativa en la comarca.</p><p> </p><p>1 PARA ACTIVIDADES</p><p> </p><p>Ayudas para la realización de una actividad con las siguientes finalidades:</p><p>- Fortalecimiento de la red asociativa de la comarca.</p><p>- Potenciación de la dinamización social y de espacios de intercambio de experiencias, de cohesión y de la relación intergeneracional.</p><p>- El fomento de la participación inter asociativa para el logro de objetivos comunes y la incidencia en programas y actividades en el entorno.</p><p>- La corresponsabilidad entre asociaciones y administración pública en la financiación de los programas y actividades</p><p> </p><p> </p><p>2 PARA EQUIPAMIENTO</p><p> </p><p>Ayudas para la adquisición de elementos necesarios para desarrollar las acciones incluidas en la finalidad de la entidad: equipamientos y elementos.</p><p> </p><p>Las subvenciones en materia de equipamiento en el ámbito de la cultura y del deporte solo están dirigidas a las asociaciones y a las entidades deportivas. Los Entes Locales quedarán fuera.</p><p> </p><p>3 PARA EDICIÓN</p><p> </p><p>Ayudas para la edición de obras y la creación o edición documental, que tenga por objeto contenidos de interés para la comarca del Pallars Jussà. Las obras pueden ser en edición en papel o en cualquier formato digital.</p><p> </p><p>4 PARA FERIAS Y FESTIVALES</p><p> </p><p>Ayudas para la organización de ferias locales y festivales en la comarca.</p><p> </p><p>Las actividades y/o acciones subvencionadas harán referencia a los siguientes ámbitos: cultural, deportivo, ferias locales y festivales.</p><p> </p><p>Por lo que se establecen dos líneas de actuación:</p><p> </p><p>LÍNEA 1. Subvenciones en el ámbito de la cultura y el deporte</p><p>LÍNEA 2. Subvenciones en el ámbito ferial y de festivales</p><p> </p><p>Cuando el objeto de la subvención sea una feria o un festival, las actividades incluidas en este evento no pueden ser objeto de solicitud de subvención en la línea 1.</p><p> </p><p> </p><p>Podrán ser objeto de subvención las siguientes actividades:</p><p>GASTOS SUBVENCIONABLES</p><p> </p><p>ACTIVIDADES</p><p> </p><p>Son subvencionables los gastos directos derivados de la actividad subvencionada, entendiéndose como actividad, toda acción desarrollada por el solicitante que tenga incidencia en una colectividad en general.</p><p> </p><p>Los gastos directos para ser subvencionables deberán:</p><p>. Ser necesarias para la ejecución de la actividad objeto de subvención</p><p>. Estar previstas en el presupuesto de ejecución de la actividad.</p><p>. Estar vinculadas claramente a la actividad.</p><p> </p><p>EQUIPAMIENTO</p><p> </p><p>Son subvencionables los gastos por adquisición de equipamiento que estén vinculados al objeto de la entidad y así se acredite en sus estatutos u otro documento análogo. El equipamiento debe ser necesario para el desarrollo de una actividad en el ámbito de competencia de la entidad.</p><p> </p><p>EDICIÓN</p><p> </p><p>Son subvencionables los gastos de edición, en cualquier formato (papel, vídeo ...) dentro del ámbito deportivo y socio-cultural.</p><p>La edición de material relacionado con la Feria o Festival (catálogo, revista)</p><p> </p><p> </p><p>FERIAS Y FESTIVALES</p><p> </p><p>Gastos originados por la realización de actividades feriales y festivales durante el año de la convocatoria</p><p> </p><p>En las dos líneas de subvención, la cuantía de la subvención otorgada en ningún caso sobrepasará el importe solicitado.</p><p> </p><p> </p><p>GASTOS NO SUBVENCIONABLES (en todas las modalidades)</p><p> </p><p>En todo caso están excluidos como gastos subvencionables:</p><p> </p><p>- Los gastos bancarios.</p><p>- Comidas, refrigerios y gastos de ornamentos</p><p>- Gastos no relacionados directamente con el proyecto o la actividad.</p><p>- Gastos previstos como no subvencionables en la normativa vigente reguladora de las subvenciones.</p><p>- Gastos de inversión y gastos de obra civil: inmuebles, construcción y rehabilitación</p><p>- Gastos de viajes, excepto en subvenciones otorgadas por la participación de deportistas y equipos en competiciones de ámbito estatal, europeo e internacional.</p><p>- Material informático y de telefonía</p><p>- Gastos de alquiler y suministros generales de la entidad (luz, agua, seguros, ...)</p><p>- Material fungible, papel</p><p> </p><p> </p><p> </p><p> </p><p>Tercero. Bases reguladoras</p><p>Las bases reguladoras de la concesión de estas subvenciones han sido aprobadas inicialmente por la Junta de Gobierno en la sesión de 2 de marzo de 2026 y publicadas íntegramente en el BOPL núm. 50 de 13 de marzo de 2026 y en el DOGC núm. 9627 de 18 de marzo de 2026 y en el tablón de anuncios de la corporación.</p><p>Cuarto. Cuantía de la ayuda.</p><p>Para el año 2026, el crédito presupuestario al que se imputan las subvenciones y la cantidad total máxima será el siguiente:</p><p>Partida presupuestaria: 1920 48212 Subvención entidades por importe de 17.000 €.</p><p>Para el resto de convocatorias, el crédito presupuestario y cuantía se fijará en la convocatoria anual.</p><p>Quinto. Plazo de presentación de solicitudes.</p><p>Las subvenciones deben solicitarse electrónicamente, mediante los modelos normalizados y documentos exigidos que se pueden encontrar en la web del Consell Comarcal del Pallars Jussà https://www.seu-e.cat/ca/web/ccpallarsjussa.</p><p> </p><p>Las solicitudes se dirigirán al Presidente del Consell Comarcal del Pallars Jussà, y se presentarán en el Registro de entrada de este Consell Comarcal o por cualquiera de los medios señalados en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en el plazo de 30 días naturales desde la publicación del extracto de la convocatoria en el Boletín Oficial de la Provincia, tal y como se recoge el artículo 6.2 del Real Decreto 130/2019, de 8 de marzo, por el que se regula la Base de Datos Nacional de Subvenciones y la publicidad de las subvenciones y demás ayudas públicas.</p><p> </p><p>Sexto. Otros datos.</p><p>A la solicitud se deberá adjuntar la siguiente documentación:</p><p>a) Formulario de solicitud de subvención, debidamente cumplimentado y con la firma electrónica correspondiente del/de la representante legal.</p><p>En la solicitud debe hacerse constar la línea de actuación a la que se presenta y el ámbito concreto (apartado 3 de las Bases)</p><p>b) Memoria explicativa de la actividad objeto de subvención (con detalle de los aspectos a valorar).</p><p>c) Presupuesto general del objeto de la subvención, desglosado por ingresos y gastos.</p><p>d) Copia del NIF de la entidad</p><p>e) Copia de los estatutos vigentes y del documento acreditativo de su inscripción</p><p>en el registro público, en el caso de entidades.</p><p>f) Modelo de datos bancarios, firmado y sellado por la entidad bancaria</p><p>g) En el caso de entidades, certificado de estar al corriente del cumplimiento de sus obligaciones con la Hacienda Pública y con la Seguridad Social.</p><p>En caso de que el beneficiario, haya presentado en el Consejo Comarcal de El Pallars Jussà, en los últimos cinco años, los documentos d), e) y f) de este apartado y que no se haya producido ninguna modificación, no tiene la obligación de presentarlos, siempre que lo haga constar en la solicitud.</p>",
+        "textoLeng": "<p>Primer. Beneficiaris.Podran acollir-se a les subvencions daquesta convocatòria:Podeu acollir-vos a aquesta convocatòria d'ajuts:- Els ens locals de la comarca del Pallars Jussà.- Les entitats, associacions públiques o privades, sense ànim de lucre, amb domicili a la comarca del Pallars Jussà o que realitzin activitats amb incidència a la comarca del Pallars Jussà sempre que tinguin seu operativa a la comarca.- Les persones jurídiques de dret privat que disposin de domicili social i/o seu operativa a la comarca del Pallars Jussà i que realitzin activitats dins làmbit daplicació daquestes bases.</p><p>Segon. Objecte</p><p>L'objecte d'aquestes Bases és regular la concessió de subvencions per a: 1. Ens locals 2. Entitats i/o Associacions de la comarca del Pallars Jussà.Per a la realització dactivitats amb incidència a la comarca, a través de les entitats que tenen la seu operativa a la comarca.</p><p>1 PER A ACTIVITATS</p><p>Ajuts per a la realització d'una activitat amb les finalitats següents:- Enfortiment de la xarxa associativa de la comarca.- Potenciació de la dinamització social i despais dintercanvi dexperiències, de cohesió i de la relació intergeneracional.- El foment de la participació interassociativa per assolir objectius comuns i la incidència en programes i activitats en lentorn.- La coresponsabilitat entre associacions i administració pública en el finançament dels programes i activitats</p><p>2 PER A EQUIPAMENT</p><p>Ajuts per a ladquisició delements necessaris per desenvolupar les accions incloses en la finalitat de lentitat: equipaments i elements.</p><p>Les subvencions en matèria dequipament en làmbit de la cultura i de lesport només estan dirigides a les associacions ia les entitats esportives. Els ens locals quedaran fora.</p><p>3 PER A EDICIÓ</p><p>Ajuts per a ledició dobres i la creació o edició documental, que tingui per objecte continguts dinterès per a la comarca del Pallars Jussà. Les obres poden ésser en edició en paper o en qualsevol format digital.</p><p>4 PER FIRES I FESTIVALS</p><p>Ajuts per a l'organització de fires locals i festivals a la comarca.</p><p>Les activitats i/o accions subvencionades faran referència als següents àmbits: cultural, esportiu, fires locals i festivals.</p><p>Per això s'estableixen dues línies d'actuació:</p><p>LÍNIA 1. Subvencions a l'àmbit de la cultura i l'esportLÍNIA 2. Subvencions a l'àmbit firal i de festivals</p><p>Quan l'objecte de la subvenció sigui una fira o un festival, les activitats incloses en aquest esdeveniment no poden ser objecte de sol·licitud de subvenció a la línia 1.</p><p>Podran ser objecte de subvenció les activitats següents:DESPESES SUBVENCIONABLES</p><p>ACTIVITATS</p><p>Són subvencionables les despeses directes derivades de l'activitat subvencionada, entenent-se com a activitat tota acció desenvolupada pel sol·licitant que tingui incidència en una col·lectivitat en general.</p><p>Les despeses directes per ser subvencionables hauran de:. Ser necessàries per a lexecució de lactivitat objecte de subvenció. Estar previstes al pressupost d'execució de l'activitat.. Estar vinculades clarament a lactivitat.</p><p>EQUIPAMENT</p><p>Són subvencionables les despeses per adquisició d'equipament que estiguin vinculades a fi de l'entitat i així s'acrediti en els seus estatuts o un altre document anàleg. L&#8223;equipament ha de ser necessari per al desenvolupament d&#8223;una activitat en l&#8223;àmbit de competència de l&#8223;entitat.</p><p>EDICIÓ</p><p>Són subvencionables les despeses d'edició, en qualsevol format (paper, vídeo...) dins l'àmbit esportiu i sociocultural.L'edició de material relacionat amb la Fira o Festival (catàleg, revista)</p><p>FIRES I FESTIVALS</p><p>Despeses originades per la realització d'activitats firals i festivals durant l'any de la convocatòria</p><p>A les dues línies de subvenció, la quantia de la subvenció atorgada en cap cas sobrepassarà l'import sol·licitat.</p><p>DESPESES NO SUBVENCIONABLES (en totes les modalitats)</p><p>En tot cas estan exclosos com a despeses subvencionables:</p><p>- Les despeses bancàries.- Menjars, refrigeris i despeses d'ornaments- Despeses no relacionades directament amb el projecte o lactivitat.- Despeses previstes com a no subvencionables a la normativa vigent reguladora de les subvencions.- Despeses dinversió i despeses dobra civil: immobles, construcció i rehabilitació- Despeses de viatges, excepte en subvencions atorgades per la participació desportistes i equips en competicions dàmbit estatal, europeu i internacional.- Material informàtic i de telefonia- Despeses de lloguer i subministraments generals de l'entitat (llum, aigua, assegurances, ...)- Material fungible, paper</p><p>Tercer. Bases reguladoresLes bases reguladores de la concessió d'aquestes subvencions han estat aprovades inicialment per la Junta de Govern a la sessió de 2 de març de 2026 i publicades íntegrament al BOPL núm. </p><p>50 de 13 de març de 2026 i al DOGC núm. 9627 de 18 de març de 2026 i al tauler d'anuncis de la corporació.Cambra. Quantia de lajuda.Per a l'any 2026, el crèdit pressupostari a què s'imputen les subvencions i la quantitat total màxima serà el següent:Partida pressupostària: 1920 48212 Subvenció entitats per un import de 17.000 €.Per a la resta de convocatòries, el crèdit pressupostari i quantia es fixarà a la convocatòria anual.Cinquè. Termini de presentació de sol·licituds.Les subvencions s'han de sol·licitar electrònicament, mitjançant els models normalitzats i documents exigits que es poden trobar al web del Consell Comarcal del Pallars Jussà https://www.seu-e.cat/ca/web/ccpallarsjussa.</p><p>Les sol·licituds s'adreçaran al President del Consell Comarcal del Pallars Jussà, i es presentaran al Registre d'entrada d'aquest Consell Comarcal o per qualsevol dels mitjans assenyalats a l'article 16.4 de la Llei 39/2015, d'1 d'octubre, del Procediment Administratiu Comú de les Administracions Públiques, en el termini de 30 dies naturals Província, tal com recull l'article 6.2 del Reial decret 130/2019, de 8 de març, pel qual es regula la Base de Dades Nacional de Subvencions i la publicitat de les subvencions i altres ajuts públics.</p><p>Sisè. Altres dades.A la sol·licitud s'haurà d'adjuntar la documentació següent:a) Formulari de sol·licitud de subvenció, degudament emplenat i amb la signatura electrònica corresponent del/de la representant legal.A la sol·licitud s'ha de fer constar la línia d'actuació a què es presenta i l'àmbit concret (apartat 3 de les bases)b) Memòria explicativa de lactivitat objecte de subvenció (amb detall dels aspectes a valorar).c) Pressupost general de lobjecte de la subvenció, desglossat per ingressos i despeses.d) Còpia del NIF de lentitate) Còpia dels estatuts vigents i del document acreditatiu de la seva inscripcióal registre públic, en el cas d'entitats.f) Model de dades bancàries, signat i segellat per l'entitat bancàriag) En el cas dentitats, certificat destar al corrent del compliment de les seves obligacions amb la Hisenda Pública i amb la Seguretat Social.En cas que el beneficiari, hagi presentat al Consell Comarcal del Pallars Jussà, en els darrers cinc anys, els documents d), e) i f) d'aquest apartat i que no s'hagi produït cap modificació, no té l'obligació de presentar-los, sempre que ho faci constar a la sol·licitud.</p>",
+        "url": "https://ebop.diputaciolleida.cat/aplicacions/bop/bopV1/fitxers/pdf/2026/85/20268503344.pdf",
+        "cve": null,
+        "desDiarioOficial": "B.O.P. DE LLEIDA",
+        "datPublicacion": "2026-05-06"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

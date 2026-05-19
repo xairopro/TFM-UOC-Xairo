@@ -1,0 +1,120 @@
+{
+  "id": "BDNS-902995",
+  "id_interno": 1104556,
+  "numero_convocatoria": "902995",
+  "organismo": "AUTONOMICA — PAÍS VASCO — LANBIDE-SERVICIO VASCO DE EMPLEO",
+  "sede_electronica": "https://www.lanbide.euskadi.eus/ayuda_subvencion/2026/dem50/weblan00-content/es/",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "2026-05-01",
+  "fecha_fin_solicitud": "2026-09-30",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Ayudas contratación de personas mayores de 50 años en desempleo 2026-2027",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Administración pública y de la política económica, social y medioambiental",
+  "regiones": "ES21 - PAIS VASCO",
+  "finalidad": "Fomento del Empleo",
+  "bases_reguladoras": "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores.",
+  "url_bases_reguladoras": "https://www.boe.es/buscar/pdf/2015/BOE-A-2015-11430-consolidado.pdf",
+  "presupuesto": "2.500.000,00 €",
+  "presupuesto_total_num": 2500000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "REG (UE) 2023/2831 de minimis, General",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902995",
+  "text": "CONVOCATORIA BDNS Nº 902995\nOrganismo: AUTONOMICA — PAÍS VASCO — LANBIDE-SERVICIO VASCO DE EMPLEO\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud: 2026-05-01 → 2026-09-30 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 2.500.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Administración pública y de la política económica, social y medioambiental\nRegiones: ES21 - PAIS VASCO\nFinalidad: Fomento del Empleo\nFondos: \nReglamento: REG (UE) 2023/2831 de minimis, General\nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nAyudas contratación de personas mayores de 50 años en desempleo 2026-2027\n\nBases reguladoras:\nReal Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores.\nURL bases reguladoras: https://www.boe.es/buscar/pdf/2015/BOE-A-2015-11430-consolidado.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902995",
+  "_raw": {
+    "id": 1104556,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "PAÍS VASCO",
+      "nivel3": "LANBIDE-SERVICIO VASCO DE EMPLEO"
+    },
+    "sedeElectronica": "https://www.lanbide.euskadi.eus/ayuda_subvencion/2026/dem50/weblan00-content/es/",
+    "codigoBDNS": "902995",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 2500000,
+    "mrr": false,
+    "descripcion": "Ayudas contratación de personas mayores de 50 años en desempleo 2026-2027",
+    "descripcionLeng": "50 urtetik gorako langabeak kontratatzeko dirulaguntzak 2026-2027",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Administración pública y de la política económica, social y medioambiental",
+        "codigo": "84.1"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES21 - PAIS VASCO"
+      }
+    ],
+    "descripcionFinalidad": "Fomento del Empleo",
+    "descripcionBasesReguladoras": "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores.",
+    "urlBasesReguladoras": "https://www.boe.es/buscar/pdf/2015/BOE-A-2015-11430-consolidado.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-05-01",
+    "fechaFinSolicitud": "2026-09-30",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": {
+      "descripcion": "REG (UE) 2023/2831 de minimis, General",
+      "orden": null
+    },
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446835,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "Documento convocatoria (euskera).PDF",
+        "long": 234900,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446834,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Documento convocatoria (castellano).PDF",
+        "long": 264013,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210688,
+        "titulo": "Procedimiento Beta",
+        "tituloLeng": null,
+        "texto": "Procedimiento Beta",
+        "textoLeng": null,
+        "url": "https://www.euskadi.eus/web01-bopv/es/p43aBOPVWebWar/VerParalelo.do?cd2026001789",
+        "cve": null,
+        "desDiarioOficial": "BOPV. B.O. DEL PAÍS VASCO",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "BDNS-901624",
+  "id_interno": 1103185,
+  "numero_convocatoria": "901624",
+  "organismo": "ESTADO — MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES — CONSEJO SUPERIOR DE DEPORTES",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "2026-04-29",
+  "fecha_fin_solicitud": "2026-05-21",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "RESOLUCIÓN DE LA PRESIDENCIA DEL CONSEJO SUPERIOR DE DEPORTES, POR LA QUE SE CONVOCAN BECAS PARA DEPORTISTAS EN EL CENTRO DE ALTO RENDIMIENTO DE MADRID, DURANTE LA TEMPORADA 2026/2027.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "EDUCACIÓN, OTROS SERVICIOS",
+  "regiones": "ES - ESPAÑA",
+  "finalidad": "Educación",
+  "bases_reguladoras": "Orden ECD/2681/2012, de 12 de diciembre, por la que se aprueban las bases reguladoras para la concesión de subvenciones y ayudas por el Consejo Superior de Deportes.",
+  "url_bases_reguladoras": "https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15180",
+  "presupuesto": "3.804.712,20 €",
+  "presupuesto_total_num": 3804712.2,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901624",
+  "text": "CONVOCATORIA BDNS Nº 901624\nOrganismo: ESTADO — MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES — CONSEJO SUPERIOR DE DEPORTES\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud: 2026-04-29 → 2026-05-21 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 3.804.712,20 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: EDUCACIÓN, OTROS SERVICIOS\nRegiones: ES - ESPAÑA\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nRESOLUCIÓN DE LA PRESIDENCIA DEL CONSEJO SUPERIOR DE DEPORTES, POR LA QUE SE CONVOCAN BECAS PARA DEPORTISTAS EN EL CENTRO DE ALTO RENDIMIENTO DE MADRID, DURANTE LA TEMPORADA 2026/2027.\n\nBases reguladoras:\nOrden ECD/2681/2012, de 12 de diciembre, por la que se aprueban las bases reguladoras para la concesión de subvenciones y ayudas por el Consejo Superior de Deportes.\nURL bases reguladoras: https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15180\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901624",
+  "_raw": {
+    "id": 1103185,
+    "organo": {
+      "nivel1": "ESTADO",
+      "nivel2": "MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES",
+      "nivel3": "CONSEJO SUPERIOR DE DEPORTES"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901624",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 3804712.2,
+    "mrr": false,
+    "descripcion": "RESOLUCIÓN DE LA PRESIDENCIA DEL CONSEJO SUPERIOR DE DEPORTES, POR LA QUE SE CONVOCAN BECAS PARA DEPORTISTAS EN EL CENTRO DE ALTO RENDIMIENTO DE MADRID, DURANTE LA TEMPORADA 2026/2027.",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      },
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES - ESPAÑA "
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "Orden ECD/2681/2012, de 12 de diciembre, por la que se aprueban las bases reguladoras para la concesión de subvenciones y ayudas por el Consejo Superior de Deportes.",
+    "urlBasesReguladoras": "https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15180",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-04-29",
+    "fechaFinSolicitud": "2026-05-21",
+    "textInicio": "Día siguiente a publicación en BOE",
+    "textFin": "15 días hábiles siguientes a su publicación en el BOE",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442892,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "CONVOCATORIA BECAS CAR DE MADRID 26-27.pdf",
+        "long": 438236,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210199,
+        "titulo": "Extracto de la Resolución de 23 de abril de 2026 de la Presidencia del Consejo Superior de Deportes, por la que se convocan becas para deportistas en el Centro de Alto Rendimiento de Madrid, durante la temporada 2026/2027.",
+        "tituloLeng": null,
+        "texto": "<p>Primero: Beneficiarios.</p><p> </p><p>Podrán acceder a la condición de beneficiarios de las becas los deportistas que cumplan los requisitos establecidos en el Apartado Quinto de la convocatoria.</p><p> </p><p>Segundo: Objeto de la convocatoria.</p><p> </p><p>Conceder becas en régimen de concurrencia competitiva en el CAR de Madrid, para facilitar el entrenamiento de los deportistas de máximo interés y favorecer su conciliación con la formación académica.</p><p> </p><p>Tercero: Bases Reguladoras.</p><p> </p><p>Orden ECD/2681/2012, de 12 de diciembre, por la que se aprueban las bases reguladoras para la concesión de subvenciones y ayudas por el Consejo Superior de Deportes, disponibles en: http://www.boe.es/boe/dias/2012/12/15/pdfs/BOE-A-2012-15180.pdf</p><p> </p><p>Cuarto: Cuantía.</p><p> </p><p>Las ayudas concedidas se sufragarán con el crédito disponible anual que se consigna en el presupuesto de gastos del CSD del año 2026, en el siguiente concepto presupuestario para este crédito: 336A 227.06 “Gestión Servicios CARD”, con una cuantía prevista de 3.804.712,20 euros.</p><p> </p><p>Quinto. Plazo y procedimiento de solicitud.</p><p> </p><p>Las solicitudes por parte de las Federaciones Deportivas Españolas deberán presentarse en el plazo máximo de veinte días hábiles, contados a partir del siguiente a la publicación en el BOE del presente extracto de la Resolución convocante.</p><p> </p><p>Las solicitudes deberán presentarse de modo telemático a través de la Sede Electrónica del Consejo Superior de Deportes, accesible en la dirección electrónica: https://sede.csd.gob.es (trámite 991956_2026B Becas en Centro de Alto Rendimiento de Madrid. Convocatoria 2026-2027). Las solicitudes deberán estar firmadas mediante una firma electrónica avanzada, acorde con lo dispuesto sobre firma electrónica en la Ley 39/2015.</p><p> </p><p>Sexto. Otros datos administrativos y de procedimiento.</p><p> </p><p>El órgano instructor del procedimiento es la Dirección General de Deportes del Consejo Superior de Deportes, conforme a lo dispuesto en el artículo 8.4b) del Estatuto del Consejo Superior de Deportes, aprobado por el Real Decreto 460/2015, de 5 de junio.</p><p> </p><p>Los criterios de valoración de las solicitudes vienen desarrollados en el Apartado Undécimo de la Resolución convocante.</p><p> </p><p>La becas y ayudas convocadas serán compatibles con otras subvenciones, ayudas, ingresos o recursos obtenidos para la misma finalidad, procedentes de cualquier Administración o Entes públicos o privados.</p>",
+        "textoLeng": null,
+        "url": "http://www.boe.es/diario_boe/verifica.php?acc=Verificar&c=BOE-B-2026-13482",
+        "cve": "BOE-B-2026-13482",
+        "desDiarioOficial": "BOE. BOLETÍN OFICIAL DEL ESTADO",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

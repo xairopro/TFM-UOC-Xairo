@@ -1,0 +1,158 @@
+{
+  "id": "BDNS-902814",
+  "id_interno": 1104375,
+  "numero_convocatoria": "902814",
+  "organismo": "AUTONOMICA — COMUNIDAD DE MADRID — CONSEJERÍA DE PRESIDENCIA, JUSTICIA Y ADMINISTRACIÓN LOCAL",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": true,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "PIR 22-26 REDACCIONES PROYECTO AÑO 2026 ART 12.7 DECRETO 118/2020, 23 DICIE",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Prestación de servicios a la comunidad en general",
+  "regiones": "ES3 - COMUNIDAD DE MADRID",
+  "finalidad": "Otras Prestaciones económicas",
+  "bases_reguladoras": "DECRETO 118/2020, DE 23 DE DICIEMBRE, DE CONSEJO DE GOBIERNO, POR EL QUE SE APRUEBA EL “PROGRAMA DE INVERSIÓN REGIONAL DE LA COMUNIDAD DE MADRID PARA EL PERÍODO 2021-2025, CON UNA DOTACIÓN DE 1.000.000.000 DE EUROS (PIR 2021-2025)”",
+  "url_bases_reguladoras": "http://www.bocm.es/boletin/CM_Orden_BOCM/2020/12/28/BOCM-20201228-1.PDF",
+  "presupuesto": "92.654,13 €",
+  "presupuesto_total_num": 92654.13,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902814",
+  "text": "CONVOCATORIA BDNS Nº 902814\nOrganismo: AUTONOMICA — COMUNIDAD DE MADRID — CONSEJERÍA DE PRESIDENCIA, JUSTICIA Y ADMINISTRACIÓN LOCAL\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud:  →  (abierto: sí)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 92.654,13 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Prestación de servicios a la comunidad en general\nRegiones: ES3 - COMUNIDAD DE MADRID\nFinalidad: Otras Prestaciones económicas\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nPIR 22-26 REDACCIONES PROYECTO AÑO 2026 ART 12.7 DECRETO 118/2020, 23 DICIE\n\nBases reguladoras:\nDECRETO 118/2020, DE 23 DE DICIEMBRE, DE CONSEJO DE GOBIERNO, POR EL QUE SE APRUEBA EL “PROGRAMA DE INVERSIÓN REGIONAL DE LA COMUNIDAD DE MADRID PARA EL PERÍODO 2021-2025, CON UNA DOTACIÓN DE 1.000.000.000 DE EUROS (PIR 2021-2025)”\nURL bases reguladoras: http://www.bocm.es/boletin/CM_Orden_BOCM/2020/12/28/BOCM-20201228-1.PDF\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902814",
+  "_raw": {
+    "id": 1104375,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "COMUNIDAD DE MADRID",
+      "nivel3": "CONSEJERÍA DE PRESIDENCIA, JUSTICIA Y ADMINISTRACIÓN LOCAL"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902814",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 92654.13,
+    "mrr": false,
+    "descripcion": "PIR 22-26 REDACCIONES PROYECTO AÑO 2026 ART 12.7 DECRETO 118/2020, 23 DICIE",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Prestación de servicios a la comunidad en general",
+        "codigo": "84.2"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES3 - COMUNIDAD DE MADRID"
+      }
+    ],
+    "descripcionFinalidad": "Otras Prestaciones económicas",
+    "descripcionBasesReguladoras": "DECRETO 118/2020, DE 23 DE DICIEMBRE, DE CONSEJO DE GOBIERNO, POR EL QUE SE APRUEBA EL “PROGRAMA DE INVERSIÓN REGIONAL DE LA COMUNIDAD DE MADRID PARA EL PERÍODO 2021-2025, CON UNA DOTACIÓN DE 1.000.000.000 DE EUROS (PIR 2021-2025)”",
+    "urlBasesReguladoras": "http://www.bocm.es/boletin/CM_Orden_BOCM/2020/12/28/BOCM-20201228-1.PDF",
+    "sePublicaDiarioOficial": false,
+    "abierto": true,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446331,
+        "descripcion": "Otros documentos  20201223 DECRETO 118_2020 APROBACION PIR 2022-2026",
+        "nombreFic": "Otros documentos  20201223 DECRETO 118_2020 APROBACION PIR 2022-2026.pdf",
+        "long": 317718,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446330,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Texto Convocatoria BDNS  MEMORIA SCONVO ANONIMIZADA.pdf",
+        "long": 967069,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446333,
+        "descripcion": "Otros documentos  20210929 ACG ERROR MATERIAL",
+        "nombreFic": "Otros documentos  20210929 ACG ERROR MATERIAL.pdf",
+        "long": 82271,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446332,
+        "descripcion": "Otros documentos  20210915 DECRETO 211_2021 ERROR MATERIAL PIR",
+        "nombreFic": "Otros documentos  20210915 DECRETO 211_2021 ERROR MATERIAL PIR.pdf",
+        "long": 115244,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446334,
+        "descripcion": "Otros documentos  20211020 ACG PLAN ACTUACION",
+        "nombreFic": "Otros documentos  20211020 ACG PLAN ACTUACION.pdf",
+        "long": 185994,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446335,
+        "descripcion": "Otros documentos  20221011 DECRETO 113_2022 MOD. PIR",
+        "nombreFic": "Otros documentos  20221011 DECRETO 113_2022 MOD. PIR.pdf",
+        "long": 204126,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446336,
+        "descripcion": "Otros documentos  20230420 ACG MOD. PLAN ACTUACION COLMENAREJO",
+        "nombreFic": "Otros documentos  20230420 ACG MOD. PLAN ACTUACION COLMENAREJO.pdf",
+        "long": 110198,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446337,
+        "descripcion": "Otros documentos  20230510 ACG MOD. PLAN ACTUACION LOECHES Y VALDEAVERO",
+        "nombreFic": "Otros documentos  20230510 ACG MOD. PLAN ACTUACION LOECHES Y VALDEAVERO.pdf",
+        "long": 122174,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446339,
+        "descripcion": "Otros documentos  20240710 DECRETO 74_2024 MOD. PIR",
+        "nombreFic": "Otros documentos  20240710 DECRETO 74_2024 MOD. PIR.pdf",
+        "long": 203443,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

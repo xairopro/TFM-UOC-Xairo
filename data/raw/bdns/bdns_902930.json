@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902930",
+  "id_interno": 1104491,
+  "numero_convocatoria": "902930",
+  "organismo": "LOCAL — DIPUTACIÓN PROV. DE TOLEDO — DIPUTACIÓN PROVINCIAL DE TOLEDO",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - canónica",
+  "descripcion": "APROBACIÓN DE BASES REGULADORAS Y CONVOCATORIA DE SUBVENCIONES DIRECTAS EN EL MARCO DEL PLAN PROVINCIAL TOLEDO EMPLEA+, A DESARROLLAR EN LOS MUNICIPIOS DE LA PROVINCIA DE TOLEDO DURANTE LOS EJERCICIOS 2026 Y 2027.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades relacionadas con el empleo",
+  "regiones": "ES425 - Toledo",
+  "finalidad": "Fomento del Empleo",
+  "bases_reguladoras": "Bases 54 a 63 de ejecución del presupuesto de la Diputación Provincial de Toledo 2026",
+  "url_bases_reguladoras": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.diputoledo.es/global/53/ver_pdf/36599",
+  "presupuesto": "21.000.000,00 €",
+  "presupuesto_total_num": 21000000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902930",
+  "text": "CONVOCATORIA BDNS Nº 902930\nOrganismo: LOCAL — DIPUTACIÓN PROV. DE TOLEDO — DIPUTACIÓN PROVINCIAL DE TOLEDO\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - canónica\nPresupuesto total: 21.000.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades relacionadas con el empleo\nRegiones: ES425 - Toledo\nFinalidad: Fomento del Empleo\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nAPROBACIÓN DE BASES REGULADORAS Y CONVOCATORIA DE SUBVENCIONES DIRECTAS EN EL MARCO DEL PLAN PROVINCIAL TOLEDO EMPLEA+, A DESARROLLAR EN LOS MUNICIPIOS DE LA PROVINCIA DE TOLEDO DURANTE LOS EJERCICIOS 2026 Y 2027.\n\nBases reguladoras:\nBases 54 a 63 de ejecución del presupuesto de la Diputación Provincial de Toledo 2026\nURL bases reguladoras: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.diputoledo.es/global/53/ver_pdf/36599\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902930",
+  "_raw": {
+    "id": 1104491,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DIPUTACIÓN PROV. DE TOLEDO",
+      "nivel3": "DIPUTACIÓN PROVINCIAL DE TOLEDO"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902930",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - canónica",
+    "presupuestoTotal": 21000000,
+    "mrr": false,
+    "descripcion": "APROBACIÓN DE BASES REGULADORAS Y CONVOCATORIA DE SUBVENCIONES DIRECTAS EN EL MARCO DEL PLAN PROVINCIAL TOLEDO EMPLEA+, A DESARROLLAR EN LOS MUNICIPIOS DE LA PROVINCIA DE TOLEDO DURANTE LOS EJERCICIOS 2026 Y 2027.",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades relacionadas con el empleo",
+        "codigo": "78"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES425 - Toledo"
+      }
+    ],
+    "descripcionFinalidad": "Fomento del Empleo",
+    "descripcionBasesReguladoras": "Bases 54 a 63 de ejecución del presupuesto de la Diputación Provincial de Toledo 2026",
+    "urlBasesReguladoras": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.diputoledo.es/global/53/ver_pdf/36599",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "A partir del día siguiente a la publicación del extracto en el BOP de Toledo",
+    "textFin": "15 días hábiles contados desde el día siguiente a la publiación del extracto en el BOP de Toledo",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446724,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "15. Bases y Convocatoria Toledo Emplea+ 2026-2027.pdf",
+        "long": 1463361,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

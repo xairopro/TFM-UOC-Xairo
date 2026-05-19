@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-901583",
+  "id_interno": 1103144,
+  "numero_convocatoria": "901583",
+  "organismo": "LOCAL — DIPUTACIÓN PROV. DE LUGO — DIPUTACIÓN PROVINCIAL DE LUGO",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - canónica",
+  "descripcion": "BASES EN REGIMEN ABREVIADO DE CONCURRENCIA COMPETITIVA PARA LA PROMOCIÓN Y POTENCIACION DE REPRODUCTORES INSCRITAS EN EL REGISTRO DEFINITIVO DEL LIBRO GENEALOGICO DE LA RAZA RUBIA GALEGA EN LAS EXPLOTACIONES DE LA PROV. DE LUGO PROGRAMA `MARELA` ANUALIDAD",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Producción ganadera",
+  "regiones": "ES112 - Lugo",
+  "finalidad": "Otras actuaciones de carácter económico",
+  "bases_reguladoras": "BASES REGULADORAS CONC.COMPET.ABREVIADA",
+  "url_bases_reguladoras": "https://www.deputacionlugo.gal/sites/deputacionlugo.org/files/inline-files/11-01-2024.pdf#page=1",
+  "presupuesto": "200.000,00 €",
+  "presupuesto_total_num": 200000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901583",
+  "text": "CONVOCATORIA BDNS Nº 901583\nOrganismo: LOCAL — DIPUTACIÓN PROV. DE LUGO — DIPUTACIÓN PROVINCIAL DE LUGO\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concesión directa - canónica\nPresupuesto total: 200.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Producción ganadera\nRegiones: ES112 - Lugo\nFinalidad: Otras actuaciones de carácter económico\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nBASES EN REGIMEN ABREVIADO DE CONCURRENCIA COMPETITIVA PARA LA PROMOCIÓN Y POTENCIACION DE REPRODUCTORES INSCRITAS EN EL REGISTRO DEFINITIVO DEL LIBRO GENEALOGICO DE LA RAZA RUBIA GALEGA EN LAS EXPLOTACIONES DE LA PROV. DE LUGO PROGRAMA `MARELA` ANUALIDAD\n\nBases reguladoras:\nBASES REGULADORAS CONC.COMPET.ABREVIADA\nURL bases reguladoras: https://www.deputacionlugo.gal/sites/deputacionlugo.org/files/inline-files/11-01-2024.pdf#page=1\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901583",
+  "_raw": {
+    "id": 1103144,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DIPUTACIÓN PROV. DE LUGO",
+      "nivel3": "DIPUTACIÓN PROVINCIAL DE LUGO"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901583",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - canónica",
+    "presupuestoTotal": 200000,
+    "mrr": false,
+    "descripcion": "BASES EN REGIMEN ABREVIADO DE CONCURRENCIA COMPETITIVA PARA LA PROMOCIÓN Y POTENCIACION DE REPRODUCTORES INSCRITAS EN EL REGISTRO DEFINITIVO DEL LIBRO GENEALOGICO DE LA RAZA RUBIA GALEGA EN LAS EXPLOTACIONES DE LA PROV. DE LUGO PROGRAMA `MARELA` ANUALIDAD",
+    "descripcionLeng": "BASES EN RÉXIME ABREVIADO DE CONCORRENCIA COMPETITIVA PARA A PROMOCIÓN E POTENCIACIÓN DE REPRODUTORAS INSCRITAS NO REXISTRO DEFINITIVO DO LIBRO XENEALÓXICO DA RAZA RUBIA GALEGA NAS EXPLOTACIÓNS DA PROVINCIA DE LUGO , PROGRAMA `A MARELA` ANUALIDADE 2026",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Producción ganadera",
+        "codigo": "01.4"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES112 - Lugo"
+      }
+    ],
+    "descripcionFinalidad": "Otras actuaciones de carácter económico",
+    "descripcionBasesReguladoras": "BASES REGULADORAS CONC.COMPET.ABREVIADA",
+    "urlBasesReguladoras": "https://www.deputacionlugo.gal/sites/deputacionlugo.org/files/inline-files/11-01-2024.pdf#page=1",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "A PARTIR DEL DIA SIGUIENTE A LA PUBLICACIÓN DEL EXTRACTO DE LA CONVOCATORIA BOP LUGO",
+    "textFin": "10 DÍAS HÁBILES A PARTIR DEL DÍA SIGUIENTE A LA PUBLICACIÓN ESTRACTO CONVOCATORIA EN EL BOP LUGO",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442691,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "5.3_Convocatoria_e_Bases_BDNS_(galego_-_asinado).pdf",
+        "long": 684507,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442690,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "6.3_Convocatoria_y_Bases_BDNS_(castellano_-_asinado).pdf",
+        "long": 686226,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

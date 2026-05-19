@@ -1,0 +1,110 @@
+{
+  "id": "BDNS-902721",
+  "id_interno": 1104282,
+  "numero_convocatoria": "902721",
+  "organismo": "LOCAL — POZOBLANCO — AYUNTAMIENTO DE POZOBLANCO",
+  "sede_electronica": "https://sede.eprinsa.es/pozoblanco",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Resolución de Alcaldía nº 2026/00001761, de fecha 29/04/2026, del Ayuntamiento de Pozoblanco, por la que se convoca Subvención de Concurrencia Competitiva para Concurso Muñecas de San Isidro 2026.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "OTROS SERVICIOS",
+  "regiones": "ES613 - Córdoba",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "En sesión ordinaria de Pleno, celebrada el 28 de octubre de 2013, se aprobó inicialmente la Ordenanza General reguladora de la\nconcesión de Subvenciones.",
+  "url_bases_reguladoras": "htps..//pozoblanco.es/wp-content/uploads/2014/10/Ordenanza-reguladora-concesion-de-subvenciones.pdf",
+  "presupuesto": "9.000,00 €",
+  "presupuesto_total_num": 9000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902721",
+  "text": "CONVOCATORIA BDNS Nº 902721\nOrganismo: LOCAL — POZOBLANCO — AYUNTAMIENTO DE POZOBLANCO\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 9.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: OTROS SERVICIOS\nRegiones: ES613 - Córdoba\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nResolución de Alcaldía nº 2026/00001761, de fecha 29/04/2026, del Ayuntamiento de Pozoblanco, por la que se convoca Subvención de Concurrencia Competitiva para Concurso Muñecas de San Isidro 2026.\n\nBases reguladoras:\nEn sesión ordinaria de Pleno, celebrada el 28 de octubre de 2013, se aprobó inicialmente la Ordenanza General reguladora de la\nconcesión de Subvenciones.\nURL bases reguladoras: htps..//pozoblanco.es/wp-content/uploads/2014/10/Ordenanza-reguladora-concesion-de-subvenciones.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902721",
+  "_raw": {
+    "id": 1104282,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "POZOBLANCO",
+      "nivel3": "AYUNTAMIENTO DE POZOBLANCO"
+    },
+    "sedeElectronica": "https://sede.eprinsa.es/pozoblanco",
+    "codigoBDNS": "902721",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 9000,
+    "mrr": false,
+    "descripcion": "Resolución de Alcaldía nº 2026/00001761, de fecha 29/04/2026, del Ayuntamiento de Pozoblanco, por la que se convoca Subvención de Concurrencia Competitiva para Concurso Muñecas de San Isidro 2026.",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES613 - Córdoba"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "En sesión ordinaria de Pleno, celebrada el 28 de octubre de 2013, se aprobó inicialmente la Ordenanza General reguladora de la\nconcesión de Subvenciones.",
+    "urlBasesReguladoras": "htps..//pozoblanco.es/wp-content/uploads/2014/10/Ordenanza-reguladora-concesion-de-subvenciones.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Desde el día siguiente de su publicación en el BOP",
+    "textFin": "13/05/2026",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446076,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "DECRETO MUÑECAS SAN ISIDRO 2026.pdf",
+        "long": 135725,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446079,
+        "descripcion": "ANEXOS",
+        "nombreFic": "ANEXO MUÑECAS SAN ISIDRO 2026.pdf",
+        "long": 205713,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446078,
+        "descripcion": "BASES MUÑECAS SAN ISIDRO",
+        "nombreFic": "BASES MUÑECAS SAN ISIDRO 2026.pdf",
+        "long": 123004,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

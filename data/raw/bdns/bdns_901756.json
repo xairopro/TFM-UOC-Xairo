@@ -1,0 +1,110 @@
+{
+  "id": "BDNS-901756",
+  "id_interno": 1103317,
+  "numero_convocatoria": "901756",
+  "organismo": "LOCAL — JEREZ DE LA FRONTERA — AYUNTAMIENTO DE JEREZ DE LA FRONTERA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "2025-10-04",
+  "fecha_fin_solicitud": "2025-12-30",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "CONVENIO COLABORACIÓN ENTRE AYUNTAMIENTO JEREZ Y LA  ASOCIACIÓN CULTURAL NUESTRO PADRE JESÚS DE PASIÓN Y HUMILDAD, NTRA. SRA. ROSARIO EN SUS MISTERIOS DOLOROSOS PARA LA CONCESIÓN DE SUBVENCIÓN DTA NOMINATIVA PARA DESARROLLAR PROYECTO \"ACANTO Y ORO FINO\"",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Otras actividades asociativas",
+  "regiones": "ES612 - Cádiz",
+  "finalidad": "Servicios Sociales y Promoción Social",
+  "bases_reguladoras": "CONVENIO COLABORACIÓN ENTRE AYUNTAMIENTO JEREZ Y LA  ASOCIACIÓN CULTURAL NUESTRO PADRE JESÚS DE PASIÓN Y HUMILDAD, NTRA. SRA. ROSARIO EN SUS MISTERIOS DOLOROSOS PARA LA CONCESIÓN DE SUBVENCIÓN DTA NOMINATIVA PARA DESARROLLAR PROYECTO \"ACANTO Y ORO FINO\"",
+  "url_bases_reguladoras": "https://transparencia.jerez.es/infopublica/contratacion/convenios/2025",
+  "presupuesto": "3.900,00 €",
+  "presupuesto_total_num": 3900,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901756",
+  "text": "CONVOCATORIA BDNS Nº 901756\nOrganismo: LOCAL — JEREZ DE LA FRONTERA — AYUNTAMIENTO DE JEREZ DE LA FRONTERA\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud: 2025-10-04 → 2025-12-30 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 3.900,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Otras actividades asociativas\nRegiones: ES612 - Cádiz\nFinalidad: Servicios Sociales y Promoción Social\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVENIO COLABORACIÓN ENTRE AYUNTAMIENTO JEREZ Y LA  ASOCIACIÓN CULTURAL NUESTRO PADRE JESÚS DE PASIÓN Y HUMILDAD, NTRA. SRA. ROSARIO EN SUS MISTERIOS DOLOROSOS PARA LA CONCESIÓN DE SUBVENCIÓN DTA NOMINATIVA PARA DESARROLLAR PROYECTO \"ACANTO Y ORO FINO\"\n\nBases reguladoras:\nCONVENIO COLABORACIÓN ENTRE AYUNTAMIENTO JEREZ Y LA  ASOCIACIÓN CULTURAL NUESTRO PADRE JESÚS DE PASIÓN Y HUMILDAD, NTRA. SRA. ROSARIO EN SUS MISTERIOS DOLOROSOS PARA LA CONCESIÓN DE SUBVENCIÓN DTA NOMINATIVA PARA DESARROLLAR PROYECTO \"ACANTO Y ORO FINO\"\nURL bases reguladoras: https://transparencia.jerez.es/infopublica/contratacion/convenios/2025\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901756",
+  "_raw": {
+    "id": 1103317,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "JEREZ DE LA FRONTERA",
+      "nivel3": "AYUNTAMIENTO DE JEREZ DE LA FRONTERA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901756",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 3900,
+    "mrr": false,
+    "descripcion": "CONVENIO COLABORACIÓN ENTRE AYUNTAMIENTO JEREZ Y LA  ASOCIACIÓN CULTURAL NUESTRO PADRE JESÚS DE PASIÓN Y HUMILDAD, NTRA. SRA. ROSARIO EN SUS MISTERIOS DOLOROSOS PARA LA CONCESIÓN DE SUBVENCIÓN DTA NOMINATIVA PARA DESARROLLAR PROYECTO \"ACANTO Y ORO FINO\"",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Otras actividades asociativas",
+        "codigo": "94.9"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES612 - Cádiz"
+      }
+    ],
+    "descripcionFinalidad": "Servicios Sociales y Promoción Social",
+    "descripcionBasesReguladoras": "CONVENIO COLABORACIÓN ENTRE AYUNTAMIENTO JEREZ Y LA  ASOCIACIÓN CULTURAL NUESTRO PADRE JESÚS DE PASIÓN Y HUMILDAD, NTRA. SRA. ROSARIO EN SUS MISTERIOS DOLOROSOS PARA LA CONCESIÓN DE SUBVENCIÓN DTA NOMINATIVA PARA DESARROLLAR PROYECTO \"ACANTO Y ORO FINO\"",
+    "urlBasesReguladoras": "https://transparencia.jerez.es/infopublica/contratacion/convenios/2025",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2025-10-04",
+    "fechaFinSolicitud": "2025-12-30",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443180,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "1. plan_estrategico_subvenciones_2024_2026.pdf",
+        "long": 6161579,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443183,
+        "descripcion": "Acuerdo JGL",
+        "nombreFic": "ACDO JGL GPROGA 2025_2784.pdf",
+        "long": 243833,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443181,
+        "descripcion": "Actualización Plan Estratégico Subvenciones 2024-2026",
+        "nombreFic": "2. ModPESCertificado del asunto urgente nº 6_sesion_87079888_JF_4179592_01-12-2025 144458.pdf",
+        "long": 462304,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "BDNS-902963",
+  "id_interno": 1104524,
+  "numero_convocatoria": "902963",
+  "organismo": "AUTONOMICA — PRINCIPADO DE ASTURIAS — SOCIEDAD DE PROMOCIÓN EXTERIOR DEL PRINCIPADO DE ASTURIAS, S.A. (ASTUREX)",
+  "sede_electronica": "www.asturex.org",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "2026-01-07",
+  "fecha_fin_solicitud": "2026-11-20",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "PROGRAMA DE ENTREGAS DINERARIAS SIN CONTRAPRESTACIÓN DIRIGIDAS A APOYAR LA PROMOCIÓN INTERNACIONAL Y LA DIVERSIFICACIÓN DE LOS MERCADOS DE LAS EMPRESAS DEL PRINCIPADO DE ASTURIAS A TRAVÉS DE LA PARTICIPACIÓN EN PROGRAMAS, SERVICIOS Y ACCIONES DE PROMOCIÓN",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA",
+  "regiones": "ES12 - PRINCIPADO DE ASTURIAS",
+  "finalidad": "Otras actuaciones de carácter económico",
+  "bases_reguladoras": "PROGRAMA DE ENTREGAS DINERARIAS SIN CONTRAPRESTACIÓN DIRIGIDAS A APOYAR LA PROMOCIÓN INTERNACIONAL Y LA DIVERSIFICACIÓN DE LOS MERCADOS DE LAS EMPRESAS DEL PRINCIPADO DE ASTURIAS A TRAVÉS DE LA PARTICIPACIÓN EN PROGRAMAS, SERVICIOS Y ACCIONES DE PROMOCIÓN",
+  "url_bases_reguladoras": "https://www.asturex.org/wp-content/uploads/2026/01/Convocatoria-ayudas-2026-Consejo.pdf",
+  "presupuesto": "1,00 €",
+  "presupuesto_total_num": 1,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "REG (UE) 1408/2013 de minimis, Agrícola",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902963",
+  "text": "CONVOCATORIA BDNS Nº 902963\nOrganismo: AUTONOMICA — PRINCIPADO DE ASTURIAS — SOCIEDAD DE PROMOCIÓN EXTERIOR DEL PRINCIPADO DE ASTURIAS, S.A. (ASTUREX)\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud: 2026-01-07 → 2026-11-20 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 1,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA\nRegiones: ES12 - PRINCIPADO DE ASTURIAS\nFinalidad: Otras actuaciones de carácter económico\nFondos: \nReglamento: REG (UE) 1408/2013 de minimis, Agrícola\nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nPROGRAMA DE ENTREGAS DINERARIAS SIN CONTRAPRESTACIÓN DIRIGIDAS A APOYAR LA PROMOCIÓN INTERNACIONAL Y LA DIVERSIFICACIÓN DE LOS MERCADOS DE LAS EMPRESAS DEL PRINCIPADO DE ASTURIAS A TRAVÉS DE LA PARTICIPACIÓN EN PROGRAMAS, SERVICIOS Y ACCIONES DE PROMOCIÓN\n\nBases reguladoras:\nPROGRAMA DE ENTREGAS DINERARIAS SIN CONTRAPRESTACIÓN DIRIGIDAS A APOYAR LA PROMOCIÓN INTERNACIONAL Y LA DIVERSIFICACIÓN DE LOS MERCADOS DE LAS EMPRESAS DEL PRINCIPADO DE ASTURIAS A TRAVÉS DE LA PARTICIPACIÓN EN PROGRAMAS, SERVICIOS Y ACCIONES DE PROMOCIÓN\nURL bases reguladoras: https://www.asturex.org/wp-content/uploads/2026/01/Convocatoria-ayudas-2026-Consejo.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902963",
+  "_raw": {
+    "id": 1104524,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "PRINCIPADO DE ASTURIAS",
+      "nivel3": "SOCIEDAD DE PROMOCIÓN EXTERIOR DEL PRINCIPADO DE ASTURIAS, S.A. (ASTUREX)"
+    },
+    "sedeElectronica": "www.asturex.org",
+    "codigoBDNS": "902963",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 1,
+    "mrr": false,
+    "descripcion": "PROGRAMA DE ENTREGAS DINERARIAS SIN CONTRAPRESTACIÓN DIRIGIDAS A APOYAR LA PROMOCIÓN INTERNACIONAL Y LA DIVERSIFICACIÓN DE LOS MERCADOS DE LAS EMPRESAS DEL PRINCIPADO DE ASTURIAS A TRAVÉS DE LA PARTICIPACIÓN EN PROGRAMAS, SERVICIOS Y ACCIONES DE PROMOCIÓN",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA",
+        "codigo": "A"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES12 - PRINCIPADO DE ASTURIAS"
+      }
+    ],
+    "descripcionFinalidad": "Otras actuaciones de carácter económico",
+    "descripcionBasesReguladoras": "PROGRAMA DE ENTREGAS DINERARIAS SIN CONTRAPRESTACIÓN DIRIGIDAS A APOYAR LA PROMOCIÓN INTERNACIONAL Y LA DIVERSIFICACIÓN DE LOS MERCADOS DE LAS EMPRESAS DEL PRINCIPADO DE ASTURIAS A TRAVÉS DE LA PARTICIPACIÓN EN PROGRAMAS, SERVICIOS Y ACCIONES DE PROMOCIÓN",
+    "urlBasesReguladoras": "https://www.asturex.org/wp-content/uploads/2026/01/Convocatoria-ayudas-2026-Consejo.pdf",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-01-07",
+    "fechaFinSolicitud": "2026-11-20",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": {
+      "descripcion": "REG (UE) 1408/2013 de minimis, Agrícola",
+      "orden": null
+    },
+    "objetivos": [],
+    "sectoresProductos": [
+      {
+        "descripcion": "Frutas y hortalizas (parte IX)"
+      }
+    ],
+    "documentos": [
+      {
+        "id": 1446793,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Convocatoria 2026 - Consejo.pdf",
+        "long": 156285,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

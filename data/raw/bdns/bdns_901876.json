@@ -1,0 +1,112 @@
+{
+  "id": "BDNS-901876",
+  "id_interno": 1103437,
+  "numero_convocatoria": "901876",
+  "organismo": "LOCAL — CONSEJO INSULAR DE MENORCA — CONSELL INSULAR DE MENORCA",
+  "sede_electronica": "www.cime.es",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Acuerdo del Consejo Ejecutivo, de 13 de abril de 2026, relativo a la convocatoria de ayudas «Actuaciones en Camí de Cavalls» para 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "OTROS SERVICIOS, TRANSPORTE Y ALMACENAMIENTO",
+  "regiones": "ES533 - Menorca",
+  "finalidad": "Infraestructuras",
+  "bases_reguladoras": "Bases que rigen la concesión de ayudas «Actuaciones en Camí de Cavalls»",
+  "url_bases_reguladoras": "https://www.caib.es/eboibfront/es/2024/11942/688039/acuerdo-del-consejo-ejecutivo-en-sesion-de-caracte",
+  "presupuesto": "250.000,00 €",
+  "presupuesto_total_num": 250000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901876",
+  "text": "CONVOCATORIA BDNS Nº 901876\nOrganismo: LOCAL — CONSEJO INSULAR DE MENORCA — CONSELL INSULAR DE MENORCA\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 250.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: OTROS SERVICIOS, TRANSPORTE Y ALMACENAMIENTO\nRegiones: ES533 - Menorca\nFinalidad: Infraestructuras\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nAcuerdo del Consejo Ejecutivo, de 13 de abril de 2026, relativo a la convocatoria de ayudas «Actuaciones en Camí de Cavalls» para 2026\n\nBases reguladoras:\nBases que rigen la concesión de ayudas «Actuaciones en Camí de Cavalls»\nURL bases reguladoras: https://www.caib.es/eboibfront/es/2024/11942/688039/acuerdo-del-consejo-ejecutivo-en-sesion-de-caracte\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901876",
+  "_raw": {
+    "id": 1103437,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "CONSEJO INSULAR DE MENORCA",
+      "nivel3": "CONSELL INSULAR DE MENORCA"
+    },
+    "sedeElectronica": "www.cime.es",
+    "codigoBDNS": "901876",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 250000,
+    "mrr": false,
+    "descripcion": "Acuerdo del Consejo Ejecutivo, de 13 de abril de 2026, relativo a la convocatoria de ayudas «Actuaciones en Camí de Cavalls» para 2026",
+    "descripcionLeng": "Acord del Consell Executiu, de 13 d'abril de 2026, relatiu a la convocatòria d'ajuts «Acutacions en Camí de Cavalls» per a 2026",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "OTROS SERVICIOS",
+        "codigo": "T"
+      },
+      {
+        "descripcion": "TRANSPORTE Y ALMACENAMIENTO",
+        "codigo": "H"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES533 - Menorca"
+      }
+    ],
+    "descripcionFinalidad": "Infraestructuras",
+    "descripcionBasesReguladoras": "Bases que rigen la concesión de ayudas «Actuaciones en Camí de Cavalls»",
+    "urlBasesReguladoras": "https://www.caib.es/eboibfront/es/2024/11942/688039/acuerdo-del-consejo-ejecutivo-en-sesion-de-caracte",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "A partir del día siguiente de haberse publicado la convocatoria en el BOIB",
+    "textFin": "30 días naturales desde el día siguiente a la publicación de la convocatoria en el BOIB",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443599,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "ANUNCI_CEX 13042026 AJUTS CAMI DE CAVALLS_Firmado.pdf",
+        "long": 336083,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1443598,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "ANUNCIO_CEX 13042026 AJUTS CAMI DE CAVALLS CASTELLA_Firmado.pdf",
+        "long": 337712,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

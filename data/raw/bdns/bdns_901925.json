@@ -1,0 +1,98 @@
+{
+  "id": "BDNS-901925",
+  "id_interno": 1103486,
+  "numero_convocatoria": "901925",
+  "organismo": "AUTONOMICA — COMUNIDAD DE MADRID — CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "FINANCIACION FSE+ y CM - INT.LAB.PERS.RIESG.EXCL.-ITINER.ENT.S/ANIMO LUCRO",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades relacionadas con el empleo",
+  "regiones": "ES3 - COMUNIDAD DE MADRID",
+  "finalidad": "Fomento del Empleo",
+  "bases_reguladoras": "ORDEN DE 11 DE JULIO DE 2024, DE LA CONSEJERA DE ECONOMÍA, HACIENDA Y EMPLEO POR LA QUE SE MODIFICA LA ORDEN DE 20 DE JULIO DE 2022, DEL CONSEJERO DE ECONOMÍA, HACIENDA Y EMPLEO, POR LA QUE SE ESTABLECEN LAS BASES REGULADORAS DE SUBVENCIONES PARA LA INTEG",
+  "url_bases_reguladoras": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/19/BOCM-20240719-15.PDF",
+  "presupuesto": "3.332.326,00 €",
+  "presupuesto_total_num": 3332326,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "FSE+ - FONDO SOCIAL EUROPEO PLUS",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901925",
+  "text": "CONVOCATORIA BDNS Nº 901925\nOrganismo: AUTONOMICA — COMUNIDAD DE MADRID — CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 3.332.326,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades relacionadas con el empleo\nRegiones: ES3 - COMUNIDAD DE MADRID\nFinalidad: Fomento del Empleo\nFondos: FSE+ - FONDO SOCIAL EUROPEO PLUS\nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nFINANCIACION FSE+ y CM - INT.LAB.PERS.RIESG.EXCL.-ITINER.ENT.S/ANIMO LUCRO\n\nBases reguladoras:\nORDEN DE 11 DE JULIO DE 2024, DE LA CONSEJERA DE ECONOMÍA, HACIENDA Y EMPLEO POR LA QUE SE MODIFICA LA ORDEN DE 20 DE JULIO DE 2022, DEL CONSEJERO DE ECONOMÍA, HACIENDA Y EMPLEO, POR LA QUE SE ESTABLECEN LAS BASES REGULADORAS DE SUBVENCIONES PARA LA INTEG\nURL bases reguladoras: https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/19/BOCM-20240719-15.PDF\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901925",
+  "_raw": {
+    "id": 1103486,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "COMUNIDAD DE MADRID",
+      "nivel3": "CONSEJERÍA ECONOMÍA, HACIENDA Y EMPLEO"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901925",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 3332326,
+    "mrr": false,
+    "descripcion": "FINANCIACION FSE+ y CM - INT.LAB.PERS.RIESG.EXCL.-ITINER.ENT.S/ANIMO LUCRO",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades relacionadas con el empleo",
+        "codigo": "78"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES3 - COMUNIDAD DE MADRID"
+      }
+    ],
+    "descripcionFinalidad": "Fomento del Empleo",
+    "descripcionBasesReguladoras": "ORDEN DE 11 DE JULIO DE 2024, DE LA CONSEJERA DE ECONOMÍA, HACIENDA Y EMPLEO POR LA QUE SE MODIFICA LA ORDEN DE 20 DE JULIO DE 2022, DEL CONSEJERO DE ECONOMÍA, HACIENDA Y EMPLEO, POR LA QUE SE ESTABLECEN LAS BASES REGULADORAS DE SUBVENCIONES PARA LA INTEG",
+    "urlBasesReguladoras": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/19/BOCM-20240719-15.PDF",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "EL DÍA SIGUIENTE A LA PUBLICACIÓN DEL EXTRACTO DE LA ORDEN EN EL BOCM",
+    "textFin": "15 DÍAS HÁBILES,CONTADOS DESDE EL DÍA SIGUIENTE A LA PUBLICACIÓN DEL EXTRACTO DE LA ORDEN EN BOCM",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [
+      {
+        "descripcion": "FSE+ - FONDO SOCIAL EUROPEO PLUS"
+      }
+    ],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443744,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Texto Convocatoria BDNS  ITI_2026_Orden 23 ABRIL_anonim.pdf",
+        "long": 765601,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

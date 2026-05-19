@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-901542",
+  "id_interno": 1103103,
+  "numero_convocatoria": "901542",
+  "organismo": "LOCAL — DIPUTACIÓN PROV. DE ALBACETE — DIPUTACIÓN PROVINCIAL DE ALBACETE",
+  "sede_electronica": "https://sede.dipualba.es/subvenciones/lista_convocatorias_todas.aspx",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Decreto nº 1922 de 20-04-2026, por el que se aprueba la convocatoria  de ayudas individuales de transporte escolar para el alumnado matriculado en centros docentes públicos no universitarios de la Junta de Comunidades de \nC-M, para el curso 2025/2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+  "regiones": "ES421 - Albacete",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Ordenanza reguladora de las bases de ayudas individuales transporte escolar para alumnado matriculado en centros públicos no universitarios, de Junta de Comunidades de CLM, aprobada por Pleno de de 17 de abril de 2020 (BOP  nº 65, de 17/6/20)",
+  "url_bases_reguladoras": "http://www.dipualba.es/bop/ficheros/2020/65/BOP%2065-20-P-6.PDF",
+  "presupuesto": "100.000,00 €",
+  "presupuesto_total_num": 100000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901542",
+  "text": "CONVOCATORIA BDNS Nº 901542\nOrganismo: LOCAL — DIPUTACIÓN PROV. DE ALBACETE — DIPUTACIÓN PROVINCIAL DE ALBACETE\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 100.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades de bibliotecas, archivos, museos y otras actividades culturales\nRegiones: ES421 - Albacete\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nDecreto nº 1922 de 20-04-2026, por el que se aprueba la convocatoria  de ayudas individuales de transporte escolar para el alumnado matriculado en centros docentes públicos no universitarios de la Junta de Comunidades de \nC-M, para el curso 2025/2026\n\nBases reguladoras:\nOrdenanza reguladora de las bases de ayudas individuales transporte escolar para alumnado matriculado en centros públicos no universitarios, de Junta de Comunidades de CLM, aprobada por Pleno de de 17 de abril de 2020 (BOP  nº 65, de 17/6/20)\nURL bases reguladoras: http://www.dipualba.es/bop/ficheros/2020/65/BOP%2065-20-P-6.PDF\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901542",
+  "_raw": {
+    "id": 1103103,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DIPUTACIÓN PROV. DE ALBACETE",
+      "nivel3": "DIPUTACIÓN PROVINCIAL DE ALBACETE"
+    },
+    "sedeElectronica": "https://sede.dipualba.es/subvenciones/lista_convocatorias_todas.aspx",
+    "codigoBDNS": "901542",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 100000,
+    "mrr": false,
+    "descripcion": "Decreto nº 1922 de 20-04-2026, por el que se aprueba la convocatoria  de ayudas individuales de transporte escolar para el alumnado matriculado en centros docentes públicos no universitarios de la Junta de Comunidades de \nC-M, para el curso 2025/2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades de bibliotecas, archivos, museos y otras actividades culturales",
+        "codigo": "91"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES421 - Albacete"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Ordenanza reguladora de las bases de ayudas individuales transporte escolar para alumnado matriculado en centros públicos no universitarios, de Junta de Comunidades de CLM, aprobada por Pleno de de 17 de abril de 2020 (BOP  nº 65, de 17/6/20)",
+    "urlBasesReguladoras": "http://www.dipualba.es/bop/ficheros/2020/65/BOP%2065-20-P-6.PDF",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "A partir del día siguiente a la publicación en el BOP de la provincia de Albacete",
+    "textFin": "Treinta días naturales a partir del día siguiente a la publicación en BOP de la provincia Albacete",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442561,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "Decreto Nº 1922 de 20-04-2026  DECRETO DE APROBACIÓN DE LA CONVOCATORIA DE AYUDAS AL TRANSPORTE ESCOLAR CURSO 2025-2026.pdf",
+        "long": 481137,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

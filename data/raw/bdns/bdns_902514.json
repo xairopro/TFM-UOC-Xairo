@@ -1,0 +1,125 @@
+{
+  "id": "BDNS-902514",
+  "id_interno": 1104075,
+  "numero_convocatoria": "902514",
+  "organismo": "AUTONOMICA — CANTABRIA — CONSEJERÍA DE DESARROLLO RURAL, GANADERÍA, PESCA Y ALIMENTACIÓN",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-29",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "CONVOCATORIA AYUDAS DE MINIMIS PARA EL APOYO A LA PRODUCCIÓN LECHERA DEL GANADO VACUNO, OVINO Y CAPRINO LIGADA A TIERRA PARA EL AÑO 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA",
+  "regiones": "ES130 - Cantabria",
+  "finalidad": "Agricultura, Pesca y Alimentación",
+  "bases_reguladoras": "Orden DES/21/2024, de 4 de junio de 2024, por la que se establecen las bases reguladoras de las ayudas de mínimis para el apoyo a la producción lechera del ganado vacuno, ovino y caprino ligada a tierra en Cantabria (BOC nº 113, de 12 de junio de 2024).",
+  "url_bases_reguladoras": "https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=405507",
+  "presupuesto": "730.000,00 €",
+  "presupuesto_total_num": 730000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "REG (UE) 1408/2013 de minimis, Agrícola",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902514",
+  "text": "CONVOCATORIA BDNS Nº 902514\nOrganismo: AUTONOMICA — CANTABRIA — CONSEJERÍA DE DESARROLLO RURAL, GANADERÍA, PESCA Y ALIMENTACIÓN\nFecha de publicación (recepción): 2026-04-29\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 730.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA\nRegiones: ES130 - Cantabria\nFinalidad: Agricultura, Pesca y Alimentación\nFondos: \nReglamento: REG (UE) 1408/2013 de minimis, Agrícola\nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nCONVOCATORIA AYUDAS DE MINIMIS PARA EL APOYO A LA PRODUCCIÓN LECHERA DEL GANADO VACUNO, OVINO Y CAPRINO LIGADA A TIERRA PARA EL AÑO 2026\n\nBases reguladoras:\nOrden DES/21/2024, de 4 de junio de 2024, por la que se establecen las bases reguladoras de las ayudas de mínimis para el apoyo a la producción lechera del ganado vacuno, ovino y caprino ligada a tierra en Cantabria (BOC nº 113, de 12 de junio de 2024).\nURL bases reguladoras: https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=405507\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902514",
+  "_raw": {
+    "id": 1104075,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "CANTABRIA",
+      "nivel3": "CONSEJERÍA DE DESARROLLO RURAL, GANADERÍA, PESCA Y ALIMENTACIÓN"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902514",
+    "fechaRecepcion": "2026-04-29",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 730000,
+    "mrr": false,
+    "descripcion": "CONVOCATORIA AYUDAS DE MINIMIS PARA EL APOYO A LA PRODUCCIÓN LECHERA DEL GANADO VACUNO, OVINO Y CAPRINO LIGADA A TIERRA PARA EL AÑO 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA",
+        "codigo": "A"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES130 - Cantabria"
+      }
+    ],
+    "descripcionFinalidad": "Agricultura, Pesca y Alimentación",
+    "descripcionBasesReguladoras": "Orden DES/21/2024, de 4 de junio de 2024, por la que se establecen las bases reguladoras de las ayudas de mínimis para el apoyo a la producción lechera del ganado vacuno, ovino y caprino ligada a tierra en Cantabria (BOC nº 113, de 12 de junio de 2024).",
+    "urlBasesReguladoras": "https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=405507",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "DIA SIGUIENTE A LA PUBLICACION DEL EXTRACTO EN EL BOC",
+    "textFin": "1 MES A PARTIR DEL DIA SIGUIENTE A LA PUBLICACION DEL EXTRACTO EN EL BOC",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": {
+      "descripcion": "REG (UE) 1408/2013 de minimis, Agrícola",
+      "orden": null
+    },
+    "objetivos": [],
+    "sectoresProductos": [
+      {
+        "descripcion": "Leche y productos lácteos (parte XVI)"
+      }
+    ],
+    "documentos": [
+      {
+        "id": 1445545,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "CONVOCATORIA AYUDAS MINIMIS PRODUCCION LECHERA LIGADA TIERRA.report (1).pdf",
+        "long": 230977,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445547,
+        "descripcion": "ANEXO I",
+        "nombreFic": "ANEXO I.pdf",
+        "long": 386946,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445548,
+        "descripcion": "ANEXO II",
+        "nombreFic": "ANEXO II.pdf",
+        "long": 192439,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      },
+      {
+        "id": 1445549,
+        "descripcion": "ANEXO III",
+        "nombreFic": "ANEXO III.pdf",
+        "long": 199544,
+        "datMod": "2026-04-29",
+        "datPublicacion": "2026-04-29"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

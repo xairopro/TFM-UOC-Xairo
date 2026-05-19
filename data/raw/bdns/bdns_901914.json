@@ -1,0 +1,106 @@
+{
+  "id": "BDNS-901914",
+  "id_interno": 1103475,
+  "numero_convocatoria": "901914",
+  "organismo": "OTROS — UNIVERSIDAD DE HUELVA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Convocatoria de ayudas para la realización de actividades de voluntariado en proyectos de cooperación internacional para el desarrollo en terreno.",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "EDUCACIÓN",
+  "regiones": "ES615 - Huelva",
+  "finalidad": "Educación",
+  "bases_reguladoras": "Resolución rectoral de 30 de septiembre de 2025, de la Universidad de Huelva, por la que se aprueban las “Bases reguladoras de becas y ayudas para la movilidad internacional de la Universidad de Huelva”, publicada en BOJA de 6 de octubre de 2025.",
+  "url_bases_reguladoras": "https://www.juntadeandalucia.es/boja/2025/192/s51",
+  "presupuesto": "6.800,00 €",
+  "presupuesto_total_num": 6800,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901914",
+  "text": "CONVOCATORIA BDNS Nº 901914\nOrganismo: OTROS — UNIVERSIDAD DE HUELVA\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 6.800,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: EDUCACIÓN\nRegiones: ES615 - Huelva\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvocatoria de ayudas para la realización de actividades de voluntariado en proyectos de cooperación internacional para el desarrollo en terreno.\n\nBases reguladoras:\nResolución rectoral de 30 de septiembre de 2025, de la Universidad de Huelva, por la que se aprueban las “Bases reguladoras de becas y ayudas para la movilidad internacional de la Universidad de Huelva”, publicada en BOJA de 6 de octubre de 2025.\nURL bases reguladoras: https://www.juntadeandalucia.es/boja/2025/192/s51\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901914",
+  "_raw": {
+    "id": 1103475,
+    "organo": {
+      "nivel1": "OTROS",
+      "nivel2": "UNIVERSIDAD DE HUELVA",
+      "nivel3": null
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901914",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 6800,
+    "mrr": false,
+    "descripcion": "Convocatoria de ayudas para la realización de actividades de voluntariado en proyectos de cooperación internacional para el desarrollo en terreno.",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "EDUCACIÓN",
+        "codigo": "Q"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES615 - Huelva"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "Resolución rectoral de 30 de septiembre de 2025, de la Universidad de Huelva, por la que se aprueban las “Bases reguladoras de becas y ayudas para la movilidad internacional de la Universidad de Huelva”, publicada en BOJA de 6 de octubre de 2025.",
+    "urlBasesReguladoras": "https://www.juntadeandalucia.es/boja/2025/192/s51",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Al día siguiente de la publicación de la presente convocatoria en BOJA.",
+    "textFin": "10 días hábiles siguientes a la publicación de la convocatoria en BOJA.",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443701,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "CONV. VOLUNTARIADO + ANEXOS 25_26_..report.pdf",
+        "long": 831081,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-28"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210290,
+        "titulo": "Extracto de la Resolución de 23 de abril de 2026, de la Universidad de Huelva, por la que se convocan ayudas destinadas a la participación en actividades de voluntariado en proyectos de cooperación internacional para el desarrollo sobre el terreno.",
+        "tituloLeng": null,
+        "texto": "<p>Primero. Convocatoria.El Vicerrectorado de Igualdad, Campus Saludable y Justicia Social convoca ayudas en régimen de concurrencia competitiva,destinadas a la participación del alumnado de la Universidad de Huelva, para la realización de actividades en países en vías dedesarrollo, de voluntariado internacional en el ámbito de la Cooperación al Desarrollo. Estas acciones se desarrollarán en el periodocomprendido entre el día siguiente a la publicación en el Boletín Oficial de la Junta de Andalucía de la convocatoria y el 30 denoviembre de 2026.Las ayudas se reparten de la siguiente forma:- Tres ayudas para estudiantado de grado.- Una ayuda para estudiantado de máster.En el caso de quedar plazas vacantes en alguna de las categorías (estudiantado de grado/estudiantado de máster), podrán cubrirsecon los suplentes de la otra.Estas ayudas son compatibles con otras ayudas o formas de financiación que pueda obtener o recibir la persona beneficiaria, exceptoaquellas que sean convocadas por el Vicerrectorado de Igualdad, Campus Saludable y Justicia Social de la Universidad de Huelvaque se otorguen mediante el sistema de concurrencia competitiva y supongan ocupar una plaza para un mismo periodo de estancia.En los casos de no realizar la estancia de voluntariado internacional para la que se concedió la ayuda, se haya recibido informenegativo de su actividad por la entidad de destino o no cumplir con el tiempo requerido, la persona beneficiaria no podrá concurrira futuras convocatorias del Vicerrectorado de Igualdad, Campus Saludable y Justicia Social.Segundo. Bases Reguladoras.Resolución rectoral de 30 de septiembre de 2025, de la Universidad de Huelva, por la que se aprueban las “Bases reguladoras debecas y ayudas para la movilidad internacional de la Universidad de Huelva”, publicada en BOJA de 6 de octubre de 2025.Tercero. Financiación.La partida presupuestaria destinada a esta convocatoria será:&#8722; Centro de Gasto 800076 – Programa 821I – Clasificación Económica 480.99 – Importe: 6.800 €.Se concederán 4 ayudas económicas de hasta 1.700 euros.La cuantía fijada para cada destino cubre, hasta el máximo indicado, los gastos de viaje, alojamiento, manutención y seguro de viajecon cobertura de enfermedad, accidente, repatriación y responsabilidad civil. Los gastos que excedan de la cuantía fijada correránpor cuenta de la persona beneficiaria.Estas ayudas son compatibles con otras ayudas o formas de financiación que pueda obtener o recibir la persona beneficiaria, exceptoaquellas que sean convocadas por el Vicerrectorado de Igualdad, Campus Saludable y Justicia Social de la Universidad de Huelvaque se otorguen mediante el sistema de concurrencia competitiva y supongan ocupar una plaza para un mismo periodo de estancia.Cuarto. Personas beneficiarias.La presente ayuda económica podrá ser solicitada por el alumnado de grado y máster matriculado en la UHU tanto en el momentode realizar la solicitud como durante el desarrollo de la actividad de voluntariado y que, además, no hayan sido beneficiarios obeneficiarias de esta misma ayuda en las convocatorias anteriores.Todas las personas beneficiarias de las ayudas recibirán, previamente a la realización del voluntariado internacional, informaciónde las actividades a realizar y de la entidad u ONG que los recibe. Deberán asistir obligatoriamente, si así se determina, a una jornadaformativa, que organizará la Dirección de Cooperación Internacional.</p><p>Quinto. Plazo de presentación de solicitudes.El plazo de presentación de solicitudes comenzará a partir del día siguiente de su publicación en BOJA y finalizará a los 10 díashábiles; no obstante, en caso de que este plazo incluya días no lectivos en la UHU, el plazo se verá incrementado en tantos díashábiles como no lectivos incluya.</p>",
+        "textoLeng": null,
+        "url": null,
+        "cve": null,
+        "desDiarioOficial": "BOJA. B.O. DE LA JUNTA DE ANDALUCÍA",
+        "datPublicacion": "2026-04-23"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

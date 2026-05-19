@@ -1,0 +1,110 @@
+{
+  "id": "BDNS-901372",
+  "id_interno": 1102933,
+  "numero_convocatoria": "901372",
+  "organismo": "AUTONOMICA — GALICIA — CONSELLERÍA DE CULTURA, LENGUA Y JUVENTUD",
+  "sede_electronica": "https://sede.xunta.gal /carpeta-do-cidadan ",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "2026-01-01",
+  "fecha_fin_solicitud": "2026-12-30",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "Convenio de colaboración entre la Consellería de Cultura, Lengua y Juventud y la Real Academia Gallega por el que se instrumentan las subvenciones nominativas para acciones culturales y de investigación lingüística y para inversiones y se regula...",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Investigación y desarrollo experimental en ciencias sociales y humanidades",
+  "regiones": "ES11 - GALICIA",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Convenio de colaboración entre la Consellería de Cultura, Lengua y Juventud y la Real Academia Gallega por el que se instrumentan las subvenciones nominativas para acciones culturales y de investigación lingüística y para inversiones y se regula...",
+  "url_bases_reguladoras": "https://www.xunta.gal/consulta-convenios",
+  "presupuesto": "890.000,00 €",
+  "presupuesto_total_num": 890000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901372",
+  "text": "CONVOCATORIA BDNS Nº 901372\nOrganismo: AUTONOMICA — GALICIA — CONSELLERÍA DE CULTURA, LENGUA Y JUVENTUD\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud: 2026-01-01 → 2026-12-30 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 890.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Investigación y desarrollo experimental en ciencias sociales y humanidades\nRegiones: ES11 - GALICIA\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nConvenio de colaboración entre la Consellería de Cultura, Lengua y Juventud y la Real Academia Gallega por el que se instrumentan las subvenciones nominativas para acciones culturales y de investigación lingüística y para inversiones y se regula...\n\nBases reguladoras:\nConvenio de colaboración entre la Consellería de Cultura, Lengua y Juventud y la Real Academia Gallega por el que se instrumentan las subvenciones nominativas para acciones culturales y de investigación lingüística y para inversiones y se regula...\nURL bases reguladoras: https://www.xunta.gal/consulta-convenios\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901372",
+  "_raw": {
+    "id": 1102933,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "GALICIA",
+      "nivel3": "CONSELLERÍA DE CULTURA, LENGUA Y JUVENTUD"
+    },
+    "sedeElectronica": "https://sede.xunta.gal /carpeta-do-cidadan ",
+    "codigoBDNS": "901372",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 890000,
+    "mrr": false,
+    "descripcion": "Convenio de colaboración entre la Consellería de Cultura, Lengua y Juventud y la Real Academia Gallega por el que se instrumentan las subvenciones nominativas para acciones culturales y de investigación lingüística y para inversiones y se regula...",
+    "descripcionLeng": "Convenio de colaboración entre a Consellería de Cultura, Lingua e Xuventude e a Real Academia Galega polo que se instrumentan as subvencións nominativas para accións culturais e de investigación lingüística e para investimentos e se regula...",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Investigación y desarrollo experimental en ciencias sociales y humanidades",
+        "codigo": "72.2"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES11 - GALICIA"
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Convenio de colaboración entre la Consellería de Cultura, Lengua y Juventud y la Real Academia Gallega por el que se instrumentan las subvenciones nominativas para acciones culturales y de investigación lingüística y para inversiones y se regula...",
+    "urlBasesReguladoras": "https://www.xunta.gal/consulta-convenios",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-01-01",
+    "fechaFinSolicitud": "2026-12-30",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442134,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Convenio castelán- SXL-RAG_es(1)_20260424_102839.pdf",
+        "long": 553187,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442136,
+        "descripcion": "convenio firmado",
+        "nombreFic": "1_2_Convenio Asinado_SXL-RAG_2026_AS SEN DATOS _20260424_103252.pdf",
+        "long": 489489,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      },
+      {
+        "id": 1442135,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "Convenio SXL-RAG 2026 galego sen asinar_20260422_141907.pdf",
+        "long": 189191,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

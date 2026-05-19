@@ -1,0 +1,120 @@
+{
+  "id": "BDNS-901653",
+  "id_interno": 1103214,
+  "numero_convocatoria": "901653",
+  "organismo": "AUTONOMICA — CATALUÑA — DEPARTAMENT D'AGRICULTURA, RAMADERIA, PESCA I ALIMENTACIÓ",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "",
+  "fecha_fin_solicitud": "",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "Ayudas destinadas a fomentar las capturas de jabalí para contribuir a la prevención y lucha contra las patologías  pueden afectar a las especies ganaderas y a su acondicionamiento para la introducción de la carne en el circuito de comercialización",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA",
+  "regiones": "ES51 - CATALUÑA",
+  "finalidad": "Agricultura, Pesca y Alimentación",
+  "bases_reguladoras": "Bases reguladoras de las ayudas destinadas a fomentar las capturas de jabalí para disminuir su densidad en el medio y contribuir a la prevención y la lucha contra las patologías del jabalí",
+  "url_bases_reguladoras": "https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=987001",
+  "presupuesto": "435.000,00 €",
+  "presupuesto_total_num": 435000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "REG (UE) 2023/2831 de minimis, General",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901653",
+  "text": "CONVOCATORIA BDNS Nº 901653\nOrganismo: AUTONOMICA — CATALUÑA — DEPARTAMENT D'AGRICULTURA, RAMADERIA, PESCA I ALIMENTACIÓ\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud:  →  (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 435.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA\nRegiones: ES51 - CATALUÑA\nFinalidad: Agricultura, Pesca y Alimentación\nFondos: \nReglamento: REG (UE) 2023/2831 de minimis, General\nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nAyudas destinadas a fomentar las capturas de jabalí para contribuir a la prevención y lucha contra las patologías  pueden afectar a las especies ganaderas y a su acondicionamiento para la introducción de la carne en el circuito de comercialización\n\nBases reguladoras:\nBases reguladoras de las ayudas destinadas a fomentar las capturas de jabalí para disminuir su densidad en el medio y contribuir a la prevención y la lucha contra las patologías del jabalí\nURL bases reguladoras: https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=987001\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901653",
+  "_raw": {
+    "id": 1103214,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "CATALUÑA",
+      "nivel3": "DEPARTAMENT D'AGRICULTURA, RAMADERIA, PESCA I ALIMENTACIÓ"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901653",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 435000,
+    "mrr": false,
+    "descripcion": "Ayudas destinadas a fomentar las capturas de jabalí para contribuir a la prevención y lucha contra las patologías  pueden afectar a las especies ganaderas y a su acondicionamiento para la introducción de la carne en el circuito de comercialización",
+    "descripcionLeng": "Ajuts destinats a fomentar les captures de senglar per contribuir a la prevenció i la lluita contra les patologies que poden afectar les espècies ramaderes i el seu condicionament per a la introducció de la carn en el circuit de comercialització",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "AGRICULTURA, GANADERÍA, SILVICULTURA Y PESCA",
+        "codigo": "A"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES51 - CATALUÑA"
+      }
+    ],
+    "descripcionFinalidad": "Agricultura, Pesca y Alimentación",
+    "descripcionBasesReguladoras": "Bases reguladoras de las ayudas destinadas a fomentar las capturas de jabalí para disminuir su densidad en el medio y contribuir a la prevención y la lucha contra las patologías del jabalí",
+    "urlBasesReguladoras": "https://dogc.gencat.cat/es/document-del-dogc/index.html?documentId=987001",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": null,
+    "fechaFinSolicitud": null,
+    "textInicio": "Des de l'endemà de la publicació en el diari oficial de la convocatòria inicial",
+    "textFin": "1 mes",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": {
+      "descripcion": "REG (UE) 2023/2831 de minimis, General",
+      "orden": null
+    },
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442964,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "cat senglar.pdf",
+        "long": 198131,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1442963,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "arc senglar cast.pdf",
+        "long": 309233,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [
+      {
+        "numAnuncio": 210112,
+        "titulo": "Convocatoria a regularizar",
+        "tituloLeng": null,
+        "texto": "Convocatoria a regularizar",
+        "textoLeng": null,
+        "url": "https://dogc",
+        "cve": null,
+        "desDiarioOficial": "DOGC. D.O. DE LA GENERALITAT DE CATALUNYA",
+        "datPublicacion": "2025-04-17"
+      }
+    ],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

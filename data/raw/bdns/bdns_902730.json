@@ -1,0 +1,105 @@
+{
+  "id": "BDNS-902730",
+  "id_interno": 1104291,
+  "numero_convocatoria": "902730",
+  "organismo": "LOCAL — DIPUTACIÓN PROV. DE PONTEVEDRA — IGUALDADE",
+  "sede_electronica": "http://sede.depo.es",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "2026-05-06",
+  "fecha_fin_solicitud": "2026-10-01",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "PREMIOS BOAS PRÁCTICAS EN IGUALDADE",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Otras actividades asociativas",
+  "regiones": "ES114 - Pontevedra",
+  "finalidad": "Otras actuaciones de carácter económico",
+  "bases_reguladoras": "PREMIOS BOAS PRÁCTICAS EN IGUALDADE",
+  "url_bases_reguladoras": "https://bdns.depo.es/?EPXEVM",
+  "presupuesto": "16.000,00 €",
+  "presupuesto_total_num": 16000,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902730",
+  "text": "CONVOCATORIA BDNS Nº 902730\nOrganismo: LOCAL — DIPUTACIÓN PROV. DE PONTEVEDRA — IGUALDADE\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud: 2026-05-06 → 2026-10-01 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 16.000,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA, PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Otras actividades asociativas\nRegiones: ES114 - Pontevedra\nFinalidad: Otras actuaciones de carácter económico\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nPREMIOS BOAS PRÁCTICAS EN IGUALDADE\n\nBases reguladoras:\nPREMIOS BOAS PRÁCTICAS EN IGUALDADE\nURL bases reguladoras: https://bdns.depo.es/?EPXEVM\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902730",
+  "_raw": {
+    "id": 1104291,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "DIPUTACIÓN PROV. DE PONTEVEDRA",
+      "nivel3": "IGUALDADE"
+    },
+    "sedeElectronica": "http://sede.depo.es",
+    "codigoBDNS": "902730",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 16000,
+    "mrr": false,
+    "descripcion": "PREMIOS BOAS PRÁCTICAS EN IGUALDADE",
+    "descripcionLeng": "PREMIOS BOAS PRÁCTICAS EN IGUALDADE ",
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      },
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Otras actividades asociativas",
+        "codigo": "94.9"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES114 - Pontevedra"
+      }
+    ],
+    "descripcionFinalidad": "Otras actuaciones de carácter económico",
+    "descripcionBasesReguladoras": "PREMIOS BOAS PRÁCTICAS EN IGUALDADE",
+    "urlBasesReguladoras": "https://bdns.depo.es/?EPXEVM",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-05-06",
+    "fechaFinSolicitud": "2026-10-01",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446113,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "IG_H_26 Bases gal.pdf",
+        "long": 173500,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446112,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "IG_H_26 Bases cast.pdf",
+        "long": 671365,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

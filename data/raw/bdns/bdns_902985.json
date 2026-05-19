@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-902985",
+  "id_interno": 1104546,
+  "numero_convocatoria": "902985",
+  "organismo": "AUTONOMICA — CANARIAS — CONSEJERÍA DE EDUCACIÓN, FORMACIÓN PROFESIONAL, ACTIVIDAD FÍSICA Y DEPORTES",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "2027-01-01",
+  "fecha_fin_solicitud": "2027-01-29",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "SUBVENCIÓN DIRECTA_GASTOS DE FUNCIONAMIENTO  2026_FEDEREACIONES DE AMPAS/CONFEDERACIÓN",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Actividades asociativas",
+  "regiones": "ES70 - CANARIAS",
+  "finalidad": "Otras Prestaciones económicas",
+  "bases_reguladoras": "Apoyo a entidades públicas y privadas de promoción educativa",
+  "url_bases_reguladoras": "https://www.gobiernodecanarias.org/hacienda/planificacionypresupuesto/presupuestos/2026/index.html",
+  "presupuesto": "12.600,00 €",
+  "presupuesto_total_num": 12600,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902985",
+  "text": "CONVOCATORIA BDNS Nº 902985\nOrganismo: AUTONOMICA — CANARIAS — CONSEJERÍA DE EDUCACIÓN, FORMACIÓN PROFESIONAL, ACTIVIDAD FÍSICA Y DEPORTES\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud: 2027-01-01 → 2027-01-29 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 12.600,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Actividades asociativas\nRegiones: ES70 - CANARIAS\nFinalidad: Otras Prestaciones económicas\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSUBVENCIÓN DIRECTA_GASTOS DE FUNCIONAMIENTO  2026_FEDEREACIONES DE AMPAS/CONFEDERACIÓN\n\nBases reguladoras:\nApoyo a entidades públicas y privadas de promoción educativa\nURL bases reguladoras: https://www.gobiernodecanarias.org/hacienda/planificacionypresupuesto/presupuestos/2026/index.html\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902985",
+  "_raw": {
+    "id": 1104546,
+    "organo": {
+      "nivel1": "AUTONOMICA",
+      "nivel2": "CANARIAS",
+      "nivel3": "CONSEJERÍA DE EDUCACIÓN, FORMACIÓN PROFESIONAL, ACTIVIDAD FÍSICA Y DEPORTES"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902985",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 12600,
+    "mrr": false,
+    "descripcion": "SUBVENCIÓN DIRECTA_GASTOS DE FUNCIONAMIENTO  2026_FEDEREACIONES DE AMPAS/CONFEDERACIÓN",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Actividades asociativas",
+        "codigo": "94"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES70 - CANARIAS"
+      }
+    ],
+    "descripcionFinalidad": "Otras Prestaciones económicas",
+    "descripcionBasesReguladoras": "Apoyo a entidades públicas y privadas de promoción educativa",
+    "urlBasesReguladoras": "https://www.gobiernodecanarias.org/hacienda/planificacionypresupuesto/presupuestos/2026/index.html",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2027-01-01",
+    "fechaFinSolicitud": "2027-01-29",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446820,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "Documento convocatoria castellano.PDF",
+        "long": 273920,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

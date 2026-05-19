@@ -1,0 +1,94 @@
+{
+  "id": "BDNS-901484",
+  "id_interno": 1103045,
+  "numero_convocatoria": "901484",
+  "organismo": "LOCAL — UTEBO — AYUNTAMIENTO DE UTEBO",
+  "sede_electronica": " https://utebo.sedelectronica.es",
+  "fecha_publicacion": "2026-04-24",
+  "fecha_inicio_solicitud": "2026-05-04",
+  "fecha_fin_solicitud": "2026-05-29",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "IV Concurso del cartel anunciador de las fiestas de San Ana 2026",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS",
+  "regiones": "ES - ESPAÑA",
+  "finalidad": "Cultura",
+  "bases_reguladoras": "Ordenanza General por la que se aprueban las Bases Reguladoras para la concesión de subvenciones por el Ayuntamiento de Utebo publicadas en el Boletín Oficial de la provincia de Zaragoza, sección sexta, número 131, de 20 de junio de 2016.",
+  "url_bases_reguladoras": "https://www.utebo.es/sites/default/files/documents/ordinances/ordenanza_general_de_subvenciones_del_ayuntamiento_de_utebo_0.pdf",
+  "presupuesto": "2.100,00 €",
+  "presupuesto_total_num": 2100,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901484",
+  "text": "CONVOCATORIA BDNS Nº 901484\nOrganismo: LOCAL — UTEBO — AYUNTAMIENTO DE UTEBO\nFecha de publicación (recepción): 2026-04-24\nPlazo de solicitud: 2026-05-04 → 2026-05-29 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 2.100,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS\nRegiones: ES - ESPAÑA\nFinalidad: Cultura\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nIV Concurso del cartel anunciador de las fiestas de San Ana 2026\n\nBases reguladoras:\nOrdenanza General por la que se aprueban las Bases Reguladoras para la concesión de subvenciones por el Ayuntamiento de Utebo publicadas en el Boletín Oficial de la provincia de Zaragoza, sección sexta, número 131, de 20 de junio de 2016.\nURL bases reguladoras: https://www.utebo.es/sites/default/files/documents/ordinances/ordenanza_general_de_subvenciones_del_ayuntamiento_de_utebo_0.pdf\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901484",
+  "_raw": {
+    "id": 1103045,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "UTEBO",
+      "nivel3": "AYUNTAMIENTO DE UTEBO"
+    },
+    "sedeElectronica": " https://utebo.sedelectronica.es",
+    "codigoBDNS": "901484",
+    "fechaRecepcion": "2026-04-24",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 2100,
+    "mrr": false,
+    "descripcion": "IV Concurso del cartel anunciador de las fiestas de San Ana 2026",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS",
+        "codigo": "N"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES - ESPAÑA "
+      }
+    ],
+    "descripcionFinalidad": "Cultura",
+    "descripcionBasesReguladoras": "Ordenanza General por la que se aprueban las Bases Reguladoras para la concesión de subvenciones por el Ayuntamiento de Utebo publicadas en el Boletín Oficial de la provincia de Zaragoza, sección sexta, número 131, de 20 de junio de 2016.",
+    "urlBasesReguladoras": "https://www.utebo.es/sites/default/files/documents/ordinances/ordenanza_general_de_subvenciones_del_ayuntamiento_de_utebo_0.pdf",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-05-04",
+    "fechaFinSolicitud": "2026-05-29",
+    "textInicio": "Al día siguiente de publicación en BOPZ ",
+    "textFin": "20 días hábiles tras publicación en BOPZ",
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1442381,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "20260406_Otros_BASES CONCURSO CARTELES 2026. (1).pdf",
+        "long": 246434,
+        "datMod": "2026-04-24",
+        "datPublicacion": "2026-04-24"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

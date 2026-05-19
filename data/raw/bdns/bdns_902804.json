@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-902804",
+  "id_interno": 1104365,
+  "numero_convocatoria": "902804",
+  "organismo": "OTROS — UNIVERSIDAD DE ALICANTE",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-30",
+  "fecha_inicio_solicitud": "2026-05-20",
+  "fecha_fin_solicitud": "2026-06-01",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concurrencia competitiva - canónica",
+  "descripcion": "BECAS SANTANDER SICUE DE LA UNIVERSIDAD DE ALICANTE. CURSO 2026-27",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Educación terciaria",
+  "regiones": "ES - ESPAÑA",
+  "finalidad": "Educación",
+  "bases_reguladoras": "BECAS SANTANDER SICUE DE LA UNIVERSIDAD DE ALICANTE. CURSO 2026-27",
+  "url_bases_reguladoras": "https://www.boua.ua.es/Acuerdos/DescargarAcuerdo/66941",
+  "presupuesto": "28.500,00 €",
+  "presupuesto_total_num": 28500,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902804",
+  "text": "CONVOCATORIA BDNS Nº 902804\nOrganismo: OTROS — UNIVERSIDAD DE ALICANTE\nFecha de publicación (recepción): 2026-04-30\nPlazo de solicitud: 2026-05-20 → 2026-06-01 (abierto: no)\nTipo de convocatoria: Concurrencia competitiva - canónica\nPresupuesto total: 28.500,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Educación terciaria\nRegiones: ES - ESPAÑA\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nBECAS SANTANDER SICUE DE LA UNIVERSIDAD DE ALICANTE. CURSO 2026-27\n\nBases reguladoras:\nBECAS SANTANDER SICUE DE LA UNIVERSIDAD DE ALICANTE. CURSO 2026-27\nURL bases reguladoras: https://www.boua.ua.es/Acuerdos/DescargarAcuerdo/66941\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/902804",
+  "_raw": {
+    "id": 1104365,
+    "organo": {
+      "nivel1": "OTROS",
+      "nivel2": "UNIVERSIDAD DE ALICANTE",
+      "nivel3": null
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "902804",
+    "fechaRecepcion": "2026-04-30",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concurrencia competitiva - canónica",
+    "presupuestoTotal": 28500,
+    "mrr": false,
+    "descripcion": "BECAS SANTANDER SICUE DE LA UNIVERSIDAD DE ALICANTE. CURSO 2026-27",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Educación terciaria",
+        "codigo": "85.4"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES - ESPAÑA "
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "BECAS SANTANDER SICUE DE LA UNIVERSIDAD DE ALICANTE. CURSO 2026-27",
+    "urlBasesReguladoras": "https://www.boua.ua.es/Acuerdos/DescargarAcuerdo/66941",
+    "sePublicaDiarioOficial": true,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-05-20",
+    "fechaFinSolicitud": "2026-06-01",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1446314,
+        "descripcion": "Texto en otra lengua de la convocatoria",
+        "nombreFic": "2026SBV120_conv.pdf",
+        "long": 222918,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      },
+      {
+        "id": 1446313,
+        "descripcion": "Texto en castellano de la convocatoria",
+        "nombreFic": "2026SBV120_conv.pdf",
+        "long": 222918,
+        "datMod": "2026-04-30",
+        "datPublicacion": "2026-04-30"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

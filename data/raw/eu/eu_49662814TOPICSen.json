@@ -1,0 +1,180 @@
+{
+  "id": "EU-49662814TOPICSen",
+  "topic_id": "49662814TOPICSen",
+  "titulo": "EIC STEP Scale Up",
+  "descripcion": "EIC STEP Scale Up",
+  "organismo": "43108390",
+  "fecha_publicacion": "2025-11-06",
+  "fecha_limite": "2026-11-25",
+  "deadlines_todas": "2026-11-25",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"112266\":[{\"action\":\"HORIZON-EIC-2026-STEP - HORIZON-EIC-EQU HORIZON EIC Equity Only\",\"expectedGrants\":10,\"minContribution\":10000000,\"maxContribution\":30000000,\"budgetYearMap\":{\"2026\":\"300000000\"},\"plannedOpeningDate\":\"2025-11-06\",\"deadlineModel\":\"continuous\",\"deadlineDates\":[\"2026-11-25\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "HORIZON EIC Equity Only",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-STEP",
+  "text": "EU FUNDING & TENDERS – Topic: 49662814TOPICSen\nProgramme/Organism: 43108390\nTitle: EIC STEP Scale Up\nStatus: Open (31094502)\nType of action: HORIZON EIC Equity Only\nOpening date: 2025-11-06\nDeadline: 2026-11-25\nAll deadlines: 2026-11-25\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"112266\":[{\"action\":\"HORIZON-EIC-2026-STEP - HORIZON-EIC-EQU HORIZON EIC Equity Only\",\"expectedGrants\":10,\"minContribution\":10000000,\"maxContribution\":30000000,\"budgetYearMap\":{\"2026\":\"300000000\"},\"plannedOpeningDate\":\"2025-11-06\",\"deadlineModel\":\"continuous\",\"deadlineDates\":[\"2026-11-25\"]}]}}\n\nDescription / Scope:\nEIC STEP Scale Up\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-STEP",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "49662814TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-STEP",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "EIC STEP Scale Up",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "EIC STEP Scale Up",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "7599781B9415DD37AEB63B696F59C11B1ED5BEAE3044F296E4E6CA48E9FBE96C",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2025-11-07T14:13:43.333\",\"content\":\"The submission session is now available for: HORIZON-EIC-2026-STEP\"}]"
+      ],
+      "es_SortDate": [
+        "2025-11-06T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "HORIZON-EIC-2026-STEP",
+        "HORIZON-EIC-2026-STEP"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>General conditions</h4><div><h4>1. Admissibility Conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>In order to apply, your innovation must be within the scope of the priority areas defined in the <a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400795\" rel=\"noopener noreferrer\" target=\"_blank\">STEP regulation, </a>which includes Critical Raw Materials<a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400795\" rel=\"noopener noreferrer\" target=\"_blank\">&#xa0;</a>and further developed in the&#xa0;<a href=\"https://strategic-technologies.europa.eu/document/download/e204ce9e-0407-4f03-82f8-6f518ce12886_en?filename=C_2024_3148_F1_COMMUNICATION_FROM_COMMISSION_EN_V6_P1_3408774.PDF\" rel=\"noopener noreferrer\" target=\"_blank\">Guidance note</a>:</p><p class=\"ql-indent-1\"><strong>a. Digital technologies</strong>, and deep tech innovations. This includes: advanced semiconductor technologies; artificial intelligence technologies; quantum technologies; advanced connectivity, navigation and digital technologies; advanced sensing technologies; robotics and autonomous systems; Deep tech innovations (see Glossary of the&#xa0;<a href=\"EIC Work Programme 2026\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026</a>).</p><p class=\"ql-indent-1\"><strong>b. Clean and resource efficient technologies</strong>, including net-zero technologies. This includes: solar technologies; onshore wind and offshore renewable technologies; battery and energy storage technologies; heat pumps and geothermal technologies; hydrogen technologies; sustainable biogas and biomethane technologies; carbon capture and storage technologies; electricity grid technologies; nuclear fission technologies, sustainable alternative fuel technologies; hydropower technologies; other renewable technologies; energy system -related energy efficiency technologies; renewable fuels of nonbiological origin technologies; biotech climate and energy solutions; transformative industrial technologies for decarbonisation; CO2 transport and utilisation technologies; wind and electric propulsion technologies; other nuclear technologies; advanced materials, manufacturing and recycling technologies, technologies vital to sustainability such as water purification and desalination; and circular economy technologies.</p><p class=\"ql-indent-1\"><strong>c. Biotechnologies</strong>, including medicinal products on the Union list of critical medicines and their components. Including DNA/RNA; proteins and other molecules; cell and tissue culture and engineering; process biotechnology techniques; Gene and RNA vectors; bioinformatics; and nanobiotechnology.</p><p>These technologies are deemed critical where they meet either of the following conditions:</p><p class=\"ql-indent-1\">a. they bring to the internal market an innovative, emerging and cutting-edge element with significant economic potential;</p><p class=\"ql-indent-1\">b. they contribute to reducing or preventing strategic dependencies of the Union.</p><p>The Commission&#xa0;<a href=\"https://strategic-technologies.europa.eu/document/download/e204ce9e-0407-4f03-82f8-6f518ce12886_en?filename=C_2024_3148_F1_COMMUNICATION_FROM_COMMISSION_EN_V6_P1_3408774.PDF\" rel=\"noopener noreferrer\" target=\"_blank\">Guidance note</a>, concerning certain provisions of STEP Regulation adopted on May 2024, provides detailed information on the criticality conditions. This call targets companies raising significant funding rounds and you must demonstrate an initial market interest such that the EIC investment acts as a catalyst for larger funding rounds. You will therefore need to demonstrate that the company already has a precommitment for an equity investment which meets the following elements:</p><ul><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>The pre-commitment comes from a single qualified investor with demonstrable know-how and experience in the relevant market, technology and jurisdiction and subject to KYC by the EIC Fund or the EIF.. The precommitted investor may be an existing investor in the company and does not necessarily need to be the investor who intends to lead the investment round;</li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span>The pre-commitment represents at least 20% of the total target funding round you are aiming to raise.</li></ul><p>The following entities are eligible to apply:</p><ol><li data-list=\"ordered\"><span class=\"ql-ui\" contenteditable=\"false\"></span>A single company classified as a SME or small mid-cap (up to 499 employees) established within a Member State or an Associated Country (see Annex 2 of the&#xa0;<a href=\"EIC Work Programme 2026\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026</a>). The company may have a holding entity for the purposes of the investment, and this holding company must also be established in a Member State or an Associated Country.</li><li data-list=\"ordered\"><span class=\"ql-ui\" contenteditable=\"false\"></span>An investor may submit a proposal on behalf of an eligible SME or small midcap as defined above, provided that a prior agreement exists with the company. The investment agreement will be signed with the selected SME or small mid-cap.</li></ol><p><strong>Proposal page limits and layout:</strong>&#xa0;described in Part B of the Application Form available in the Submission System.</p><p><br></br></p></div></div><div><h4>2. Eligible Countries</h4><div class=\"eui-u-mt-s\"><p>described in Annex 2(B. Eligibility) of the <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026.&#xa0;</a></p></div></div><div><h4>3. Other Eligible Conditions</h4><div class=\"eui-u-mt-s\"><p>described in Annex 2(General conditions for proposals) of the  <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026</a>.&#xa0;</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in Annex 2(C. Financial and Operational Capacity) of the  <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026</a>.&#xa0;</p></div></div><div><h4>5a. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>described in section VI of the <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026. </a></p></div></div><div><h4>5b. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>described in section VI of the <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026. </a></p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in section VI of the <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026. </a></p></div></div><div class=\"eui-u-mt-s\">\n</div></div><div class=\"eui-u-mt-s\">\n</div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\"><p> <a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026</a></p></div><h4>Application and evaluation forms and model grant agreement (MGA):</h4> <div class=\"eui-u-mt-s\"><p><strong>Application form templates</strong> <em>— the application form specific to this call is available in the Submission System</em></p><p><u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-eic-step_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (HE EIC STEP)</a></u> </p><p><br></br></p><p><strong>Guidance</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a></p><p><br></br></p><p><strong>Call-specific instructions</strong> </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/information-on-financial-support-to-third-parties_he_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Information on financial support to third parties (HE)</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/information-on-clinical-studies_he_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Information on clinical studies (HE)</a>&#xa0;</p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-13-general-annexes_horizon-2023-2024_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Main Work Programme 2023–2025 – 13. General Annexes</a></p><p><a href=\"https://eic.ec.europa.eu/document/download/52598755-1351-4b54-b46b-e2682d0a3aec_en?filename=EIC-Work-Programme-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">EIC Work Programme 2026</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">HE Programme Guide</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/rules-lev-lear-fca_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Rules for Legal Entity Validation, LEAR Appointment and Financial Capacity Assessment</a> </p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Online Manual</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/ftp/tc_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Terms and Conditions</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/legalnotice\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal Privacy Statement</a></p></div></div>"
+      ],
+      "title": [
+        "EIC STEP Scale Up"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "7599781B9415DD37AEB63B696F59C11B1ED5BEAE3044F296E4E6CA48E9FBE96C"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "47452399"
+      ],
+      "callIdentifier": [
+        "HORIZON-EIC-2026-STEP"
+      ],
+      "ccm2Id": [
+        "49662814"
+      ],
+      "callccm2Id": [
+        "49662822"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "49662814TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"HORIZON-EIC-2026-STEP\",\"criterionCode\":\"HORIZON-EIC-EQU\",\"criterionDescription\":\"HORIZON EIC Equity Only\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/42573?topic\\u003dHORIZON-EIC-2026-STEP\",\"startDate\":\"1762387200000\",\"endDate\":\"1795564800000\",\"mgaDescription\":\"HORIZON Equity Investment\",\"mgaCode\":\"HORIZON-EQU\"}]"
+      ],
+      "callTitle": [
+        "EIC STEP Scale Up"
+      ],
+      "frameworkProgramme": [
+        "43108390"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Outcome:</p><p>The EIC STEP Scale Up call offers a total indicative budget of EUR 300 million for 2026, which is expected to rise to EUR 900 million for the period 2025-2027. Any unused amount from this budget will be allocated with priority to the EIC Accelerator Open call.</p><p>The support will be in the form of <strong>equity-only investments</strong> managed by the EIC Fund. Applicants to this call will not receive a grant component. It provides significant financial support, and applicants should apply for an <strong>investment of a minimum of EUR 10 million and maximum of EUR 30 million, </strong>to co-invest in a funding round in the range of EUR 50 to 150 million, and at least three to five times the amount of the requested EIC contribution. The specific terms of each investment are considered and negotiated on a case-by-case basis in accordance with the EIC Fund Investment Guidelines. This ensures the investment is tailored to your company's needs while aligning with EIC's objectives. </p><p>EIC STEP Scale Up is designed to fill the funding gap for companies to invest in the scale up of high-risk innovations and where the amount needed for the scale up cannot be fully financed by other investors, including InvestEU direct and indirect financial products provided by implementing partners. Applicants are encouraged to consider in particular complementarity with Venture Debt from InvestEU implementing partners in order to meet their financing needs.</p><p>When implementing investments, the EIC Fund will ensure that supported companies keep most of their value, including their IP, in the EU or in the Associated Countries in order to contribute to their economic growth and job creation. Where necessary, the EIC Fund will be requested to take appropriate safeguard measures for individual companies on a case-by-case basis in order to protect European interests as defined in the Investment Guidelines.</p><p>Beyond funding,<strong> </strong>your company will benefit from a strong support system that fosters your continued growth within Europe through Business Acceleration Services (details available in Section VII). Applicants to the EIC STEP Scale Up call who meet the evaluation thresholds will also be<strong> awarded a Sovereignty (STEP) Seal, </strong>to facilitate and provide possibility of the access to funding and support from other EU programmes and other funders and investors. </p><p class=\"topicdescriptionkind\">Objective:</p><p>The EIC STEP Scale Up call presents a unique opportunity for ambitious scale up companies (SMEs and small mid-caps) with game-changing innovations <strong>in Europe's critical technology areas</strong>. It offers a powerful combination of financial and strategic support designed to propel your groundbreaking solution to the forefront of these sectors.</p><p>The companies selected under the EIC STEP Scale Up call shall receive <strong>investments ranging from EUR 10 to EUR 30 million</strong>. This investment can significantly accelerate the development and market launch of your technology, product, or service. With this funding, you'll gain the power to disrupt established markets and forge new ones across Europe, potentially achieving significant global impact. Crucially, this investment is designed to <strong>catalyse major funding rounds</strong> in the range of EUR 50 to 150 million, and at least<strong> </strong>3-5 times the EIC investment. </p><p>This call is part of the implementation of the Strategic Technologies for Europe Platform (STEP) which supports the development or manufacturing of critical technologies throughout the Union or safeguarding and strengthening their respective value chains.<strong> </strong>Besides, support from the EIC, the projects may be eligible for support under other EU programmes included in STEP. </p><p>In 2026 support for start-ups in semiconductor technologies and quantum technologies will be pursued in particular through the STEP Scale Up call which foresees larger investments targeting strategic technologies including in support of the Chips Act. The EIC Accelerator Open call remains available in general for startups and SMEs including for quantum and semiconductor technologies.</p>"
+      ],
+      "identifier": [
+        "HORIZON-EIC-2026-STEP"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43121682",
+        "43121666",
+        "43121633",
+        "43108390"
+      ],
+      "crossCuttingPriorities": [],
+      "esDA_FirstIngestDate": [
+        "2025-11-07T15:31:58.309+0100"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-11-25T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-03-02T09:36:54.365+0100"
+      ],
+      "typesOfAction": [
+        "HORIZON EIC Equity Only"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-STEP"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-STEP"
+      ],
+      "tags": [
+        "STEP",
+        "STEP-Cleantech",
+        "STEP-Biotech",
+        "STEP-Digital/deep tech"
+      ],
+      "cenTagsA": [
+        "TOPICS-043224",
+        "TOPICS-043225",
+        "TOPICS-043226",
+        "TOPICS-043227",
+        "TOPICS-043228",
+        "TOPICS-043229"
+      ],
+      "esDA_QueueDate": [
+        "2026-03-02T09:36:54.354+0100"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"HORIZON-EIC-EQU HORIZON EIC Equity Only\",\"typeOfMGA\":[{\"id\":47452399,\"abbreviation\":\"HORIZON-EQU\",\"description\":\"HORIZON Equity Investment\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2025-11-06\",\"submissionProcedure\":{\"id\":47164190,\"abbreviation\":\"continuous\",\"description\":\"continuous\"},\"deadlineDates\":[\"2026-11-25\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"112266\":[{\"action\":\"HORIZON-EIC-2026-STEP - HORIZON-EIC-EQU HORIZON EIC Equity Only\",\"expectedGrants\":10,\"minContribution\":10000000,\"maxContribution\":30000000,\"budgetYearMap\":{\"2026\":\"300000000\"},\"plannedOpeningDate\":\"2025-11-06\",\"deadlineModel\":\"continuous\",\"deadlineDates\":[\"2026-11-25\"]}]}}"
+      ],
+      "startDate": [
+        "2025-11-06T00:00:00.000+0000"
+      ],
+      "deadlineModel": [],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> is your guide on the procedures from proposal submission to managing your grant.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Horizon Europe Programme Guide</a> contains the detailed guidance to the structure, budget and political priorities of Horizon Europe.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?isExactMatch=true&amp;status=0&amp;type=0,1&amp;order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=publicationDate\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ</a> – find the answers to most frequently asked questions on submission of proposals, evaluation and grant management.</p><p><a href=\"https://research-and-innovation.ec.europa.eu/contact-us/research-enquiry-service_en\" rel=\"noopener noreferrer\" target=\"_blank\">Research Enquiry Service</a> – ask questions about any aspect of European research in general and the EU Research Framework Programmes in particular.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/ncp\" rel=\"noopener noreferrer\" target=\"_blank\">National Contact Points (NCPs)</a> – get guidance, practical information and assistance on participation in Horizon Europe. There are also NCPs in many non-EU and non-associated countries (‘third-countries’).</p><p><a href=\"https://een.ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">Enterprise Europe Network</a> – contact your EEN national contact for advice to businesses with special focus on SMEs. The support includes guidance on the EU research funding.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – contact the Funding &amp; Tenders Portal IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://intellectual-property-helpdesk.ec.europa.eu/index_en\" rel=\"noopener noreferrer\" target=\"_blank\">European IPR Helpdesk</a> assists you on intellectual property issues.</p><p><a href=\"mailto:research@cencenelec.eu\" rel=\"noopener noreferrer\" target=\"_blank\">CEN-CENELEC Research Helpdesk</a> and <a href=\"https://www.etsi.org/research/helpdesk\" rel=\"noopener noreferrer\" target=\"_blank\">ETSI Research Helpdesk</a> – the European Standards Organisations advise you how to tackle standardisation in your project proposal.</p><p><a href=\"https://euraxess.ec.europa.eu/sites/default/files/am509774cee_en_e4.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">The European Charter for Researchers and the Code of Conduct for their recruitment</a> – consult the general principles and requirements specifying the roles, responsibilities and entitlements of researchers, employers and funders of researchers.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?order=DESC&amp;pageNumber=1&amp;pageSize=50&amp;sortBy=lastModified&amp;isExactMatch=true&amp;type=ORGANISATION,PERSON&amp;frameworkProgramme=43108390\" rel=\"noopener noreferrer\" target=\"_blank\">Partner Search</a> help you find a partner organisation for your proposal.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "EIC STEP Scale Up. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2026-STEP",
+    "score": 3.0
+  }
+}

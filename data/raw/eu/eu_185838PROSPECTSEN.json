@@ -1,0 +1,136 @@
+{
+  "id": "EU-185838PROSPECTSEN",
+  "topic_id": "185838PROSPECTSEN",
+  "titulo": "Promotion des droits de l'Homme et Renforcement des Organisations de la société civile au Maroc",
+  "descripcion": "Promotion des droits de l'Homme et Renforcement des Organisations de la société civile au Maroc",
+  "organismo": "111111",
+  "fecha_publicacion": "2026-04-17",
+  "fecha_limite": "2026-06-02",
+  "deadlines_todas": "2026-06-02",
+  "presupuesto": "5800000",
+  "duracion": "",
+  "tipo_accion": "",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185838",
+  "text": "EU FUNDING & TENDERS – Topic: 185838PROSPECTSEN\nProgramme/Organism: 111111\nTitle: Promotion des droits de l'Homme et Renforcement des Organisations de la société civile au Maroc\nStatus: Open (31094502)\nType of action: \nOpening date: 2026-04-17\nDeadline: 2026-06-02\nAll deadlines: 2026-06-02\nDuration: \nBudget overview: 5800000\n\nDescription / Scope:\nPromotion des droits de l'Homme et Renforcement des Organisations de la société civile au Maroc\n\nMore info: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185838",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "185838PROSPECTSEN",
+    "url": "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185838",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Promotion des droits de l'Homme et Renforcement des Organisations de la société civile au Maroc",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Promotion des droits de l'Homme et Renforcement des Organisations de la société civile au Maroc",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "2FA2299063A255A93D2C8775712738F4AE9EA279C06AEE9DFBD100E72D26A444",
+    "metadata": {
+      "updateDate": [
+        "2026-04-17T13:09:48.000+0000"
+      ],
+      "es_SortDate": [
+        "2026-04-17T14:00:53.000+0000"
+      ],
+      "beneficiaryAdministration": [],
+      "sortStatus": [
+        "1"
+      ],
+      "contractType": [
+        "42893160"
+      ],
+      "language": [
+        "en"
+      ],
+      "title": [
+        "Promotion des droits de l'Homme et Renforcement des Organisations de la société civile au Maroc"
+      ],
+      "type": [
+        "2"
+      ],
+      "esST_checksum": [
+        "2FA2299063A255A93D2C8775712738F4AE9EA279C06AEE9DFBD100E72D26A444"
+      ],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "callIdentifier": [
+        "185838"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "185838PROSPECTSEN"
+      ],
+      "currency": [
+        "EUR"
+      ],
+      "frameworkProgramme": [
+        "111111"
+      ],
+      "budget": [
+        "5800000"
+      ],
+      "identifier": [
+        "EuropeAid/185838/DD/ACT/MA"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "geographicalZones": [
+        "20000948"
+      ],
+      "publicationDocuments": [
+        "[{\"nameDoc\":\"Lignes directrices 185838\",\"typeDoc\":\"doc\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-17 16:00:20.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156790&lang=FR\"},{\"nameDoc\":\"Annexe A1- Formlaire NS\",\"typeDoc\":\"doc\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-17 16:00:07.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156773&lang=FR\"},{\"nameDoc\":\"Annexe A2 - Formulaire DC\",\"typeDoc\":\"doc\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-17 16:00:32.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156772&lang=FR\"},{\"nameDoc\":\"Annexe B - Budget\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-17 16:00:52.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156751&lang=FR\"},{\"nameDoc\":\"Annexe C- Cadre logique\",\"typeDoc\":\"docx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-17 16:00:17.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156752&lang=FR\"},{\"nameDoc\":\"Annexe D- FEL\",\"typeDoc\":\"pdf\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-17 16:00:38.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156753&lang=FR\"},{\"nameDoc\":\"Annexe G- Contrat conditions spéciales\",\"typeDoc\":\"docx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-17 16:00:20.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156934&lang=FR\"},{\"nameDoc\":\"Annexe G- Conditions générales\",\"typeDoc\":\"pdf\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-17 16:00:45.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156759&lang=FR\"},{\"nameDoc\":\"Annexe G- Contrat annexe IV\",\"typeDoc\":\"docx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-17 16:00:36.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156760&lang=FR\"},{\"nameDoc\":\"Annexe G-Contrat annexe V\",\"typeDoc\":\"docx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-17 16:00:20.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156761&lang=FR\"},{\"nameDoc\":\"Annexe G - Contrat annexe VI (3)\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-17 16:00:35.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156764&lang=FR\"},{\"nameDoc\":\"Annexe G - Contrat annexe VI\",\"typeDoc\":\"docx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-17 16:00:40.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156762&lang=FR\"},{\"nameDoc\":\"Annexe G- Contrat annexe VI (2)\",\"typeDoc\":\"docx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-17 16:00:52.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156763&lang=FR\"},{\"nameDoc\":\"Annexe G- Contrat annexe VI(4)\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-17 16:00:33.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156766&lang=FR\"},{\"nameDoc\":\"Annexe G - Contrat annexe VI(5)\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-17 16:00:40.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156767&lang=FR\"},{\"nameDoc\":\"Annexe G- Annexe VII (A)\",\"typeDoc\":\"docx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-17 16:00:54.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156769&lang=FR\"},{\"nameDoc\":\"Annexe G- Contrat VII (A)\",\"typeDoc\":\"xlsx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-17 16:00:35.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156768&lang=FR\"},{\"nameDoc\":\"Annexe G- Annexe VII (B)\",\"typeDoc\":\"docx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-17 16:00:19.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156770&lang=FR\"},{\"nameDoc\":\"Annexe G- Annexe VIII\",\"typeDoc\":\"docx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-17 16:00:52.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156771&lang=FR\"},{\"nameDoc\":\"Annexe H- Déclaration sur l'honneur\",\"typeDoc\":\"docx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-17 16:00:28.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156754&lang=FR\"},{\"nameDoc\":\"Annexe J - Informations sur le régime des taxes\",\"typeDoc\":\"docx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-17 16:00:56.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156755&lang=FR\"},{\"nameDoc\":\"Annexe K- Lignes directrices couts simplifiés\",\"typeDoc\":\"docx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-17 16:00:52.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156756&lang=FR\"},{\"nameDoc\":\"Annexe L- Sexual harrasment\",\"typeDoc\":\"docx\",\"languageDoc\":\"FR\",\"finalPublicDocDate\":\"2026-04-17 16:00:19.0\",\"docUrl\":\"https://webgate.ec.europa.eu/prospect/internal/noauth/externalDocumentDownload.htm?id=2156757&lang=FR\"}]"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-04-17T16:01:00.393+0200"
+      ],
+      "programmePeriod": [
+        "2014 - 2020",
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-06-02T08:00:55.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-04-17T16:01:00.393+0200"
+      ],
+      "url": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185838"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185838"
+      ],
+      "esDA_QueueDate": [
+        "2026-04-17T16:01:00.377+0200"
+      ],
+      "programmeDivisionProspect": [
+        "43072409"
+      ],
+      "geographicalZone": [
+        "20000948"
+      ],
+      "startDate": [
+        "2026-04-17T14:00:53.000+0000"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Promotion des droits de l'Homme et Renforcement des Organisations de la société civile au Maroc. Available at: https://webgate.ec.europa.eu/prospect/external/publishedcalls.htm?callId=185838",
+    "score": 3.0
+  }
+}

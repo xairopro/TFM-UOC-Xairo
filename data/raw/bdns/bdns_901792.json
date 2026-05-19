@@ -1,0 +1,102 @@
+{
+  "id": "BDNS-901792",
+  "id_interno": 1103353,
+  "numero_convocatoria": "901792",
+  "organismo": "LOCAL — ONDARA — AYUNTAMIENTO DE ONDARA",
+  "sede_electronica": "",
+  "fecha_publicacion": "2026-04-27",
+  "fecha_inicio_solicitud": "2026-04-15",
+  "fecha_fin_solicitud": "2026-04-20",
+  "abierto": false,
+  "mrr": false,
+  "tipo_convocatoria": "Concesión directa - instrumental",
+  "descripcion": "SUBVENCIÓ NOMINATIVA. ASSOCIACIÓ DE MARES I PARES D'ALUMNES DE L'INSTITUT D'ENSENYAMENT SECUNDARI D'ONDARA",
+  "instrumentos": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN",
+  "tipos_beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+  "sectores": "Educación secundaria y educación postsecundaria no terciaria",
+  "regiones": "ES521 - Alicante / Alacant",
+  "finalidad": "Educación",
+  "bases_reguladoras": "Bases ejecución Presupuestos Generales 2026 del Ayuntamiento de Ondara",
+  "url_bases_reguladoras": "https://ondara.sedelectronica.es",
+  "presupuesto": "500,00 €",
+  "presupuesto_total_num": 500,
+  "ayuda_estado": "",
+  "url_ayuda_estado": "",
+  "fondos": "",
+  "reglamento": "",
+  "objetivos": "",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901792",
+  "text": "CONVOCATORIA BDNS Nº 901792\nOrganismo: LOCAL — ONDARA — AYUNTAMIENTO DE ONDARA\nFecha de publicación (recepción): 2026-04-27\nPlazo de solicitud: 2026-04-15 → 2026-04-20 (abierto: no)\nTipo de convocatoria: Concesión directa - instrumental\nPresupuesto total: 500,00 €\nInstrumentos: SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN\nTipos de beneficiarios: PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA\nSectores: Educación secundaria y educación postsecundaria no terciaria\nRegiones: ES521 - Alicante / Alacant\nFinalidad: Educación\nFondos: \nReglamento: \nAyuda de Estado: \nMRR (Mecanismo de Recuperación y Resiliencia): no\n\nObjeto / Descripción:\nSUBVENCIÓ NOMINATIVA. ASSOCIACIÓ DE MARES I PARES D'ALUMNES DE L'INSTITUT D'ENSENYAMENT SECUNDARI D'ONDARA\n\nBases reguladoras:\nBases ejecución Presupuestos Generales 2026 del Ayuntamiento de Ondara\nURL bases reguladoras: https://ondara.sedelectronica.es\n\nFicha pública: https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/901792",
+  "_raw": {
+    "id": 1103353,
+    "organo": {
+      "nivel1": "LOCAL",
+      "nivel2": "ONDARA",
+      "nivel3": "AYUNTAMIENTO DE ONDARA"
+    },
+    "sedeElectronica": null,
+    "codigoBDNS": "901792",
+    "fechaRecepcion": "2026-04-27",
+    "instrumentos": [
+      {
+        "descripcion": "SUBVENCIÓN Y ENTREGA DINERARIA SIN CONTRAPRESTACIÓN "
+      }
+    ],
+    "tipoConvocatoria": "Concesión directa - instrumental",
+    "presupuestoTotal": 500,
+    "mrr": false,
+    "descripcion": "SUBVENCIÓ NOMINATIVA. ASSOCIACIÓ DE MARES I PARES D'ALUMNES DE L'INSTITUT D'ENSENYAMENT SECUNDARI D'ONDARA",
+    "descripcionLeng": null,
+    "tiposBeneficiarios": [
+      {
+        "descripcion": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+      }
+    ],
+    "sectores": [
+      {
+        "descripcion": "Educación secundaria y educación postsecundaria no terciaria",
+        "codigo": "85.3"
+      }
+    ],
+    "regiones": [
+      {
+        "descripcion": "ES521 - Alicante / Alacant"
+      }
+    ],
+    "descripcionFinalidad": "Educación",
+    "descripcionBasesReguladoras": "Bases ejecución Presupuestos Generales 2026 del Ayuntamiento de Ondara",
+    "urlBasesReguladoras": "https://ondara.sedelectronica.es",
+    "sePublicaDiarioOficial": false,
+    "abierto": false,
+    "fechaInicioSolicitud": "2026-04-15",
+    "fechaFinSolicitud": "2026-04-20",
+    "textInicio": null,
+    "textFin": null,
+    "ayudaEstado": null,
+    "urlAyudaEstado": null,
+    "fondos": [],
+    "reglamento": null,
+    "objetivos": [],
+    "sectoresProductos": [],
+    "documentos": [
+      {
+        "id": 1443384,
+        "descripcion": "Documento de la convocatoria en lengua cooficial",
+        "nombreFic": "1249.26 Certificat d'acord JGL 20.04.26 SUB. ASSOCIACIÓ DE MARES I PARES D'ALUMNES DE L'INSTITUT D'ENSENYAMENT SECUNDARI D'ONDARA.pdf",
+        "long": 654495,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      },
+      {
+        "id": 1443381,
+        "descripcion": "Documento de la convocatoria en español",
+        "nombreFic": "1249.26 Certificat d'acord JGL 20.04.26 SUB. ASSOCIACIÓ DE MARES I PARES D'ALUMNES DE L'INSTITUT D'ENSENYAMENT SECUNDARI D'ONDARA.pdf",
+        "long": 654495,
+        "datMod": "2026-04-27",
+        "datPublicacion": "2026-04-27"
+      }
+    ],
+    "anuncios": [],
+    "advertencia": "La reutilización de los datos del Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas está sujeta a una serie de restricciones y consideraciones legales. Consulte el aviso legal en https://www.infosubvenciones.es/bdnstrans/GE/es/avisolegal.Además, el usuario debe ser consciente que la información presentada es de naturaleza dinámica, y que los datos pueden ser sometidos a correcciones, inserciones, modificaciones y eliminaciones en momentos posteriores a su extracción. Accesos al API del sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas. La Administración Presupuestaria, para salvaguardar la protección del acceso libre e irrestricto de los ciudadanos a este Portal y a su información podrá adoptar medidas restrictivas de acceso al API ante situaciones de manifiesto abuso del servicio, riesgos de seguridad, o uso fraudulento de la información descargada, de acuerdo con las buenas prácticas de gestión de datos abiertos (https://datos.gob.es/es/blog/limitaciones-la-consulta-de-una-api) establecidas por el Ministerio para la Transformación Digital y de la Función Pública."
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "id": "EU-50645391TOPICSen",
+  "topic_id": "50645391TOPICSen",
+  "titulo": "Renewable energy financing mechanism technology specific",
+  "descripcion": "Renewable energy financing mechanism technology specific",
+  "organismo": "43253967",
+  "fecha_publicacion": "2026-03-03",
+  "fecha_limite": "2026-09-01",
+  "deadlines_todas": "2026-09-01",
+  "presupuesto": "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"114122\":[{\"action\":\"RENEWFM-2026-INVEST-TECH-SPEC - RENEWFM-LS RENEWFM Lump Sum Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"54900000\"},\"plannedOpeningDate\":\"2026-03-03\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-01\"]}]}}",
+  "duracion": "",
+  "tipo_accion": "RENEWFM Lump Sum Grants",
+  "estado": "Open",
+  "estado_codigo": "31094502",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/RENEWFM-2026-INVEST-TECH-SPEC",
+  "text": "EU FUNDING & TENDERS – Topic: 50645391TOPICSen\nProgramme/Organism: 43253967\nTitle: Renewable energy financing mechanism technology specific\nStatus: Open (31094502)\nType of action: RENEWFM Lump Sum Grants\nOpening date: 2026-03-03\nDeadline: 2026-09-01\nAll deadlines: 2026-09-01\nDuration: \nBudget overview: {\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"114122\":[{\"action\":\"RENEWFM-2026-INVEST-TECH-SPEC - RENEWFM-LS RENEWFM Lump Sum Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"54900000\"},\"plannedOpeningDate\":\"2026-03-03\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-01\"]}]}}\n\nDescription / Scope:\nRenewable energy financing mechanism technology specific\n\nMore info: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/RENEWFM-2026-INVEST-TECH-SPEC",
+  "_raw": {
+    "apiVersion": "2.146",
+    "reference": "50645391TOPICSen",
+    "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/RENEWFM-2026-INVEST-TECH-SPEC",
+    "title": null,
+    "contentType": "text/plain",
+    "language": "en",
+    "databaseLabel": "SEDIA",
+    "database": "SEDIA",
+    "summary": "Renewable energy financing mechanism technology specific",
+    "weight": 3.0,
+    "groupById": "1",
+    "content": "Renewable energy financing mechanism technology specific",
+    "accessRestriction": false,
+    "pages": null,
+    "checksum": "EE1C7F3E29078D6EC6EC95A864FBB420DF833F8F20AE244859DEB2D8360214CD",
+    "metadata": {
+      "latestInfos": [
+        "[{\"approvalDate\":\"\",\"lastChangeDate\":\"2026-03-03T08:25:24.881\",\"content\":\"The submission session is now available for: RENEWFM-2026-INVEST-TECH-SPEC\"}]"
+      ],
+      "es_SortDate": [
+        "2026-03-03T00:00:00.000+0000"
+      ],
+      "sepTemplate": [
+        "<p>To access the Electronic Submission Service, please click on the submission-button next to the <strong>type of action</strong> and the <strong>type of model grant agreement</strong> that corresponds to your proposal. You will then be asked to confirm your choice, as it cannot be changed in the submission system. Upon confirmation, you will be linked to the correct entry point.</p><p>To access existing draft proposals for this topic, please login to the Funding &amp; Tenders Portal and select the My Proposals page of the My Area section.</p>"
+      ],
+      "keywords": [
+        "RENEWFM-2026-INVEST-TECH-SPEC",
+        "RENEWFM-2026-INVEST"
+      ],
+      "sortStatus": [
+        "1"
+      ],
+      "language": [
+        "en"
+      ],
+      "topicConditions": [
+        "<div class=\"eui-u-mt-l>\"><h4>Conditions</h4><div><h4>1. Admissibility conditions: Proposal page limit and layout</h4><div class=\"eui-u-mt-s\"><p>described in section 5 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/renewfm/wp-call/2026/call-fiche_renewfm-2026-invest_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p><p><strong>Proposal page limits and layout:</strong> described in Part B of the Application Form available in the Submission System.</p></div></div><div><h4>2. Eligible countries</h4><div class=\"eui-u-mt-s\"><p>described in section 6 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/renewfm/wp-call/2026/call-fiche_renewfm-2026-invest_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>3. Other eligibility conditions</h4><div class=\"eui-u-mt-s\"><p>described in section 6 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/renewfm/wp-call/2026/call-fiche_renewfm-2026-invest_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>4. Financial and operational capacity and exclusion</h4><div class=\"eui-u-mt-s\"><p>described in section 7 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/renewfm/wp-call/2026/call-fiche_renewfm-2026-invest_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>5a. Evaluation and award: Submission and evaluation processes</h4><div class=\"eui-u-mt-s\"><p>described section 8 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/renewfm/wp-call/2026/call-fiche_renewfm-2026-invest_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u> and the <a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/om_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a>.</p></div></div><div><h4>5b. Evaluation and award: Award criteria, scoring and thresholds</h4><div class=\"eui-u-mt-s\"><p>described in section 9 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/renewfm/wp-call/2026/call-fiche_renewfm-2026-invest_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>5c. Evaluation and award: Indicative timeline for evaluation and grant agreement</h4><div class=\"eui-u-mt-s\"><p>described in section 4 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/renewfm/wp-call/2026/call-fiche_renewfm-2026-invest_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div><div><h4>6. Legal and financial set-up of the grants</h4><div class=\"eui-u-mt-s\"><p>described in section 10 of the <u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/renewfm/wp-call/2026/call-fiche_renewfm-2026-invest_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">call document</a></u>.</p></div></div></div><div class=\"eui-u-mt-l\"><div class=\"eui-u-mt-s\">\n</div><h4>Call document and annexes:</h4> <div class=\"eui-u-mt-s\"><p><u><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/renewfm/wp-call/2026/call-fiche_renewfm-2026-invest_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Call document</a></u></p><p><br></br></p><p><strong>Application form templates</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/renewfm/temp-form/af/af_renewfm_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Standard application form (RENEWFM)</a> — the application form specific to this call is available in the Submission System </p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/renewfm/temp-form/af/calculator_renewfm-ls-invest_en.xlsx\" rel=\"noopener noreferrer\" target=\"_blank\">Calculator (RENEWFM LS INVEST)</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/renewfm/temp-form/af/timetable-gantt-chart_renewfm_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Timetable/Gantt chart (RENEWFM)</a>&#xa0;</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/renewfm/temp-form/af/cofinancing-declaration_renewfm_en.docx\" rel=\"noopener noreferrer\" target=\"_blank\">Cofinancing declaration (RENEWFM)</a>&#xa0;</p><p><br></br></p><p><strong>Model Grant Agreements (MGA)</strong></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/renewfm/agr-contr/ls-mga_renewfm_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">RENEWFM Lump Sum MGA</a></p></div><h4>Additional documents:</h4> <div class=\"eui-u-mt-s\"><p><a href=\"https://cinea.ec.europa.eu/eu-renewable-energy-financing-mechanism-legal-framework_en\" rel=\"noopener noreferrer\" target=\"_blank\">RENEWFM Legal Framework</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32020R1294\" rel=\"noopener noreferrer\" target=\"_blank\">RENEWFM Regulation 2020/1294</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202402509\" rel=\"noopener noreferrer\" target=\"_blank\">EU Financial Regulation 2024/2509</a></p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1999\" rel=\"noopener noreferrer\" target=\"_blank\">Governance Regulation 2018/1999</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/renewfm/guidance/ls-decision_renewfm_en.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Decision on lump sums for RENEWFM actions</a></p></div></div>"
+      ],
+      "title": [
+        "Renewable energy financing mechanism technology specific"
+      ],
+      "type": [
+        "1"
+      ],
+      "esST_checksum": [
+        "EE1C7F3E29078D6EC6EC95A864FBB420DF833F8F20AE244859DEB2D8360214CD"
+      ],
+      "focusArea": [],
+      "esST_FileName": [
+        "file.txt"
+      ],
+      "typeOfMGAs": [
+        "43252078"
+      ],
+      "callIdentifier": [
+        "RENEWFM-2026-INVEST"
+      ],
+      "ccm2Id": [
+        "50645391"
+      ],
+      "callccm2Id": [
+        "50645404"
+      ],
+      "DATASOURCE": [
+        "SEDIA"
+      ],
+      "REFERENCE": [
+        "50645391TOPICSen"
+      ],
+      "links": [
+        "[{\"callIdentifier\":\"RENEWFM-2026-INVEST\",\"criterionCode\":\"RENEWFM-LS\",\"criterionDescription\":\"RENEWFM Lump Sum Grants\",\"url\":\"https://ec.europa.eu/research/participants/submission/manage/screen/submission/create-draft/43579?topic\\u003dRENEWFM-2026-INVEST-TECH-SPEC\",\"startDate\":\"1772496000000\",\"endDate\":\"1788220800000\",\"mgaDescription\":\"RENEWFM Lump Sum Grant\",\"mgaCode\":\"RENEWFM-AG-LS\"}]"
+      ],
+      "callTitle": [
+        "Renewable energy financing mechanism technology specific"
+      ],
+      "frameworkProgramme": [
+        "43253967"
+      ],
+      "descriptionByte": [
+        "<p class=\"topicdescriptionkind\">Expected Impact:</p><p>The projects must contribute to the realisation of additional renewable energy capacity across the EU in a cost-effective way and the timely delivery of renewable energy statistics to the participating Member States. The beneficiaries will be expected to report renewable energy production on an annual basis.</p><p class=\"topicdescriptionkind\">Objective:</p><p>The objective is to contribute to the clean energy transition and the Clean Industrial Deal objectives including the goals and objectives of the Paris Agreement, the 2030 climate and energy targets and 2050 carbon neutrality objective. The call shall also contribute to the implementation of Directive 2018/2001 as amended by Directive (EU) 2023/2413 and of the Governance Regulation which sets out an indicative trajectory from 2021 to 2030 for each Member State’s contribution to the Union’s renewables target, with three reference points to be reached in 2022, 2025 and 2027. In this sense, Member States can use the RENEWFM to fill a gap towards the indicative Union trajectory which is the key objective of this call.</p><p>More specifically, this topic targets ground mounted solar PV with co-located BESS and ground mounted solar PV projects. Solar PV is a well-established and low-cost renewable energy technology aimed at high reliability in terms of deploying fully operational renewable electricity (RES-E) capacities and generation volumes and thus assumes effective and quick project realization from awarded project applicants. Likewise, the costs of battery energy storage systems are rapidly falling, and the co-location of such equipment with a renewable energy production facility entails significant benefits for both the generation installation and the electrical system. By sharing the same grid access point, synergies between the generation and storage systems can be maximised to improve generation profile, optimise grid capacity utilisation, save infrastructure costs, and ultimately enable the integration of higher shares of renewable energy.</p><p class=\"topicdescriptionkind\">Scope:</p><p>The following activities aiming at the deployment of new renewable energy capacities can be funded:</p><p><u>RES technology and location:</u></p><ul level=\"0\"><li>ground mounted <strong>solar PV</strong> projects with co-located BESS located in <strong>Bulgaria, </strong>in the districts of Pernik, Kyustendik or Stara Zagora.</li><li>ground mounted <strong>solar PV</strong> projects located in <strong>Finland </strong>(except the region of Åland).</li> </ul><p>A project is considered as a standalone renewable energy project if it is connected to the electricity grid (or to the off-taker, in case of off-grid projects) <u>via a single connection point</u>.</p><p><strong>Specific conditions per RES technology and per hosting MS apply </strong>and are detailed in <u>Section 2 of the Call document</u>.</p>"
+      ],
+      "identifier": [
+        "RENEWFM-2026-INVEST-TECH-SPEC"
+      ],
+      "es_ContentType": [
+        "text/plain"
+      ],
+      "programmeDivision": [
+        "43253975"
+      ],
+      "crossCuttingPriorities": [
+        "DigitalAgenda",
+        "AI"
+      ],
+      "esDA_FirstIngestDate": [
+        "2026-03-03T00:01:31.971+0100"
+      ],
+      "programmePeriod": [
+        "2021 - 2027"
+      ],
+      "deadlineDate": [
+        "2026-09-01T00:00:00.000+0000"
+      ],
+      "esDA_IngestDate": [
+        "2026-03-03T08:26:18.412+0100"
+      ],
+      "typesOfAction": [
+        "RENEWFM Lump Sum Grants"
+      ],
+      "url": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/RENEWFM-2026-INVEST-TECH-SPEC"
+      ],
+      "es_Combine": [
+        "1"
+      ],
+      "esST_URL": [
+        "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/RENEWFM-2026-INVEST-TECH-SPEC"
+      ],
+      "tags": [],
+      "cenTagsA": [
+        "TOPICS-037185",
+        "TOPICS-031694",
+        "TOPICS-031696",
+        "TOPICS-037186",
+        "TOPICS-031698",
+        "TOPICS-037187",
+        "TOPICS-031699",
+        "TOPICS-031700"
+      ],
+      "esDA_QueueDate": [
+        "2026-03-03T08:26:18.315+0100"
+      ],
+      "actions": [
+        "[{\"types\":[{\"typeOfAction\":\"RENEWFM-LS RENEWFM Lump Sum Grants\",\"typeOfMGA\":[{\"id\":43252078,\"abbreviation\":\"RENEWFM-AG-LS\",\"description\":\"RENEWFM Lump Sum Grant\"}]}],\"status\":{\"id\":31094502,\"abbreviation\":\"Open\",\"description\":\"Open\"},\"plannedOpeningDate\":\"2026-03-03\",\"submissionProcedure\":{\"id\":31094504,\"abbreviation\":\"single-stage\",\"description\":\"single-stage\"},\"deadlineDates\":[\"2026-09-01\"]}]"
+      ],
+      "allowPartnerSearch": [
+        "true"
+      ],
+      "budgetOverview": [
+        "{\"budgetYearsColumns\":[\"2026\"],\"budgetTopicActionMap\":{\"114122\":[{\"action\":\"RENEWFM-2026-INVEST-TECH-SPEC - RENEWFM-LS RENEWFM Lump Sum Grants\",\"expectedGrants\":0,\"minContribution\":0,\"maxContribution\":0,\"budgetYearMap\":{\"2026\":\"54900000\"},\"plannedOpeningDate\":\"2026-03-03\",\"deadlineModel\":\"single-stage\",\"deadlineDates\":[\"2026-09-01\"]}]}}"
+      ],
+      "startDate": [
+        "2026-03-03T00:00:00.000+0000"
+      ],
+      "deadlineModel": [
+        "single-stage"
+      ],
+      "specificObjective": [],
+      "supportInfo": [
+        "<p>For help related to this call, please contact: <a href=\"http://CINEA-RENEWFM@ec.europa.eu/\" rel=\"noopener noreferrer\" target=\"_blank\">CINEA-RENEWFM@ec.europa.eu</a></p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq?order=DESC&amp;pageNumber=1&amp;pageSize=10&amp;sortBy=publicationDate&amp;isExactMatch=true&amp;type=1&amp;grantCategories=p_submission_eval\" rel=\"noopener noreferrer\" target=\"_blank\">Funding &amp; Tenders Portal FAQ – Submission of proposals</a>.</p><p><a href=\"https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/helpdesks/contact-form\" rel=\"noopener noreferrer\" target=\"_blank\">IT Helpdesk</a> – Contact the IT helpdesk for questions such as forgotten passwords, access rights and roles, technical aspects of submission of proposals, etc.</p><p><a href=\"https://webgate.ec.europa.eu/funding-tenders-opportunities/display/OM/Online+Manual\" rel=\"noopener noreferrer\" target=\"_blank\">Online Manual</a> – Step-by-step online guide through the Portal processes from proposal preparation and evaluation to reporting on your ongoing project. Valid for all 2021-2027 programmes.</p>"
+      ],
+      "status": [
+        "31094502"
+      ]
+    },
+    "enrichedMetadata": {},
+    "children": [],
+    "highlightedFragments": [],
+    "citation": "Renewable energy financing mechanism technology specific. Available at: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/RENEWFM-2026-INVEST-TECH-SPEC",
+    "score": 3.0
+  }
+}
